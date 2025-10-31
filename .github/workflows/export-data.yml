@@ -1,0 +1,71 @@
+name: Export African Markets Data
+
+on:
+  schedule:
+    # Run at 6:00 AM GMT Monday to Friday
+    - cron: '0 6 * * 1-5'
+    # Run at 2:00 PM GMT Monday to Friday
+    - cron: '0 14 * * 1-5'
+  workflow_dispatch:  # Allow manual triggering from GitHub Actions tab
+
+jobs:
+  export-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run data export
+      run: |
+        python comprehensive_market_exporter.py
+      continue-on-error: false
+    
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [[ -n $(git status -s market_data/) ]]; then
+          echo "files_changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "files_changed=false" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push data
+      if: steps.verify-changed-files.outputs.files_changed == 'true'
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add market_data/
+        git commit -m "📊 Auto-update market data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+        git push
+    
+    - name: No changes detected
+      if: steps.verify-changed-files.outputs.files_changed == 'false'
+      run: |
+        echo "No changes in market data. Skipping commit."
+    
+    - name: Create summary
+      if: always()
+      run: |
+        echo "## 📊 Market Data Export Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "**Export Time:** $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+        echo "**Status:** ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        if [ -f market_data/export_summary.json ]; then
+          echo "### Export Details" >> $GITHUB_STEP_SUMMARY
+          cat market_data/export_summary.json >> $GITHUB_STEP_SUMMARY
+        fi
