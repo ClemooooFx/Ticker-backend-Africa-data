@@ -8,6 +8,9 @@ on:
     - cron: '0 14 * * 1-5'
   workflow_dispatch:  # Allow manual triggering from GitHub Actions tab
 
+permissions:
+  contents: write
+
 jobs:
   export-data:
     runs-on: ubuntu-latest
