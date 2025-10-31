@@ -34,7 +34,7 @@ jobs:
     
     - name: Run data export
       run: |
-        python comprehensive_market_exporter.py
+        python Updater_market_exporter.py
       continue-on-error: false
     
     - name: Check for changes
