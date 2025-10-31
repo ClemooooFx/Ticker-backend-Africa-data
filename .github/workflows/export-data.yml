@@ -2,14 +2,26 @@ name: Export African Markets Data
 
 on:
   schedule:
-    # Run at 6:00 AM GMT Monday to Friday
+    # Run updater at 6:00 AM GMT Monday to Friday
     - cron: '0 6 * * 1-5'
-    # Run at 2:00 PM GMT Monday to Friday
+    # Run updater at 2:00 PM GMT Monday to Friday
     - cron: '0 14 * * 1-5'
-  workflow_dispatch:  # Allow manual triggering from GitHub Actions tab
+    # Run full export once per week (Sunday at 3:00 AM GMT)
+    - cron: '0 3 * * 0'
+  workflow_dispatch:  # Allow manual triggering
+    inputs:
+      export_type:
+        description: 'Export type'
+        required: true
+        default: 'update'
+        type: choice
+        options:
+          - update
+          - full
 
 permissions:
   contents: write
+
 
 jobs:
   export-data:
@@ -32,9 +44,32 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     
-    - name: Run data export
+    - name: Determine export type
+      id: export-type
       run: |
-        python Updater_market_exporter.py
+        # Manual trigger with choice
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          echo "type=${{ inputs.export_type }}" >> $GITHUB_OUTPUT
+        # Sunday (day 0) = full export
+        elif [ "$(date +%u)" = "7" ]; then
+          echo "type=full" >> $GITHUB_OUTPUT
+        # Weekdays = incremental update
+        else
+          echo "type=update" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Run incremental update
+      if: steps.export-type.outputs.type == 'update'
+      run: |
+        echo "Running incremental update..."
+        python updater_market_exporter.py
+      continue-on-error: false
+    
+    - name: Run full export
+      if: steps.export-type.outputs.type == 'full'
+      run: |
+        echo "Running full data export..."
+        python comprehensive_market_exporter.py
       continue-on-error: false
     
     - name: Check for changes
@@ -52,7 +87,13 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add market_data/
-        git commit -m "📊 Auto-update market data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+        
+        if [ "${{ steps.export-type.outputs.type }}" = "update" ]; then
+          git commit -m "📊 Incremental update - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+        else
+          git commit -m "📦 Full export - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+        fi
+        
         git push
     
     - name: No changes detected
@@ -66,9 +107,14 @@ jobs:
         echo "## 📊 Market Data Export Summary" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         echo "**Export Time:** $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+        echo "**Export Type:** ${{ steps.export-type.outputs.type }}" >> $GITHUB_STEP_SUMMARY
         echo "**Status:** ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
+        
         if [ -f market_data/export_summary.json ]; then
-          echo "### Export Details" >> $GITHUB_STEP_SUMMARY
-          cat market_data/export_summary.json >> $GITHUB_STEP_SUMMARY
+          echo "### Latest Export Log" >> $GITHUB_STEP_SUMMARY
+          echo '```json' >> $GITHUB_STEP_SUMMARY
+          # Get last entry if it's an array
+          python3 -c "import json; data = json.load(open('market_data/export_summary.json')); print(json.dumps(data[-1] if isinstance(data, list) else data, indent=2))" >> $GITHUB_STEP_SUMMARY || cat market_data/export_summary.json >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
         fi
