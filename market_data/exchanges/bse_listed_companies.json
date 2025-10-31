@@ -1,0 +1,261 @@
+[
+  {
+    "ticker": "ABSA",
+    "name": "Absa Bank Botswana",
+    "volume": null,
+    "price": 7.56,
+    "change": null
+  },
+  {
+    "ticker": "ACCESS",
+    "name": "Access Bank Botswana",
+    "volume": null,
+    "price": 2.04,
+    "change": null
+  },
+  {
+    "ticker": "ADBF",
+    "name": "African Domestic Bond Fund",
+    "volume": null,
+    "price": 104.4,
+    "change": null
+  },
+  {
+    "ticker": "ANGLO",
+    "name": "Anglo American Plc",
+    "volume": null,
+    "price": 446.87,
+    "change": null
+  },
+  {
+    "ticker": "BBS",
+    "name": "Botswana Building Society Limited",
+    "volume": null,
+    "price": 0.7,
+    "change": null
+  },
+  {
+    "ticker": "BIHL",
+    "name": "Botswana Insurance Holdings Ltd",
+    "volume": "1000.0",
+    "price": 23.02,
+    "change": 0.0
+  },
+  {
+    "ticker": "BOD",
+    "name": "Botswana Diamonds Plc",
+    "volume": null,
+    "price": 0.2,
+    "change": null
+  },
+  {
+    "ticker": "BOTALA",
+    "name": "Botala Energy",
+    "volume": "2225.0",
+    "price": 0.87,
+    "change": 0.0
+  },
+  {
+    "ticker": "BTCL",
+    "name": "Botswana Telecom Corporation",
+    "volume": "9000.0",
+    "price": 1.16,
+    "change": 0.0
+  },
+  {
+    "ticker": "CASALES",
+    "name": "CA Sales Holdings Limited",
+    "volume": null,
+    "price": 14.15,
+    "change": null
+  },
+  {
+    "ticker": "CHOBE",
+    "name": "Chobe Holdings Limited",
+    "volume": null,
+    "price": 17.75,
+    "change": null
+  },
+  {
+    "ticker": "CHOPPIES",
+    "name": "Choppies Enterprises Limited",
+    "volume": null,
+    "price": 0.71,
+    "change": null
+  },
+  {
+    "ticker": "CRESTA",
+    "name": "Cresta Marakanelo Limited",
+    "volume": null,
+    "price": 1.17,
+    "change": null
+  },
+  {
+    "ticker": "ENGEN",
+    "name": "Engen Botswana Limited",
+    "volume": null,
+    "price": 14.25,
+    "change": null
+  },
+  {
+    "ticker": "FNBB",
+    "name": "First National Bank of Botswana",
+    "volume": null,
+    "price": 5.45,
+    "change": null
+  },
+  {
+    "ticker": "FPC",
+    "name": "The Far Property Company",
+    "volume": null,
+    "price": 1.8,
+    "change": null
+  },
+  {
+    "ticker": "G4S",
+    "name": "G4S Botswana Limited",
+    "volume": null,
+    "price": 0.91,
+    "change": null
+  },
+  {
+    "ticker": "GR1B",
+    "name": "Gaia Renewables 1 Class B Pref Shares",
+    "volume": null,
+    "price": 136.0,
+    "change": null
+  },
+  {
+    "ticker": "INVESTEC",
+    "name": "Investec Group Limited",
+    "volume": null,
+    "price": 111.03,
+    "change": null
+  },
+  {
+    "ticker": "LETLOLE",
+    "name": "Letlole La Rona Limited",
+    "volume": null,
+    "price": 3.05,
+    "change": null
+  },
+  {
+    "ticker": "LETSHEGO",
+    "name": "Letshego Holdings Limited",
+    "volume": null,
+    "price": 1.05,
+    "change": null
+  },
+  {
+    "ticker": "LUCARA",
+    "name": "Lucara Diamonds Corporation",
+    "volume": null,
+    "price": 4.45,
+    "change": null
+  },
+  {
+    "ticker": "MINERGY",
+    "name": "Minergy Limited",
+    "volume": null,
+    "price": 0.4,
+    "change": null
+  },
+  {
+    "ticker": "NAP",
+    "name": "New African Properties Limited",
+    "volume": null,
+    "price": 4.05,
+    "change": null
+  },
+  {
+    "ticker": "NEWGOLD",
+    "name": "NewGold ETF",
+    "volume": null,
+    "price": 575.0,
+    "change": null
+  },
+  {
+    "ticker": "NEWPALL",
+    "name": "NewGold Palladium ETF",
+    "volume": null,
+    "price": 154.0,
+    "change": null
+  },
+  {
+    "ticker": "NEWPLAT",
+    "name": "NewGold Platinum ETF",
+    "volume": null,
+    "price": 224.5,
+    "change": null
+  },
+  {
+    "ticker": "OLYMPIA",
+    "name": "Olympia Capital Corporation Ltd",
+    "volume": null,
+    "price": 0.27,
+    "change": null
+  },
+  {
+    "ticker": "PRIMETIME",
+    "name": "PrimeTime Property Holdings",
+    "volume": null,
+    "price": 1.61,
+    "change": null
+  },
+  {
+    "ticker": "RDCP",
+    "name": "RDC Properties Limited",
+    "volume": null,
+    "price": 2.4,
+    "change": null
+  },
+  {
+    "ticker": "SECHABA",
+    "name": "Sechaba Brewery Holdings Limited",
+    "volume": null,
+    "price": 37.01,
+    "change": null
+  },
+  {
+    "ticker": "SEEDCO",
+    "name": "Seed Co International Limited",
+    "volume": null,
+    "price": 3.5,
+    "change": null
+  },
+  {
+    "ticker": "SEFALANA",
+    "name": "Sefalana Holding Company Ltd",
+    "volume": null,
+    "price": 15.0,
+    "change": null
+  },
+  {
+    "ticker": "SHUMBA",
+    "name": "Shumba Coal Limited",
+    "volume": null,
+    "price": 0.9,
+    "change": null
+  },
+  {
+    "ticker": "STANCHART",
+    "name": "Standard Chartered Bank Ltd",
+    "volume": null,
+    "price": 8.7,
+    "change": null
+  },
+  {
+    "ticker": "TLOU",
+    "name": "Tlou Energy Limited",
+    "volume": null,
+    "price": 0.5,
+    "change": null
+  },
+  {
+    "ticker": "TURNSTAR",
+    "name": "Turnstar Holdings Limited",
+    "volume": null,
+    "price": 2.26,
+    "change": null
+  }
+]

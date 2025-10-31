@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "RLO",
+    "Name": "Reunert Ltd",
+    "M. Cap.": "10.3B",
+    "Close": 56.27,
+    "YTD": "-25%"
+  },
+  {
+    "Code": "SOH",
+    "Name": "South Ocean Holdings Ltd",
+    "M. Cap.": "187M",
+    "Close": 0.92,
+    "YTD": "-53.3%"
+  },
+  {
+    "Code": "ADR",
+    "Name": "Adcorp Holdings Limited",
+    "M. Cap.": "792M",
+    "Close": 7.21,
+    "YTD": "+46%"
+  },
+  {
+    "Code": "GND",
+    "Name": "Grindrod Ltd",
+    "M. Cap.": "11.9B",
+    "Close": 17.06,
+    "YTD": "+42.6%"
+  },
+  {
+    "Code": "MFL",
+    "Name": "Metrofile Holdings Ltd",
+    "M. Cap.": "1.34B",
+    "Close": 3.08,
+    "YTD": "+35.7%"
+  },
+  {
+    "Code": "SSK",
+    "Name": "Stefanutti Stocks Holdings Ltd",
+    "M. Cap.": "940M",
+    "Close": 5.0,
+    "YTD": "+25%"
+  },
+  {
+    "Code": "PMV",
+    "Name": "Primeserv Group Ltd",
+    "M. Cap.": "340M",
+    "Close": 2.97,
+    "YTD": "+23.8%"
+  },
+  {
+    "Code": "IVT",
+    "Name": "Invicta Holdings Ltd",
+    "M. Cap.": "3.37B",
+    "Close": 37.99,
+    "YTD": "+15.1%"
+  },
+  {
+    "Code": "NPK",
+    "Name": "Nampak Ltd",
+    "M. Cap.": "4.06B",
+    "Close": 478.56,
+    "YTD": "+15%"
+  },
+  {
+    "Code": "BAW",
+    "Name": "Barloworld Ltd",
+    "M. Cap.": "22.6B",
+    "Close": 119.25,
+    "YTD": "+9.88%"
+  }
+]

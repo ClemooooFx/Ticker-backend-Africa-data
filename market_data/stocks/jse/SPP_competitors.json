@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "CHP",
+    "Name": "Choppies Enterprises Limited",
+    "M. Cap.": "4.74B",
+    "Close": 2.6,
+    "YTD": "+225%"
+  },
+  {
+    "Code": "BOX",
+    "Name": "Boxer Retail Ltd",
+    "M. Cap.": "35.2B",
+    "Close": 76.88,
+    "YTD": "+19.4%"
+  },
+  {
+    "Code": "BID",
+    "Name": "BID Corporation Ltd",
+    "M. Cap.": "145B",
+    "Close": 431.2,
+    "YTD": "+0.15%"
+  },
+  {
+    "Code": "SHP",
+    "Name": "Shoprite Holdings Ltd",
+    "M. Cap.": "171B",
+    "Close": 289.66,
+    "YTD": "-1.64%"
+  },
+  {
+    "Code": "CLS",
+    "Name": "Clicks Group Ltd",
+    "M. Cap.": "85.5B",
+    "Close": 364.05,
+    "YTD": "-2.43%"
+  },
+  {
+    "Code": "PIK",
+    "Name": "Pick n Pay Stores Ltd",
+    "M. Cap.": "21.8B",
+    "Close": 29.19,
+    "YTD": "-4.92%"
+  },
+  {
+    "Code": "DCP",
+    "Name": "Dis-Chem Pharmacies Limited",
+    "M. Cap.": "28.4B",
+    "Close": 33.0,
+    "YTD": "-8.59%"
+  },
+  {
+    "Code": "WVR",
+    "Name": "Weaver Fintech Ltd",
+    "M. Cap.": "5.34B",
+    "Close": 49.99,
+    "YTD": "+66.6%"
+  },
+  {
+    "Code": "SDO",
+    "Name": "Stadio Holdings Limited",
+    "M. Cap.": "9.46B",
+    "Close": 11.12,
+    "YTD": "+61.2%"
+  },
+  {
+    "Code": "NCS",
+    "Name": "Nictus Ltd",
+    "M. Cap.": "98.9M",
+    "Close": 1.85,
+    "YTD": "+27.6%"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "BETAGLAS",
+    "Name": "Beta Glass Company",
+    "M. Cap.": "262B",
+    "Close": 437.4,
+    "YTD": "+574%"
+  },
+  {
+    "Code": "CHELLARAM",
+    "Name": "Chellarams Plc",
+    "M. Cap.": "11.7B",
+    "Close": 16.25,
+    "YTD": "+339%"
+  },
+  {
+    "Code": "SCOA",
+    "Name": "SCOA Nigeria",
+    "M. Cap.": "4.61B",
+    "Close": 7.1,
+    "YTD": "+245%"
+  },
+  {
+    "Code": "BERGER",
+    "Name": "Berger Paints",
+    "M. Cap.": "12.3B",
+    "Close": 42.5,
+    "YTD": "+113%"
+  },
+  {
+    "Code": "UACN",
+    "Name": "UAC of Nigeria",
+    "M. Cap.": "195B",
+    "Close": 66.5,
+    "YTD": "+111%"
+  },
+  {
+    "Code": "WAPCO",
+    "Name": "Lafarge Wapco",
+    "M. Cap.": "2.26T",
+    "Close": 140.0,
+    "YTD": "+100%"
+  },
+  {
+    "Code": "CAP",
+    "Name": "CAP Plc",
+    "M. Cap.": "59.5B",
+    "Close": 73.0,
+    "YTD": "+92.1%"
+  },
+  {
+    "Code": "MEYER",
+    "Name": "Meyer Plc",
+    "M. Cap.": "8.58B",
+    "Close": 16.15,
+    "YTD": "+91.6%"
+  },
+  {
+    "Code": "BUACEMENT",
+    "Name": "BUA Cement Plc",
+    "M. Cap.": "5.93T",
+    "Close": 175.0,
+    "YTD": "+88.2%"
+  },
+  {
+    "Code": "AUSTINLAZ",
+    "Name": "Austin Laz & Company",
+    "M. Cap.": "3.13B",
+    "Close": 2.9,
+    "YTD": "+59.3%"
+  }
+]

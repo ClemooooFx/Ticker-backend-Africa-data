@@ -1,0 +1,30 @@
+[
+  {
+    "Date": "2023-08-21",
+    "Volume": 1,
+    "Close": 15000.0,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2022-02-28",
+    "Volume": 450,
+    "Close": 15000.0,
+    "Change": -15000.0,
+    "Change%": "-50.00%"
+  },
+  {
+    "Date": "2020-07-24",
+    "Volume": 1,
+    "Close": 30000.0,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2020-07-09",
+    "Volume": 4,
+    "Close": 30000.0,
+    "Change": NaN,
+    "Change%": NaN
+  }
+]

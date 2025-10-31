@@ -1,0 +1,72 @@
+[
+  {
+    "Date": "2024-02-29",
+    "Volume": 3500,
+    "Close": 1.8e-05,
+    "Change": 2e-06,
+    "Change%": "+13.00%"
+  },
+  {
+    "Date": "2023-11-09",
+    "Volume": 3200,
+    "Close": 1.6e-05,
+    "Change": 3e-06,
+    "Change%": "+20.84%"
+  },
+  {
+    "Date": "2022-09-22",
+    "Volume": 5900,
+    "Close": 1.3e-05,
+    "Change": 2e-06,
+    "Change%": "+14.93%"
+  },
+  {
+    "Date": "2022-04-25",
+    "Volume": 4900,
+    "Close": 1.2e-05,
+    "Change": 2e-06,
+    "Change%": "+20.00%"
+  },
+  {
+    "Date": "2022-04-21",
+    "Volume": 4200,
+    "Close": 1e-05,
+    "Change": 2e-06,
+    "Change%": "+20.00%"
+  },
+  {
+    "Date": "2022-01-18",
+    "Volume": 1,
+    "Close": 8e-06,
+    "Change": 4e-06,
+    "Change%": "+100.00%"
+  },
+  {
+    "Date": "2022-01-10",
+    "Volume": 1000,
+    "Close": 4e-06,
+    "Change": 0.0,
+    "Change%": "+4.16%"
+  },
+  {
+    "Date": "2022-01-07",
+    "Volume": 200,
+    "Close": 4e-06,
+    "Change": 2e-06,
+    "Change%": "+100.00%"
+  },
+  {
+    "Date": "2021-12-21",
+    "Volume": 4562,
+    "Close": 2e-06,
+    "Change": 1e-06,
+    "Change%": "+100.10%"
+  },
+  {
+    "Date": "2021-10-26",
+    "Volume": 1500,
+    "Close": 1e-06,
+    "Change": NaN,
+    "Change%": NaN
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "IMP",
+    "Name": "Impala Platinum Hlgs Ltd",
+    "M. Cap.": "177B",
+    "Close": 195.67,
+    "YTD": "+123%"
+  },
+  {
+    "Code": "SDL",
+    "Name": "Southern Palladium Ltd",
+    "M. Cap.": "1.21B",
+    "Close": 11.3,
+    "YTD": "+61.4%"
+  },
+  {
+    "Code": "ACL",
+    "Name": "ArcelorMittal SA Limited",
+    "M. Cap.": "1.75B",
+    "Close": 1.54,
+    "YTD": "+14.9%"
+  },
+  {
+    "Code": "KIO",
+    "Name": "Kumba Iron Ore Ltd",
+    "M. Cap.": "110B",
+    "Close": 341.45,
+    "YTD": "+4.66%"
+  },
+  {
+    "Code": "APH",
+    "Name": "Alphamin Resources Corp",
+    "M. Cap.": "17B",
+    "Close": 13.3,
+    "YTD": "-2.21%"
+  },
+  {
+    "Code": "HLM",
+    "Name": "Hulamin Ltd",
+    "M. Cap.": "817M",
+    "Close": 2.52,
+    "YTD": "-28%"
+  },
+  {
+    "Code": "EUZ",
+    "Name": "Europa Metals Limited",
+    "M. Cap.": "29.6M",
+    "Close": 0.29,
+    "YTD": "-43.1%"
+  },
+  {
+    "Code": "CPR",
+    "Name": "Copper 360 Ltd",
+    "M. Cap.": "680M",
+    "Close": 0.68,
+    "YTD": "-71.1%"
+  },
+  {
+    "Code": "SSW",
+    "Name": "Sibanye Stillwater Limited",
+    "M. Cap.": "133B",
+    "Close": 46.82,
+    "YTD": "+213%"
+  },
+  {
+    "Code": "NPH",
+    "Name": "Northam Platinum Holdings",
+    "M. Cap.": "115B",
+    "Close": 287.43,
+    "YTD": "+195%"
+  }
+]

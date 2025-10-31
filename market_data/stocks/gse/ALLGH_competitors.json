@@ -1,0 +1,23 @@
+[
+  {
+    "Code": "AADS",
+    "Name": "AngloGold Ashanti Depositary Shares",
+    "M. Cap.": "41.1M",
+    "Close": 0.42,
+    "YTD": "+2.44%"
+  },
+  {
+    "Code": "AGA",
+    "Name": "AngloGold Ashanti Limited",
+    "M. Cap.": "18.6B",
+    "Close": 37.0,
+    "YTD": NaN
+  },
+  {
+    "Code": "ASG",
+    "Name": "Asante Gold Corp",
+    "M. Cap.": "4.17B",
+    "Close": 8.89,
+    "YTD": NaN
+  }
+]

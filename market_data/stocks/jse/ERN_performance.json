@@ -1,0 +1,72 @@
+[
+  {
+    "Date": "2018-03-27",
+    "Volume": 234,
+    "Close": 30.0,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2018-03-12",
+    "Volume": 309,
+    "Close": 30.0,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2018-02-20",
+    "Volume": 3,
+    "Close": 30.0,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2018-01-25",
+    "Volume": 13,
+    "Close": 30.0,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2018-01-10",
+    "Volume": 41,
+    "Close": 30.0,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2017-12-21",
+    "Volume": 847,
+    "Close": 30.0,
+    "Change": 5.0,
+    "Change%": "+20.00%"
+  },
+  {
+    "Date": "2017-12-20",
+    "Volume": 170,
+    "Close": 25.0,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2017-12-19",
+    "Volume": 217,
+    "Close": 25.0,
+    "Change": 0.05,
+    "Change%": "+0.20%"
+  },
+  {
+    "Date": "2017-12-12",
+    "Volume": 25,
+    "Close": 24.95,
+    "Change": -0.05,
+    "Change%": "-0.20%"
+  },
+  {
+    "Date": "2017-11-21",
+    "Volume": 2,
+    "Close": 25.0,
+    "Change": NaN,
+    "Change%": NaN
+  }
+]

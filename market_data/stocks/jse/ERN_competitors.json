@@ -1,0 +1,30 @@
+[
+  {
+    "Code": "REN",
+    "Name": "Renergen Limited",
+    "M. Cap.": "2.14B",
+    "Close": 13.78,
+    "YTD": "+98%"
+  },
+  {
+    "Code": "OAO",
+    "Name": "Oando Plc",
+    "M. Cap.": "3.36B",
+    "Close": 0.27,
+    "YTD": "-10%"
+  },
+  {
+    "Code": "TGA",
+    "Name": "Thungela Resources Ltd",
+    "M. Cap.": "10.8B",
+    "Close": 76.55,
+    "YTD": "-42.7%"
+  },
+  {
+    "Code": "MKR",
+    "Name": "Montauk Renewables Inc",
+    "M. Cap.": "4.8B",
+    "Close": 34.06,
+    "YTD": "-59%"
+  }
+]

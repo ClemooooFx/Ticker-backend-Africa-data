@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "ETERNA",
+    "Name": "Eterna Plc",
+    "M. Cap.": "52.2B",
+    "Close": 40.0,
+    "YTD": "+64.6%"
+  },
+  {
+    "Code": "ARADEL",
+    "Name": "Aradel Holdings",
+    "M. Cap.": "3.4T",
+    "Close": 782.0,
+    "YTD": "+30.8%"
+  },
+  {
+    "Code": "SEPLAT",
+    "Name": "Seplat Petroleum Development Co.",
+    "M. Cap.": "3.55T",
+    "Close": 5917.2,
+    "YTD": "+3.81%"
+  },
+  {
+    "Code": "OANDO",
+    "Name": "Oando Plc",
+    "M. Cap.": "582B",
+    "Close": 46.8,
+    "YTD": "-29.1%"
+  },
+  {
+    "Code": "CONOIL",
+    "Name": "Conoil Plc",
+    "M. Cap.": "132B",
+    "Close": 190.7,
+    "YTD": "-50.8%"
+  }
+]

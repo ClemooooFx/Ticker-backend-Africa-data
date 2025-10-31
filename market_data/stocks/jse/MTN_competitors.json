@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "BLU",
+    "Name": "Blue Label Telecoms Ltd",
+    "M. Cap.": "11.2B",
+    "Close": 12.25,
+    "YTD": "+110%"
+  },
+  {
+    "Code": "VOD",
+    "Name": "Vodacom Group Ltd",
+    "M. Cap.": "289B",
+    "Close": 139.0,
+    "YTD": "+37.1%"
+  },
+  {
+    "Code": "HUG",
+    "Name": "Huge Group Ltd",
+    "M. Cap.": "233M",
+    "Close": 1.35,
+    "YTD": "-35.7%"
+  },
+  {
+    "Code": "TKG",
+    "Name": "Telkom SA SOC Ltd",
+    "M. Cap.": "25B",
+    "Close": 49.0,
+    "YTD": "+40.1%"
+  },
+  {
+    "Code": "TLM",
+    "Name": "Telemaster Holdings Limited",
+    "M. Cap.": "56.9M",
+    "Close": 0.99,
+    "YTD": "-1%"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "Date": "2024-04-22",
+    "Volume": 63176,
+    "Close": 0.01,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2024-04-18",
+    "Volume": 100000,
+    "Close": 0.01,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2024-04-17",
+    "Volume": 103824,
+    "Close": 0.01,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2024-04-16",
+    "Volume": 488224,
+    "Close": 0.01,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2024-04-15",
+    "Volume": 648807,
+    "Close": 0.01,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2024-04-12",
+    "Volume": 1974555,
+    "Close": 0.01,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2024-04-11",
+    "Volume": 1255146,
+    "Close": 0.01,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2024-04-10",
+    "Volume": 1960050,
+    "Close": 0.01,
+    "Change": -0.01,
+    "Change%": "-50.00%"
+  },
+  {
+    "Date": "2024-04-09",
+    "Volume": 643927,
+    "Close": 0.02,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2024-04-08",
+    "Volume": 140736,
+    "Close": 0.02,
+    "Change": NaN,
+    "Change%": NaN
+  }
+]

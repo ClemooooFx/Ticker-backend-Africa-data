@@ -1,0 +1,44 @@
+[
+  {
+    "Date": "2022-02-11",
+    "Volume": 100,
+    "Close": 6.0,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2017-05-08",
+    "Volume": 500,
+    "Close": 6.0,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2016-10-26",
+    "Volume": 500,
+    "Close": 6.0,
+    "Change": 0.5,
+    "Change%": "+9.09%"
+  },
+  {
+    "Date": "2012-03-06",
+    "Volume": 400,
+    "Close": 5.5,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2009-07-22",
+    "Volume": 1600,
+    "Close": 5.5,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2009-06-18",
+    "Volume": 1300,
+    "Close": 5.5,
+    "Change": NaN,
+    "Change%": NaN
+  }
+]

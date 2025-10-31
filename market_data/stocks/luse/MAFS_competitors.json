@@ -1,0 +1,30 @@
+[
+  {
+    "Code": "REIZ",
+    "Name": "Real Estate Investments Zambia Plc",
+    "M. Cap.": "5.08M",
+    "Close": 0.09,
+    "YTD": "+28.6%"
+  },
+  {
+    "Code": "ZNCO",
+    "Name": "Zambia National Commercial Bank",
+    "M. Cap.": "8.81B",
+    "Close": 6.1,
+    "YTD": "+10.1%"
+  },
+  {
+    "Code": "SCBL",
+    "Name": "Standard Chartered Bank",
+    "M. Cap.": "4.32B",
+    "Close": 2.59,
+    "YTD": "-2.26%"
+  },
+  {
+    "Code": "ZMRE",
+    "Name": "Zambia Reinsurance",
+    "M. Cap.": "78M",
+    "Close": 2.6,
+    "YTD": "-3.7%"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "NPK",
+    "Name": "Nampak Ltd",
+    "M. Cap.": "4.06B",
+    "Close": 478.56,
+    "YTD": "+15%"
+  },
+  {
+    "Code": "BAW",
+    "Name": "Barloworld Ltd",
+    "M. Cap.": "22.6B",
+    "Close": 119.25,
+    "YTD": "+9.88%"
+  },
+  {
+    "Code": "BAWP",
+    "Name": "Barworld Ltd 6%Pref",
+    "M. Cap.": "330000",
+    "Close": 0.88,
+    "YTD": "+8.64%"
+  },
+  {
+    "Code": "NPKP",
+    "Name": "Nampak Ltd 6%Pref",
+    "M. Cap.": "280000",
+    "Close": 0.7,
+    "YTD": NaN
+  },
+  {
+    "Code": "NPP1",
+    "Name": "Nampak Ltd 6,5%Pref",
+    "M. Cap.": "131000",
+    "Close": 1.31,
+    "YTD": NaN
+  },
+  {
+    "Code": "TPC",
+    "Name": "Transpaco Ltd",
+    "M. Cap.": "949M",
+    "Close": 34.1,
+    "YTD": "-9.04%"
+  },
+  {
+    "Code": "BVT",
+    "Name": "Bidvest Ltd",
+    "M. Cap.": "76.8B",
+    "Close": 225.56,
+    "YTD": "-14.5%"
+  },
+  {
+    "Code": "MPT",
+    "Name": "Mpact Limited",
+    "M. Cap.": "3.47B",
+    "Close": 23.2,
+    "YTD": "-21.5%"
+  },
+  {
+    "Code": "ENX",
+    "Name": "enX Group LImited",
+    "M. Cap.": "784M",
+    "Close": 4.3,
+    "YTD": "-21.8%"
+  },
+  {
+    "Code": "KAP",
+    "Name": "KAP Industrial Holdings Ltd",
+    "M. Cap.": "4.18B",
+    "Close": 1.67,
+    "YTD": "-45.6%"
+  }
+]

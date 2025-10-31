@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "TIP",
+    "Name": "The Initiates Plc",
+    "M. Cap.": "11.6B",
+    "Close": 13.05,
+    "YTD": "+422%"
+  },
+  {
+    "Code": "ABCTRANS",
+    "Name": "Associated Bus Company",
+    "M. Cap.": "10.1B",
+    "Close": 4.24,
+    "YTD": "+245%"
+  },
+  {
+    "Code": "EUNISELL",
+    "Name": "Eunisell Interlinked Plc",
+    "M. Cap.": "14B",
+    "Close": 59.0,
+    "YTD": "+206%"
+  },
+  {
+    "Code": "ACADEMY",
+    "Name": "Academy Press",
+    "M. Cap.": "7.15B",
+    "Close": 7.88,
+    "YTD": "+163%"
+  },
+  {
+    "Code": "NAHCO",
+    "Name": "Nigerian Aviation Handling Co.",
+    "M. Cap.": "220B",
+    "Close": 113.0,
+    "YTD": "+145%"
+  },
+  {
+    "Code": "REDSTAREX",
+    "Name": "Red Star Express Plc",
+    "M. Cap.": "9.59B",
+    "Close": 10.05,
+    "YTD": "+128%"
+  },
+  {
+    "Code": "CILEASING",
+    "Name": "C&I Leasing Plc",
+    "M. Cap.": "18B",
+    "Close": 6.1,
+    "YTD": "+61.8%"
+  },
+  {
+    "Code": "DAARCOMM",
+    "Name": "Daar Communications",
+    "M. Cap.": "12B",
+    "Close": 1.0,
+    "YTD": "+58.7%"
+  },
+  {
+    "Code": "TRANSEXPR",
+    "Name": "Trans-Nationwide Express",
+    "M. Cap.": "1.07B",
+    "Close": 2.15,
+    "YTD": "+55.8%"
+  },
+  {
+    "Code": "IKEJAHOTEL",
+    "Name": "Ikeja Hotel Plc",
+    "M. Cap.": "37.5B",
+    "Close": 17.35,
+    "YTD": "+54.2%"
+  }
+]

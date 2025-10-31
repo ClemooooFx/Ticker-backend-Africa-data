@@ -1,0 +1,65 @@
+[
+  {
+    "Date": "2019-05-28",
+    "Volume": 39788,
+    "Close": 1.31,
+    "Change": 0.1,
+    "Change%": "+8.26%"
+  },
+  {
+    "Date": "2019-01-30",
+    "Volume": 39788,
+    "Close": 1.21,
+    "Change": 0.1,
+    "Change%": "+9.01%"
+  },
+  {
+    "Date": "2018-02-20",
+    "Volume": 8,
+    "Close": 1.11,
+    "Change": -0.09,
+    "Change%": "-7.50%"
+  },
+  {
+    "Date": "2017-12-13",
+    "Volume": 800,
+    "Close": 1.2,
+    "Change": -0.3,
+    "Change%": "-20.00%"
+  },
+  {
+    "Date": "2017-05-11",
+    "Volume": 11180,
+    "Close": 1.5,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2017-02-01",
+    "Volume": 11180,
+    "Close": 1.5,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2017-01-10",
+    "Volume": 500,
+    "Close": 1.5,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2016-08-26",
+    "Volume": 50468,
+    "Close": 1.5,
+    "Change": -1.2,
+    "Change%": "-44.44%"
+  },
+  {
+    "Date": "2016-03-02",
+    "Volume": 10680,
+    "Close": 2.7,
+    "Change": NaN,
+    "Change%": NaN
+  }
+]

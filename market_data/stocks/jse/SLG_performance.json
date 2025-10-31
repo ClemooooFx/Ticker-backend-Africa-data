@@ -1,0 +1,72 @@
+[
+  {
+    "Date": "2023-08-18",
+    "Volume": 44075,
+    "Close": 0.55,
+    "Change": 0.03,
+    "Change%": "+5.77%"
+  },
+  {
+    "Date": "2023-08-17",
+    "Volume": 28271,
+    "Close": 0.52,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2023-08-16",
+    "Volume": 91940,
+    "Close": 0.52,
+    "Change": -0.03,
+    "Change%": "-5.45%"
+  },
+  {
+    "Date": "2023-08-15",
+    "Volume": 89241,
+    "Close": 0.55,
+    "Change": -0.01,
+    "Change%": "-1.79%"
+  },
+  {
+    "Date": "2023-08-14",
+    "Volume": 60341,
+    "Close": 0.56,
+    "Change": -0.04,
+    "Change%": "-6.67%"
+  },
+  {
+    "Date": "2023-08-10",
+    "Volume": 118402,
+    "Close": 0.6,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2023-08-08",
+    "Volume": 50042,
+    "Close": 0.6,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2023-08-07",
+    "Volume": 22904,
+    "Close": 0.6,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2023-08-04",
+    "Volume": 40000,
+    "Close": 0.6,
+    "Change": -0.05,
+    "Change%": "-7.69%"
+  },
+  {
+    "Date": "2023-08-03",
+    "Volume": 63595,
+    "Close": 0.65,
+    "Change": NaN,
+    "Change%": NaN
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "Code": "CGEN",
+    "Name": "Car and General Kenya Limited",
+    "M. Cap.": "4.45B",
+    "Close": 55.5,
+    "YTD": "+144%"
+  },
+  {
+    "Code": "UCHM",
+    "Name": "Uchumi Supermarket Limited",
+    "M. Cap.": "128M",
+    "Close": 0.35,
+    "YTD": "+106%"
+  },
+  {
+    "Code": "LKL",
+    "Name": "Longhorn Publishers Limited",
+    "M. Cap.": "812M",
+    "Close": 2.98,
+    "YTD": "+29.6%"
+  },
+  {
+    "Code": "SGL",
+    "Name": "Standard Group Limited",
+    "M. Cap.": "490M",
+    "Close": 6.0,
+    "YTD": "+19.5%"
+  },
+  {
+    "Code": "SCAN",
+    "Name": "ScanGroup Limited",
+    "M. Cap.": "1.21B",
+    "Close": 2.8,
+    "YTD": "+12.9%"
+  },
+  {
+    "Code": "TPSE",
+    "Name": "TPS Eastern Africa Serena Limited",
+    "M. Cap.": "2.96B",
+    "Close": 16.25,
+    "YTD": "+9.06%"
+  },
+  {
+    "Code": "HBE",
+    "Name": "Homeboyz Entertainment",
+    "M. Cap.": "295M",
+    "Close": 4.66,
+    "YTD": NaN
+  },
+  {
+    "Code": "NMG",
+    "Name": "Nation Media Group",
+    "M. Cap.": "2.58B",
+    "Close": 13.55,
+    "YTD": "-5.9%"
+  },
+  {
+    "Code": "NBV",
+    "Name": "Nairobi Business Ventures Ltd",
+    "M. Cap.": "2.13B",
+    "Close": 1.57,
+    "YTD": "-21.9%"
+  }
+]

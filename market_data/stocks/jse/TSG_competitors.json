@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "SUR",
+    "Name": "Spur Corporation Ltd",
+    "M. Cap.": "3.28B",
+    "Close": 36.0,
+    "YTD": "+2.97%"
+  },
+  {
+    "Code": "SSU",
+    "Name": "Southern Sun Limited",
+    "M. Cap.": "12.2B",
+    "Close": 9.09,
+    "YTD": "+0.11%"
+  },
+  {
+    "Code": "FTH",
+    "Name": "Frontier Transport Holdings",
+    "M. Cap.": "2.13B",
+    "Close": 7.24,
+    "YTD": "-5.85%"
+  },
+  {
+    "Code": "SUI",
+    "Name": "Sun International Ltd",
+    "M. Cap.": "9.98B",
+    "Close": 38.76,
+    "YTD": "-10.9%"
+  },
+  {
+    "Code": "CLH",
+    "Name": "City Lodge Hotels Limited",
+    "M. Cap.": "2.3B",
+    "Close": 4.14,
+    "YTD": "-18%"
+  },
+  {
+    "Code": "FBR",
+    "Name": "Famous Brands Ltd",
+    "M. Cap.": "5.33B",
+    "Close": 53.2,
+    "YTD": "-22.9%"
+  },
+  {
+    "Code": "CHP",
+    "Name": "Choppies Enterprises Limited",
+    "M. Cap.": "4.74B",
+    "Close": 2.6,
+    "YTD": "+225%"
+  },
+  {
+    "Code": "WVR",
+    "Name": "Weaver Fintech Ltd",
+    "M. Cap.": "5.34B",
+    "Close": 49.99,
+    "YTD": "+66.6%"
+  },
+  {
+    "Code": "SDO",
+    "Name": "Stadio Holdings Limited",
+    "M. Cap.": "9.46B",
+    "Close": 11.12,
+    "YTD": "+61.2%"
+  },
+  {
+    "Code": "NCS",
+    "Name": "Nictus Ltd",
+    "M. Cap.": "98.9M",
+    "Close": 1.85,
+    "YTD": "+27.6%"
+  }
+]

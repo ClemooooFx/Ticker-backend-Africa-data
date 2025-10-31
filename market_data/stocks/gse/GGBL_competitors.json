@@ -1,0 +1,44 @@
+[
+  {
+    "Code": "FML",
+    "Name": "Fan Milk Plc",
+    "M. Cap.": "930M",
+    "Close": 8.0,
+    "YTD": "+116%"
+  },
+  {
+    "Code": "CPC",
+    "Name": "Cocoa Processing Company Limited",
+    "M. Cap.": "81.5M",
+    "Close": 0.04,
+    "YTD": "+100%"
+  },
+  {
+    "Code": "BOPP",
+    "Name": "Benso Oil Palm Plantation Limited",
+    "M. Cap.": "1.36B",
+    "Close": 39.0,
+    "YTD": "+54.4%"
+  },
+  {
+    "Code": "UNIL",
+    "Name": "Unilever Ghana Limited",
+    "M. Cap.": "1.24B",
+    "Close": 19.8,
+    "YTD": "+1.54%"
+  },
+  {
+    "Code": "HORDS",
+    "Name": "Hords Limited",
+    "M. Cap.": "11.5M",
+    "Close": 0.1,
+    "YTD": NaN
+  },
+  {
+    "Code": "SAMBA",
+    "Name": "Samba Foods Limited",
+    "M. Cap.": "3.29M",
+    "Close": 0.55,
+    "YTD": NaN
+  }
+]

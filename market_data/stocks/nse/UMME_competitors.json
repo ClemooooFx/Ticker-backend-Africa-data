@@ -1,0 +1,30 @@
+[
+  {
+    "Code": "KPLC",
+    "Name": "Kenya Power & Lighting Company",
+    "M. Cap.": "26.2B",
+    "Close": 13.45,
+    "YTD": "+180%"
+  },
+  {
+    "Code": "KEGN",
+    "Name": "KenGen Plc",
+    "M. Cap.": "65.9B",
+    "Close": 10.0,
+    "YTD": "+175%"
+  },
+  {
+    "Code": "KPLC-P4",
+    "Name": "Kenya Power 4% Preference Shares",
+    "M. Cap.": "8.12M",
+    "Close": 4.51,
+    "YTD": "+12.8%"
+  },
+  {
+    "Code": "KPLC-P7",
+    "Name": "Kenya Power 7% Preference Shares",
+    "M. Cap.": "2.1M",
+    "Close": 6.0,
+    "YTD": NaN
+  }
+]

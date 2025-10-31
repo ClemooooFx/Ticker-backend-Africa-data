@@ -1,0 +1,65 @@
+[
+  {
+    "Code": "SACL",
+    "Name": "Star Africa Corporation Limited",
+    "M. Cap.": "186M",
+    "Close": 0.03955,
+    "YTD": "+97.8%"
+  },
+  {
+    "Code": "SEED",
+    "Name": "Seed Co Limited",
+    "M. Cap.": "935M",
+    "Close": 3.7825,
+    "YTD": "+45.6%"
+  },
+  {
+    "Code": "BAT",
+    "Name": "British American Tobacco Limited",
+    "M. Cap.": "2.01B",
+    "Close": 97.625,
+    "YTD": "+21.5%"
+  },
+  {
+    "Code": "AFDS",
+    "Name": "African Distillers Limited",
+    "M. Cap.": "939M",
+    "Close": 8.0,
+    "YTD": "+15.8%"
+  },
+  {
+    "Code": "DLTA",
+    "Name": "Delta Corporation Limited",
+    "M. Cap.": "19.9B",
+    "Close": 15.5363,
+    "YTD": "+11%"
+  },
+  {
+    "Code": "HIPO",
+    "Name": "Hippo Valley Estates Limited",
+    "M. Cap.": "1.37B",
+    "Close": 7.1,
+    "YTD": "-9.09%"
+  },
+  {
+    "Code": "DZL",
+    "Name": "Dairibord Holdings Limited",
+    "M. Cap.": "636M",
+    "Close": 1.7845,
+    "YTD": "-20.3%"
+  },
+  {
+    "Code": "NTS",
+    "Name": "National Tyre Services Limited",
+    "M. Cap.": "129M",
+    "Close": 0.506242,
+    "YTD": "-23.9%"
+  },
+  {
+    "Code": "ARIS",
+    "Name": "Ariston Holdings Limited",
+    "M. Cap.": "46.7M",
+    "Close": 0.029,
+    "YTD": "-51.7%"
+  }
+]

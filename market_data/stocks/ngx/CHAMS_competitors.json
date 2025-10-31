@@ -1,0 +1,44 @@
+[
+  {
+    "Code": "NCR",
+    "Name": "NCR Nigeria",
+    "M. Cap.": "1.73B",
+    "Close": 16.0,
+    "YTD": "+220%"
+  },
+  {
+    "Code": "TRIPPLEG",
+    "Name": "Tripple Gee & Co. Plc",
+    "M. Cap.": "4.86B",
+    "Close": 4.91,
+    "YTD": "+140%"
+  },
+  {
+    "Code": "CWG",
+    "Name": "Computer Warehouse Group",
+    "M. Cap.": "45.4B",
+    "Close": 18.0,
+    "YTD": "+134%"
+  },
+  {
+    "Code": "ETRANZACT",
+    "Name": "E-Tranzact International",
+    "M. Cap.": "117B",
+    "Close": 12.7,
+    "YTD": "+95.4%"
+  },
+  {
+    "Code": "OMATEK",
+    "Name": "Omatek Ventures",
+    "M. Cap.": "3.91B",
+    "Close": 1.33,
+    "YTD": "+82.2%"
+  },
+  {
+    "Code": "LEGENDINT",
+    "Name": "Legend Internet",
+    "M. Cap.": "11.7B",
+    "Close": 5.84,
+    "YTD": "-5.81%"
+  }
+]

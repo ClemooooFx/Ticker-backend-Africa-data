@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "VIS",
+    "Name": "Visual International Holdings",
+    "M. Cap.": "44.4M",
+    "Close": 0.04,
+    "YTD": "+33.3%"
+  },
+  {
+    "Code": "FTB",
+    "Name": "Fairvest Ltd B Shares",
+    "M. Cap.": "12.4B",
+    "Close": 6.3,
+    "YTD": "+32.1%"
+  },
+  {
+    "Code": "DLT",
+    "Name": "Delta Property Fund Limited",
+    "M. Cap.": "179M",
+    "Close": 0.25,
+    "YTD": "+31.6%"
+  },
+  {
+    "Code": "PPR",
+    "Name": "Putprop Ltd",
+    "M. Cap.": "189M",
+    "Close": 4.45,
+    "YTD": "+30.9%"
+  },
+  {
+    "Code": "EMI",
+    "Name": "Emira Property Fund Ltd",
+    "M. Cap.": "7.02B",
+    "Close": 14.02,
+    "YTD": "+28.6%"
+  },
+  {
+    "Code": "VKE",
+    "Name": "Vukile Property Fund Ltd",
+    "M. Cap.": "28.5B",
+    "Close": 22.93,
+    "YTD": "+27.6%"
+  },
+  {
+    "Code": "GRT",
+    "Name": "Growthpoint Properties Limited",
+    "M. Cap.": "55.7B",
+    "Close": 16.23,
+    "YTD": "+27.5%"
+  },
+  {
+    "Code": "SRE",
+    "Name": "Sirius Real Estate Ltd",
+    "M. Cap.": "35.2B",
+    "Close": 23.27,
+    "YTD": "+26.5%"
+  },
+  {
+    "Code": "RDF",
+    "Name": "Redefine Properties Limited",
+    "M. Cap.": "39.3B",
+    "Close": 5.46,
+    "YTD": "+20%"
+  },
+  {
+    "Code": "SAR",
+    "Name": "Safari Investments RSA Ltd",
+    "M. Cap.": "2.05B",
+    "Close": 7.95,
+    "YTD": "+17.8%"
+  }
+]

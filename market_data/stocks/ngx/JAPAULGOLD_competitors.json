@@ -1,0 +1,30 @@
+[
+  {
+    "Code": "MULTIVERSE",
+    "Name": "Multiverse Mining & Exploration",
+    "M. Cap.": "5.54B",
+    "Close": 13.0,
+    "YTD": "+76.9%"
+  },
+  {
+    "Code": "THOMASWY",
+    "Name": "Thomas Wyatt Nigeria",
+    "M. Cap.": "1.09B",
+    "Close": 2.75,
+    "YTD": "+45.5%"
+  },
+  {
+    "Code": "ALEX",
+    "Name": "Aluminium Extrusion Industries",
+    "M. Cap.": "1.57B",
+    "Close": 7.15,
+    "YTD": NaN
+  },
+  {
+    "Code": "IMG",
+    "Name": "Industrial & Medical Gases",
+    "M. Cap.": "17.8B",
+    "Close": 32.4,
+    "YTD": "-14.6%"
+  }
+]

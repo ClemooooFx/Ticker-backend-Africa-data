@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "ACCESS",
+    "Name": "Access Bank Ghana",
+    "M. Cap.": "2.82B",
+    "Close": 16.2,
+    "YTD": "+212%"
+  },
+  {
+    "Code": "GCB",
+    "Name": "GCB Bank Limited",
+    "M. Cap.": "4.5B",
+    "Close": 16.97,
+    "YTD": "+166%"
+  },
+  {
+    "Code": "EGH",
+    "Name": "Ecobank Ghana Limited",
+    "M. Cap.": "4.53B",
+    "Close": 14.04,
+    "YTD": "+116%"
+  },
+  {
+    "Code": "RBGH",
+    "Name": "Republic Bank Ghana Limited",
+    "M. Cap.": "1.06B",
+    "Close": 1.25,
+    "YTD": "+89.4%"
+  },
+  {
+    "Code": "CAL",
+    "Name": "CalBank Plc",
+    "M. Cap.": "610M",
+    "Close": 0.54,
+    "YTD": "+54.3%"
+  },
+  {
+    "Code": "SCB",
+    "Name": "Standard Chartered Bank Limited",
+    "M. Cap.": "3.92B",
+    "Close": 29.11,
+    "YTD": "+26.6%"
+  },
+  {
+    "Code": "SCBPREF",
+    "Name": "Stanchart Preferential Shares",
+    "M. Cap.": "15.7M",
+    "Close": 0.9,
+    "YTD": NaN
+  },
+  {
+    "Code": "SIC",
+    "Name": "SIC Insurance Company Limited",
+    "M. Cap.": "235M",
+    "Close": 1.2,
+    "YTD": "+344%"
+  },
+  {
+    "Code": "SOGEGH",
+    "Name": "Societe Generale Ghana Limited",
+    "M. Cap.": "2.2B",
+    "Close": 3.1,
+    "YTD": "+107%"
+  },
+  {
+    "Code": "EGL",
+    "Name": "Enterprise Group Limited",
+    "M. Cap.": "590M",
+    "Close": 3.45,
+    "YTD": "+74.2%"
+  }
+]

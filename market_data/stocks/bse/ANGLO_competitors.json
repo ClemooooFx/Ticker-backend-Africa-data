@@ -1,0 +1,23 @@
+[
+  {
+    "Code": "BOD",
+    "Name": "Botswana Diamonds Plc",
+    "M. Cap.": "240M",
+    "Close": 0.2,
+    "YTD": "+11.1%"
+  },
+  {
+    "Code": "LUCARA",
+    "Name": "Lucara Diamonds Corporation",
+    "M. Cap.": "2.05B",
+    "Close": 4.45,
+    "YTD": NaN
+  },
+  {
+    "Code": "MINERGY",
+    "Name": "Minergy Limited",
+    "M. Cap.": "188M",
+    "Close": 0.4,
+    "YTD": NaN
+  }
+]

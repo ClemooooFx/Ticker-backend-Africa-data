@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "ADBF",
+    "Name": "African Domestic Bond Fund",
+    "M. Cap.": "624M",
+    "Close": 104.4,
+    "YTD": "+21.4%"
+  },
+  {
+    "Code": "GR1B",
+    "Name": "Gaia Renewables 1 Class B Pref Shares",
+    "M. Cap.": "1.36B",
+    "Close": 136.0,
+    "YTD": NaN
+  },
+  {
+    "Code": "BBS",
+    "Name": "Botswana Building Society Limited",
+    "M. Cap.": "341M",
+    "Close": 0.7,
+    "YTD": "+40%"
+  },
+  {
+    "Code": "STANCHART",
+    "Name": "Standard Chartered Bank Ltd",
+    "M. Cap.": "2.6B",
+    "Close": 8.7,
+    "YTD": "+24.1%"
+  },
+  {
+    "Code": "ABSA",
+    "Name": "Absa Bank Botswana",
+    "M. Cap.": "6.44B",
+    "Close": 7.56,
+    "YTD": "+9.25%"
+  },
+  {
+    "Code": "FNBB",
+    "Name": "First National Bank of Botswana",
+    "M. Cap.": "13.9B",
+    "Close": 5.45,
+    "YTD": "+6.65%"
+  },
+  {
+    "Code": "SEFALANA",
+    "Name": "Sefalana Holding Company Ltd",
+    "M. Cap.": "3.76B",
+    "Close": 15.0,
+    "YTD": "+5.78%"
+  },
+  {
+    "Code": "INVESTEC",
+    "Name": "Investec Group Limited",
+    "M. Cap.": "27.5B",
+    "Close": 111.03,
+    "YTD": "+5.67%"
+  },
+  {
+    "Code": "LETLOLE",
+    "Name": "Letlole La Rona Limited",
+    "M. Cap.": "854M",
+    "Close": 3.05,
+    "YTD": "+3.39%"
+  },
+  {
+    "Code": "BIHL",
+    "Name": "Botswana Insurance Holdings Ltd",
+    "M. Cap.": "6.56B",
+    "Close": 23.02,
+    "YTD": "+2.31%"
+  }
+]

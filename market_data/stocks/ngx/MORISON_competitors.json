@@ -1,0 +1,44 @@
+[
+  {
+    "Code": "FIDSON",
+    "Name": "Fidson Healthcare",
+    "M. Cap.": "96.4B",
+    "Close": 42.0,
+    "YTD": "+171%"
+  },
+  {
+    "Code": "NEIMETH",
+    "Name": "Neimeth International Pharma",
+    "M. Cap.": "24.6B",
+    "Close": 5.76,
+    "YTD": "+152%"
+  },
+  {
+    "Code": "MECURE",
+    "Name": "MeCure Industries",
+    "M. Cap.": "123B",
+    "Close": 30.7,
+    "YTD": "+121%"
+  },
+  {
+    "Code": "MAYBAKER",
+    "Name": "May & Baker Nigeria",
+    "M. Cap.": "30.8B",
+    "Close": 17.85,
+    "YTD": "+89.9%"
+  },
+  {
+    "Code": "EKOCORP",
+    "Name": "Ekocorp Plc",
+    "M. Cap.": "2.89B",
+    "Close": 5.8,
+    "YTD": NaN
+  },
+  {
+    "Code": "PHARMDEKO",
+    "Name": "Pharma-Deko Plc",
+    "M. Cap.": "397M",
+    "Close": 1.83,
+    "YTD": NaN
+  }
+]

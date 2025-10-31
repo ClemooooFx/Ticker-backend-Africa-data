@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "BATZ",
+    "Name": "British American Tobacco",
+    "M. Cap.": "3.4B",
+    "Close": 15.99,
+    "YTD": "+309%"
+  },
+  {
+    "Code": "ZSUG",
+    "Name": "Zambia Sugar",
+    "M. Cap.": "20.6B",
+    "Close": 65.24,
+    "YTD": "+81%"
+  },
+  {
+    "Code": "BATA",
+    "Name": "Zambia Bata Shoe",
+    "M. Cap.": "495M",
+    "Close": 6.5,
+    "YTD": "+8.33%"
+  },
+  {
+    "Code": "ZMBF",
+    "Name": "Zambeef Products",
+    "M. Cap.": "553M",
+    "Close": 2.23,
+    "YTD": "+4.69%"
+  },
+  {
+    "Code": "ZABR",
+    "Name": "Zambian Breweries",
+    "M. Cap.": "3.77B",
+    "Close": 6.9,
+    "YTD": NaN
+  }
+]

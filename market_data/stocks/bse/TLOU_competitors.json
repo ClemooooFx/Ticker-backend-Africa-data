@@ -1,0 +1,23 @@
+[
+  {
+    "Code": "BOTALA",
+    "Name": "Botala Energy",
+    "M. Cap.": "179M",
+    "Close": 0.87,
+    "YTD": "+6.1%"
+  },
+  {
+    "Code": "ENGEN",
+    "Name": "Engen Botswana Limited",
+    "M. Cap.": "2.28B",
+    "Close": 14.25,
+    "YTD": "+0.85%"
+  },
+  {
+    "Code": "SHUMBA",
+    "Name": "Shumba Coal Limited",
+    "M. Cap.": "271M",
+    "Close": 0.9,
+    "YTD": NaN
+  }
+]

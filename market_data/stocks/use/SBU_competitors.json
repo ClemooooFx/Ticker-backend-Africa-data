@@ -1,0 +1,51 @@
+[
+  {
+    "Code": "BOBU",
+    "Name": "Bank of Baroda Uganda",
+    "M. Cap.": "707B",
+    "Close": 47.1,
+    "YTD": "+112%"
+  },
+  {
+    "Code": "KCB",
+    "Name": "KCB Group",
+    "M. Cap.": "4.71T",
+    "Close": 1576.85,
+    "YTD": "+39%"
+  },
+  {
+    "Code": "EBL",
+    "Name": "Equity Bank Limited",
+    "M. Cap.": "5.96T",
+    "Close": 1610.4,
+    "YTD": "+22.9%"
+  },
+  {
+    "Code": "JHL",
+    "Name": "Jubilee Holdings Limited",
+    "M. Cap.": "514B",
+    "Close": 8588.8,
+    "YTD": "+76.9%"
+  },
+  {
+    "Code": "DFCU",
+    "Name": "DFCU Limited",
+    "M. Cap.": "239B",
+    "Close": 319.0,
+    "YTD": "+41.8%"
+  },
+  {
+    "Code": "CENT",
+    "Name": "Centum Investment",
+    "M. Cap.": "262B",
+    "Close": 393.21,
+    "YTD": "+36.5%"
+  },
+  {
+    "Code": "NIC",
+    "Name": "National Insurance Corporation",
+    "M. Cap.": "10.6B",
+    "Close": 5.0,
+    "YTD": NaN
+  }
+]

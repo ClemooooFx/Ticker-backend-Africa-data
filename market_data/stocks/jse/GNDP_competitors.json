@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "SNV",
+    "Name": "Santova Logistics Ltd",
+    "M. Cap.": "1.01B",
+    "Close": 7.8,
+    "YTD": "+7.44%"
+  },
+  {
+    "Code": "LAB",
+    "Name": "Labat Africa Ltd",
+    "M. Cap.": "56.6M",
+    "Close": 0.05,
+    "YTD": "-28.6%"
+  },
+  {
+    "Code": "SPG",
+    "Name": "Super Group Ltd",
+    "M. Cap.": "5.38B",
+    "Close": 15.88,
+    "YTD": "-46.2%"
+  },
+  {
+    "Code": "ADR",
+    "Name": "Adcorp Holdings Limited",
+    "M. Cap.": "792M",
+    "Close": 7.21,
+    "YTD": "+46%"
+  },
+  {
+    "Code": "MFL",
+    "Name": "Metrofile Holdings Ltd",
+    "M. Cap.": "1.34B",
+    "Close": 3.08,
+    "YTD": "+35.7%"
+  },
+  {
+    "Code": "SSK",
+    "Name": "Stefanutti Stocks Holdings Ltd",
+    "M. Cap.": "940M",
+    "Close": 5.0,
+    "YTD": "+25%"
+  },
+  {
+    "Code": "PMV",
+    "Name": "Primeserv Group Ltd",
+    "M. Cap.": "340M",
+    "Close": 2.97,
+    "YTD": "+23.8%"
+  },
+  {
+    "Code": "IVT",
+    "Name": "Invicta Holdings Ltd",
+    "M. Cap.": "3.37B",
+    "Close": 37.99,
+    "YTD": "+15.1%"
+  },
+  {
+    "Code": "NPK",
+    "Name": "Nampak Ltd",
+    "M. Cap.": "4.06B",
+    "Close": 478.56,
+    "YTD": "+15%"
+  },
+  {
+    "Code": "BAW",
+    "Name": "Barloworld Ltd",
+    "M. Cap.": "22.6B",
+    "Close": 119.25,
+    "YTD": "+9.88%"
+  }
+]

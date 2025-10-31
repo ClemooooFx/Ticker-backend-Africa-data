@@ -1,0 +1,44 @@
+[
+  {
+    "Code": "OCH",
+    "Name": "Olympia Capital Holdings Limited",
+    "M. Cap.": "304M",
+    "Close": 7.6,
+    "YTD": "+171%"
+  },
+  {
+    "Code": "PORT",
+    "Name": "East African Portland Cement Co. Ltd",
+    "M. Cap.": "5.36B",
+    "Close": 59.5,
+    "YTD": "+94.4%"
+  },
+  {
+    "Code": "TCL",
+    "Name": "Trans Century Limited",
+    "M. Cap.": "266M",
+    "Close": 0.71,
+    "YTD": "+82.1%"
+  },
+  {
+    "Code": "KQ",
+    "Name": "Kenya Airways Limited",
+    "M. Cap.": "21.4B",
+    "Close": 3.76,
+    "YTD": "-1.83%"
+  },
+  {
+    "Code": "CABL",
+    "Name": "East African Cables Limited",
+    "M. Cap.": "253M",
+    "Close": 1.0,
+    "YTD": "-7.41%"
+  },
+  {
+    "Code": "BAMB",
+    "Name": "Bamburi Cement Limited",
+    "M. Cap.": "17.1B",
+    "Close": 47.2,
+    "YTD": "-14.2%"
+  }
+]

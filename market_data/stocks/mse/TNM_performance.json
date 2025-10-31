@@ -1,0 +1,72 @@
+[
+  {
+    "Date": "2025-10-30",
+    "Volume": 123608,
+    "Close": 31.73,
+    "Change": -0.02,
+    "Change%": "-0.06%"
+  },
+  {
+    "Date": "2025-10-29",
+    "Volume": 42985,
+    "Close": 31.75,
+    "Change": -0.01,
+    "Change%": "-0.03%"
+  },
+  {
+    "Date": "2025-10-28",
+    "Volume": 205910,
+    "Close": 31.76,
+    "Change": -0.02,
+    "Change%": "-0.06%"
+  },
+  {
+    "Date": "2025-10-27",
+    "Volume": 287527,
+    "Close": 31.78,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
+    "Date": "2025-10-24",
+    "Volume": 26180,
+    "Close": 31.78,
+    "Change": -0.01,
+    "Change%": "-0.03%"
+  },
+  {
+    "Date": "2025-10-23",
+    "Volume": 45553,
+    "Close": 31.79,
+    "Change": -0.01,
+    "Change%": "-0.03%"
+  },
+  {
+    "Date": "2025-10-22",
+    "Volume": 43941,
+    "Close": 31.8,
+    "Change": -0.06,
+    "Change%": "-0.19%"
+  },
+  {
+    "Date": "2025-10-21",
+    "Volume": 26135,
+    "Close": 31.86,
+    "Change": -0.01,
+    "Change%": "-0.03%"
+  },
+  {
+    "Date": "2025-10-20",
+    "Volume": 2625,
+    "Close": 31.87,
+    "Change": -0.03,
+    "Change%": "-0.09%"
+  },
+  {
+    "Date": "2025-10-17",
+    "Volume": 235007,
+    "Close": 31.9,
+    "Change": NaN,
+    "Change%": NaN
+  }
+]

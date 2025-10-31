@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "DSBP",
+    "Name": "Discovery B Preference Shares",
+    "M. Cap.": "1B",
+    "Close": 125.48,
+    "YTD": "+14.1%"
+  },
+  {
+    "Code": "DSY",
+    "Name": "Discovery Limited",
+    "M. Cap.": "150B",
+    "Close": 221.14,
+    "YTD": "+13.5%"
+  },
+  {
+    "Code": "SLM",
+    "Name": "Sanlam Limited",
+    "M. Cap.": "193B",
+    "Close": 91.02,
+    "YTD": "+4.77%"
+  },
+  {
+    "Code": "SNT",
+    "Name": "Santam Limited",
+    "M. Cap.": "47.2B",
+    "Close": 410.0,
+    "YTD": "+4.42%"
+  },
+  {
+    "Code": "CLI",
+    "Name": "Clientele Ltd",
+    "M. Cap.": "5.89B",
+    "Close": 13.0,
+    "YTD": "+4%"
+  },
+  {
+    "Code": "PPE",
+    "Name": "Purple Group Ltd",
+    "M. Cap.": "3.2B",
+    "Close": 2.25,
+    "YTD": "+108%"
+  },
+  {
+    "Code": "STXRES",
+    "Name": "Satrix RESI ETF Portfolio",
+    "M. Cap.": "2.24B",
+    "Close": 111.17,
+    "YTD": "+105%"
+  },
+  {
+    "Code": "FGL",
+    "Name": "Finbond Group Ltd",
+    "M. Cap.": "583M",
+    "Close": 1.13,
+    "YTD": "+73.9%"
+  },
+  {
+    "Code": "YYLBEE",
+    "Name": "YeboYethu (RF) Ltd",
+    "M. Cap.": "2B",
+    "Close": 37.8,
+    "YTD": "+71.8%"
+  },
+  {
+    "Code": "ETFRHO",
+    "Name": "1nvest Rhodium ETF",
+    "M. Cap.": "1.27B",
+    "Close": 1301.6,
+    "YTD": "+69.7%"
+  }
+]

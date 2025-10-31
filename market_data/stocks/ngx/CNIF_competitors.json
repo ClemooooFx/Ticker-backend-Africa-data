@@ -1,0 +1,23 @@
+[
+  {
+    "Code": "HMCALL",
+    "Name": "Haldane McCall",
+    "M. Cap.": "13.7B",
+    "Close": 4.39,
+    "YTD": "-8.16%"
+  },
+  {
+    "Code": "UPDC",
+    "Name": "UPDC Plc",
+    "M. Cap.": "127B",
+    "Close": 6.85,
+    "YTD": "+331%"
+  },
+  {
+    "Code": "UPDCREIT",
+    "Name": "UPDC Real Estate Investment Trust",
+    "M. Cap.": "19.5B",
+    "Close": 7.3,
+    "YTD": "+46%"
+  }
+]

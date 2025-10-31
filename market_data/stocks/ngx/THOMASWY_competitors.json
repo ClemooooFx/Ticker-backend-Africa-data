@@ -1,0 +1,30 @@
+[
+  {
+    "Code": "MULTIVERSE",
+    "Name": "Multiverse Mining & Exploration",
+    "M. Cap.": "5.54B",
+    "Close": 13.0,
+    "YTD": "+76.9%"
+  },
+  {
+    "Code": "JAPAULGOLD",
+    "Name": "Japaul Gold and Ventures Plc",
+    "M. Cap.": "34.2B",
+    "Close": 2.4,
+    "YTD": "+17.1%"
+  },
+  {
+    "Code": "ALEX",
+    "Name": "Aluminium Extrusion Industries",
+    "M. Cap.": "1.57B",
+    "Close": 7.15,
+    "YTD": NaN
+  },
+  {
+    "Code": "IMG",
+    "Name": "Industrial & Medical Gases",
+    "M. Cap.": "17.8B",
+    "Close": 32.4,
+    "YTD": "-14.6%"
+  }
+]
