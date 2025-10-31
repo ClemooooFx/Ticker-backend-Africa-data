@@ -1,38 +1,38 @@
 [
   {
-    "Code": "CTUM",
-    "Name": "Centum Investment Company",
-    "M. Cap.": "9.78B",
-    "Close": 14.7,
-    "YTD": "+48.8%"
-  },
-  {
     "Code": "GLD",
     "Name": "Absa NewGold ETF",
-    "M. Cap.": "1.93B",
-    "Close": 4835.0,
-    "YTD": "+48.3%"
+    "M. Cap.": "1.96B",
+    "Close": 4910.0,
+    "YTD": "+50.6%"
+  },
+  {
+    "Code": "CTUM",
+    "Name": "Centum Investment Company",
+    "M. Cap.": "9.72B",
+    "Close": 14.6,
+    "YTD": "+47.8%"
   },
   {
     "Code": "HAFR",
     "Name": "Home Afrika Limited",
-    "M. Cap.": "466M",
-    "Close": 1.15,
-    "YTD": "+211%"
+    "M. Cap.": "458M",
+    "Close": 1.13,
+    "YTD": "+205%"
   },
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "4.04B",
-    "Close": 15.55,
-    "YTD": "+159%"
+    "M. Cap.": "4.22B",
+    "Close": 16.25,
+    "YTD": "+171%"
   },
   {
     "Code": "HFCK",
     "Name": "HF Group Limited",
-    "M. Cap.": "20B",
-    "Close": 10.6,
-    "YTD": "+135%"
+    "M. Cap.": "20.1B",
+    "Close": 10.65,
+    "YTD": "+136%"
   },
   {
     "Code": "KNRE",
@@ -44,16 +44,23 @@
   {
     "Code": "CIC",
     "Name": "CIC Insurance Group Limited",
-    "M. Cap.": "12.3B",
-    "Close": 4.7,
-    "YTD": "+119%"
+    "M. Cap.": "12.1B",
+    "Close": 4.64,
+    "YTD": "+116%"
   },
   {
     "Code": "JUB",
     "Name": "Jubilee Holdings Limited",
-    "M. Cap.": "23.1B",
-    "Close": 319.25,
-    "YTD": "+84%"
+    "M. Cap.": "23.2B",
+    "Close": 320.0,
+    "YTD": "+84.4%"
+  },
+  {
+    "Code": "NCBA",
+    "Name": "NCBA Group Plc",
+    "M. Cap.": "145B",
+    "Close": 88.0,
+    "YTD": "+82.6%"
   },
   {
     "Code": "SLAM",
@@ -61,12 +68,5 @@
     "M. Cap.": "1.3B",
     "Close": 9.0,
     "YTD": "+81.8%"
-  },
-  {
-    "Code": "NCBA",
-    "Name": "NCBA Group Plc",
-    "M. Cap.": "134B",
-    "Close": 81.5,
-    "YTD": "+69.1%"
   }
 ]

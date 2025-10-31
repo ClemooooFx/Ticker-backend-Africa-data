@@ -2,9 +2,9 @@
   {
     "Code": "TIP",
     "Name": "The Initiates Plc",
-    "M. Cap.": "11.6B",
-    "Close": 13.05,
-    "YTD": "+422%"
+    "M. Cap.": "11.4B",
+    "Close": 12.8,
+    "YTD": "+412%"
   },
   {
     "Code": "ABCTRANS",
@@ -23,23 +23,23 @@
   {
     "Code": "ACADEMY",
     "Name": "Academy Press",
-    "M. Cap.": "7.15B",
-    "Close": 7.88,
-    "YTD": "+163%"
+    "M. Cap.": "6.8B",
+    "Close": 7.5,
+    "YTD": "+150%"
   },
   {
     "Code": "CAVERTON",
     "Name": "Caverton Offshore Support Group",
-    "M. Cap.": "20.3B",
-    "Close": 6.05,
-    "YTD": "+161%"
+    "M. Cap.": "18.3B",
+    "Close": 5.45,
+    "YTD": "+135%"
   },
   {
     "Code": "NAHCO",
     "Name": "Nigerian Aviation Handling Co.",
-    "M. Cap.": "220B",
-    "Close": 113.0,
-    "YTD": "+145%"
+    "M. Cap.": "205B",
+    "Close": 105.0,
+    "YTD": "+128%"
   },
   {
     "Code": "REDSTAREX",
@@ -47,6 +47,13 @@
     "M. Cap.": "9.59B",
     "Close": 10.05,
     "YTD": "+128%"
+  },
+  {
+    "Code": "IKEJAHOTEL",
+    "Name": "Ikeja Hotel Plc",
+    "M. Cap.": "40.7B",
+    "Close": 18.8,
+    "YTD": "+67.1%"
   },
   {
     "Code": "DAARCOMM",
@@ -61,12 +68,5 @@
     "M. Cap.": "1.07B",
     "Close": 2.15,
     "YTD": "+55.8%"
-  },
-  {
-    "Code": "IKEJAHOTEL",
-    "Name": "Ikeja Hotel Plc",
-    "M. Cap.": "37.5B",
-    "Close": 17.35,
-    "YTD": "+54.2%"
   }
 ]

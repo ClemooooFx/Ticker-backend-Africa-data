@@ -23,9 +23,9 @@
   {
     "Code": "TSL",
     "Name": "TSL Limited",
-    "M. Cap.": "751M",
-    "Close": 2.110075,
-    "YTD": "-5.06%"
+    "M. Cap.": "766M",
+    "Close": 2.15,
+    "YTD": "-3.26%"
   },
   {
     "Code": "CAFCA",
@@ -38,7 +38,7 @@
     "Code": "PROL",
     "Name": "Proplastics Limited",
     "M. Cap.": "276M",
-    "Close": 1.10202,
+    "Close": 1.1025,
     "YTD": "-25.6%"
   },
   {
@@ -66,7 +66,7 @@
     "Code": "ARTD",
     "Name": "Amalgamated Regional Trading",
     "M. Cap.": "32.6M",
-    "Close": 0.0699,
+    "Close": 0.07,
     "YTD": "-78.6%"
   }
 ]
