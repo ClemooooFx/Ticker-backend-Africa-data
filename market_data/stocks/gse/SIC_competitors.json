@@ -2,9 +2,9 @@
   {
     "Code": "ETI",
     "Name": "Ecobank Transnational Incorporated",
-    "M. Cap.": "24.1B",
-    "Close": 1.0,
-    "YTD": "+223%"
+    "M. Cap.": "23.8B",
+    "Close": 0.99,
+    "YTD": "+219%"
   },
   {
     "Code": "ACCESS",
@@ -23,16 +23,16 @@
   {
     "Code": "EGH",
     "Name": "Ecobank Ghana Limited",
-    "M. Cap.": "4.53B",
-    "Close": 14.04,
-    "YTD": "+116%"
+    "M. Cap.": "4.98B",
+    "Close": 15.44,
+    "YTD": "+138%"
   },
   {
     "Code": "SOGEGH",
     "Name": "Societe Generale Ghana Limited",
-    "M. Cap.": "2.2B",
-    "Close": 3.1,
-    "YTD": "+107%"
+    "M. Cap.": "2.42B",
+    "Close": 3.41,
+    "YTD": "+127%"
   },
   {
     "Code": "RBGH",
@@ -51,9 +51,9 @@
   {
     "Code": "CAL",
     "Name": "CalBank Plc",
-    "M. Cap.": "610M",
-    "Close": 0.54,
-    "YTD": "+54.3%"
+    "M. Cap.": "553M",
+    "Close": 0.49,
+    "YTD": "+40%"
   },
   {
     "Code": "TBL",

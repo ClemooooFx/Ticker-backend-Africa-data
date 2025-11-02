@@ -2,71 +2,71 @@
   {
     "Code": "MTA",
     "Name": "Metair Investments Ltd",
-    "M. Cap.": "1.33B",
-    "Close": 6.7,
-    "YTD": "-32%"
+    "M. Cap.": "1.31B",
+    "Close": 6.6,
+    "YTD": "-33%"
   },
   {
     "Code": "BTI",
     "Name": "British American Tobacco Plc",
-    "M. Cap.": "2.06T",
-    "Close": 883.62,
-    "YTD": "+30.6%"
+    "M. Cap.": "2.07T",
+    "Close": 887.12,
+    "YTD": "+31.1%"
   },
   {
     "Code": "CFR",
     "Name": "Compagnie Financi\\xc3\\xa8re Richemont",
-    "M. Cap.": "1.85T",
-    "Close": 3449.73,
-    "YTD": "+24.3%"
+    "M. Cap.": "1.83T",
+    "Close": 3413.28,
+    "YTD": "+23%"
   },
   {
     "Code": "RBO",
     "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "3.93B",
-    "Close": 4.39,
-    "YTD": "+20.9%"
-  },
-  {
-    "Code": "PMR",
-    "Name": "Premier Group Ltd",
-    "M. Cap.": "21B",
-    "Close": 163.1,
-    "YTD": "+19.9%"
+    "M. Cap.": "3.9B",
+    "Close": 4.36,
+    "YTD": "+20.1%"
   },
   {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "9.57B",
-    "Close": 222.89,
-    "YTD": "+19.2%"
+    "M. Cap.": "9.61B",
+    "Close": 223.96,
+    "YTD": "+19.8%"
+  },
+  {
+    "Code": "PMR",
+    "Name": "Premier Group Ltd",
+    "M. Cap.": "20.9B",
+    "Close": 162.0,
+    "YTD": "+19.1%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
-    "M. Cap.": "57.8B",
-    "Close": 330.25,
-    "YTD": "+14.3%"
+    "M. Cap.": "57.4B",
+    "Close": 328.4,
+    "YTD": "+13.6%"
   },
   {
     "Code": "ANH",
     "Name": "Anheuser-Busch InBev SA/NV",
-    "M. Cap.": "1.9T",
-    "Close": 1055.09,
-    "YTD": "+12.5%"
-  },
-  {
-    "Code": "LBR",
-    "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.82B",
-    "Close": 4.63,
-    "YTD": "+6.44%"
+    "M. Cap.": "1.89T",
+    "Close": 1052.97,
+    "YTD": "+12.3%"
   },
   {
     "Code": "NWL",
     "Name": "Nu-World Holdings Limited",
-    "M. Cap.": "632M",
-    "Close": 28.99,
-    "YTD": "+5.38%"
+    "M. Cap.": "654M",
+    "Close": 29.99,
+    "YTD": "+9.01%"
+  },
+  {
+    "Code": "RFG",
+    "Name": "RFG Holdings Limited",
+    "M. Cap.": "5.67B",
+    "Close": 21.58,
+    "YTD": "+4.3%"
   }
 ]

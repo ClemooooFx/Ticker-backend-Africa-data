@@ -2,9 +2,9 @@
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "11.9B",
-    "Close": 17.06,
-    "YTD": "+42.6%"
+    "M. Cap.": "11.8B",
+    "Close": 16.95,
+    "YTD": "+41.7%"
   },
   {
     "Code": "GNDP",
@@ -16,23 +16,23 @@
   {
     "Code": "LAB",
     "Name": "Labat Africa Ltd",
-    "M. Cap.": "56.6M",
-    "Close": 0.05,
-    "YTD": "-28.6%"
+    "M. Cap.": "79.3M",
+    "Close": 0.07,
+    "YTD": NaN
   },
   {
     "Code": "SPG",
     "Name": "Super Group Ltd",
-    "M. Cap.": "5.38B",
-    "Close": 15.88,
-    "YTD": "-46.2%"
+    "M. Cap.": "5.45B",
+    "Close": 16.06,
+    "YTD": "-45.6%"
   },
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "792M",
-    "Close": 7.21,
-    "YTD": "+46%"
+    "M. Cap.": "791M",
+    "Close": 7.2,
+    "YTD": "+45.8%"
   },
   {
     "Code": "MFL",
@@ -42,13 +42,6 @@
     "YTD": "+35.7%"
   },
   {
-    "Code": "SSK",
-    "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "940M",
-    "Close": 5.0,
-    "YTD": "+25%"
-  },
-  {
     "Code": "PMV",
     "Name": "Primeserv Group Ltd",
     "M. Cap.": "340M",
@@ -56,17 +49,24 @@
     "YTD": "+23.8%"
   },
   {
+    "Code": "SSK",
+    "Name": "Stefanutti Stocks Holdings Ltd",
+    "M. Cap.": "922M",
+    "Close": 4.9,
+    "YTD": "+22.5%"
+  },
+  {
     "Code": "IVT",
     "Name": "Invicta Holdings Ltd",
-    "M. Cap.": "3.37B",
-    "Close": 37.99,
-    "YTD": "+15.1%"
+    "M. Cap.": "3.39B",
+    "Close": 38.17,
+    "YTD": "+15.7%"
   },
   {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.06B",
-    "Close": 478.56,
-    "YTD": "+15%"
+    "M. Cap.": "4.08B",
+    "Close": 481.01,
+    "YTD": "+15.6%"
   }
 ]

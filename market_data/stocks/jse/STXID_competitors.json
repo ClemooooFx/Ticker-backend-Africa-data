@@ -2,16 +2,16 @@
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2B",
-    "Close": 37.8,
-    "YTD": "+71.8%"
+    "M. Cap.": "2.02B",
+    "Close": 38.21,
+    "YTD": "+73.7%"
   },
   {
     "Code": "ETFRHO",
     "Name": "1nvest Rhodium ETF",
-    "M. Cap.": "1.27B",
-    "Close": 1301.6,
-    "YTD": "+69.7%"
+    "M. Cap.": "1.24B",
+    "Close": 1273.81,
+    "YTD": "+66.1%"
   },
   {
     "Code": "BAC",
@@ -23,50 +23,50 @@
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "7.76B",
-    "Close": 263.84,
-    "YTD": "+61%"
+    "M. Cap.": "7.77B",
+    "Close": 264.19,
+    "YTD": "+61.2%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "4B",
-    "Close": 264.85,
-    "YTD": "+60.4%"
+    "M. Cap.": "3.99B",
+    "Close": 264.07,
+    "YTD": "+59.9%"
   },
   {
     "Code": "EASYGE",
     "Name": "EasyETFs Global Equity AMETF",
-    "M. Cap.": "449M",
-    "Close": 15.73,
-    "YTD": "+48.5%"
+    "M. Cap.": "455M",
+    "Close": 15.97,
+    "YTD": "+50.8%"
   },
   {
     "Code": "ETFPLD",
     "Name": "1nvest Palladium ETF",
-    "M. Cap.": "58.2M",
-    "Close": 237.36,
-    "YTD": "+45.9%"
+    "M. Cap.": "59.5M",
+    "Close": 242.64,
+    "YTD": "+49.1%"
   },
   {
     "Code": "NGPLD",
     "Name": "NewGold Palladium ETF",
-    "M. Cap.": "242M",
-    "Close": 237.56,
-    "YTD": "+45.8%"
+    "M. Cap.": "248M",
+    "Close": 242.74,
+    "YTD": "+49%"
+  },
+  {
+    "Code": "EASYAI",
+    "Name": "EasyETFs AI World Actively Managed ETF",
+    "M. Cap.": "414M",
+    "Close": 92.4,
+    "YTD": "+43.5%"
   },
   {
     "Code": "WTOP20",
     "Name": "10X Wealth Top 20 Capped ETF",
-    "M. Cap.": "969M",
-    "Close": 14.8,
-    "YTD": "+43.4%"
-  },
-  {
-    "Code": "GLD",
-    "Name": "New Gold Issuer Limited",
-    "M. Cap.": "37.9B",
-    "Close": 640.36,
-    "YTD": "+40.9%"
+    "M. Cap.": "968M",
+    "Close": 14.78,
+    "YTD": "+43.2%"
   }
 ]

@@ -2,58 +2,58 @@
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "940M",
-    "Close": 5.0,
-    "YTD": "+25%"
-  },
-  {
-    "Code": "TRL",
-    "Name": "Trellidor Hldgs Ltd",
-    "M. Cap.": "173M",
-    "Close": 1.82,
-    "YTD": "+4.6%"
+    "M. Cap.": "922M",
+    "Close": 4.9,
+    "YTD": "+22.5%"
   },
   {
     "Code": "PPC",
     "Name": "PPC Limited",
-    "M. Cap.": "8.22B",
-    "Close": 5.29,
-    "YTD": "+2.72%"
+    "M. Cap.": "8.56B",
+    "Close": 5.51,
+    "YTD": "+6.99%"
+  },
+  {
+    "Code": "TRL",
+    "Name": "Trellidor Hldgs Ltd",
+    "M. Cap.": "171M",
+    "Close": 1.8,
+    "YTD": "+3.45%"
   },
   {
     "Code": "SEP",
     "Name": "Sephaku Holdings Limited",
-    "M. Cap.": "387M",
-    "Close": 1.52,
-    "YTD": "-18.3%"
+    "M. Cap.": "382M",
+    "Close": 1.5,
+    "YTD": "-19.4%"
   },
   {
     "Code": "RBX",
     "Name": "Raubex Group Ltd",
-    "M. Cap.": "7.52B",
-    "Close": 41.35,
-    "YTD": "-22%"
+    "M. Cap.": "7.54B",
+    "Close": 41.47,
+    "YTD": "-21.8%"
   },
   {
     "Code": "CGR",
     "Name": "Calgro M3 Hldgs Ltd",
-    "M. Cap.": "554M",
-    "Close": 4.9,
-    "YTD": "-26.9%"
-  },
-  {
-    "Code": "AFT",
-    "Name": "Afrimat Limited",
-    "M. Cap.": "7.53B",
-    "Close": 46.95,
-    "YTD": "-33.8%"
+    "M. Cap.": "569M",
+    "Close": 5.03,
+    "YTD": "-24.9%"
   },
   {
     "Code": "WBO",
     "Name": "Wilson Bayly Hlm-Ovc Ltd",
     "M. Cap.": "10.8B",
-    "Close": 152.59,
-    "YTD": "-34.6%"
+    "Close": 151.52,
+    "YTD": "-35.1%"
+  },
+  {
+    "Code": "AFT",
+    "Name": "Afrimat Limited",
+    "M. Cap.": "7.3B",
+    "Close": 45.52,
+    "YTD": "-35.8%"
   },
   {
     "Code": "AEG",
@@ -65,8 +65,8 @@
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "792M",
-    "Close": 7.21,
-    "YTD": "+46%"
+    "M. Cap.": "791M",
+    "Close": 7.2,
+    "YTD": "+45.8%"
   }
 ]
