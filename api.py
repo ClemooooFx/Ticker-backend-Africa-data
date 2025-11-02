@@ -97,6 +97,18 @@ def get_stock_price(market: str, ticker: str):
     file_path = BASE_PATH / "stocks" / market / f"{ticker}_price.json"
     return load_json_file(file_path)
 
+import math
+
+def sanitize_data(obj):
+    """Recursively replace NaN and Inf values with None"""
+    if isinstance(obj, float):
+        if math.isnan(obj) or math.isinf(obj):
+            return None
+    elif isinstance(obj, dict):
+        return {key: sanitize_data(value) for key, value in obj.items()}
+    elif isinstance(obj, list):
+        return [sanitize_data(item) for item in obj]
+    return obj
 
 @app.get("/stock/{market}/{ticker}/growth-valuation")
 def get_stock_growth_valuation(market: str, ticker: str):
@@ -111,21 +123,12 @@ def get_stock_growth_valuation(market: str, ticker: str):
         )
     
     file_path = BASE_PATH / "stocks" / market / f"{ticker}_growth_valuation.json"
-    return load_json_file(file_path)
+    data = load_json_file(file_path)
+    # Sanitize NaN/Inf values before returning
+    cleaned_data = sanitize_data(data)
+    return cleaned_data
 
 
-import math
-
-def sanitize_data(obj):
-    """Recursively replace NaN and Inf values with None"""
-    if isinstance(obj, float):
-        if math.isnan(obj) or math.isinf(obj):
-            return None
-    elif isinstance(obj, dict):
-        return {key: sanitize_data(value) for key, value in obj.items()}
-    elif isinstance(obj, list):
-        return [sanitize_data(item) for item in obj]
-    return obj
 
 @app.get("/stock/{market}/{ticker}/performance")
 def get_stock_performance(market: str, ticker: str):
