@@ -9,13 +9,3 @@
     "restartPolicyMaxRetries": 10
   }
 }
-```
-
-**4. Create a `Procfile` (alternative to railway.json):**
-```
-web: uvicorn api:app --host 0.0.0.0 --port $PORT
-```
-
-**5. Create a `runtime.txt` (optional, specify Python version):**
-```
-python-3.11.6
