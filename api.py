@@ -127,8 +127,14 @@ def get_stock_performance(market: str, ticker: str):
         )
     
     file_path = BASE_PATH / "stocks" / market / f"{ticker}_performance.json"
-    return load_json_file(file_path)
-
+    data = load_json_file(file_path)
+    
+    # Convert NaN to None during JSON serialization
+    return JSONResponse(
+        content=json.loads(
+            json.dumps(data, allow_nan=False, default=lambda x: None if (isinstance(x, float) and (math.isnan(x) or math.isinf(x))) else x)
+        )
+    )
 
 @app.get("/stock/{market}/{ticker}/competitors")
 def get_stock_competitors(market: str, ticker: str):
