@@ -1,10 +1,10 @@
 [
   {
-    "Code": "ELLAHLAKES",
-    "Name": "Ellah Lakes Plc",
-    "M. Cap.": "50B",
-    "Close": 12.95,
-    "YTD": "+310%"
+    "Code": "CHAMPION",
+    "Name": "Champion Breweries",
+    "M. Cap.": "143B",
+    "Close": 15.95,
+    "YTD": "+319%"
   },
   {
     "Code": "VITAFOAM",
@@ -14,11 +14,11 @@
     "YTD": "+309%"
   },
   {
-    "Code": "CHAMPION",
-    "Name": "Champion Breweries",
-    "M. Cap.": "134B",
-    "Close": 15.0,
-    "YTD": "+294%"
+    "Code": "ELLAHLAKES",
+    "Name": "Ellah Lakes Plc",
+    "M. Cap.": "47.3B",
+    "Close": 12.25,
+    "YTD": "+288%"
   },
   {
     "Code": "NASCON",
@@ -26,13 +26,6 @@
     "M. Cap.": "297B",
     "Close": 110.0,
     "YTD": "+251%"
-  },
-  {
-    "Code": "HONYFLOUR",
-    "Name": "Honeywell Flour Mill",
-    "M. Cap.": "159B",
-    "Close": 20.0,
-    "YTD": "+217%"
   },
   {
     "Code": "PRESCO",
@@ -49,6 +42,13 @@
     "YTD": "+191%"
   },
   {
+    "Code": "HONYFLOUR",
+    "Name": "Honeywell Flour Mill",
+    "M. Cap.": "143B",
+    "Close": 18.0,
+    "YTD": "+186%"
+  },
+  {
     "Code": "FTNCOCOA",
     "Name": "FTN Cocoa Processors",
     "M. Cap.": "19.5B",
@@ -58,15 +58,15 @@
   {
     "Code": "OKOMUOIL",
     "Name": "Okomu Oil Palm",
-    "M. Cap.": "1.03T",
-    "Close": 1080.0,
-    "YTD": "+143%"
+    "M. Cap.": "1.06T",
+    "Close": 1110.0,
+    "YTD": "+150%"
   },
   {
-    "Code": "UNILEVER",
-    "Name": "Unilever Nigeria",
-    "M. Cap.": "442B",
-    "Close": 77.0,
-    "YTD": "+134%"
+    "Code": "INTBREW",
+    "Name": "International Breweries",
+    "M. Cap.": "2.26T",
+    "Close": 13.4,
+    "YTD": "+141%"
   }
 ]

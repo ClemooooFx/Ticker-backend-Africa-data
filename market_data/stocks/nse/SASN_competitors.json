@@ -2,44 +2,44 @@
   {
     "Code": "SMER",
     "Name": "Sameer Africa Plc",
-    "M. Cap.": "4.18B",
-    "Close": 15.0,
-    "YTD": "+517%"
+    "M. Cap.": "4.16B",
+    "Close": 14.95,
+    "YTD": "+515%"
   },
   {
     "Code": "EGAD",
     "Name": "Eaagads Limited",
-    "M. Cap.": "656M",
-    "Close": 20.4,
-    "YTD": "+70%"
+    "M. Cap.": "643M",
+    "Close": 20.0,
+    "YTD": "+66.7%"
   },
   {
     "Code": "UNGA",
     "Name": "Unga Group Limited",
-    "M. Cap.": "1.87B",
-    "Close": 24.65,
-    "YTD": "+64.3%"
+    "M. Cap.": "1.79B",
+    "Close": 23.7,
+    "YTD": "+58%"
   },
   {
     "Code": "EABL",
     "Name": "East African Breweries Limited",
     "M. Cap.": "183B",
-    "Close": 231.75,
-    "YTD": "+32.1%"
+    "Close": 232.0,
+    "YTD": "+32.2%"
   },
   {
     "Code": "BAT",
     "Name": "British American Tobacco Kenya",
-    "M. Cap.": "45B",
-    "Close": 449.75,
-    "YTD": "+19.6%"
+    "M. Cap.": "44.9B",
+    "Close": 449.0,
+    "YTD": "+19.4%"
   },
   {
     "Code": "EVRD",
     "Name": "Eveready East Africa Limited",
-    "M. Cap.": "288M",
-    "Close": 1.37,
-    "YTD": "+19.1%"
+    "M. Cap.": "284M",
+    "Close": 1.35,
+    "YTD": "+17.4%"
   },
   {
     "Code": "LIMT",
@@ -51,9 +51,9 @@
   {
     "Code": "KUKZ",
     "Name": "Kakuzi Limited",
-    "M. Cap.": "8.09B",
-    "Close": 412.75,
-    "YTD": "+7.21%"
+    "M. Cap.": "8.13B",
+    "Close": 415.0,
+    "YTD": "+7.79%"
   },
   {
     "Code": "KAPC",
@@ -65,8 +65,8 @@
   {
     "Code": "WTK",
     "Name": "Williamson Tea Kenya Limited",
-    "M. Cap.": "3.41B",
-    "Close": 195.0,
-    "YTD": "-13.9%"
+    "M. Cap.": "3.54B",
+    "Close": 202.25,
+    "YTD": "-10.7%"
   }
 ]

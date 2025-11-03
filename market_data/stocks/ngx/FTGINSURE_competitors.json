@@ -2,23 +2,23 @@
   {
     "Code": "MANSARD",
     "Name": "AXA Mansard Insurance",
-    "M. Cap.": "124B",
-    "Close": 13.8,
-    "YTD": "+68.3%"
+    "M. Cap.": "123B",
+    "Close": 13.65,
+    "YTD": "+66.5%"
   },
   {
     "Code": "REGALINS",
     "Name": "Regency Alliance Insurance",
-    "M. Cap.": "19.7B",
-    "Close": 1.23,
-    "YTD": "+64%"
+    "M. Cap.": "19.2B",
+    "Close": 1.2,
+    "YTD": "+60%"
   },
   {
     "Code": "CONHALLPLC",
     "Name": "Consolidated Hallmark Holdings",
-    "M. Cap.": "48.8B",
-    "Close": 4.5,
-    "YTD": "+30.4%"
+    "M. Cap.": "46.2B",
+    "Close": 4.26,
+    "YTD": "+23.5%"
   },
   {
     "Code": "SUNUASSUR",
@@ -30,16 +30,16 @@
   {
     "Code": "MBENEFIT",
     "Name": "Mutual Benefits Assurance",
-    "M. Cap.": "82.1B",
-    "Close": 4.09,
-    "YTD": "+570%"
+    "M. Cap.": "76.2B",
+    "Close": 3.8,
+    "YTD": "+523%"
   },
   {
     "Code": "SOVRENINS",
     "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "55.5B",
-    "Close": 3.9,
-    "YTD": "+248%"
+    "M. Cap.": "55.2B",
+    "Close": 3.88,
+    "YTD": "+246%"
   },
   {
     "Code": "NEM",
@@ -51,9 +51,9 @@
   {
     "Code": "AIICO",
     "Name": "Aiico Insurance Plc",
-    "M. Cap.": "143B",
-    "Close": 3.91,
-    "YTD": "+173%"
+    "M. Cap.": "139B",
+    "Close": 3.8,
+    "YTD": "+166%"
   },
   {
     "Code": "CUSTODIAN",

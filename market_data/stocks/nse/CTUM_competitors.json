@@ -2,71 +2,71 @@
   {
     "Code": "GLD",
     "Name": "Absa NewGold ETF",
-    "M. Cap.": "1.96B",
-    "Close": 4910.0,
-    "YTD": "+50.6%"
+    "M. Cap.": "2.04B",
+    "Close": 5090.0,
+    "YTD": "+56.1%"
   },
   {
     "Code": "SMWF",
     "Name": "Satrix MSCI World Feeder ETF",
-    "M. Cap.": "85.5M",
-    "Close": 855.0,
-    "YTD": "+12.4%"
+    "M. Cap.": "84.1M",
+    "Close": 841.0,
+    "YTD": "+10.5%"
   },
   {
     "Code": "HAFR",
     "Name": "Home Afrika Limited",
-    "M. Cap.": "458M",
-    "Close": 1.13,
-    "YTD": "+205%"
+    "M. Cap.": "462M",
+    "Close": 1.14,
+    "YTD": "+208%"
   },
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "4.22B",
-    "Close": 16.25,
-    "YTD": "+171%"
+    "M. Cap.": "4.59B",
+    "Close": 17.7,
+    "YTD": "+195%"
   },
   {
     "Code": "HFCK",
     "Name": "HF Group Limited",
-    "M. Cap.": "20.1B",
-    "Close": 10.65,
-    "YTD": "+136%"
+    "M. Cap.": "20.6B",
+    "Close": 10.95,
+    "YTD": "+143%"
   },
   {
     "Code": "KNRE",
     "Name": "Kenya Re-Insurance Corporation Ltd",
-    "M. Cap.": "16.8B",
-    "Close": 3.0,
-    "YTD": "+134%"
+    "M. Cap.": "17.1B",
+    "Close": 3.06,
+    "YTD": "+139%"
   },
   {
     "Code": "CIC",
     "Name": "CIC Insurance Group Limited",
-    "M. Cap.": "12.1B",
-    "Close": 4.64,
-    "YTD": "+116%"
+    "M. Cap.": "11.8B",
+    "Close": 4.53,
+    "YTD": "+111%"
   },
   {
     "Code": "JUB",
     "Name": "Jubilee Holdings Limited",
     "M. Cap.": "23.2B",
-    "Close": 320.0,
-    "YTD": "+84.4%"
+    "Close": 320.75,
+    "YTD": "+84.9%"
   },
   {
     "Code": "NCBA",
     "Name": "NCBA Group Plc",
-    "M. Cap.": "145B",
-    "Close": 88.0,
-    "YTD": "+82.6%"
+    "M. Cap.": "144B",
+    "Close": 87.5,
+    "YTD": "+81.5%"
   },
   {
     "Code": "SLAM",
     "Name": "Sanlam Kenya Plc",
-    "M. Cap.": "1.3B",
-    "Close": 9.0,
-    "YTD": "+81.8%"
+    "M. Cap.": "1.26B",
+    "Close": 8.74,
+    "YTD": "+76.6%"
   }
 ]

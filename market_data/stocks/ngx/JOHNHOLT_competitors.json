@@ -28,18 +28,18 @@
     "YTD": "+197%"
   },
   {
-    "Code": "BERGER",
-    "Name": "Berger Paints",
-    "M. Cap.": "12.3B",
-    "Close": 42.5,
-    "YTD": "+113%"
-  },
-  {
     "Code": "UACN",
     "Name": "UAC of Nigeria",
-    "M. Cap.": "195B",
-    "Close": 66.5,
-    "YTD": "+111%"
+    "M. Cap.": "190B",
+    "Close": 65.0,
+    "YTD": "+107%"
+  },
+  {
+    "Code": "BERGER",
+    "Name": "Berger Paints",
+    "M. Cap.": "11.9B",
+    "Close": 41.0,
+    "YTD": "+105%"
   },
   {
     "Code": "WAPCO",

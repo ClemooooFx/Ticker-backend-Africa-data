@@ -16,23 +16,23 @@
   {
     "Code": "ETRANZACT",
     "Name": "E-Tranzact International",
-    "M. Cap.": "117B",
-    "Close": 12.7,
-    "YTD": "+95.4%"
-  },
-  {
-    "Code": "CHAMS",
-    "Name": "Chams Plc",
-    "M. Cap.": "16B",
-    "Close": 3.41,
-    "YTD": "+71.4%"
+    "M. Cap.": "122B",
+    "Close": 13.25,
+    "YTD": "+104%"
   },
   {
     "Code": "OMATEK",
     "Name": "Omatek Ventures",
-    "M. Cap.": "3.56B",
-    "Close": 1.21,
-    "YTD": "+65.8%"
+    "M. Cap.": "3.91B",
+    "Close": 1.33,
+    "YTD": "+82.2%"
+  },
+  {
+    "Code": "CHAMS",
+    "Name": "Chams Plc",
+    "M. Cap.": "15.9B",
+    "Close": 3.38,
+    "YTD": "+69.9%"
   },
   {
     "Code": "LEGENDINT",
