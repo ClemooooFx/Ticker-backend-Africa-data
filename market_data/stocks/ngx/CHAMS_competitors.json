@@ -16,9 +16,9 @@
   {
     "Code": "CWG",
     "Name": "Computer Warehouse Group",
-    "M. Cap.": "42.8B",
-    "Close": 16.95,
-    "YTD": "+120%"
+    "M. Cap.": "42.4B",
+    "Close": 16.8,
+    "YTD": "+118%"
   },
   {
     "Code": "ETRANZACT",
@@ -30,15 +30,15 @@
   {
     "Code": "OMATEK",
     "Name": "Omatek Ventures",
-    "M. Cap.": "3.91B",
-    "Close": 1.33,
-    "YTD": "+82.2%"
+    "M. Cap.": "3.82B",
+    "Close": 1.3,
+    "YTD": "+78.1%"
   },
   {
     "Code": "LEGENDINT",
     "Name": "Legend Internet",
-    "M. Cap.": "10.5B",
-    "Close": 5.26,
-    "YTD": "-15.2%"
+    "M. Cap.": "10.7B",
+    "Close": 5.35,
+    "YTD": "-13.7%"
   }
 ]

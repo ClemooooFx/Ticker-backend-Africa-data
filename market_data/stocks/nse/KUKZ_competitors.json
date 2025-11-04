@@ -2,23 +2,23 @@
   {
     "Code": "SMER",
     "Name": "Sameer Africa Plc",
-    "M. Cap.": "4.16B",
-    "Close": 14.95,
-    "YTD": "+515%"
+    "M. Cap.": "4.18B",
+    "Close": 15.0,
+    "YTD": "+517%"
   },
   {
     "Code": "EGAD",
     "Name": "Eaagads Limited",
-    "M. Cap.": "643M",
-    "Close": 20.0,
-    "YTD": "+66.7%"
+    "M. Cap.": "654M",
+    "Close": 20.35,
+    "YTD": "+69.6%"
   },
   {
     "Code": "UNGA",
     "Name": "Unga Group Limited",
-    "M. Cap.": "1.79B",
-    "Close": 23.7,
-    "YTD": "+58%"
+    "M. Cap.": "1.85B",
+    "Close": 24.45,
+    "YTD": "+63%"
   },
   {
     "Code": "EABL",
@@ -30,16 +30,16 @@
   {
     "Code": "SASN",
     "Name": "Sasini Tea and Coffee Limited",
-    "M. Cap.": "4.25B",
-    "Close": 18.65,
-    "YTD": "+24.3%"
+    "M. Cap.": "4.26B",
+    "Close": 18.7,
+    "YTD": "+24.7%"
   },
   {
     "Code": "BAT",
     "Name": "British American Tobacco Kenya",
-    "M. Cap.": "44.9B",
-    "Close": 449.0,
-    "YTD": "+19.4%"
+    "M. Cap.": "44.5B",
+    "Close": 445.25,
+    "YTD": "+18.4%"
   },
   {
     "Code": "EVRD",
@@ -58,15 +58,15 @@
   {
     "Code": "KAPC",
     "Name": "Kapchorua Tea Company Limited",
-    "M. Cap.": "1.82B",
-    "Close": 232.0,
-    "YTD": "-1.28%"
+    "M. Cap.": "1.84B",
+    "Close": 235.25,
+    "YTD": "+0.11%"
   },
   {
     "Code": "WTK",
     "Name": "Williamson Tea Kenya Limited",
-    "M. Cap.": "3.54B",
-    "Close": 202.25,
-    "YTD": "-10.7%"
+    "M. Cap.": "3.53B",
+    "Close": 201.5,
+    "YTD": "-11%"
   }
 ]

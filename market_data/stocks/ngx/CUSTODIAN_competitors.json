@@ -9,36 +9,36 @@
   {
     "Code": "SOVRENINS",
     "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "55.2B",
-    "Close": 3.88,
-    "YTD": "+246%"
+    "M. Cap.": "52.5B",
+    "Close": 3.69,
+    "YTD": "+229%"
   },
   {
     "Code": "NEM",
     "Name": "N.E.M. Insurance Company",
-    "M. Cap.": "153B",
-    "Close": 30.5,
-    "YTD": "+179%"
+    "M. Cap.": "140B",
+    "Close": 28.0,
+    "YTD": "+156%"
   },
   {
     "Code": "AIICO",
     "Name": "Aiico Insurance Plc",
-    "M. Cap.": "139B",
-    "Close": 3.8,
-    "YTD": "+166%"
+    "M. Cap.": "130B",
+    "Close": 3.56,
+    "YTD": "+149%"
+  },
+  {
+    "Code": "ABBEYBDS",
+    "Name": "Abbey Mortgage Bank Plc",
+    "M. Cap.": "73.1B",
+    "Close": 7.2,
+    "YTD": "+140%"
   },
   {
     "Code": "SFSREIT",
     "Name": "Skye Shelter Fund Plc",
     "M. Cap.": "8.38B",
     "Close": 418.75,
-    "YTD": "+133%"
-  },
-  {
-    "Code": "ABBEYBDS",
-    "Name": "Abbey Mortgage Bank Plc",
-    "M. Cap.": "71.1B",
-    "Close": 7.0,
     "YTD": "+133%"
   },
   {
@@ -51,9 +51,9 @@
   {
     "Code": "ASOSAVINGS",
     "Name": "Aso Savings & Loans",
-    "M. Cap.": "15.8B",
-    "Close": 1.07,
-    "YTD": "+114%"
+    "M. Cap.": "15.6B",
+    "Close": 1.06,
+    "YTD": "+112%"
   },
   {
     "Code": "NGXGROUP",
@@ -65,8 +65,8 @@
   {
     "Code": "ROYALEX",
     "Name": "Royal Exchange",
-    "M. Cap.": "16.9B",
-    "Close": 2.05,
-    "YTD": "+105%"
+    "M. Cap.": "16.5B",
+    "Close": 2.0,
+    "YTD": "+100%"
   }
 ]

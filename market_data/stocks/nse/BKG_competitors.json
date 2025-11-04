@@ -2,71 +2,71 @@
   {
     "Code": "NCBA",
     "Name": "NCBA Group Plc",
-    "M. Cap.": "144B",
-    "Close": 87.5,
-    "YTD": "+81.5%"
+    "M. Cap.": "146B",
+    "Close": 88.5,
+    "YTD": "+83.6%"
   },
   {
     "Code": "KCB",
     "Name": "KCB Group",
-    "M. Cap.": "198B",
-    "Close": 61.75,
-    "YTD": "+48.4%"
+    "M. Cap.": "199B",
+    "Close": 62.0,
+    "YTD": "+49%"
   },
   {
     "Code": "EQTY",
     "Name": "Equity Group Holdings Limited",
-    "M. Cap.": "255B",
-    "Close": 67.5,
-    "YTD": "+39.8%"
+    "M. Cap.": "257B",
+    "Close": 68.0,
+    "YTD": "+40.8%"
   },
   {
     "Code": "ABSA",
     "Name": "Absa Bank Kenya Plc",
     "M. Cap.": "127B",
-    "Close": 23.4,
-    "YTD": "+29.6%"
+    "Close": 23.35,
+    "YTD": "+29.4%"
   },
   {
     "Code": "IMH",
     "Name": "I&M Holdings Plc",
-    "M. Cap.": "73.6B",
-    "Close": 44.5,
-    "YTD": "+22.8%"
-  },
-  {
-    "Code": "HAFR",
-    "Name": "Home Afrika Limited",
-    "M. Cap.": "462M",
-    "Close": 1.14,
-    "YTD": "+208%"
+    "M. Cap.": "74.4B",
+    "Close": 45.0,
+    "YTD": "+24.1%"
   },
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "4.59B",
-    "Close": 17.7,
-    "YTD": "+195%"
+    "M. Cap.": "5.01B",
+    "Close": 19.3,
+    "YTD": "+222%"
+  },
+  {
+    "Code": "HAFR",
+    "Name": "Home Afrika Limited",
+    "M. Cap.": "458M",
+    "Close": 1.13,
+    "YTD": "+205%"
   },
   {
     "Code": "HFCK",
     "Name": "HF Group Limited",
     "M. Cap.": "20.6B",
-    "Close": 10.95,
-    "YTD": "+143%"
+    "Close": 10.9,
+    "YTD": "+142%"
   },
   {
     "Code": "KNRE",
     "Name": "Kenya Re-Insurance Corporation Ltd",
-    "M. Cap.": "17.1B",
-    "Close": 3.06,
-    "YTD": "+139%"
+    "M. Cap.": "17.2B",
+    "Close": 3.08,
+    "YTD": "+141%"
   },
   {
     "Code": "CIC",
     "Name": "CIC Insurance Group Limited",
-    "M. Cap.": "11.8B",
-    "Close": 4.53,
-    "YTD": "+111%"
+    "M. Cap.": "12.3B",
+    "Close": 4.69,
+    "YTD": "+118%"
   }
 ]

@@ -16,9 +16,9 @@
   {
     "Code": "CWG",
     "Name": "Computer Warehouse Group",
-    "M. Cap.": "42.8B",
-    "Close": 16.95,
-    "YTD": "+120%"
+    "M. Cap.": "42.4B",
+    "Close": 16.8,
+    "YTD": "+118%"
   },
   {
     "Code": "ETRANZACT",
@@ -30,15 +30,15 @@
   {
     "Code": "CHAMS",
     "Name": "Chams Plc",
-    "M. Cap.": "15.9B",
-    "Close": 3.38,
-    "YTD": "+69.9%"
+    "M. Cap.": "15.5B",
+    "Close": 3.3,
+    "YTD": "+65.8%"
   },
   {
     "Code": "LEGENDINT",
     "Name": "Legend Internet",
-    "M. Cap.": "10.5B",
-    "Close": 5.26,
-    "YTD": "-15.2%"
+    "M. Cap.": "10.7B",
+    "Close": 5.35,
+    "YTD": "-13.7%"
   }
 ]

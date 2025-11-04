@@ -24,14 +24,14 @@
     "Code": "NICO",
     "Name": "National Insurance Company Holdings",
     "M. Cap.": "1.81T",
-    "Close": 1739.79,
+    "Close": 1739.8,
     "YTD": "+315%"
   },
   {
     "Code": "NBM",
     "Name": "National Bank of Malawi",
     "M. Cap.": "5.79T",
-    "Close": 12399.89,
+    "Close": 12399.9,
     "YTD": "+258%"
   },
   {
@@ -51,8 +51,8 @@
   {
     "Code": "STANDARD",
     "Name": "Standard Bank Malawi Limited",
-    "M. Cap.": "5.87T",
-    "Close": 5000.33,
-    "YTD": "-22.9%"
+    "M. Cap.": "5.85T",
+    "Close": 4987.98,
+    "YTD": "-23.1%"
   }
 ]
