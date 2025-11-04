@@ -23,15 +23,15 @@
   {
     "Code": "GCB",
     "Name": "GCB Bank Limited",
-    "M. Cap.": "4.5B",
-    "Close": 16.97,
-    "YTD": "+166%"
+    "M. Cap.": "4.64B",
+    "Close": 17.5,
+    "YTD": "+175%"
   },
   {
     "Code": "EGH",
     "Name": "Ecobank Ghana Limited",
-    "M. Cap.": "4.98B",
-    "Close": 15.44,
+    "M. Cap.": "4.99B",
+    "Close": 15.46,
     "YTD": "+138%"
   },
   {
@@ -49,18 +49,18 @@
     "YTD": "+74.2%"
   },
   {
-    "Code": "CAL",
-    "Name": "CalBank Plc",
-    "M. Cap.": "553M",
-    "Close": 0.49,
-    "YTD": "+40%"
-  },
-  {
     "Code": "TBL",
     "Name": "Trust Bank Gambia Limited",
     "M. Cap.": "220M",
     "Close": 1.1,
     "YTD": "+32.5%"
+  },
+  {
+    "Code": "CAL",
+    "Name": "CalBank Plc",
+    "M. Cap.": "508M",
+    "Close": 0.45,
+    "YTD": "+28.6%"
   },
   {
     "Code": "SCB",

@@ -3,50 +3,50 @@
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
     "M. Cap.": "131B",
-    "Close": 46.33,
-    "YTD": "+209%"
+    "Close": 46.41,
+    "YTD": "+210%"
   },
   {
     "Code": "NPH",
     "Name": "Northam Platinum Holdings",
     "M. Cap.": "116B",
-    "Close": 289.95,
+    "Close": 290.0,
     "YTD": "+198%"
   },
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "606B",
-    "Close": 1201.05,
-    "YTD": "+185%"
+    "M. Cap.": "592B",
+    "Close": 1173.1,
+    "YTD": "+179%"
   },
   {
     "Code": "GFI",
     "Name": "Gold Fields Ltd",
-    "M. Cap.": "607B",
-    "Close": 678.02,
-    "YTD": "+174%"
+    "M. Cap.": "593B",
+    "Close": 662.0,
+    "YTD": "+168%"
   },
   {
     "Code": "DRD",
     "Name": "DRD Gold Ltd",
-    "M. Cap.": "38.1B",
-    "Close": 43.93,
-    "YTD": "+166%"
+    "M. Cap.": "38.3B",
+    "Close": 44.21,
+    "YTD": "+167%"
   },
   {
     "Code": "HAR",
     "Name": "Harmony GM Co Ltd",
-    "M. Cap.": "185B",
-    "Close": 291.2,
-    "YTD": "+93.3%"
+    "M. Cap.": "183B",
+    "Close": 288.13,
+    "YTD": "+91.2%"
   },
   {
     "Code": "VAL",
     "Name": "Valterra Platinum Ltd",
     "M. Cap.": "285B",
-    "Close": 1074.0,
-    "YTD": "+88.8%"
+    "Close": 1075.85,
+    "YTD": "+89.1%"
   },
   {
     "Code": "EPS",
@@ -58,15 +58,15 @@
   {
     "Code": "THA",
     "Name": "Tharisa plc",
-    "M. Cap.": "6.69B",
-    "Close": 22.1,
-    "YTD": "+36.3%"
+    "M. Cap.": "6.81B",
+    "Close": 22.5,
+    "YTD": "+38.7%"
   },
   {
     "Code": "MCZ",
     "Name": "MC Mining Limited",
-    "M. Cap.": "911M",
-    "Close": 2.2,
-    "YTD": "+30.2%"
+    "M. Cap.": "882M",
+    "Close": 2.13,
+    "YTD": "+26%"
   }
 ]

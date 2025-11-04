@@ -2,9 +2,9 @@
   {
     "Code": "CHP",
     "Name": "Choppies Enterprises Limited",
-    "M. Cap.": "4.89B",
-    "Close": 2.68,
-    "YTD": "+235%"
+    "M. Cap.": "5.02B",
+    "Close": 2.75,
+    "YTD": "+244%"
   },
   {
     "Code": "WVR",
@@ -16,9 +16,9 @@
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.45B",
-    "Close": 11.11,
-    "YTD": "+61%"
+    "M. Cap.": "9.44B",
+    "Close": 11.1,
+    "YTD": "+60.9%"
   },
   {
     "Code": "NCS",
@@ -30,9 +30,9 @@
   {
     "Code": "BOX",
     "Name": "Boxer Retail Ltd",
-    "M. Cap.": "34.8B",
-    "Close": 76.05,
-    "YTD": "+18.1%"
+    "M. Cap.": "34.7B",
+    "Close": 75.9,
+    "YTD": "+17.9%"
   },
   {
     "Code": "AOO",
@@ -56,17 +56,17 @@
     "YTD": "+6.74%"
   },
   {
-    "Code": "ADH",
-    "Name": "ADvTECH Ltd",
-    "M. Cap.": "19.6B",
-    "Close": 35.34,
-    "YTD": "+4.43%"
+    "Code": "SUR",
+    "Name": "Spur Corporation Ltd",
+    "M. Cap.": "3.32B",
+    "Close": 36.46,
+    "YTD": "+4.29%"
   },
   {
-    "Code": "LEW",
-    "Name": "Lewis Group Ltd",
-    "M. Cap.": "4.36B",
-    "Close": 83.6,
-    "YTD": "+4.38%"
+    "Code": "AON",
+    "Name": "African & Overseas Enterprises N-Shares",
+    "M. Cap.": "145M",
+    "Close": 14.15,
+    "YTD": "+4.27%"
   }
 ]

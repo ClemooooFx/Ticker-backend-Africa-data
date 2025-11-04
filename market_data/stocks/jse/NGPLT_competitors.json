@@ -2,30 +2,30 @@
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.25B",
-    "Close": 111.37,
-    "YTD": "+105%"
+    "M. Cap.": "2.21B",
+    "Close": 109.54,
+    "YTD": "+102%"
   },
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.02B",
-    "Close": 38.21,
-    "YTD": "+73.7%"
+    "M. Cap.": "2.06B",
+    "Close": 39.0,
+    "YTD": "+77.3%"
   },
   {
     "Code": "ETFRHO",
     "Name": "1nvest Rhodium ETF",
-    "M. Cap.": "1.24B",
-    "Close": 1273.81,
-    "YTD": "+66.1%"
+    "M. Cap.": "1.22B",
+    "Close": 1256.24,
+    "YTD": "+63.8%"
   },
   {
     "Code": "STXSHA",
     "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "115M",
-    "Close": 5.65,
-    "YTD": "+65.2%"
+    "M. Cap.": "113M",
+    "Close": 5.55,
+    "YTD": "+62.3%"
   },
   {
     "Code": "BAC",
@@ -37,36 +37,36 @@
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.99B",
-    "Close": 264.07,
-    "YTD": "+59.9%"
+    "M. Cap.": "3.98B",
+    "Close": 263.44,
+    "YTD": "+59.5%"
+  },
+  {
+    "Code": "EPE",
+    "Name": "EPE Capital Partners Ltd",
+    "M. Cap.": "2.12B",
+    "Close": 8.25,
+    "YTD": "+53.1%"
   },
   {
     "Code": "EASYGE",
     "Name": "EasyETFs Global Equity AMETF",
     "M. Cap.": "455M",
-    "Close": 15.97,
-    "YTD": "+50.8%"
+    "Close": 15.94,
+    "YTD": "+50.5%"
   },
   {
     "Code": "ETFPLD",
     "Name": "1nvest Palladium ETF",
     "M. Cap.": "59.5M",
-    "Close": 242.64,
-    "YTD": "+49.1%"
+    "Close": 242.71,
+    "YTD": "+49.2%"
   },
   {
     "Code": "EASYAI",
     "Name": "EasyETFs AI World Actively Managed ETF",
-    "M. Cap.": "414M",
-    "Close": 92.4,
-    "YTD": "+43.5%"
-  },
-  {
-    "Code": "WTOP20",
-    "Name": "10X Wealth Top 20 Capped ETF",
-    "M. Cap.": "968M",
-    "Close": 14.78,
-    "YTD": "+43.2%"
+    "M. Cap.": "415M",
+    "Close": 92.53,
+    "YTD": "+43.7%"
   }
 ]

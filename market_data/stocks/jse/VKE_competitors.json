@@ -1,17 +1,24 @@
 [
   {
-    "Code": "DLT",
-    "Name": "Delta Property Fund Limited",
-    "M. Cap.": "186M",
-    "Close": 0.26,
-    "YTD": "+36.8%"
-  },
-  {
     "Code": "VIS",
     "Name": "Visual International Holdings",
-    "M. Cap.": "44.4M",
-    "Close": 0.04,
-    "YTD": "+33.3%"
+    "M. Cap.": "55.5M",
+    "Close": 0.05,
+    "YTD": "+66.7%"
+  },
+  {
+    "Code": "DLT",
+    "Name": "Delta Property Fund Limited",
+    "M. Cap.": "193M",
+    "Close": 0.27,
+    "YTD": "+42.1%"
+  },
+  {
+    "Code": "FTB",
+    "Name": "Fairvest Ltd B Shares",
+    "M. Cap.": "12.4B",
+    "Close": 6.3,
+    "YTD": "+32.1%"
   },
   {
     "Code": "PPR",
@@ -21,52 +28,45 @@
     "YTD": "+30.9%"
   },
   {
-    "Code": "FTB",
-    "Name": "Fairvest Ltd B Shares",
-    "M. Cap.": "12.3B",
-    "Close": 6.24,
-    "YTD": "+30.8%"
+    "Code": "EMI",
+    "Name": "Emira Property Fund Ltd",
+    "M. Cap.": "7.08B",
+    "Close": 14.14,
+    "YTD": "+29.7%"
   },
   {
     "Code": "GRT",
     "Name": "Growthpoint Properties Limited",
-    "M. Cap.": "56B",
-    "Close": 16.31,
-    "YTD": "+28.1%"
+    "M. Cap.": "56.4B",
+    "Close": 16.44,
+    "YTD": "+29.1%"
+  },
+  {
+    "Code": "RDF",
+    "Name": "Redefine Properties Limited",
+    "M. Cap.": "40.7B",
+    "Close": 5.65,
+    "YTD": "+24.2%"
   },
   {
     "Code": "SRE",
     "Name": "Sirius Real Estate Ltd",
-    "M. Cap.": "34.9B",
-    "Close": 23.05,
-    "YTD": "+25.3%"
-  },
-  {
-    "Code": "EMI",
-    "Name": "Emira Property Fund Ltd",
-    "M. Cap.": "6.83B",
-    "Close": 13.64,
-    "YTD": "+25.1%"
-  },
-  {
-    "Code": "SAR",
-    "Name": "Safari Investments RSA Ltd",
-    "M. Cap.": "2.1B",
-    "Close": 8.15,
-    "YTD": "+20.7%"
+    "M. Cap.": "34.5B",
+    "Close": 22.8,
+    "YTD": "+23.9%"
   },
   {
     "Code": "RES",
     "Name": "Resilient REIT Limited",
-    "M. Cap.": "25.8B",
-    "Close": 70.66,
-    "YTD": "+20.3%"
+    "M. Cap.": "26.3B",
+    "Close": 71.93,
+    "YTD": "+22.4%"
   },
   {
-    "Code": "SEA",
-    "Name": "Spear REIT Limited",
-    "M. Cap.": "4.73B",
-    "Close": 11.4,
-    "YTD": "+19.3%"
+    "Code": "DIB",
+    "Name": "Dipula Income Fund B",
+    "M. Cap.": "6.53B",
+    "Close": 6.44,
+    "YTD": "+20.8%"
   }
 ]

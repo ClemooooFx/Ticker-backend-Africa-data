@@ -2,16 +2,16 @@
   {
     "Code": "NEWPLAT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "6.67B",
+    "M. Cap.": "6.6B",
     "Close": 224.5,
     "YTD": "+78.5%"
   },
   {
     "Code": "NEWGOLD",
     "Name": "NewGold ETF",
-    "M. Cap.": "34.5B",
-    "Close": 575.0,
-    "YTD": "+70.9%"
+    "M. Cap.": "30.2B",
+    "Close": 513.0,
+    "YTD": "+52.5%"
   },
   {
     "Code": "BBS",
@@ -23,9 +23,9 @@
   {
     "Code": "ADBF",
     "Name": "African Domestic Bond Fund",
-    "M. Cap.": "624M",
-    "Close": 104.4,
-    "YTD": "+21.4%"
+    "M. Cap.": "612M",
+    "Close": 102.29,
+    "YTD": "+18.9%"
   },
   {
     "Code": "ABSA",

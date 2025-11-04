@@ -16,23 +16,23 @@
   {
     "Code": "CPI",
     "Name": "Capitec Bank Holdings Limited",
-    "M. Cap.": "445B",
-    "Close": 3832.57,
-    "YTD": "+22.3%"
+    "M. Cap.": "449B",
+    "Close": 3867.0,
+    "YTD": "+23.4%"
   },
   {
     "Code": "SBK",
     "Name": "Standard Bank Group Limited",
-    "M. Cap.": "419B",
-    "Close": 254.56,
-    "YTD": "+14.8%"
+    "M. Cap.": "420B",
+    "Close": 255.42,
+    "YTD": "+15.2%"
   },
   {
     "Code": "FSR",
     "Name": "FirstRand Limited",
-    "M. Cap.": "461B",
-    "Close": 82.23,
-    "YTD": "+8.25%"
+    "M. Cap.": "463B",
+    "Close": 82.49,
+    "YTD": "+8.6%"
   },
   {
     "Code": "CPIP",
@@ -51,22 +51,22 @@
   {
     "Code": "INP",
     "Name": "Investec Plc",
-    "M. Cap.": "91.2B",
-    "Close": 131.08,
-    "YTD": "+3.46%"
-  },
-  {
-    "Code": "SBPP",
-    "Name": "Standard Bank Preference Shares",
-    "M. Cap.": "5.1B",
-    "Close": 96.3,
-    "YTD": "+2.45%"
+    "M. Cap.": "91B",
+    "Close": 130.78,
+    "YTD": "+3.22%"
   },
   {
     "Code": "ABG",
     "Name": "Absa Group Limited",
-    "M. Cap.": "173B",
-    "Close": 193.84,
-    "YTD": "+2.16%"
+    "M. Cap.": "175B",
+    "Close": 195.62,
+    "YTD": "+3.09%"
+  },
+  {
+    "Code": "SBPP",
+    "Name": "Standard Bank Preference Shares",
+    "M. Cap.": "5.12B",
+    "Close": 96.7,
+    "YTD": "+2.87%"
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
-    "Code": "SACL",
-    "Name": "Star Africa Corporation Limited",
-    "M. Cap.": "185M",
-    "Close": 0.039408,
-    "YTD": "+97%"
-  },
-  {
     "Code": "SEED",
     "Name": "Seed Co Limited",
-    "M. Cap.": "935M",
-    "Close": 3.7825,
-    "YTD": "+45.6%"
+    "M. Cap.": "989M",
+    "Close": 4.0,
+    "YTD": "+54%"
+  },
+  {
+    "Code": "SACL",
+    "Name": "Star Africa Corporation Limited",
+    "M. Cap.": "133M",
+    "Close": 0.0283,
+    "YTD": "+41.5%"
   },
   {
     "Code": "BAT",
@@ -23,23 +23,16 @@
   {
     "Code": "AFDS",
     "Name": "African Distillers Limited",
-    "M. Cap.": "939M",
-    "Close": 8.0,
-    "YTD": "+15.8%"
+    "M. Cap.": "917M",
+    "Close": 7.81,
+    "YTD": "+13%"
   },
   {
     "Code": "DLTA",
     "Name": "Delta Corporation Limited",
     "M. Cap.": "20B",
-    "Close": 15.560352,
-    "YTD": "+11.1%"
-  },
-  {
-    "Code": "DZL",
-    "Name": "Dairibord Holdings Limited",
-    "M. Cap.": "731M",
-    "Close": 2.0515,
-    "YTD": "-8.42%"
+    "Close": 15.5895,
+    "YTD": "+11.4%"
   },
   {
     "Code": "HIPO",
@@ -56,6 +49,13 @@
     "YTD": "-12.8%"
   },
   {
+    "Code": "DZL",
+    "Name": "Dairibord Holdings Limited",
+    "M. Cap.": "639M",
+    "Close": 1.795,
+    "YTD": "-19.9%"
+  },
+  {
     "Code": "ARIS",
     "Name": "Ariston Holdings Limited",
     "M. Cap.": "48.3M",
@@ -65,8 +65,8 @@
   {
     "Code": "TANG",
     "Name": "Tanganda Tea Company",
-    "M. Cap.": "183M",
-    "Close": 0.701818,
-    "YTD": "-72%"
+    "M. Cap.": "196M",
+    "Close": 0.75,
+    "YTD": "-70.1%"
   }
 ]

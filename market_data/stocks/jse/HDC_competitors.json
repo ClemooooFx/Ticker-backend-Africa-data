@@ -2,16 +2,16 @@
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "791M",
-    "Close": 7.2,
-    "YTD": "+45.8%"
+    "M. Cap.": "781M",
+    "Close": 7.11,
+    "YTD": "+43.9%"
   },
   {
     "Code": "MFL",
     "Name": "Metrofile Holdings Ltd",
-    "M. Cap.": "1.34B",
-    "Close": 3.08,
-    "YTD": "+35.7%"
+    "M. Cap.": "1.36B",
+    "Close": 3.13,
+    "YTD": "+37.9%"
   },
   {
     "Code": "PMV",
@@ -23,16 +23,16 @@
   {
     "Code": "ART",
     "Name": "Argent Industrial Ltd",
-    "M. Cap.": "1.58B",
-    "Close": 29.42,
-    "YTD": "+6.75%"
+    "M. Cap.": "1.56B",
+    "Close": 29.0,
+    "YTD": "+5.22%"
   },
   {
     "Code": "NVS",
     "Name": "Novus Holdings Limited",
-    "M. Cap.": "2.43B",
-    "Close": 7.09,
-    "YTD": "-3.41%"
+    "M. Cap.": "2.27B",
+    "Close": 6.61,
+    "YTD": "-9.95%"
   },
   {
     "Code": "MMP",
@@ -44,16 +44,23 @@
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "11.8B",
-    "Close": 16.95,
-    "YTD": "+41.7%"
+    "M. Cap.": "11.9B",
+    "Close": 17.05,
+    "YTD": "+42.6%"
   },
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "922M",
-    "Close": 4.9,
-    "YTD": "+22.5%"
+    "M. Cap.": "940M",
+    "Close": 5.0,
+    "YTD": "+25%"
+  },
+  {
+    "Code": "NPK",
+    "Name": "Nampak Ltd",
+    "M. Cap.": "4.2B",
+    "Close": 495.0,
+    "YTD": "+19%"
   },
   {
     "Code": "IVT",
@@ -61,12 +68,5 @@
     "M. Cap.": "3.39B",
     "Close": 38.17,
     "YTD": "+15.7%"
-  },
-  {
-    "Code": "NPK",
-    "Name": "Nampak Ltd",
-    "M. Cap.": "4.08B",
-    "Close": 481.01,
-    "YTD": "+15.6%"
   }
 ]

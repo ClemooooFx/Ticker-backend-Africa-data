@@ -2,16 +2,16 @@
   {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.08B",
-    "Close": 481.01,
-    "YTD": "+15.6%"
+    "M. Cap.": "4.2B",
+    "Close": 495.0,
+    "YTD": "+19%"
   },
   {
     "Code": "BAW",
     "Name": "Barloworld Ltd",
-    "M. Cap.": "22.6B",
-    "Close": 119.3,
-    "YTD": "+9.92%"
+    "M. Cap.": "22.7B",
+    "Close": 119.5,
+    "YTD": "+10.1%"
   },
   {
     "Code": "BAWP",
@@ -51,22 +51,22 @@
   {
     "Code": "BVT",
     "Name": "Bidvest Ltd",
-    "M. Cap.": "76.6B",
-    "Close": 224.98,
-    "YTD": "-14.7%"
+    "M. Cap.": "76B",
+    "Close": 223.33,
+    "YTD": "-15.3%"
   },
   {
     "Code": "MPT",
     "Name": "Mpact Limited",
-    "M. Cap.": "3.5B",
-    "Close": 23.42,
-    "YTD": "-20.7%"
+    "M. Cap.": "3.49B",
+    "Close": 23.33,
+    "YTD": "-21%"
   },
   {
     "Code": "ENX",
     "Name": "enX Group LImited",
-    "M. Cap.": "784M",
-    "Close": 4.3,
-    "YTD": "-21.8%"
+    "M. Cap.": "749M",
+    "Close": 4.11,
+    "YTD": "-25.3%"
   }
 ]
