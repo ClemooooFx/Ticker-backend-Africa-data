@@ -2,23 +2,23 @@
   {
     "Code": "GTCO",
     "Name": "Guaranty Trust Holding",
-    "M. Cap.": "3.1T",
-    "Close": 85.15,
-    "YTD": "+49.4%"
+    "M. Cap.": "3.13T",
+    "Close": 85.95,
+    "YTD": "+50.8%"
   },
   {
     "Code": "ETI",
     "Name": "Ecobank Transnational Inc",
-    "M. Cap.": "701B",
-    "Close": 38.2,
-    "YTD": "+36.4%"
+    "M. Cap.": "688B",
+    "Close": 37.5,
+    "YTD": "+33.9%"
   },
   {
     "Code": "UBA",
     "Name": "United Bank for Africa",
-    "M. Cap.": "1.62T",
-    "Close": 39.5,
-    "YTD": "+16.2%"
+    "M. Cap.": "1.66T",
+    "Close": 40.45,
+    "YTD": "+19%"
   },
   {
     "Code": "FIRSTHOLDCO",
@@ -44,16 +44,16 @@
   {
     "Code": "MBENEFIT",
     "Name": "Mutual Benefits Assurance",
-    "M. Cap.": "76.2B",
-    "Close": 3.8,
-    "YTD": "+523%"
+    "M. Cap.": "74.2B",
+    "Close": 3.7,
+    "YTD": "+507%"
   },
   {
     "Code": "SOVRENINS",
     "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "52.5B",
-    "Close": 3.69,
-    "YTD": "+229%"
+    "M. Cap.": "47.4B",
+    "Close": 3.33,
+    "YTD": "+197%"
   },
   {
     "Code": "NEM",
@@ -63,10 +63,10 @@
     "YTD": "+156%"
   },
   {
-    "Code": "AIICO",
-    "Name": "Aiico Insurance Plc",
-    "M. Cap.": "130B",
-    "Close": 3.56,
-    "YTD": "+149%"
+    "Code": "CUSTODIAN",
+    "Name": "Custodian & Allied Plc",
+    "M. Cap.": "250B",
+    "Close": 42.45,
+    "YTD": "+148%"
   }
 ]

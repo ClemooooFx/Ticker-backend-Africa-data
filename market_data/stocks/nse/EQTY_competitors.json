@@ -2,71 +2,71 @@
   {
     "Code": "NCBA",
     "Name": "NCBA Group Plc",
-    "M. Cap.": "146B",
-    "Close": 88.5,
-    "YTD": "+83.6%"
+    "M. Cap.": "137B",
+    "Close": 83.25,
+    "YTD": "+72.7%"
   },
   {
     "Code": "KCB",
     "Name": "KCB Group",
-    "M. Cap.": "199B",
-    "Close": 62.0,
-    "YTD": "+49%"
-  },
-  {
-    "Code": "BKG",
-    "Name": "BK Group Plc",
-    "M. Cap.": "38.1B",
-    "Close": 42.45,
-    "YTD": "+30.4%"
+    "M. Cap.": "203B",
+    "Close": 63.25,
+    "YTD": "+52%"
   },
   {
     "Code": "ABSA",
     "Name": "Absa Bank Kenya Plc",
-    "M. Cap.": "127B",
-    "Close": 23.35,
-    "YTD": "+29.4%"
+    "M. Cap.": "129B",
+    "Close": 23.8,
+    "YTD": "+31.9%"
+  },
+  {
+    "Code": "BKG",
+    "Name": "BK Group Plc",
+    "M. Cap.": "38.4B",
+    "Close": 42.8,
+    "YTD": "+31.5%"
   },
   {
     "Code": "IMH",
     "Name": "I&M Holdings Plc",
-    "M. Cap.": "74.4B",
-    "Close": 45.0,
-    "YTD": "+24.1%"
+    "M. Cap.": "74.5B",
+    "Close": 45.05,
+    "YTD": "+24.3%"
   },
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "5.01B",
-    "Close": 19.3,
-    "YTD": "+222%"
+    "M. Cap.": "5.03B",
+    "Close": 19.4,
+    "YTD": "+223%"
   },
   {
     "Code": "HAFR",
     "Name": "Home Afrika Limited",
-    "M. Cap.": "458M",
-    "Close": 1.13,
-    "YTD": "+205%"
+    "M. Cap.": "470M",
+    "Close": 1.16,
+    "YTD": "+214%"
+  },
+  {
+    "Code": "KNRE",
+    "Name": "Kenya Re-Insurance Corporation Ltd",
+    "M. Cap.": "17.5B",
+    "Close": 3.13,
+    "YTD": "+145%"
   },
   {
     "Code": "HFCK",
     "Name": "HF Group Limited",
     "M. Cap.": "20.6B",
-    "Close": 10.9,
-    "YTD": "+142%"
-  },
-  {
-    "Code": "KNRE",
-    "Name": "Kenya Re-Insurance Corporation Ltd",
-    "M. Cap.": "17.2B",
-    "Close": 3.08,
-    "YTD": "+141%"
+    "Close": 10.95,
+    "YTD": "+143%"
   },
   {
     "Code": "CIC",
     "Name": "CIC Insurance Group Limited",
-    "M. Cap.": "12.3B",
-    "Close": 4.69,
-    "YTD": "+118%"
+    "M. Cap.": "12.5B",
+    "Close": 4.78,
+    "YTD": "+122%"
   }
 ]

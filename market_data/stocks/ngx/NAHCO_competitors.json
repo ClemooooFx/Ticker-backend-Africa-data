@@ -37,16 +37,9 @@
   {
     "Code": "CAVERTON",
     "Name": "Caverton Offshore Support Group",
-    "M. Cap.": "16.8B",
-    "Close": 5.0,
-    "YTD": "+116%"
-  },
-  {
-    "Code": "CILEASING",
-    "Name": "C&I Leasing Plc",
-    "M. Cap.": "18.3B",
-    "Close": 6.2,
-    "YTD": "+64.5%"
+    "M. Cap.": "16.9B",
+    "Close": 5.05,
+    "YTD": "+118%"
   },
   {
     "Code": "TRANSEXPR",
@@ -68,5 +61,12 @@
     "M. Cap.": "37.5B",
     "Close": 17.35,
     "YTD": "+54.2%"
+  },
+  {
+    "Code": "TRANSCOHOT",
+    "Name": "Transcorp Hotels Plc",
+    "M. Cap.": "1.79T",
+    "Close": 174.9,
+    "YTD": "+50.8%"
   }
 ]

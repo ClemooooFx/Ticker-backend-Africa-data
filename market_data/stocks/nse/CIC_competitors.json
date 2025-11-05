@@ -2,71 +2,71 @@
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "5.01B",
-    "Close": 19.3,
-    "YTD": "+222%"
+    "M. Cap.": "5.03B",
+    "Close": 19.4,
+    "YTD": "+223%"
   },
   {
     "Code": "HAFR",
     "Name": "Home Afrika Limited",
-    "M. Cap.": "458M",
-    "Close": 1.13,
-    "YTD": "+205%"
+    "M. Cap.": "470M",
+    "Close": 1.16,
+    "YTD": "+214%"
+  },
+  {
+    "Code": "KNRE",
+    "Name": "Kenya Re-Insurance Corporation Ltd",
+    "M. Cap.": "17.5B",
+    "Close": 3.13,
+    "YTD": "+145%"
   },
   {
     "Code": "HFCK",
     "Name": "HF Group Limited",
     "M. Cap.": "20.6B",
-    "Close": 10.9,
-    "YTD": "+142%"
-  },
-  {
-    "Code": "KNRE",
-    "Name": "Kenya Re-Insurance Corporation Ltd",
-    "M. Cap.": "17.2B",
-    "Close": 3.08,
-    "YTD": "+141%"
+    "Close": 10.95,
+    "YTD": "+143%"
   },
   {
     "Code": "JUB",
     "Name": "Jubilee Holdings Limited",
     "M. Cap.": "23.2B",
-    "Close": 320.0,
-    "YTD": "+84.4%"
-  },
-  {
-    "Code": "NCBA",
-    "Name": "NCBA Group Plc",
-    "M. Cap.": "146B",
-    "Close": 88.5,
-    "YTD": "+83.6%"
+    "Close": 319.75,
+    "YTD": "+84.3%"
   },
   {
     "Code": "SLAM",
     "Name": "Sanlam Kenya Plc",
-    "M. Cap.": "1.2B",
-    "Close": 8.3,
-    "YTD": "+67.7%"
+    "M. Cap.": "1.28B",
+    "Close": 8.86,
+    "YTD": "+79%"
+  },
+  {
+    "Code": "NCBA",
+    "Name": "NCBA Group Plc",
+    "M. Cap.": "137B",
+    "Close": 83.25,
+    "YTD": "+72.7%"
   },
   {
     "Code": "DTK",
     "Name": "Diamond Trust Bank Kenya Limited",
-    "M. Cap.": "31.3B",
-    "Close": 112.0,
-    "YTD": "+62.3%"
+    "M. Cap.": "32.2B",
+    "Close": 115.0,
+    "YTD": "+66.7%"
   },
   {
     "Code": "LBTY",
     "Name": "Liberty Kenya Holdings Limited",
-    "M. Cap.": "5.54B",
-    "Close": 10.35,
-    "YTD": "+54.9%"
+    "M. Cap.": "5.57B",
+    "Close": 10.4,
+    "YTD": "+55.7%"
   },
   {
-    "Code": "GLD",
-    "Name": "Absa NewGold ETF",
-    "M. Cap.": "1.99B",
-    "Close": 4965.0,
-    "YTD": "+52.3%"
+    "Code": "CTUM",
+    "Name": "Centum Investment Company",
+    "M. Cap.": "10.1B",
+    "Close": 15.25,
+    "YTD": "+54.4%"
   }
 ]

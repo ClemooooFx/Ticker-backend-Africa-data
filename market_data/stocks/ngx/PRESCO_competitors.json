@@ -16,9 +16,16 @@
   {
     "Code": "ELLAHLAKES",
     "Name": "Ellah Lakes Plc",
-    "M. Cap.": "44.4B",
-    "Close": 11.5,
-    "YTD": "+264%"
+    "M. Cap.": "43.8B",
+    "Close": 11.36,
+    "YTD": "+259%"
+  },
+  {
+    "Code": "HONYFLOUR",
+    "Name": "Honeywell Flour Mill",
+    "M. Cap.": "166B",
+    "Close": 20.9,
+    "YTD": "+232%"
   },
   {
     "Code": "NASCON",
@@ -26,13 +33,6 @@
     "M. Cap.": "268B",
     "Close": 99.0,
     "YTD": "+216%"
-  },
-  {
-    "Code": "HONYFLOUR",
-    "Name": "Honeywell Flour Mill",
-    "M. Cap.": "157B",
-    "Close": 19.75,
-    "YTD": "+213%"
   },
   {
     "Code": "CADBURY",
@@ -44,9 +44,9 @@
   {
     "Code": "FTNCOCOA",
     "Name": "FTN Cocoa Processors",
-    "M. Cap.": "19.3B",
-    "Close": 4.96,
-    "YTD": "+173%"
+    "M. Cap.": "18.7B",
+    "Close": 4.8,
+    "YTD": "+164%"
   },
   {
     "Code": "GUINNESS",
@@ -63,10 +63,10 @@
     "YTD": "+150%"
   },
   {
-    "Code": "INTBREW",
-    "Name": "International Breweries",
-    "M. Cap.": "2.2T",
-    "Close": 13.05,
-    "YTD": "+135%"
+    "Code": "ENAMELWA",
+    "Name": "Nigerian Enamelware Plc",
+    "M. Cap.": "3.42B",
+    "Close": 45.0,
+    "YTD": "+133%"
   }
 ]

@@ -2,22 +2,22 @@
   {
     "Code": "HMCALL",
     "Name": "Haldane McCall",
-    "M. Cap.": "13.4B",
-    "Close": 4.29,
-    "YTD": "-10.3%"
+    "M. Cap.": "13.3B",
+    "Close": 4.25,
+    "YTD": "-11.1%"
   },
   {
     "Code": "UPDC",
     "Name": "UPDC Plc",
-    "M. Cap.": "103B",
-    "Close": 5.54,
-    "YTD": "+248%"
+    "M. Cap.": "111B",
+    "Close": 6.0,
+    "YTD": "+277%"
   },
   {
     "Code": "UPDCREIT",
     "Name": "UPDC Real Estate Investment Trust",
-    "M. Cap.": "18.8B",
-    "Close": 7.05,
-    "YTD": "+41%"
+    "M. Cap.": "18.3B",
+    "Close": 6.85,
+    "YTD": "+37%"
   }
 ]

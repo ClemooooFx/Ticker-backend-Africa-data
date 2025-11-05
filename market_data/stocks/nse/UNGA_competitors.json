@@ -2,71 +2,71 @@
   {
     "Code": "SMER",
     "Name": "Sameer Africa Plc",
-    "M. Cap.": "4.18B",
-    "Close": 15.0,
-    "YTD": "+517%"
+    "M. Cap.": "4.16B",
+    "Close": 14.95,
+    "YTD": "+515%"
   },
   {
     "Code": "EGAD",
     "Name": "Eaagads Limited",
-    "M. Cap.": "654M",
-    "Close": 20.35,
-    "YTD": "+69.6%"
+    "M. Cap.": "659M",
+    "Close": 20.5,
+    "YTD": "+70.8%"
   },
   {
     "Code": "EABL",
     "Name": "East African Breweries Limited",
-    "M. Cap.": "183B",
-    "Close": 232.0,
-    "YTD": "+32.2%"
+    "M. Cap.": "189B",
+    "Close": 239.5,
+    "YTD": "+36.5%"
   },
   {
     "Code": "SASN",
     "Name": "Sasini Tea and Coffee Limited",
-    "M. Cap.": "4.26B",
-    "Close": 18.7,
-    "YTD": "+24.7%"
-  },
-  {
-    "Code": "BAT",
-    "Name": "British American Tobacco Kenya",
-    "M. Cap.": "44.5B",
-    "Close": 445.25,
-    "YTD": "+18.4%"
-  },
-  {
-    "Code": "EVRD",
-    "Name": "Eveready East Africa Limited",
-    "M. Cap.": "284M",
-    "Close": 1.35,
-    "YTD": "+17.4%"
+    "M. Cap.": "4.31B",
+    "Close": 18.9,
+    "YTD": "+26%"
   },
   {
     "Code": "LIMT",
     "Name": "Limuru Tea Company Limited",
-    "M. Cap.": "924M",
-    "Close": 385.0,
-    "YTD": "+10%"
+    "M. Cap.": "1.02B",
+    "Close": 423.5,
+    "YTD": "+21%"
+  },
+  {
+    "Code": "EVRD",
+    "Name": "Eveready East Africa Limited",
+    "M. Cap.": "286M",
+    "Close": 1.36,
+    "YTD": "+18.3%"
+  },
+  {
+    "Code": "BAT",
+    "Name": "British American Tobacco Kenya",
+    "M. Cap.": "44.1B",
+    "Close": 441.25,
+    "YTD": "+17.4%"
   },
   {
     "Code": "KUKZ",
     "Name": "Kakuzi Limited",
-    "M. Cap.": "8.06B",
-    "Close": 411.0,
-    "YTD": "+6.75%"
+    "M. Cap.": "8.09B",
+    "Close": 413.0,
+    "YTD": "+7.27%"
   },
   {
     "Code": "KAPC",
     "Name": "Kapchorua Tea Company Limited",
-    "M. Cap.": "1.84B",
-    "Close": 235.25,
-    "YTD": "+0.11%"
+    "M. Cap.": "1.77B",
+    "Close": 226.0,
+    "YTD": "-3.83%"
   },
   {
-    "Code": "WTK",
-    "Name": "Williamson Tea Kenya Limited",
-    "M. Cap.": "3.53B",
-    "Close": 201.5,
-    "YTD": "-11%"
+    "Code": "AMAC",
+    "Name": "Africa Mega Agricorp",
+    "M. Cap.": "769M",
+    "Close": 59.75,
+    "YTD": "-14.6%"
   }
 ]
