@@ -2,9 +2,9 @@
   {
     "Code": "AFE",
     "Name": "AECI Limited",
-    "M. Cap.": "9.41B",
-    "Close": 89.19,
-    "YTD": "+2.02%"
+    "M. Cap.": "9.34B",
+    "Close": 88.48,
+    "YTD": "+1.21%"
   },
   {
     "Code": "AFEP",
@@ -16,57 +16,57 @@
   {
     "Code": "OMN",
     "Name": "Omnia Holdings Ltd",
-    "M. Cap.": "12.4B",
-    "Close": 76.18,
-    "YTD": "-2.46%"
+    "M. Cap.": "12.2B",
+    "Close": 74.9,
+    "YTD": "-4.1%"
   },
   {
     "Code": "ISO",
     "Name": "ASP Isotopes",
-    "M. Cap.": "19B",
-    "Close": 171.5,
-    "YTD": "-21%"
+    "M. Cap.": "17B",
+    "Close": 153.36,
+    "YTD": "-29.3%"
   },
   {
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "131B",
-    "Close": 46.41,
-    "YTD": "+210%"
+    "M. Cap.": "125B",
+    "Close": 44.0,
+    "YTD": "+194%"
   },
   {
     "Code": "NPH",
     "Name": "Northam Platinum Holdings",
-    "M. Cap.": "116B",
-    "Close": 290.0,
-    "YTD": "+198%"
+    "M. Cap.": "107B",
+    "Close": 266.65,
+    "YTD": "+174%"
   },
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "592B",
-    "Close": 1173.1,
-    "YTD": "+179%"
-  },
-  {
-    "Code": "GFI",
-    "Name": "Gold Fields Ltd",
-    "M. Cap.": "593B",
-    "Close": 662.0,
+    "M. Cap.": "569B",
+    "Close": 1126.56,
     "YTD": "+168%"
   },
   {
     "Code": "DRD",
     "Name": "DRD Gold Ltd",
-    "M. Cap.": "38.3B",
-    "Close": 44.21,
-    "YTD": "+167%"
+    "M. Cap.": "37.6B",
+    "Close": 43.33,
+    "YTD": "+162%"
+  },
+  {
+    "Code": "GFI",
+    "Name": "Gold Fields Ltd",
+    "M. Cap.": "567B",
+    "Close": 633.39,
+    "YTD": "+156%"
   },
   {
     "Code": "PAN",
     "Name": "Pan African Resource plc",
-    "M. Cap.": "45.5B",
-    "Close": 19.5,
-    "YTD": "+138%"
+    "M. Cap.": "44.3B",
+    "Close": 19.0,
+    "YTD": "+132%"
   }
 ]

@@ -2,30 +2,16 @@
   {
     "Code": "DSBP",
     "Name": "Discovery B Preference Shares",
-    "M. Cap.": "995M",
-    "Close": 124.37,
-    "YTD": "+13.1%"
+    "M. Cap.": "1000M",
+    "Close": 124.99,
+    "YTD": "+13.6%"
   },
   {
     "Code": "DSY",
     "Name": "Discovery Limited",
     "M. Cap.": "149B",
-    "Close": 219.39,
+    "Close": 219.23,
     "YTD": "+12.6%"
-  },
-  {
-    "Code": "SLM",
-    "Name": "Sanlam Limited",
-    "M. Cap.": "193B",
-    "Close": 91.28,
-    "YTD": "+5.06%"
-  },
-  {
-    "Code": "SNT",
-    "Name": "Santam Limited",
-    "M. Cap.": "47.5B",
-    "Close": 412.3,
-    "YTD": "+5.01%"
   },
   {
     "Code": "CLI",
@@ -35,38 +21,52 @@
     "YTD": "+4.72%"
   },
   {
+    "Code": "SNT",
+    "Name": "Santam Limited",
+    "M. Cap.": "47.3B",
+    "Close": 411.0,
+    "YTD": "+4.68%"
+  },
+  {
+    "Code": "SLM",
+    "Name": "Sanlam Limited",
+    "M. Cap.": "192B",
+    "Close": 90.71,
+    "YTD": "+4.41%"
+  },
+  {
     "Code": "PPE",
     "Name": "Purple Group Ltd",
-    "M. Cap.": "3.36B",
-    "Close": 2.36,
-    "YTD": "+119%"
+    "M. Cap.": "3.13B",
+    "Close": 2.2,
+    "YTD": "+104%"
   },
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.21B",
-    "Close": 109.54,
-    "YTD": "+102%"
-  },
-  {
-    "Code": "YYLBEE",
-    "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.06B",
-    "Close": 39.0,
-    "YTD": "+77.3%"
+    "M. Cap.": "2.13B",
+    "Close": 105.16,
+    "YTD": "+93.5%"
   },
   {
     "Code": "FGL",
     "Name": "Finbond Group Ltd",
-    "M. Cap.": "588M",
-    "Close": 1.14,
-    "YTD": "+75.4%"
+    "M. Cap.": "614M",
+    "Close": 1.19,
+    "YTD": "+83.1%"
   },
   {
-    "Code": "ETFRHO",
-    "Name": "1nvest Rhodium ETF",
-    "M. Cap.": "1.22B",
-    "Close": 1256.24,
-    "YTD": "+63.8%"
+    "Code": "YYLBEE",
+    "Name": "YeboYethu (RF) Ltd",
+    "M. Cap.": "2.12B",
+    "Close": 40.0,
+    "YTD": "+81.8%"
+  },
+  {
+    "Code": "BAC",
+    "Name": "Africa Bitcoin Corporation Ltd",
+    "M. Cap.": "121M",
+    "Close": 11.0,
+    "YTD": "+69.2%"
   }
 ]

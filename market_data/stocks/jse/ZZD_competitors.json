@@ -16,9 +16,9 @@
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.44B",
-    "Close": 11.1,
-    "YTD": "+60.9%"
+    "M. Cap.": "9.21B",
+    "Close": 10.83,
+    "YTD": "+57%"
   },
   {
     "Code": "NCS",
@@ -30,9 +30,9 @@
   {
     "Code": "BOX",
     "Name": "Boxer Retail Ltd",
-    "M. Cap.": "34.7B",
-    "Close": 75.9,
-    "YTD": "+17.9%"
+    "M. Cap.": "34.3B",
+    "Close": 75.03,
+    "YTD": "+16.5%"
   },
   {
     "Code": "AOO",
@@ -44,9 +44,9 @@
   {
     "Code": "CAT",
     "Name": "Caxton & CTP Publishers Limited",
-    "M. Cap.": "4.7B",
-    "Close": 13.3,
-    "YTD": "+8.93%"
+    "M. Cap.": "4.75B",
+    "Close": 13.44,
+    "YTD": "+10.1%"
   },
   {
     "Code": "RTN",
@@ -56,17 +56,17 @@
     "YTD": "+6.74%"
   },
   {
-    "Code": "SUR",
-    "Name": "Spur Corporation Ltd",
-    "M. Cap.": "3.32B",
-    "Close": 36.46,
-    "YTD": "+4.29%"
-  },
-  {
     "Code": "AON",
     "Name": "African & Overseas Enterprises N-Shares",
     "M. Cap.": "145M",
     "Close": 14.15,
     "YTD": "+4.27%"
+  },
+  {
+    "Code": "AOVP",
+    "Name": "African & Overseas Ent Preference",
+    "M. Cap.": "2.89M",
+    "Close": 10.5,
+    "YTD": "+4.17%"
   }
 ]

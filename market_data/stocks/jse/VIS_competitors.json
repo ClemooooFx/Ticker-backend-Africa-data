@@ -2,16 +2,16 @@
   {
     "Code": "DLT",
     "Name": "Delta Property Fund Limited",
-    "M. Cap.": "193M",
-    "Close": 0.27,
-    "YTD": "+42.1%"
+    "M. Cap.": "200M",
+    "Close": 0.28,
+    "YTD": "+47.4%"
   },
   {
     "Code": "FTB",
     "Name": "Fairvest Ltd B Shares",
     "M. Cap.": "12.4B",
-    "Close": 6.3,
-    "YTD": "+32.1%"
+    "Close": 6.26,
+    "YTD": "+31.2%"
   },
   {
     "Code": "PPR",
@@ -21,52 +21,52 @@
     "YTD": "+30.9%"
   },
   {
-    "Code": "EMI",
-    "Name": "Emira Property Fund Ltd",
-    "M. Cap.": "7.08B",
-    "Close": 14.14,
-    "YTD": "+29.7%"
-  },
-  {
     "Code": "GRT",
     "Name": "Growthpoint Properties Limited",
-    "M. Cap.": "56.4B",
-    "Close": 16.44,
-    "YTD": "+29.1%"
+    "M. Cap.": "56.5B",
+    "Close": 16.47,
+    "YTD": "+29.4%"
   },
   {
     "Code": "VKE",
     "Name": "Vukile Property Fund Ltd",
-    "M. Cap.": "31.1B",
-    "Close": 22.75,
-    "YTD": "+26.6%"
-  },
-  {
-    "Code": "RDF",
-    "Name": "Redefine Properties Limited",
-    "M. Cap.": "40.7B",
-    "Close": 5.65,
-    "YTD": "+24.2%"
+    "M. Cap.": "31.2B",
+    "Close": 22.77,
+    "YTD": "+26.7%"
   },
   {
     "Code": "SRE",
     "Name": "Sirius Real Estate Ltd",
-    "M. Cap.": "34.5B",
-    "Close": 22.8,
-    "YTD": "+23.9%"
+    "M. Cap.": "35.1B",
+    "Close": 23.2,
+    "YTD": "+26.1%"
+  },
+  {
+    "Code": "RDF",
+    "Name": "Redefine Properties Limited",
+    "M. Cap.": "40.1B",
+    "Close": 5.57,
+    "YTD": "+22.4%"
   },
   {
     "Code": "RES",
     "Name": "Resilient REIT Limited",
-    "M. Cap.": "26.3B",
-    "Close": 71.93,
-    "YTD": "+22.4%"
+    "M. Cap.": "26.2B",
+    "Close": 71.73,
+    "YTD": "+22.1%"
   },
   {
-    "Code": "DIB",
-    "Name": "Dipula Income Fund B",
-    "M. Cap.": "6.53B",
-    "Close": 6.44,
-    "YTD": "+20.8%"
+    "Code": "EMI",
+    "Name": "Emira Property Fund Ltd",
+    "M. Cap.": "6.58B",
+    "Close": 13.13,
+    "YTD": "+20.5%"
+  },
+  {
+    "Code": "SAR",
+    "Name": "Safari Investments RSA Ltd",
+    "M. Cap.": "2.06B",
+    "Close": 8.0,
+    "YTD": "+18.5%"
   }
 ]

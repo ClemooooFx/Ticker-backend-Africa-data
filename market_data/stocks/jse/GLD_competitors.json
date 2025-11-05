@@ -2,71 +2,71 @@
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.21B",
-    "Close": 109.54,
-    "YTD": "+102%"
+    "M. Cap.": "2.13B",
+    "Close": 105.16,
+    "YTD": "+93.5%"
   },
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.06B",
-    "Close": 39.0,
-    "YTD": "+77.3%"
-  },
-  {
-    "Code": "ETFRHO",
-    "Name": "1nvest Rhodium ETF",
-    "M. Cap.": "1.22B",
-    "Close": 1256.24,
-    "YTD": "+63.8%"
-  },
-  {
-    "Code": "STXSHA",
-    "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "113M",
-    "Close": 5.55,
-    "YTD": "+62.3%"
+    "M. Cap.": "2.12B",
+    "Close": 40.0,
+    "YTD": "+81.8%"
   },
   {
     "Code": "BAC",
     "Name": "Africa Bitcoin Corporation Ltd",
-    "M. Cap.": "116M",
-    "Close": 10.5,
-    "YTD": "+61.5%"
+    "M. Cap.": "121M",
+    "Close": 11.0,
+    "YTD": "+69.2%"
+  },
+  {
+    "Code": "ETFRHO",
+    "Name": "1nvest Rhodium ETF",
+    "M. Cap.": "1.18B",
+    "Close": 1241.65,
+    "YTD": "+61.9%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.98B",
-    "Close": 263.44,
-    "YTD": "+59.5%"
+    "M. Cap.": "3.64B",
+    "Close": 259.2,
+    "YTD": "+57%"
+  },
+  {
+    "Code": "STXSHA",
+    "Name": "Satrix Shariah Top 40 ETF",
+    "M. Cap.": "109M",
+    "Close": 5.34,
+    "YTD": "+56.1%"
   },
   {
     "Code": "EPE",
     "Name": "EPE Capital Partners Ltd",
-    "M. Cap.": "2.12B",
-    "Close": 8.25,
-    "YTD": "+53.1%"
+    "M. Cap.": "2.08B",
+    "Close": 8.1,
+    "YTD": "+50.3%"
   },
   {
     "Code": "EASYGE",
     "Name": "EasyETFs Global Equity AMETF",
-    "M. Cap.": "455M",
-    "Close": 15.94,
-    "YTD": "+50.5%"
+    "M. Cap.": "447M",
+    "Close": 15.55,
+    "YTD": "+46.8%"
   },
   {
     "Code": "ETFPLD",
     "Name": "1nvest Palladium ETF",
-    "M. Cap.": "59.5M",
-    "Close": 242.71,
-    "YTD": "+49.2%"
+    "M. Cap.": "57.2M",
+    "Close": 233.22,
+    "YTD": "+43.3%"
   },
   {
-    "Code": "EASYAI",
-    "Name": "EasyETFs AI World Actively Managed ETF",
-    "M. Cap.": "415M",
-    "Close": 92.53,
-    "YTD": "+43.7%"
+    "Code": "ETFGLD",
+    "Name": "1nvest Gold ETF",
+    "M. Cap.": "1.85B",
+    "Close": 666.46,
+    "YTD": "+40.3%"
   }
 ]

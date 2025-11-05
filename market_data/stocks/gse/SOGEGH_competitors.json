@@ -23,9 +23,9 @@
   {
     "Code": "GCB",
     "Name": "GCB Bank Limited",
-    "M. Cap.": "4.64B",
-    "Close": 17.5,
-    "YTD": "+175%"
+    "M. Cap.": "4.72B",
+    "Close": 17.8,
+    "YTD": "+179%"
   },
   {
     "Code": "EGH",
@@ -56,17 +56,17 @@
     "YTD": "+32.5%"
   },
   {
-    "Code": "CAL",
-    "Name": "CalBank Plc",
-    "M. Cap.": "508M",
-    "Close": 0.45,
-    "YTD": "+28.6%"
-  },
-  {
     "Code": "SCB",
     "Name": "Standard Chartered Bank Limited",
     "M. Cap.": "3.92B",
     "Close": 29.11,
     "YTD": "+26.6%"
+  },
+  {
+    "Code": "CAL",
+    "Name": "CalBank Plc",
+    "M. Cap.": "474M",
+    "Close": 0.42,
+    "YTD": "+20%"
   }
 ]

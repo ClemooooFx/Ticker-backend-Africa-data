@@ -9,9 +9,9 @@
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.44B",
-    "Close": 11.1,
-    "YTD": "+60.9%"
+    "M. Cap.": "9.21B",
+    "Close": 10.83,
+    "YTD": "+57%"
   },
   {
     "Code": "AOO",
@@ -44,23 +44,23 @@
   {
     "Code": "ADH",
     "Name": "ADvTECH Ltd",
-    "M. Cap.": "19.5B",
-    "Close": 35.12,
-    "YTD": "+3.78%"
-  },
-  {
-    "Code": "COH",
-    "Name": "Curro Holdings Limited",
-    "M. Cap.": "7.55B",
-    "Close": 13.37,
-    "YTD": "+2.45%"
+    "M. Cap.": "19.3B",
+    "Close": 34.89,
+    "YTD": "+3.1%"
   },
   {
     "Code": "LEW",
     "Name": "Lewis Group Ltd",
-    "M. Cap.": "4.28B",
-    "Close": 81.97,
-    "YTD": "+2.35%"
+    "M. Cap.": "4.27B",
+    "Close": 81.81,
+    "YTD": "+2.15%"
+  },
+  {
+    "Code": "COH",
+    "Name": "Curro Holdings Limited",
+    "M. Cap.": "7.44B",
+    "Close": 13.17,
+    "YTD": "+0.92%"
   },
   {
     "Code": "TFGP",

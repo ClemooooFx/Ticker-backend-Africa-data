@@ -2,9 +2,9 @@
   {
     "Code": "BOAM",
     "Name": "Bank of Africa - Mali",
-    "M. Cap.": "94.4B",
-    "Close": 3440,
-    "YTD": "+82%"
+    "M. Cap.": "98.8B",
+    "Close": 3600,
+    "YTD": "+90.5%"
   },
   {
     "Code": "ECOC",
@@ -16,57 +16,57 @@
   {
     "Code": "BOAS",
     "Name": "Bank of Africa - Senegal",
-    "M. Cap.": "191B",
-    "Close": 5300,
-    "YTD": "+68.3%"
+    "M. Cap.": "188B",
+    "Close": 5210,
+    "YTD": "+65.4%"
   },
   {
     "Code": "NSBC",
     "Name": "Nsia Banque C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "280B",
-    "Close": 11300,
-    "YTD": "+59.4%"
-  },
-  {
-    "Code": "BOAC",
-    "Name": "Bank of Africa - C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "278B",
-    "Close": 6960,
-    "YTD": "+39.3%"
+    "M. Cap.": "284B",
+    "Close": 11490,
+    "YTD": "+62.1%"
   },
   {
     "Code": "ETIT",
     "Name": "Ecobank Transnational Inc",
-    "M. Cap.": "398B",
-    "Close": 22,
-    "YTD": "+37.5%"
+    "M. Cap.": "416B",
+    "Close": 23,
+    "YTD": "+43.8%"
+  },
+  {
+    "Code": "BOAC",
+    "Name": "Bank of Africa - C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
+    "M. Cap.": "276B",
+    "Close": 6900,
+    "YTD": "+38.1%"
   },
   {
     "Code": "BOAB",
     "Name": "Bank of Africa - Benin",
-    "M. Cap.": "202B",
-    "Close": 4975,
-    "YTD": "+35%"
+    "M. Cap.": "200B",
+    "Close": 4940,
+    "YTD": "+34.1%"
   },
   {
     "Code": "BICC",
     "Name": "BICI C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "315B",
-    "Close": 18900,
-    "YTD": "+35%"
+    "M. Cap.": "313B",
+    "Close": 18755,
+    "YTD": "+34%"
   },
   {
     "Code": "SGBC",
     "Name": "SGB C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "856B",
-    "Close": 27500,
-    "YTD": "+31%"
+    "M. Cap.": "846B",
+    "Close": 27200,
+    "YTD": "+29.5%"
   },
   {
     "Code": "ORGT",
     "Name": "Oragroup Togo",
-    "M. Cap.": "173B",
-    "Close": 2490,
-    "YTD": "+29.7%"
+    "M. Cap.": "171B",
+    "Close": 2470,
+    "YTD": "+28.7%"
   }
 ]

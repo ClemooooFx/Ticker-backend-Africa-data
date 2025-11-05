@@ -2,65 +2,65 @@
   {
     "Code": "IOC",
     "Name": "iOCO Ltd",
-    "M. Cap.": "2.71B",
-    "Close": 4.24,
-    "YTD": "+73.1%"
+    "M. Cap.": "2.67B",
+    "Close": 4.19,
+    "YTD": "+71%"
   },
   {
     "Code": "PRX",
     "Name": "Prosus N.V.",
-    "M. Cap.": "2.85T",
-    "Close": 1196.45,
-    "YTD": "+59.7%"
+    "M. Cap.": "2.86T",
+    "Close": 1200.65,
+    "YTD": "+60.3%"
   },
   {
     "Code": "DTC",
     "Name": "Datatec Ltd",
-    "M. Cap.": "16.7B",
-    "Close": 71.06,
-    "YTD": "+42.5%"
-  },
-  {
-    "Code": "PBG",
-    "Name": "PBT Group Limited",
-    "M. Cap.": "614M",
-    "Close": 6.0,
-    "YTD": "+7.14%"
+    "M. Cap.": "16.8B",
+    "Close": 71.24,
+    "YTD": "+42.9%"
   },
   {
     "Code": "AXX",
     "Name": "Araxi Ltd",
-    "M. Cap.": "2.11B",
-    "Close": 1.61,
-    "YTD": "+5.23%"
+    "M. Cap.": "2.31B",
+    "Close": 1.76,
+    "YTD": "+15%"
+  },
+  {
+    "Code": "PBG",
+    "Name": "PBT Group Limited",
+    "M. Cap.": "602M",
+    "Close": 5.88,
+    "YTD": "+5%"
   },
   {
     "Code": "KRO",
     "Name": "Karooooo Ltd",
-    "M. Cap.": "24.3B",
-    "Close": 785.97,
-    "YTD": "-9.66%"
+    "M. Cap.": "24.7B",
+    "Close": 800.0,
+    "YTD": "-8.05%"
   },
   {
     "Code": "BYI",
     "Name": "Bytes Technology Group Plc",
-    "M. Cap.": "20.6B",
-    "Close": 85.47,
-    "YTD": "-13.1%"
+    "M. Cap.": "20.8B",
+    "Close": 86.42,
+    "YTD": "-12.1%"
   },
   {
     "Code": "LSK",
     "Name": "Lesaka Technologies",
     "M. Cap.": "6.4B",
-    "Close": 76.0,
+    "Close": 75.99,
     "YTD": "-15.9%"
   },
   {
     "Code": "AEL",
     "Name": "Altron: Allied Electronics Corporation",
-    "M. Cap.": "6.95B",
-    "Close": 16.84,
-    "YTD": "-20.8%"
+    "M. Cap.": "7.11B",
+    "Close": 17.23,
+    "YTD": "-18.9%"
   },
   {
     "Code": "PWR",

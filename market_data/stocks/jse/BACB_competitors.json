@@ -2,71 +2,71 @@
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.21B",
-    "Close": 109.54,
-    "YTD": "+102%"
+    "M. Cap.": "2.13B",
+    "Close": 105.16,
+    "YTD": "+93.5%"
   },
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.06B",
-    "Close": 39.0,
-    "YTD": "+77.3%"
+    "M. Cap.": "2.12B",
+    "Close": 40.0,
+    "YTD": "+81.8%"
   },
   {
     "Code": "ETFRHO",
     "Name": "1nvest Rhodium ETF",
-    "M. Cap.": "1.22B",
-    "Close": 1256.24,
-    "YTD": "+63.8%"
-  },
-  {
-    "Code": "STXSHA",
-    "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "113M",
-    "Close": 5.55,
-    "YTD": "+62.3%"
+    "M. Cap.": "1.18B",
+    "Close": 1241.65,
+    "YTD": "+61.9%"
   },
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "7.74B",
-    "Close": 263.11,
-    "YTD": "+60.5%"
+    "M. Cap.": "7.56B",
+    "Close": 257.31,
+    "YTD": "+57%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.98B",
-    "Close": 263.44,
-    "YTD": "+59.5%"
+    "M. Cap.": "3.64B",
+    "Close": 259.2,
+    "YTD": "+57%"
+  },
+  {
+    "Code": "STXSHA",
+    "Name": "Satrix Shariah Top 40 ETF",
+    "M. Cap.": "109M",
+    "Close": 5.34,
+    "YTD": "+56.1%"
   },
   {
     "Code": "EPE",
     "Name": "EPE Capital Partners Ltd",
-    "M. Cap.": "2.12B",
-    "Close": 8.25,
-    "YTD": "+53.1%"
+    "M. Cap.": "2.08B",
+    "Close": 8.1,
+    "YTD": "+50.3%"
   },
   {
     "Code": "EASYGE",
     "Name": "EasyETFs Global Equity AMETF",
-    "M. Cap.": "455M",
-    "Close": 15.94,
-    "YTD": "+50.5%"
-  },
-  {
-    "Code": "ETFPLD",
-    "Name": "1nvest Palladium ETF",
-    "M. Cap.": "59.5M",
-    "Close": 242.71,
-    "YTD": "+49.2%"
+    "M. Cap.": "447M",
+    "Close": 15.55,
+    "YTD": "+46.8%"
   },
   {
     "Code": "NGPLD",
     "Name": "NewGold Palladium ETF",
-    "M. Cap.": "247M",
-    "Close": 242.29,
-    "YTD": "+48.7%"
+    "M. Cap.": "239M",
+    "Close": 234.27,
+    "YTD": "+43.8%"
+  },
+  {
+    "Code": "ETFPLD",
+    "Name": "1nvest Palladium ETF",
+    "M. Cap.": "57.2M",
+    "Close": 233.22,
+    "YTD": "+43.3%"
   }
 ]

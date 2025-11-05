@@ -2,51 +2,51 @@
   {
     "Code": "RBO",
     "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "3.99B",
-    "Close": 4.46,
-    "YTD": "+22.9%"
+    "M. Cap.": "4B",
+    "Close": 4.47,
+    "YTD": "+23.1%"
   },
   {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "9.51B",
-    "Close": 221.6,
-    "YTD": "+18.5%"
+    "M. Cap.": "9.37B",
+    "Close": 218.38,
+    "YTD": "+16.8%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
     "M. Cap.": "57.7B",
-    "Close": 329.85,
-    "YTD": "+14.1%"
-  },
-  {
-    "Code": "LBR",
-    "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.82B",
-    "Close": 4.63,
-    "YTD": "+6.44%"
+    "Close": 330.0,
+    "YTD": "+14.2%"
   },
   {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
-    "M. Cap.": "5.7B",
-    "Close": 21.7,
-    "YTD": "+4.88%"
+    "M. Cap.": "5.69B",
+    "Close": 21.65,
+    "YTD": "+4.64%"
   },
   {
-    "Code": "SHG",
-    "Name": "Sea Harvest Group Ltd",
-    "M. Cap.": "3.05B",
-    "Close": 8.44,
-    "YTD": "+1.08%"
+    "Code": "LBR",
+    "Name": "Libstar Holdings Ltd",
+    "M. Cap.": "2.76B",
+    "Close": 4.53,
+    "YTD": "+4.14%"
   },
   {
     "Code": "RCL",
     "Name": "RCL Foods Limited",
-    "M. Cap.": "8.62B",
-    "Close": 9.6,
-    "YTD": "+1.05%"
+    "M. Cap.": "8.69B",
+    "Close": 9.68,
+    "YTD": "+1.89%"
+  },
+  {
+    "Code": "SHG",
+    "Name": "Sea Harvest Group Ltd",
+    "M. Cap.": "3.03B",
+    "Close": 8.39,
+    "YTD": "+0.48%"
   },
   {
     "Code": "QFH",
@@ -65,8 +65,8 @@
   {
     "Code": "OCE",
     "Name": "Oceana Group Ltd",
-    "M. Cap.": "6.4B",
-    "Close": 49.29,
-    "YTD": "-27%"
+    "M. Cap.": "6.42B",
+    "Close": 49.43,
+    "YTD": "-26.8%"
   }
 ]
