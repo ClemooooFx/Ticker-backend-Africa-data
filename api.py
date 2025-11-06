@@ -162,7 +162,11 @@ def get_stock_competitors(market: str, ticker: str):
         )
     
     file_path = BASE_PATH / "stocks" / market / f"{ticker}_competitors.json"
-    return load_json_file(file_path)
+    data = load_json_file(file_path)
+    
+    # Sanitize NaN/Inf values before returning
+    cleaned_data = sanitize_data(data)
+    return cleaned_data
 
 
 @app.get("/stock/{market}/tickers")
