@@ -7,25 +7,25 @@
     "YTD": "+24.2%"
   },
   {
-    "Code": "CBZ",
-    "Name": "CBZ Holdings Limited",
-    "M. Cap.": "5.85B",
-    "Close": 8.5,
-    "YTD": "-0.47%"
-  },
-  {
     "Code": "FMP",
     "Name": "First Mutual Properties Limited",
-    "M. Cap.": "1.4B",
-    "Close": 1.120972,
-    "YTD": "-8.94%"
+    "M. Cap.": "1.6B",
+    "Close": 1.289,
+    "YTD": "+4.71%"
+  },
+  {
+    "Code": "CBZ",
+    "Name": "CBZ Holdings Limited",
+    "M. Cap.": "5.91B",
+    "Close": 8.6,
+    "YTD": "+0.7%"
   },
   {
     "Code": "FBC",
     "Name": "FBC Holdings Limited",
-    "M. Cap.": "4.72B",
-    "Close": 7.0,
-    "YTD": "-35.5%"
+    "M. Cap.": "5.35B",
+    "Close": 7.94,
+    "YTD": "-26.8%"
   },
   {
     "Code": "FIDL",
@@ -37,9 +37,9 @@
   {
     "Code": "ZBFH",
     "Name": "ZB Financial Holdings Limited",
-    "M. Cap.": "528M",
-    "Close": 3.01,
-    "YTD": "-53.7%"
+    "M. Cap.": "562M",
+    "Close": 3.2025,
+    "YTD": "-50.7%"
   },
   {
     "Code": "MASH",
@@ -58,8 +58,8 @@
   {
     "Code": "FML",
     "Name": "First Mutual Holdings Limited",
-    "M. Cap.": "904M",
-    "Close": 1.314,
-    "YTD": "-70.4%"
+    "M. Cap.": "950M",
+    "Close": 1.38,
+    "YTD": "-68.9%"
   }
 ]

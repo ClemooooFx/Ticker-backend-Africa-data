@@ -2,30 +2,30 @@
   {
     "Code": "SMER",
     "Name": "Sameer Africa Plc",
-    "M. Cap.": "4.16B",
-    "Close": 14.95,
-    "YTD": "+515%"
+    "M. Cap.": "4.15B",
+    "Close": 14.9,
+    "YTD": "+513%"
   },
   {
     "Code": "EGAD",
     "Name": "Eaagads Limited",
-    "M. Cap.": "659M",
-    "Close": 20.5,
-    "YTD": "+70.8%"
+    "M. Cap.": "650M",
+    "Close": 20.2,
+    "YTD": "+68.3%"
   },
   {
     "Code": "EABL",
     "Name": "East African Breweries Limited",
-    "M. Cap.": "189B",
-    "Close": 239.5,
-    "YTD": "+36.5%"
+    "M. Cap.": "193B",
+    "Close": 244.0,
+    "YTD": "+39%"
   },
   {
     "Code": "SASN",
     "Name": "Sasini Tea and Coffee Limited",
-    "M. Cap.": "4.31B",
-    "Close": 18.9,
-    "YTD": "+26%"
+    "M. Cap.": "4.29B",
+    "Close": 18.8,
+    "YTD": "+25.3%"
   },
   {
     "Code": "LIMT",
@@ -35,38 +35,38 @@
     "YTD": "+21%"
   },
   {
-    "Code": "EVRD",
-    "Name": "Eveready East Africa Limited",
-    "M. Cap.": "286M",
-    "Close": 1.36,
-    "YTD": "+18.3%"
-  },
-  {
     "Code": "BAT",
     "Name": "British American Tobacco Kenya",
-    "M. Cap.": "44.1B",
-    "Close": 441.25,
-    "YTD": "+17.4%"
+    "M. Cap.": "45B",
+    "Close": 450.0,
+    "YTD": "+19.7%"
+  },
+  {
+    "Code": "EVRD",
+    "Name": "Eveready East Africa Limited",
+    "M. Cap.": "273M",
+    "Close": 1.3,
+    "YTD": "+13%"
   },
   {
     "Code": "KUKZ",
     "Name": "Kakuzi Limited",
-    "M. Cap.": "8.09B",
-    "Close": 413.0,
-    "YTD": "+7.27%"
-  },
-  {
-    "Code": "KAPC",
-    "Name": "Kapchorua Tea Company Limited",
-    "M. Cap.": "1.77B",
-    "Close": 226.0,
-    "YTD": "-3.83%"
+    "M. Cap.": "7.84B",
+    "Close": 400.25,
+    "YTD": "+3.96%"
   },
   {
     "Code": "AMAC",
     "Name": "Africa Mega Agricorp",
-    "M. Cap.": "769M",
-    "Close": 59.75,
-    "YTD": "-14.6%"
+    "M. Cap.": "836M",
+    "Close": 65.0,
+    "YTD": "-7.14%"
+  },
+  {
+    "Code": "KAPC",
+    "Name": "Kapchorua Tea Company Limited",
+    "M. Cap.": "1.68B",
+    "Close": 214.25,
+    "YTD": "-8.83%"
   }
 ]

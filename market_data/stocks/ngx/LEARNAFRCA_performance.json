@@ -1,5 +1,12 @@
 [
   {
+    "Date": "2025-11-06",
+    "Volume": 132456,
+    "Close": 5.85,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
     "Date": "2025-11-05",
     "Volume": 117725,
     "Close": 5.85,
@@ -58,13 +65,6 @@
   {
     "Date": "2025-10-24",
     "Volume": 92046,
-    "Close": 6.55,
-    "Change": NaN,
-    "Change%": NaN
-  },
-  {
-    "Date": "2025-10-23",
-    "Volume": 279051,
     "Close": 6.55,
     "Change": NaN,
     "Change%": NaN
