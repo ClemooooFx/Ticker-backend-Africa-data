@@ -2,37 +2,37 @@
   {
     "Code": "BOAM",
     "Name": "Bank of Africa - Mali",
-    "M. Cap.": "98.8B",
-    "Close": 3600,
-    "YTD": "+90.5%"
+    "M. Cap.": "98.1B",
+    "Close": 3575,
+    "YTD": "+89.2%"
   },
   {
     "Code": "ECOC",
     "Name": "Ecobank C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "837B",
-    "Close": 15200,
-    "YTD": "+72.8%"
+    "M. Cap.": "853B",
+    "Close": 15500,
+    "YTD": "+76.2%"
   },
   {
     "Code": "BOAS",
     "Name": "Bank of Africa - Senegal",
-    "M. Cap.": "188B",
-    "Close": 5210,
-    "YTD": "+65.4%"
+    "M. Cap.": "187B",
+    "Close": 5200,
+    "YTD": "+65.1%"
   },
   {
     "Code": "NSBC",
     "Name": "Nsia Banque C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "284B",
-    "Close": 11490,
-    "YTD": "+62.1%"
+    "M. Cap.": "282B",
+    "Close": 11390,
+    "YTD": "+60.7%"
   },
   {
     "Code": "SIBC",
     "Name": "Societe Ivoirienne de Banque",
-    "M. Cap.": "565B",
-    "Close": 5650,
-    "YTD": "+58.9%"
+    "M. Cap.": "555B",
+    "Close": 5550,
+    "YTD": "+56.1%"
   },
   {
     "Code": "BOAC",
@@ -42,31 +42,31 @@
     "YTD": "+38.1%"
   },
   {
-    "Code": "BOAB",
-    "Name": "Bank of Africa - Benin",
-    "M. Cap.": "200B",
-    "Close": 4940,
-    "YTD": "+34.1%"
-  },
-  {
     "Code": "BICC",
     "Name": "BICI C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "313B",
-    "Close": 18755,
-    "YTD": "+34%"
+    "M. Cap.": "310B",
+    "Close": 18600,
+    "YTD": "+32.9%"
+  },
+  {
+    "Code": "BOAB",
+    "Name": "Bank of Africa - Benin",
+    "M. Cap.": "199B",
+    "Close": 4895,
+    "YTD": "+32.8%"
   },
   {
     "Code": "SGBC",
     "Name": "SGB C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "846B",
-    "Close": 27200,
-    "YTD": "+29.5%"
+    "M. Cap.": "838B",
+    "Close": 26950,
+    "YTD": "+28.3%"
   },
   {
     "Code": "ORGT",
     "Name": "Oragroup Togo",
-    "M. Cap.": "171B",
-    "Close": 2470,
-    "YTD": "+28.7%"
+    "M. Cap.": "166B",
+    "Close": 2385,
+    "YTD": "+24.2%"
   }
 ]

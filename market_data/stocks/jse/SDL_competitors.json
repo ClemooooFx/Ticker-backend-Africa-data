@@ -2,71 +2,71 @@
   {
     "Code": "IMP",
     "Name": "Impala Platinum Hlgs Ltd",
-    "M. Cap.": "162B",
-    "Close": 179.5,
-    "YTD": "+105%"
-  },
-  {
-    "Code": "ACL",
-    "Name": "ArcelorMittal SA Limited",
-    "M. Cap.": "1.6B",
-    "Close": 1.41,
-    "YTD": "+5.22%"
-  },
-  {
-    "Code": "KIO",
-    "Name": "Kumba Iron Ore Ltd",
-    "M. Cap.": "107B",
-    "Close": 332.04,
-    "YTD": "+1.77%"
+    "M. Cap.": "167B",
+    "Close": 184.24,
+    "YTD": "+110%"
   },
   {
     "Code": "ISB",
     "Name": "Insimbi Industrial Holdings",
-    "M. Cap.": "228M",
-    "Close": 0.69,
-    "YTD": "-1.43%"
+    "M. Cap.": "265M",
+    "Close": 0.8,
+    "YTD": "+14.3%"
+  },
+  {
+    "Code": "ACL",
+    "Name": "ArcelorMittal SA Limited",
+    "M. Cap.": "1.59B",
+    "Close": 1.4,
+    "YTD": "+4.48%"
+  },
+  {
+    "Code": "KIO",
+    "Name": "Kumba Iron Ore Ltd",
+    "M. Cap.": "109B",
+    "Close": 337.57,
+    "YTD": "+3.47%"
   },
   {
     "Code": "APH",
     "Name": "Alphamin Resources Corp",
-    "M. Cap.": "16.8B",
-    "Close": 13.1,
-    "YTD": "-3.68%"
+    "M. Cap.": "16.2B",
+    "Close": 12.66,
+    "YTD": "-6.91%"
   },
   {
     "Code": "EUZ",
     "Name": "Europa Metals Limited",
-    "M. Cap.": "49M",
-    "Close": 0.48,
-    "YTD": "-5.88%"
+    "M. Cap.": "38.8M",
+    "Close": 0.38,
+    "YTD": "-25.5%"
   },
   {
     "Code": "HLM",
     "Name": "Hulamin Ltd",
-    "M. Cap.": "785M",
-    "Close": 2.42,
-    "YTD": "-30.9%"
+    "M. Cap.": "840M",
+    "Close": 2.59,
+    "YTD": "-26%"
   },
   {
     "Code": "CPR",
     "Name": "Copper 360 Ltd",
-    "M. Cap.": "680M",
-    "Close": 0.68,
-    "YTD": "-71.1%"
+    "M. Cap.": "700M",
+    "Close": 0.7,
+    "YTD": "-70.2%"
   },
   {
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
     "M. Cap.": "125B",
-    "Close": 44.0,
+    "Close": 44.06,
     "YTD": "+194%"
   },
   {
     "Code": "NPH",
     "Name": "Northam Platinum Holdings",
-    "M. Cap.": "107B",
-    "Close": 266.65,
-    "YTD": "+174%"
+    "M. Cap.": "110B",
+    "Close": 274.26,
+    "YTD": "+182%"
   }
 ]

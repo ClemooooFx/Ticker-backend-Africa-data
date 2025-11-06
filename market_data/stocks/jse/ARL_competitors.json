@@ -2,9 +2,9 @@
   {
     "Code": "RBO",
     "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4B",
-    "Close": 4.47,
-    "YTD": "+23.1%"
+    "M. Cap.": "4.12B",
+    "Close": 4.6,
+    "YTD": "+26.7%"
   },
   {
     "Code": "TBS",
@@ -14,32 +14,32 @@
     "YTD": "+14.2%"
   },
   {
-    "Code": "RFG",
-    "Name": "RFG Holdings Limited",
-    "M. Cap.": "5.69B",
-    "Close": 21.65,
-    "YTD": "+4.64%"
-  },
-  {
     "Code": "LBR",
     "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.76B",
-    "Close": 4.53,
-    "YTD": "+4.14%"
+    "M. Cap.": "2.81B",
+    "Close": 4.61,
+    "YTD": "+5.98%"
+  },
+  {
+    "Code": "RFG",
+    "Name": "RFG Holdings Limited",
+    "M. Cap.": "5.7B",
+    "Close": 21.68,
+    "YTD": "+4.78%"
   },
   {
     "Code": "RCL",
     "Name": "RCL Foods Limited",
-    "M. Cap.": "8.69B",
-    "Close": 9.68,
-    "YTD": "+1.89%"
+    "M. Cap.": "8.53B",
+    "Close": 9.5,
+    "YTD": NaN
   },
   {
     "Code": "SHG",
     "Name": "Sea Harvest Group Ltd",
-    "M. Cap.": "3.03B",
-    "Close": 8.39,
-    "YTD": "+0.48%"
+    "M. Cap.": "2.92B",
+    "Close": 8.08,
+    "YTD": "-3.23%"
   },
   {
     "Code": "QFH",
@@ -51,9 +51,9 @@
   {
     "Code": "AVI",
     "Name": "AVI Ltd",
-    "M. Cap.": "32.7B",
-    "Close": 95.85,
-    "YTD": "-12.6%"
+    "M. Cap.": "33.1B",
+    "Close": 96.92,
+    "YTD": "-11.7%"
   },
   {
     "Code": "CKS",
@@ -65,8 +65,8 @@
   {
     "Code": "OCE",
     "Name": "Oceana Group Ltd",
-    "M. Cap.": "6.42B",
-    "Close": 49.43,
+    "M. Cap.": "6.41B",
+    "Close": 49.39,
     "YTD": "-26.8%"
   }
 ]

@@ -2,9 +2,9 @@
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.13B",
-    "Close": 105.16,
-    "YTD": "+93.5%"
+    "M. Cap.": "2.17B",
+    "Close": 107.14,
+    "YTD": "+97.2%"
   },
   {
     "Code": "YYLBEE",
@@ -21,52 +21,52 @@
     "YTD": "+69.2%"
   },
   {
-    "Code": "NGPLT",
-    "Name": "NewGold Platinum ETF",
-    "M. Cap.": "7.56B",
-    "Close": 257.31,
-    "YTD": "+57%"
-  },
-  {
     "Code": "STXSHA",
     "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "109M",
-    "Close": 5.34,
-    "YTD": "+56.1%"
+    "M. Cap.": "111M",
+    "Close": 5.46,
+    "YTD": "+59.7%"
+  },
+  {
+    "Code": "NGPLT",
+    "Name": "NewGold Platinum ETF",
+    "M. Cap.": "7.6B",
+    "Close": 258.59,
+    "YTD": "+57.8%"
   },
   {
     "Code": "EPE",
     "Name": "EPE Capital Partners Ltd",
-    "M. Cap.": "2.08B",
-    "Close": 8.1,
-    "YTD": "+50.3%"
-  },
-  {
-    "Code": "EASYGE",
-    "Name": "EasyETFs Global Equity AMETF",
-    "M. Cap.": "447M",
-    "Close": 15.55,
-    "YTD": "+46.8%"
+    "M. Cap.": "2.02B",
+    "Close": 7.86,
+    "YTD": "+45.8%"
   },
   {
     "Code": "NGPLD",
     "Name": "NewGold Palladium ETF",
-    "M. Cap.": "239M",
-    "Close": 234.27,
-    "YTD": "+43.8%"
+    "M. Cap.": "240M",
+    "Close": 235.72,
+    "YTD": "+44.7%"
   },
   {
-    "Code": "GLD",
-    "Name": "New Gold Issuer Limited",
-    "M. Cap.": "37.2B",
-    "Close": 637.4,
-    "YTD": "+40.3%"
+    "Code": "EASYGE",
+    "Name": "EasyETFs Global Equity AMETF",
+    "M. Cap.": "437M",
+    "Close": 15.22,
+    "YTD": "+43.7%"
+  },
+  {
+    "Code": "MHB",
+    "Name": "Mahube Infrastructure Limited",
+    "M. Cap.": "331M",
+    "Close": 6.0,
+    "YTD": "+42.5%"
   },
   {
     "Code": "WTOP20",
     "Name": "10X Wealth Top 20 Capped ETF",
-    "M. Cap.": "947M",
-    "Close": 14.46,
-    "YTD": "+40.1%"
+    "M. Cap.": "962M",
+    "Close": 14.68,
+    "YTD": "+42.3%"
   }
 ]

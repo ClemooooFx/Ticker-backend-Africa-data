@@ -2,16 +2,16 @@
   {
     "Code": "WVR",
     "Name": "Weaver Fintech Ltd",
-    "M. Cap.": "5.34B",
-    "Close": 49.99,
-    "YTD": "+66.6%"
+    "M. Cap.": "5.44B",
+    "Close": 51.0,
+    "YTD": "+70%"
   },
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.21B",
-    "Close": 10.83,
-    "YTD": "+57%"
+    "M. Cap.": "9.27B",
+    "Close": 10.9,
+    "YTD": "+58%"
   },
   {
     "Code": "NCS",
@@ -51,21 +51,21 @@
   {
     "Code": "ADH",
     "Name": "ADvTECH Ltd",
-    "M. Cap.": "19.3B",
-    "Close": 34.89,
-    "YTD": "+3.1%"
-  },
-  {
-    "Code": "LEW",
-    "Name": "Lewis Group Ltd",
-    "M. Cap.": "4.27B",
-    "Close": 81.81,
-    "YTD": "+2.15%"
+    "M. Cap.": "19.1B",
+    "Close": 34.5,
+    "YTD": "+1.95%"
   },
   {
     "Code": "TFGP",
     "Name": "Foschini Ltd 6.5% Preference Share",
     "M. Cap.": "202000",
+    "Close": 1.01,
+    "YTD": NaN
+  },
+  {
+    "Code": "RTOP",
+    "Name": "Rex Trueform Grp 6%Pref",
+    "M. Cap.": "141400",
     "Close": 1.01,
     "YTD": NaN
   }

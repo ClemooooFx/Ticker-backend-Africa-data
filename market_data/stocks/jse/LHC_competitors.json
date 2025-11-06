@@ -9,23 +9,23 @@
   {
     "Code": "NTC",
     "Name": "Netcare Limited",
-    "M. Cap.": "20.2B",
-    "Close": 14.79,
-    "YTD": "-0.87%"
+    "M. Cap.": "20.1B",
+    "Close": 14.71,
+    "YTD": "-1.41%"
   },
   {
     "Code": "ACT",
     "Name": "AfroCentric Inv Corp Ltd",
-    "M. Cap.": "1.13B",
-    "Close": 1.35,
-    "YTD": "-32.2%"
+    "M. Cap.": "1.08B",
+    "Close": 1.28,
+    "YTD": "-35.7%"
   },
   {
     "Code": "CCC",
     "Name": "Cilo Cybin Holdings Ltd",
     "M. Cap.": "1.04B",
-    "Close": 4.51,
-    "YTD": "+15.6%"
+    "Close": 4.5,
+    "YTD": "+15.4%"
   },
   {
     "Code": "XII",
@@ -37,22 +37,22 @@
   {
     "Code": "PHP",
     "Name": "Primary Health Properties",
-    "M. Cap.": "56.8B",
-    "Close": 21.89,
-    "YTD": "-0.41%"
+    "M. Cap.": "55.9B",
+    "Close": 21.54,
+    "YTD": "-2%"
   },
   {
     "Code": "ASC",
     "Name": "Ascendis Health Ltd",
-    "M. Cap.": "582M",
-    "Close": 0.92,
-    "YTD": "-8%"
+    "M. Cap.": "588M",
+    "Close": 0.93,
+    "YTD": "-7%"
   },
   {
     "Code": "APN",
     "Name": "Aspen Pharmacare Holdings",
-    "M. Cap.": "42.4B",
-    "Close": 94.95,
-    "YTD": "-42.4%"
+    "M. Cap.": "43.3B",
+    "Close": 96.93,
+    "YTD": "-41.2%"
   }
 ]

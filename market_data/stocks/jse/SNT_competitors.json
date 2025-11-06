@@ -10,15 +10,22 @@
     "Code": "DSY",
     "Name": "Discovery Limited",
     "M. Cap.": "149B",
-    "Close": 219.23,
-    "YTD": "+12.6%"
+    "Close": 219.55,
+    "YTD": "+12.7%"
   },
   {
     "Code": "MTM",
     "Name": "Momentum Met Hldgs Ltd",
-    "M. Cap.": "44.6B",
-    "Close": 33.19,
-    "YTD": "+9.68%"
+    "M. Cap.": "45.3B",
+    "Close": 33.74,
+    "YTD": "+11.5%"
+  },
+  {
+    "Code": "SLM",
+    "Name": "Sanlam Limited",
+    "M. Cap.": "194B",
+    "Close": 91.81,
+    "YTD": "+5.67%"
   },
   {
     "Code": "CLI",
@@ -28,32 +35,25 @@
     "YTD": "+4.72%"
   },
   {
-    "Code": "SLM",
-    "Name": "Sanlam Limited",
-    "M. Cap.": "192B",
-    "Close": 90.71,
-    "YTD": "+4.41%"
+    "Code": "FGL",
+    "Name": "Finbond Group Ltd",
+    "M. Cap.": "748M",
+    "Close": 1.45,
+    "YTD": "+123%"
   },
   {
     "Code": "PPE",
     "Name": "Purple Group Ltd",
-    "M. Cap.": "3.13B",
-    "Close": 2.2,
-    "YTD": "+104%"
+    "M. Cap.": "3.16B",
+    "Close": 2.22,
+    "YTD": "+106%"
   },
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.13B",
-    "Close": 105.16,
-    "YTD": "+93.5%"
-  },
-  {
-    "Code": "FGL",
-    "Name": "Finbond Group Ltd",
-    "M. Cap.": "614M",
-    "Close": 1.19,
-    "YTD": "+83.1%"
+    "M. Cap.": "2.17B",
+    "Close": 107.14,
+    "YTD": "+97.2%"
   },
   {
     "Code": "YYLBEE",

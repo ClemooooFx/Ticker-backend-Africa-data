@@ -17,56 +17,56 @@
     "Code": "ETFRHO",
     "Name": "1nvest Rhodium ETF",
     "M. Cap.": "1.18B",
-    "Close": 1241.65,
-    "YTD": "+61.9%"
+    "Close": 1234.09,
+    "YTD": "+60.9%"
   },
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "7.56B",
-    "Close": 257.31,
-    "YTD": "+57%"
+    "M. Cap.": "7.6B",
+    "Close": 258.59,
+    "YTD": "+57.8%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.64B",
-    "Close": 259.2,
-    "YTD": "+57%"
+    "M. Cap.": "3.63B",
+    "Close": 257.94,
+    "YTD": "+56.2%"
   },
   {
     "Code": "EPE",
     "Name": "EPE Capital Partners Ltd",
-    "M. Cap.": "2.08B",
-    "Close": 8.1,
-    "YTD": "+50.3%"
-  },
-  {
-    "Code": "EASYGE",
-    "Name": "EasyETFs Global Equity AMETF",
-    "M. Cap.": "447M",
-    "Close": 15.55,
-    "YTD": "+46.8%"
+    "M. Cap.": "2.02B",
+    "Close": 7.86,
+    "YTD": "+45.8%"
   },
   {
     "Code": "NGPLD",
     "Name": "NewGold Palladium ETF",
-    "M. Cap.": "239M",
-    "Close": 234.27,
-    "YTD": "+43.8%"
+    "M. Cap.": "240M",
+    "Close": 235.72,
+    "YTD": "+44.7%"
   },
   {
     "Code": "ETFPLD",
     "Name": "1nvest Palladium ETF",
-    "M. Cap.": "57.2M",
-    "Close": 233.22,
-    "YTD": "+43.3%"
+    "M. Cap.": "57.4M",
+    "Close": 234.13,
+    "YTD": "+43.9%"
   },
   {
-    "Code": "ETFGLD",
-    "Name": "1nvest Gold ETF",
-    "M. Cap.": "1.85B",
-    "Close": 666.46,
-    "YTD": "+40.3%"
+    "Code": "EASYGE",
+    "Name": "EasyETFs Global Equity AMETF",
+    "M. Cap.": "437M",
+    "Close": 15.22,
+    "YTD": "+43.7%"
+  },
+  {
+    "Code": "MHB",
+    "Name": "Mahube Infrastructure Limited",
+    "M. Cap.": "331M",
+    "Close": 6.0,
+    "YTD": "+42.5%"
   }
 ]
