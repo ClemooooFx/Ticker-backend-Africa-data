@@ -2,58 +2,65 @@
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.17B",
-    "Close": 107.14,
-    "YTD": "+97.2%"
+    "M. Cap.": "2.24B",
+    "Close": 110.44,
+    "YTD": "+103%"
   },
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.12B",
-    "Close": 40.0,
-    "YTD": "+81.8%"
-  },
-  {
-    "Code": "BAC",
-    "Name": "Africa Bitcoin Corporation Ltd",
-    "M. Cap.": "121M",
-    "Close": 11.0,
-    "YTD": "+69.2%"
+    "M. Cap.": "2.17B",
+    "Close": 41.0,
+    "YTD": "+86.4%"
   },
   {
     "Code": "STXSHA",
     "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "111M",
-    "Close": 5.46,
-    "YTD": "+59.7%"
+    "M. Cap.": "113M",
+    "Close": 5.57,
+    "YTD": "+62.9%"
   },
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "7.6B",
-    "Close": 258.59,
-    "YTD": "+57.8%"
+    "M. Cap.": "7.61B",
+    "Close": 258.92,
+    "YTD": "+58%"
+  },
+  {
+    "Code": "BAC",
+    "Name": "Africa Bitcoin Corporation Ltd",
+    "M. Cap.": "114M",
+    "Close": 10.0,
+    "YTD": "+53.9%"
   },
   {
     "Code": "EPE",
     "Name": "EPE Capital Partners Ltd",
     "M. Cap.": "2.02B",
-    "Close": 7.86,
-    "YTD": "+45.8%"
+    "Close": 7.87,
+    "YTD": "+46%"
   },
   {
-    "Code": "NGPLD",
-    "Name": "NewGold Palladium ETF",
-    "M. Cap.": "240M",
-    "Close": 235.72,
-    "YTD": "+44.7%"
+    "Code": "WTOP20",
+    "Name": "10X Wealth Top 20 Capped ETF",
+    "M. Cap.": "984M",
+    "Close": 14.91,
+    "YTD": "+44.5%"
   },
   {
     "Code": "EASYGE",
     "Name": "EasyETFs Global Equity AMETF",
-    "M. Cap.": "437M",
-    "Close": 15.22,
-    "YTD": "+43.7%"
+    "M. Cap.": "452M",
+    "Close": 15.29,
+    "YTD": "+44.4%"
+  },
+  {
+    "Code": "NGPLD",
+    "Name": "NewGold Palladium ETF",
+    "M. Cap.": "239M",
+    "Close": 234.56,
+    "YTD": "+44%"
   },
   {
     "Code": "MHB",
@@ -61,12 +68,5 @@
     "M. Cap.": "331M",
     "Close": 6.0,
     "YTD": "+42.5%"
-  },
-  {
-    "Code": "WTOP20",
-    "Name": "10X Wealth Top 20 Capped ETF",
-    "M. Cap.": "962M",
-    "Close": 14.68,
-    "YTD": "+42.3%"
   }
 ]

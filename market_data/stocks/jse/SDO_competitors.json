@@ -28,6 +28,13 @@
     "YTD": "+6.74%"
   },
   {
+    "Code": "COH",
+    "Name": "Curro Holdings Limited",
+    "M. Cap.": "7.69B",
+    "Close": 13.62,
+    "YTD": "+4.37%"
+  },
+  {
     "Code": "AON",
     "Name": "African & Overseas Enterprises N-Shares",
     "M. Cap.": "145M",
@@ -42,18 +49,11 @@
     "YTD": "+4.17%"
   },
   {
-    "Code": "COH",
-    "Name": "Curro Holdings Limited",
-    "M. Cap.": "7.6B",
-    "Close": 13.45,
-    "YTD": "+3.07%"
-  },
-  {
     "Code": "ADH",
     "Name": "ADvTECH Ltd",
-    "M. Cap.": "19.1B",
-    "Close": 34.5,
-    "YTD": "+1.95%"
+    "M. Cap.": "19.4B",
+    "Close": 34.95,
+    "YTD": "+3.28%"
   },
   {
     "Code": "TFGP",

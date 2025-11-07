@@ -23,16 +23,16 @@
   {
     "Code": "EMN",
     "Name": "E Media Holdings Ltd -N-",
-    "M. Cap.": "1.2B",
-    "Close": 1.95,
-    "YTD": "-45.8%"
+    "M. Cap.": "1.33B",
+    "Close": 2.15,
+    "YTD": "-40.3%"
   },
   {
     "Code": "CHP",
     "Name": "Choppies Enterprises Limited",
-    "M. Cap.": "4.98B",
-    "Close": 2.73,
-    "YTD": "+241%"
+    "M. Cap.": "5.11B",
+    "Close": 2.8,
+    "YTD": "+250%"
   },
   {
     "Code": "WVR",
@@ -44,9 +44,9 @@
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.27B",
-    "Close": 10.9,
-    "YTD": "+58%"
+    "M. Cap.": "9.72B",
+    "Close": 11.42,
+    "YTD": "+65.5%"
   },
   {
     "Code": "NCS",
@@ -56,17 +56,17 @@
     "YTD": "+27.6%"
   },
   {
-    "Code": "BOX",
-    "Name": "Boxer Retail Ltd",
-    "M. Cap.": "34.3B",
-    "Close": 75.0,
-    "YTD": "+16.5%"
-  },
-  {
     "Code": "AOO",
     "Name": "African & Overseas Enterprises Ltd",
     "M. Cap.": "30.4M",
     "Close": 18.81,
     "YTD": "+15.8%"
+  },
+  {
+    "Code": "BOX",
+    "Name": "Boxer Retail Ltd",
+    "M. Cap.": "34B",
+    "Close": 74.42,
+    "YTD": "+15.6%"
   }
 ]

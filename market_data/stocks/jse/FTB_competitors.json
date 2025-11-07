@@ -16,44 +16,44 @@
   {
     "Code": "GRT",
     "Name": "Growthpoint Properties Limited",
-    "M. Cap.": "56.5B",
-    "Close": 16.46,
-    "YTD": "+29.3%"
+    "M. Cap.": "57.2B",
+    "Close": 16.66,
+    "YTD": "+30.9%"
   },
   {
     "Code": "VKE",
     "Name": "Vukile Property Fund Ltd",
-    "M. Cap.": "31.4B",
-    "Close": 22.95,
-    "YTD": "+27.7%"
+    "M. Cap.": "31.7B",
+    "Close": 23.13,
+    "YTD": "+28.7%"
   },
   {
     "Code": "SRE",
     "Name": "Sirius Real Estate Ltd",
-    "M. Cap.": "35.4B",
-    "Close": 23.4,
-    "YTD": "+27.2%"
-  },
-  {
-    "Code": "EMI",
-    "Name": "Emira Property Fund Ltd",
-    "M. Cap.": "6.7B",
-    "Close": 13.37,
-    "YTD": "+22.7%"
+    "M. Cap.": "35.3B",
+    "Close": 23.36,
+    "YTD": "+27%"
   },
   {
     "Code": "RES",
     "Name": "Resilient REIT Limited",
-    "M. Cap.": "26.3B",
-    "Close": 71.9,
-    "YTD": "+22.4%"
+    "M. Cap.": "26.4B",
+    "Close": 72.4,
+    "YTD": "+23.2%"
+  },
+  {
+    "Code": "EMI",
+    "Name": "Emira Property Fund Ltd",
+    "M. Cap.": "6.71B",
+    "Close": 13.4,
+    "YTD": "+22.9%"
   },
   {
     "Code": "RDF",
     "Name": "Redefine Properties Limited",
-    "M. Cap.": "40B",
-    "Close": 5.55,
-    "YTD": "+22%"
+    "M. Cap.": "40.3B",
+    "Close": 5.59,
+    "YTD": "+22.9%"
   },
   {
     "Code": "DIB",
@@ -65,8 +65,8 @@
   {
     "Code": "SAR",
     "Name": "Safari Investments RSA Ltd",
-    "M. Cap.": "2.04B",
-    "Close": 7.9,
-    "YTD": "+17%"
+    "M. Cap.": "2.06B",
+    "Close": 8.0,
+    "YTD": "+18.5%"
   }
 ]

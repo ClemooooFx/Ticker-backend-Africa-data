@@ -16,9 +16,9 @@
   {
     "Code": "NEWGOLD",
     "Name": "NewGold ETF",
-    "M. Cap.": "30.2B",
-    "Close": 513.0,
-    "YTD": "+52.5%"
+    "M. Cap.": "31.6B",
+    "Close": 541.0,
+    "YTD": "+60.8%"
   },
   {
     "Code": "BBS",
@@ -42,18 +42,18 @@
     "YTD": "+18.9%"
   },
   {
+    "Code": "SEFALANA",
+    "Name": "Sefalana Holding Company Ltd",
+    "M. Cap.": "3.95B",
+    "Close": 15.75,
+    "YTD": "+11.1%"
+  },
+  {
     "Code": "FNBB",
     "Name": "First National Bank of Botswana",
     "M. Cap.": "13.9B",
     "Close": 5.45,
     "YTD": "+6.65%"
-  },
-  {
-    "Code": "SEFALANA",
-    "Name": "Sefalana Holding Company Ltd",
-    "M. Cap.": "3.76B",
-    "Close": 15.0,
-    "YTD": "+5.78%"
   },
   {
     "Code": "INVESTEC",

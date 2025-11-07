@@ -2,71 +2,71 @@
   {
     "Code": "DSBP",
     "Name": "Discovery B Preference Shares",
-    "M. Cap.": "1000M",
-    "Close": 124.99,
+    "M. Cap.": "1B",
+    "Close": 125.0,
     "YTD": "+13.6%"
   },
   {
     "Code": "DSY",
     "Name": "Discovery Limited",
-    "M. Cap.": "149B",
-    "Close": 219.55,
-    "YTD": "+12.7%"
+    "M. Cap.": "148B",
+    "Close": 218.21,
+    "YTD": "+12%"
   },
   {
     "Code": "MTM",
     "Name": "Momentum Met Hldgs Ltd",
-    "M. Cap.": "45.3B",
-    "Close": 33.74,
-    "YTD": "+11.5%"
-  },
-  {
-    "Code": "SLM",
-    "Name": "Sanlam Limited",
-    "M. Cap.": "194B",
-    "Close": 91.81,
-    "YTD": "+5.67%"
+    "M. Cap.": "45.5B",
+    "Close": 33.87,
+    "YTD": "+11.9%"
   },
   {
     "Code": "CLI",
     "Name": "Clientele Ltd",
-    "M. Cap.": "5.93B",
-    "Close": 13.09,
-    "YTD": "+4.72%"
+    "M. Cap.": "6.19B",
+    "Close": 13.65,
+    "YTD": "+9.2%"
   },
   {
-    "Code": "FGL",
-    "Name": "Finbond Group Ltd",
-    "M. Cap.": "748M",
-    "Close": 1.45,
-    "YTD": "+123%"
+    "Code": "SLM",
+    "Name": "Sanlam Limited",
+    "M. Cap.": "195B",
+    "Close": 91.9,
+    "YTD": "+5.78%"
   },
   {
     "Code": "PPE",
     "Name": "Purple Group Ltd",
-    "M. Cap.": "3.16B",
-    "Close": 2.22,
-    "YTD": "+106%"
+    "M. Cap.": "3.3B",
+    "Close": 2.32,
+    "YTD": "+115%"
   },
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.17B",
-    "Close": 107.14,
-    "YTD": "+97.2%"
+    "M. Cap.": "2.24B",
+    "Close": 110.44,
+    "YTD": "+103%"
+  },
+  {
+    "Code": "FGL",
+    "Name": "Finbond Group Ltd",
+    "M. Cap.": "660M",
+    "Close": 1.28,
+    "YTD": "+96.9%"
   },
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.12B",
-    "Close": 40.0,
-    "YTD": "+81.8%"
+    "M. Cap.": "2.17B",
+    "Close": 41.0,
+    "YTD": "+86.4%"
   },
   {
-    "Code": "BAC",
-    "Name": "Africa Bitcoin Corporation Ltd",
-    "M. Cap.": "121M",
-    "Close": 11.0,
-    "YTD": "+69.2%"
+    "Code": "ETFRHO",
+    "Name": "1nvest Rhodium ETF",
+    "M. Cap.": "1.2B",
+    "Close": 1262.21,
+    "YTD": "+64.6%"
   }
 ]

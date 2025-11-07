@@ -9,58 +9,58 @@
   {
     "Code": "SAP",
     "Name": "Sappi Ltd",
-    "M. Cap.": "13.9B",
-    "Close": 23.02,
-    "YTD": "-53.3%"
+    "M. Cap.": "14.5B",
+    "Close": 24.0,
+    "YTD": "-51.3%"
   },
   {
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "125B",
-    "Close": 44.06,
-    "YTD": "+194%"
-  },
-  {
-    "Code": "NPH",
-    "Name": "Northam Platinum Holdings",
-    "M. Cap.": "110B",
-    "Close": 274.26,
-    "YTD": "+182%"
+    "M. Cap.": "134B",
+    "Close": 47.48,
+    "YTD": "+217%"
   },
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "581B",
-    "Close": 1151.6,
-    "YTD": "+174%"
-  },
-  {
-    "Code": "GFI",
-    "Name": "Gold Fields Ltd",
-    "M. Cap.": "592B",
-    "Close": 661.66,
-    "YTD": "+168%"
+    "M. Cap.": "607B",
+    "Close": 1202.1,
+    "YTD": "+186%"
   },
   {
     "Code": "DRD",
     "Name": "DRD Gold Ltd",
-    "M. Cap.": "38.1B",
-    "Close": 43.91,
-    "YTD": "+166%"
+    "M. Cap.": "40.2B",
+    "Close": 46.29,
+    "YTD": "+180%"
+  },
+  {
+    "Code": "NPH",
+    "Name": "Northam Platinum Holdings",
+    "M. Cap.": "107B",
+    "Close": 267.5,
+    "YTD": "+175%"
+  },
+  {
+    "Code": "GFI",
+    "Name": "Gold Fields Ltd",
+    "M. Cap.": "606B",
+    "Close": 676.63,
+    "YTD": "+174%"
   },
   {
     "Code": "PAN",
     "Name": "Pan African Resource plc",
-    "M. Cap.": "44.8B",
-    "Close": 19.21,
-    "YTD": "+135%"
+    "M. Cap.": "46.6B",
+    "Close": 19.98,
+    "YTD": "+144%"
   },
   {
     "Code": "IMP",
     "Name": "Impala Platinum Hlgs Ltd",
-    "M. Cap.": "167B",
-    "Close": 184.24,
-    "YTD": "+110%"
+    "M. Cap.": "171B",
+    "Close": 188.6,
+    "YTD": "+115%"
   },
   {
     "Code": "SDL",

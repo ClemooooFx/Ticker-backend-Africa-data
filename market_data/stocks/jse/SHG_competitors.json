@@ -2,16 +2,23 @@
   {
     "Code": "RBO",
     "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4.12B",
-    "Close": 4.6,
-    "YTD": "+26.7%"
+    "M. Cap.": "4.01B",
+    "Close": 4.48,
+    "YTD": "+23.4%"
   },
   {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "9.54B",
-    "Close": 222.3,
-    "YTD": "+18.9%"
+    "M. Cap.": "9.51B",
+    "Close": 221.65,
+    "YTD": "+18.5%"
+  },
+  {
+    "Code": "LBR",
+    "Name": "Libstar Holdings Ltd",
+    "M. Cap.": "3.04B",
+    "Close": 5.0,
+    "YTD": "+14.9%"
   },
   {
     "Code": "TBS",
@@ -21,39 +28,32 @@
     "YTD": "+14.2%"
   },
   {
-    "Code": "LBR",
-    "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.81B",
-    "Close": 4.61,
-    "YTD": "+5.98%"
-  },
-  {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
-    "M. Cap.": "5.7B",
-    "Close": 21.68,
-    "YTD": "+4.78%"
+    "M. Cap.": "5.67B",
+    "Close": 21.56,
+    "YTD": "+4.2%"
   },
   {
     "Code": "RCL",
     "Name": "RCL Foods Limited",
-    "M. Cap.": "8.53B",
-    "Close": 9.5,
-    "YTD": NaN
-  },
-  {
-    "Code": "QFH",
-    "Name": "Quantum Foods Hldgs Ltd",
-    "M. Cap.": "1.71B",
-    "Close": 8.4,
-    "YTD": "-8.3%"
+    "M. Cap.": "8.85B",
+    "Close": 9.85,
+    "YTD": "+3.68%"
   },
   {
     "Code": "AVI",
     "Name": "AVI Ltd",
-    "M. Cap.": "33.1B",
-    "Close": 96.92,
-    "YTD": "-11.7%"
+    "M. Cap.": "33.9B",
+    "Close": 99.31,
+    "YTD": "-9.49%"
+  },
+  {
+    "Code": "QFH",
+    "Name": "Quantum Foods Hldgs Ltd",
+    "M. Cap.": "1.63B",
+    "Close": 8.01,
+    "YTD": "-12.6%"
   },
   {
     "Code": "CKS",
@@ -65,8 +65,8 @@
   {
     "Code": "OCE",
     "Name": "Oceana Group Ltd",
-    "M. Cap.": "6.41B",
-    "Close": 49.39,
-    "YTD": "-26.8%"
+    "M. Cap.": "6.45B",
+    "Close": 49.71,
+    "YTD": "-26.3%"
   }
 ]

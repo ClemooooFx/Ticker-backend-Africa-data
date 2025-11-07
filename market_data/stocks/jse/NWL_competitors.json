@@ -2,51 +2,58 @@
   {
     "Code": "CAA",
     "Name": "CA Sales Holdings Ltd",
-    "M. Cap.": "7.68B",
-    "Close": 15.95,
-    "YTD": "-1.54%"
+    "M. Cap.": "7.89B",
+    "Close": 16.4,
+    "YTD": "+1.23%"
   },
   {
     "Code": "BTI",
     "Name": "British American Tobacco Plc",
-    "M. Cap.": "2.18T",
-    "Close": 934.8,
-    "YTD": "+38.2%"
+    "M. Cap.": "2.2T",
+    "Close": 942.96,
+    "YTD": "+39.4%"
   },
   {
     "Code": "RBO",
     "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4.12B",
-    "Close": 4.6,
-    "YTD": "+26.7%"
+    "M. Cap.": "4.01B",
+    "Close": 4.48,
+    "YTD": "+23.4%"
   },
   {
     "Code": "CFR",
     "Name": "Compagnie Financi\\xc3\\xa8re Richemont",
-    "M. Cap.": "1.84T",
-    "Close": 3417.24,
-    "YTD": "+23.1%"
+    "M. Cap.": "1.81T",
+    "Close": 3368.69,
+    "YTD": "+21.4%"
   },
   {
     "Code": "PMR",
     "Name": "Premier Group Ltd",
-    "M. Cap.": "20.8B",
-    "Close": 161.74,
-    "YTD": "+18.9%"
+    "M. Cap.": "21B",
+    "Close": 163.09,
+    "YTD": "+19.9%"
   },
   {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "9.54B",
-    "Close": 222.3,
-    "YTD": "+18.9%"
+    "M. Cap.": "9.51B",
+    "Close": 221.65,
+    "YTD": "+18.5%"
   },
   {
     "Code": "ANH",
     "Name": "Anheuser-Busch InBev SA/NV",
-    "M. Cap.": "1.96T",
-    "Close": 1090.89,
-    "YTD": "+16.3%"
+    "M. Cap.": "1.95T",
+    "Close": 1087.04,
+    "YTD": "+15.9%"
+  },
+  {
+    "Code": "LBR",
+    "Name": "Libstar Holdings Ltd",
+    "M. Cap.": "3.04B",
+    "Close": 5.0,
+    "YTD": "+14.9%"
   },
   {
     "Code": "TBS",
@@ -56,17 +63,10 @@
     "YTD": "+14.2%"
   },
   {
-    "Code": "LBR",
-    "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.81B",
-    "Close": 4.61,
-    "YTD": "+5.98%"
-  },
-  {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
-    "M. Cap.": "5.7B",
-    "Close": 21.68,
-    "YTD": "+4.78%"
+    "M. Cap.": "5.67B",
+    "Close": 21.56,
+    "YTD": "+4.2%"
   }
 ]
