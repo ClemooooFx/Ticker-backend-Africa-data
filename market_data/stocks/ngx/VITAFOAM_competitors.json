@@ -1,10 +1,10 @@
 [
   {
-    "Code": "CHAMPION",
-    "Name": "Champion Breweries",
-    "M. Cap.": "129B",
-    "Close": 14.4,
-    "YTD": "+278%"
+    "Code": "ELLAHLAKES",
+    "Name": "Ellah Lakes Plc",
+    "M. Cap.": "45.3B",
+    "Close": 11.75,
+    "YTD": "+272%"
   },
   {
     "Code": "HONYFLOUR",
@@ -14,11 +14,11 @@
     "YTD": "+248%"
   },
   {
-    "Code": "ELLAHLAKES",
-    "Name": "Ellah Lakes Plc",
-    "M. Cap.": "41.9B",
-    "Close": 10.85,
-    "YTD": "+243%"
+    "Code": "CHAMPION",
+    "Name": "Champion Breweries",
+    "M. Cap.": "116B",
+    "Close": 13.0,
+    "YTD": "+241%"
   },
   {
     "Code": "NASCON",
@@ -49,18 +49,18 @@
     "YTD": "+164%"
   },
   {
+    "Code": "GUINNESS",
+    "Name": "Guinness Nigeria",
+    "M. Cap.": "387B",
+    "Close": 176.7,
+    "YTD": "+152%"
+  },
+  {
     "Code": "OKOMUOIL",
     "Name": "Okomu Oil Palm",
     "M. Cap.": "1.06T",
     "Close": 1110.0,
     "YTD": "+150%"
-  },
-  {
-    "Code": "GUINNESS",
-    "Name": "Guinness Nigeria",
-    "M. Cap.": "372B",
-    "Close": 170.0,
-    "YTD": "+142%"
   },
   {
     "Code": "ENAMELWA",

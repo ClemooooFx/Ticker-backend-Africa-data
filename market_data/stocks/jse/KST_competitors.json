@@ -2,71 +2,71 @@
   {
     "Code": "PPE",
     "Name": "Purple Group Ltd",
-    "M. Cap.": "3.16B",
-    "Close": 2.22,
-    "YTD": "+106%"
+    "M. Cap.": "3.3B",
+    "Close": 2.32,
+    "YTD": "+115%"
   },
   {
     "Code": "SYG",
     "Name": "Sygnia Limited",
-    "M. Cap.": "5.2B",
-    "Close": 33.34,
-    "YTD": "+51.6%"
+    "M. Cap.": "5.24B",
+    "Close": 33.58,
+    "YTD": "+52.6%"
   },
   {
     "Code": "N91",
     "Name": "Ninety One Plc",
-    "M. Cap.": "32.1B",
-    "Close": 51.05,
-    "YTD": "+48.5%"
+    "M. Cap.": "31.8B",
+    "Close": 50.71,
+    "YTD": "+47.5%"
   },
   {
     "Code": "NY1",
     "Name": "Ninety One Limited",
     "M. Cap.": "13.4B",
-    "Close": 50.01,
-    "YTD": "+44.4%"
+    "Close": 49.77,
+    "YTD": "+43.7%"
   },
   {
     "Code": "CML",
     "Name": "Coronation Fund Mngrs Ld",
-    "M. Cap.": "19.1B",
-    "Close": 49.45,
-    "YTD": "+26.3%"
+    "M. Cap.": "19.4B",
+    "Close": 50.1,
+    "YTD": "+27.9%"
   },
   {
     "Code": "RNI",
     "Name": "Reinet Investments S.C.A",
     "M. Cap.": "108B",
-    "Close": 548.92,
-    "YTD": "+22.8%"
-  },
-  {
-    "Code": "JSE",
-    "Name": "JSE Ltd",
-    "M. Cap.": "12.4B",
-    "Close": 143.95,
-    "YTD": "+19.2%"
+    "Close": 552.67,
+    "YTD": "+23.6%"
   },
   {
     "Code": "QLT",
     "Name": "Quilter Plc",
-    "M. Cap.": "59.2B",
-    "Close": 42.17,
-    "YTD": "+18.6%"
+    "M. Cap.": "59.3B",
+    "Close": 42.22,
+    "YTD": "+18.7%"
+  },
+  {
+    "Code": "JSE",
+    "Name": "JSE Ltd",
+    "M. Cap.": "12.3B",
+    "Close": 142.38,
+    "YTD": "+17.9%"
   },
   {
     "Code": "REM",
     "Name": "Remgro Ltd",
-    "M. Cap.": "92.3B",
-    "Close": 174.42,
-    "YTD": "+12.5%"
+    "M. Cap.": "92.1B",
+    "Close": 174.02,
+    "YTD": "+12.2%"
   },
   {
     "Code": "OUT",
     "Name": "OUTsurance Group Ltd",
     "M. Cap.": "109B",
-    "Close": 70.63,
-    "YTD": "+6.21%"
+    "Close": 70.52,
+    "YTD": "+6.05%"
   }
 ]

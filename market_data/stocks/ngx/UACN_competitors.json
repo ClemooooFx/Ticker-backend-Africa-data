@@ -2,9 +2,9 @@
   {
     "Code": "TRANSCORP",
     "Name": "Transcorp Nigeria",
-    "M. Cap.": "457B",
-    "Close": 45.0,
-    "YTD": "+3.45%"
+    "M. Cap.": "447B",
+    "Close": 44.0,
+    "YTD": "+1.15%"
   },
   {
     "Code": "BETAGLAS",
@@ -35,13 +35,6 @@
     "YTD": "+141%"
   },
   {
-    "Code": "BERGER",
-    "Name": "Berger Paints",
-    "M. Cap.": "11.3B",
-    "Close": 39.0,
-    "YTD": "+95%"
-  },
-  {
     "Code": "BUACEMENT",
     "Name": "BUA Cement Plc",
     "M. Cap.": "6.1T",
@@ -65,8 +58,15 @@
   {
     "Code": "WAPCO",
     "Name": "Lafarge Wapco",
-    "M. Cap.": "2.13T",
-    "Close": 132.0,
-    "YTD": "+88.7%"
+    "M. Cap.": "2.11T",
+    "Close": 131.0,
+    "YTD": "+87.3%"
+  },
+  {
+    "Code": "BERGER",
+    "Name": "Berger Paints",
+    "M. Cap.": "10.2B",
+    "Close": 35.1,
+    "YTD": "+75.5%"
   }
 ]

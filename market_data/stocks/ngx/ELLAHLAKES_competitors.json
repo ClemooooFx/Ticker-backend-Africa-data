@@ -7,18 +7,18 @@
     "YTD": "+309%"
   },
   {
-    "Code": "CHAMPION",
-    "Name": "Champion Breweries",
-    "M. Cap.": "129B",
-    "Close": 14.4,
-    "YTD": "+278%"
-  },
-  {
     "Code": "HONYFLOUR",
     "Name": "Honeywell Flour Mill",
     "M. Cap.": "174B",
     "Close": 21.9,
     "YTD": "+248%"
+  },
+  {
+    "Code": "CHAMPION",
+    "Name": "Champion Breweries",
+    "M. Cap.": "116B",
+    "Close": 13.0,
+    "YTD": "+241%"
   },
   {
     "Code": "NASCON",
@@ -49,18 +49,18 @@
     "YTD": "+164%"
   },
   {
+    "Code": "GUINNESS",
+    "Name": "Guinness Nigeria",
+    "M. Cap.": "387B",
+    "Close": 176.7,
+    "YTD": "+152%"
+  },
+  {
     "Code": "OKOMUOIL",
     "Name": "Okomu Oil Palm",
     "M. Cap.": "1.06T",
     "Close": 1110.0,
     "YTD": "+150%"
-  },
-  {
-    "Code": "GUINNESS",
-    "Name": "Guinness Nigeria",
-    "M. Cap.": "372B",
-    "Close": 170.0,
-    "YTD": "+142%"
   },
   {
     "Code": "ENAMELWA",
