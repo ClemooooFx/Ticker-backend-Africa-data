@@ -28,13 +28,6 @@
     "YTD": "+141%"
   },
   {
-    "Code": "BERGER",
-    "Name": "Berger Paints",
-    "M. Cap.": "11.3B",
-    "Close": 39.0,
-    "YTD": "+95%"
-  },
-  {
     "Code": "CAP",
     "Name": "CAP Plc",
     "M. Cap.": "59.5B",
@@ -58,9 +51,16 @@
   {
     "Code": "WAPCO",
     "Name": "Lafarge Wapco",
-    "M. Cap.": "2.13T",
-    "Close": 132.0,
-    "YTD": "+88.7%"
+    "M. Cap.": "2.11T",
+    "Close": 131.0,
+    "YTD": "+87.3%"
+  },
+  {
+    "Code": "BERGER",
+    "Name": "Berger Paints",
+    "M. Cap.": "10.2B",
+    "Close": 35.1,
+    "YTD": "+75.5%"
   },
   {
     "Code": "AUSTINLAZ",

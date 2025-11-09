@@ -17,15 +17,15 @@
     "ticker": "ADBF",
     "name": "African Domestic Bond Fund",
     "volume": null,
-    "price": 104.4,
+    "price": 102.29,
     "change": null
   },
   {
     "ticker": "ANGLO",
     "name": "Anglo American Plc",
     "volume": null,
-    "price": 446.87,
-    "change": null
+    "price": 518.74,
+    "change": 71.87
   },
   {
     "ticker": "BBS",
@@ -37,9 +37,9 @@
   {
     "ticker": "BIHL",
     "name": "Botswana Insurance Holdings Ltd",
-    "volume": "1000.0",
+    "volume": null,
     "price": 23.02,
-    "change": 0.0
+    "change": null
   },
   {
     "ticker": "BOD",
@@ -51,16 +51,16 @@
   {
     "ticker": "BOTALA",
     "name": "Botala Energy",
-    "volume": "2225.0",
+    "volume": null,
     "price": 0.87,
-    "change": 0.0
+    "change": null
   },
   {
     "ticker": "BTCL",
     "name": "Botswana Telecom Corporation",
-    "volume": "9000.0",
-    "price": 1.16,
-    "change": 0.0
+    "volume": "12000.0",
+    "price": 1.18,
+    "change": 0.02
   },
   {
     "ticker": "CASALES",
@@ -72,16 +72,16 @@
   {
     "ticker": "CHOBE",
     "name": "Chobe Holdings Limited",
-    "volume": null,
+    "volume": "26881.0",
     "price": 17.75,
-    "change": null
+    "change": 0.0
   },
   {
     "ticker": "CHOPPIES",
     "name": "Choppies Enterprises Limited",
-    "volume": null,
+    "volume": "6506.0",
     "price": 0.71,
-    "change": null
+    "change": 0.0
   },
   {
     "ticker": "CRESTA",
@@ -100,9 +100,9 @@
   {
     "ticker": "FNBB",
     "name": "First National Bank of Botswana",
-    "volume": null,
+    "volume": "365.0",
     "price": 5.45,
-    "change": null
+    "change": 0.0
   },
   {
     "ticker": "FPC",
@@ -143,7 +143,7 @@
     "ticker": "LETSHEGO",
     "name": "Letshego Holdings Limited",
     "volume": null,
-    "price": 1.05,
+    "price": 0.95,
     "change": null
   },
   {
@@ -163,16 +163,16 @@
   {
     "ticker": "NAP",
     "name": "New African Properties Limited",
-    "volume": null,
+    "volume": "49381.0",
     "price": 4.05,
-    "change": null
+    "change": 0.0
   },
   {
     "ticker": "NEWGOLD",
     "name": "NewGold ETF",
     "volume": null,
-    "price": 575.0,
-    "change": null
+    "price": 541.0,
+    "change": 28.0
   },
   {
     "ticker": "NEWPALL",
@@ -226,9 +226,9 @@
   {
     "ticker": "SEFALANA",
     "name": "Sefalana Holding Company Ltd",
-    "volume": null,
-    "price": 15.0,
-    "change": null
+    "volume": "100000.0",
+    "price": 15.75,
+    "change": 0.75
   },
   {
     "ticker": "SHUMBA",
@@ -254,8 +254,8 @@
   {
     "ticker": "TURNSTAR",
     "name": "Turnstar Holdings Limited",
-    "volume": null,
+    "volume": "4572.0",
     "price": 2.26,
-    "change": null
+    "change": 0.0
   }
 ]

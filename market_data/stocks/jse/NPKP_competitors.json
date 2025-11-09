@@ -2,9 +2,9 @@
   {
     "Code": "BAW",
     "Name": "Barloworld Ltd",
-    "M. Cap.": "22.4B",
-    "Close": 118.0,
-    "YTD": "+8.73%"
+    "M. Cap.": "22.5B",
+    "Close": 118.6,
+    "YTD": "+9.28%"
   },
   {
     "Code": "BAWP",
@@ -16,37 +16,37 @@
   {
     "Code": "BCF",
     "Name": "Bowler Metcalf Ltd",
-    "M. Cap.": "960M",
-    "Close": 12.85,
-    "YTD": "-5.65%"
+    "M. Cap.": "1.02B",
+    "Close": 13.71,
+    "YTD": "+0.66%"
   },
   {
     "Code": "TPC",
     "Name": "Transpaco Ltd",
-    "M. Cap.": "949M",
-    "Close": 34.1,
-    "YTD": "-9.04%"
+    "M. Cap.": "980M",
+    "Close": 35.2,
+    "YTD": "-6.11%"
   },
   {
     "Code": "BVT",
     "Name": "Bidvest Ltd",
-    "M. Cap.": "76.4B",
-    "Close": 224.64,
-    "YTD": "-14.8%"
+    "M. Cap.": "76.5B",
+    "Close": 224.96,
+    "YTD": "-14.7%"
   },
   {
     "Code": "MPT",
     "Name": "Mpact Limited",
-    "M. Cap.": "3.36B",
-    "Close": 22.51,
-    "YTD": "-23.8%"
+    "M. Cap.": "3.39B",
+    "Close": 22.68,
+    "YTD": "-23.2%"
   },
   {
     "Code": "ENX",
     "Name": "enX Group LImited",
-    "M. Cap.": "731M",
-    "Close": 4.01,
-    "YTD": "-27.1%"
+    "M. Cap.": "740M",
+    "Close": 4.06,
+    "YTD": "-26.2%"
   },
   {
     "Code": "KAP",
@@ -56,17 +56,17 @@
     "YTD": "-49.5%"
   },
   {
-    "Code": "ADR",
-    "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "780M",
-    "Close": 7.1,
-    "YTD": "+43.7%"
-  },
-  {
     "Code": "GND",
     "Name": "Grindrod Ltd",
     "M. Cap.": "11.9B",
-    "Close": 17.08,
-    "YTD": "+42.8%"
+    "Close": 17.1,
+    "YTD": "+43%"
+  },
+  {
+    "Code": "ADR",
+    "Name": "Adcorp Holdings Limited",
+    "M. Cap.": "764M",
+    "Close": 6.95,
+    "YTD": "+40.7%"
   }
 ]

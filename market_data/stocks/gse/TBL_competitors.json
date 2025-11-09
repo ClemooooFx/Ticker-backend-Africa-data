@@ -10,8 +10,8 @@
     "Code": "ACCESS",
     "Name": "Access Bank Ghana",
     "M. Cap.": "2.82B",
-    "Close": 16.2,
-    "YTD": "+212%"
+    "Close": 16.19,
+    "YTD": "+211%"
   },
   {
     "Code": "ETI",
@@ -24,8 +24,8 @@
     "Code": "GCB",
     "Name": "GCB Bank Limited",
     "M. Cap.": "4.72B",
-    "Close": 17.8,
-    "YTD": "+179%"
+    "Close": 17.82,
+    "YTD": "+180%"
   },
   {
     "Code": "SOGEGH",
@@ -37,8 +37,8 @@
   {
     "Code": "EGH",
     "Name": "Ecobank Ghana Limited",
-    "M. Cap.": "4.99B",
-    "Close": 15.46,
+    "M. Cap.": "5B",
+    "Close": 15.5,
     "YTD": "+138%"
   },
   {
@@ -65,8 +65,8 @@
   {
     "Code": "GLD",
     "Name": "NewGold ETF",
-    "M. Cap.": "1.53B",
-    "Close": 450.0,
-    "YTD": "+15.2%"
+    "M. Cap.": "1.52B",
+    "Close": 447.13,
+    "YTD": "+14.5%"
   }
 ]

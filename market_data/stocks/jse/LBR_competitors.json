@@ -2,16 +2,16 @@
   {
     "Code": "RBO",
     "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4.01B",
-    "Close": 4.48,
-    "YTD": "+23.4%"
+    "M. Cap.": "4.03B",
+    "Close": 4.5,
+    "YTD": "+24%"
   },
   {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "9.51B",
-    "Close": 221.65,
-    "YTD": "+18.5%"
+    "M. Cap.": "9.48B",
+    "Close": 220.87,
+    "YTD": "+18.1%"
   },
   {
     "Code": "TBS",
@@ -23,30 +23,30 @@
   {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
-    "M. Cap.": "5.67B",
-    "Close": 21.56,
-    "YTD": "+4.2%"
+    "M. Cap.": "5.7B",
+    "Close": 21.7,
+    "YTD": "+4.88%"
   },
   {
     "Code": "RCL",
     "Name": "RCL Foods Limited",
-    "M. Cap.": "8.85B",
-    "Close": 9.85,
-    "YTD": "+3.68%"
+    "M. Cap.": "8.61B",
+    "Close": 9.59,
+    "YTD": "+0.95%"
   },
   {
     "Code": "SHG",
     "Name": "Sea Harvest Group Ltd",
-    "M. Cap.": "2.99B",
-    "Close": 8.27,
-    "YTD": "-0.96%"
+    "M. Cap.": "2.96B",
+    "Close": 8.21,
+    "YTD": "-1.68%"
   },
   {
     "Code": "AVI",
     "Name": "AVI Ltd",
-    "M. Cap.": "33.9B",
-    "Close": 99.31,
-    "YTD": "-9.49%"
+    "M. Cap.": "33.5B",
+    "Close": 97.96,
+    "YTD": "-10.7%"
   },
   {
     "Code": "QFH",
@@ -56,17 +56,17 @@
     "YTD": "-12.6%"
   },
   {
+    "Code": "OCE",
+    "Name": "Oceana Group Ltd",
+    "M. Cap.": "6.98B",
+    "Close": 53.76,
+    "YTD": "-20.3%"
+  },
+  {
     "Code": "CKS",
     "Name": "Crookes Brothers Ltd",
     "M. Cap.": "382M",
     "Close": 25.0,
     "YTD": "-20.7%"
-  },
-  {
-    "Code": "OCE",
-    "Name": "Oceana Group Ltd",
-    "M. Cap.": "6.45B",
-    "Close": 49.71,
-    "YTD": "-26.3%"
   }
 ]

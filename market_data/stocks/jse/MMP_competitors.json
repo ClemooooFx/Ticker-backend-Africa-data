@@ -2,16 +2,16 @@
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "780M",
-    "Close": 7.1,
-    "YTD": "+43.7%"
+    "M. Cap.": "764M",
+    "Close": 6.95,
+    "YTD": "+40.7%"
   },
   {
     "Code": "MFL",
     "Name": "Metrofile Holdings Ltd",
-    "M. Cap.": "1.36B",
-    "Close": 3.14,
-    "YTD": "+38.3%"
+    "M. Cap.": "1.37B",
+    "Close": 3.15,
+    "YTD": "+38.8%"
   },
   {
     "Code": "PMV",
@@ -23,23 +23,23 @@
   {
     "Code": "ART",
     "Name": "Argent Industrial Ltd",
-    "M. Cap.": "1.53B",
-    "Close": 28.41,
-    "YTD": "+3.08%"
+    "M. Cap.": "1.54B",
+    "Close": 28.51,
+    "YTD": "+3.45%"
   },
   {
     "Code": "NVS",
     "Name": "Novus Holdings Limited",
-    "M. Cap.": "2.27B",
-    "Close": 6.6,
-    "YTD": "-10.1%"
+    "M. Cap.": "2.29B",
+    "Close": 6.67,
+    "YTD": "-9.13%"
   },
   {
     "Code": "HDC",
     "Name": "Hudaco Industries Ltd",
-    "M. Cap.": "5.68B",
-    "Close": 184.0,
-    "YTD": "-14.8%"
+    "M. Cap.": "5.81B",
+    "Close": 188.0,
+    "YTD": "-13%"
   },
   {
     "Code": "GND",
@@ -49,13 +49,6 @@
     "YTD": "+43%"
   },
   {
-    "Code": "SSK",
-    "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "937M",
-    "Close": 4.98,
-    "YTD": "+24.5%"
-  },
-  {
     "Code": "BIK",
     "Name": "Brikor Limited",
     "M. Cap.": "140M",
@@ -63,10 +56,17 @@
     "YTD": "+21.4%"
   },
   {
+    "Code": "SSK",
+    "Name": "Stefanutti Stocks Holdings Ltd",
+    "M. Cap.": "903M",
+    "Close": 4.8,
+    "YTD": "+20%"
+  },
+  {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.25B",
-    "Close": 501.0,
-    "YTD": "+20.4%"
+    "M. Cap.": "4.22B",
+    "Close": 498.0,
+    "YTD": "+19.7%"
   }
 ]

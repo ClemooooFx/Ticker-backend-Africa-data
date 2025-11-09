@@ -1,5 +1,19 @@
 [
   {
+    "Date": "2025-11-07",
+    "Volume": 160,
+    "Close": 447.13,
+    "Change": -2.87,
+    "Change%": "-0.64%"
+  },
+  {
+    "Date": "2025-11-06",
+    "Volume": 7,
+    "Close": 450.0,
+    "Change": NaN,
+    "Change%": NaN
+  },
+  {
     "Date": "2025-11-04",
     "Volume": 16,
     "Close": 450.0,
@@ -52,20 +66,6 @@
     "Date": "2025-10-24",
     "Volume": 2383,
     "Close": 459.28,
-    "Change": 92.17,
-    "Change%": "+25.11%"
-  },
-  {
-    "Date": "2025-10-23",
-    "Volume": 6,
-    "Close": 367.11,
-    "Change": NaN,
-    "Change%": NaN
-  },
-  {
-    "Date": "2025-10-22",
-    "Volume": 11,
-    "Close": 367.11,
     "Change": NaN,
     "Change%": NaN
   }

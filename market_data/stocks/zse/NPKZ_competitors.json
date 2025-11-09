@@ -9,9 +9,9 @@
   {
     "Code": "GBH",
     "Name": "General Beltings Holdings Limited",
-    "M. Cap.": "53.9M",
-    "Close": 0.1005,
-    "YTD": "+52.3%"
+    "M. Cap.": "54.2M",
+    "Close": 0.101,
+    "YTD": "+53%"
   },
   {
     "Code": "CFI",
@@ -51,9 +51,9 @@
   {
     "Code": "MSHL",
     "Name": "Masimba Holdings Limited",
-    "M. Cap.": "435M",
-    "Close": 1.8,
-    "YTD": "-40%"
+    "M. Cap.": "423M",
+    "Close": 1.75,
+    "YTD": "-41.7%"
   },
   {
     "Code": "WILD",
@@ -65,8 +65,8 @@
   {
     "Code": "ARTD",
     "Name": "Amalgamated Regional Trading",
-    "M. Cap.": "32.7M",
-    "Close": 0.0702,
-    "YTD": "-78.5%"
+    "M. Cap.": "37.3M",
+    "Close": 0.08,
+    "YTD": "-75.5%"
   }
 ]

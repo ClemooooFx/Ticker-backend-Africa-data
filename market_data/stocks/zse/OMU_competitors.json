@@ -30,9 +30,9 @@
   {
     "Code": "FBC",
     "Name": "FBC Holdings Limited",
-    "M. Cap.": "5.35B",
-    "Close": 7.94,
-    "YTD": "-26.8%"
+    "M. Cap.": "5.39B",
+    "Close": 8.0,
+    "YTD": "-26.3%"
   },
   {
     "Code": "FIDL",
@@ -44,9 +44,9 @@
   {
     "Code": "ZBFH",
     "Name": "ZB Financial Holdings Limited",
-    "M. Cap.": "562M",
-    "Close": 3.2025,
-    "YTD": "-50.7%"
+    "M. Cap.": "632M",
+    "Close": 3.6,
+    "YTD": "-44.6%"
   },
   {
     "Code": "MASH",
@@ -58,15 +58,15 @@
   {
     "Code": "ZSEH",
     "Name": "Zimbabwe Stock Exchange Holdings",
-    "M. Cap.": "136M",
-    "Close": 1.32,
-    "YTD": "-62.2%"
+    "M. Cap.": "115M",
+    "Close": 1.1226,
+    "YTD": "-67.8%"
   },
   {
     "Code": "FML",
     "Name": "First Mutual Holdings Limited",
-    "M. Cap.": "950M",
-    "Close": 1.38,
-    "YTD": "-68.9%"
+    "M. Cap.": "828M",
+    "Close": 1.2025,
+    "YTD": "-72.9%"
   }
 ]

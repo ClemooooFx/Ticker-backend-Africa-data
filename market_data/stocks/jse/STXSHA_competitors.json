@@ -2,65 +2,44 @@
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.12B",
-    "Close": 40.0,
-    "YTD": "+81.8%"
-  },
-  {
-    "Code": "BAC",
-    "Name": "Africa Bitcoin Corporation Ltd",
-    "M. Cap.": "121M",
-    "Close": 11.0,
-    "YTD": "+69.2%"
+    "M. Cap.": "2.2B",
+    "Close": 41.5,
+    "YTD": "+88.6%"
   },
   {
     "Code": "ETFRHO",
     "Name": "1nvest Rhodium ETF",
-    "M. Cap.": "1.18B",
-    "Close": 1234.09,
-    "YTD": "+60.9%"
+    "M. Cap.": "1.2B",
+    "Close": 1264.47,
+    "YTD": "+64.9%"
   },
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "7.6B",
-    "Close": 258.59,
-    "YTD": "+57.8%"
+    "M. Cap.": "7.56B",
+    "Close": 257.29,
+    "YTD": "+57%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.63B",
-    "Close": 257.94,
-    "YTD": "+56.2%"
+    "M. Cap.": "3.62B",
+    "Close": 257.43,
+    "YTD": "+55.9%"
+  },
+  {
+    "Code": "BAC",
+    "Name": "Africa Bitcoin Corporation Ltd",
+    "M. Cap.": "114M",
+    "Close": 10.0,
+    "YTD": "+53.9%"
   },
   {
     "Code": "EPE",
     "Name": "EPE Capital Partners Ltd",
-    "M. Cap.": "2.02B",
-    "Close": 7.86,
-    "YTD": "+45.8%"
-  },
-  {
-    "Code": "NGPLD",
-    "Name": "NewGold Palladium ETF",
-    "M. Cap.": "240M",
-    "Close": 235.72,
-    "YTD": "+44.7%"
-  },
-  {
-    "Code": "ETFPLD",
-    "Name": "1nvest Palladium ETF",
-    "M. Cap.": "57.4M",
-    "Close": 234.13,
-    "YTD": "+43.9%"
-  },
-  {
-    "Code": "EASYGE",
-    "Name": "EasyETFs Global Equity AMETF",
-    "M. Cap.": "437M",
-    "Close": 15.22,
-    "YTD": "+43.7%"
+    "M. Cap.": "2.01B",
+    "Close": 7.85,
+    "YTD": "+45.6%"
   },
   {
     "Code": "MHB",
@@ -68,5 +47,26 @@
     "M. Cap.": "331M",
     "Close": 6.0,
     "YTD": "+42.5%"
+  },
+  {
+    "Code": "WTOP20",
+    "Name": "10X Wealth Top 20 Capped ETF",
+    "M. Cap.": "969M",
+    "Close": 14.68,
+    "YTD": "+42.3%"
+  },
+  {
+    "Code": "GLD",
+    "Name": "New Gold Issuer Limited",
+    "M. Cap.": "37.4B",
+    "Close": 640.4,
+    "YTD": "+40.9%"
+  },
+  {
+    "Code": "ETFGLD",
+    "Name": "1nvest Gold ETF",
+    "M. Cap.": "1.85B",
+    "Close": 668.78,
+    "YTD": "+40.8%"
   }
 ]

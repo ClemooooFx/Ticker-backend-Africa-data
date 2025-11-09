@@ -14,13 +14,6 @@
     "YTD": "-51.8%"
   },
   {
-    "Code": "ADR",
-    "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "780M",
-    "Close": 7.1,
-    "YTD": "+43.7%"
-  },
-  {
     "Code": "GND",
     "Name": "Grindrod Ltd",
     "M. Cap.": "11.9B",
@@ -28,18 +21,18 @@
     "YTD": "+43%"
   },
   {
-    "Code": "MFL",
-    "Name": "Metrofile Holdings Ltd",
-    "M. Cap.": "1.36B",
-    "Close": 3.14,
-    "YTD": "+38.3%"
+    "Code": "ADR",
+    "Name": "Adcorp Holdings Limited",
+    "M. Cap.": "764M",
+    "Close": 6.95,
+    "YTD": "+40.7%"
   },
   {
-    "Code": "SSK",
-    "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "937M",
-    "Close": 4.98,
-    "YTD": "+24.5%"
+    "Code": "MFL",
+    "Name": "Metrofile Holdings Ltd",
+    "M. Cap.": "1.37B",
+    "Close": 3.15,
+    "YTD": "+38.8%"
   },
   {
     "Code": "PMV",
@@ -56,17 +49,24 @@
     "YTD": "+21.4%"
   },
   {
+    "Code": "SSK",
+    "Name": "Stefanutti Stocks Holdings Ltd",
+    "M. Cap.": "903M",
+    "Close": 4.8,
+    "YTD": "+20%"
+  },
+  {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.25B",
-    "Close": 501.0,
-    "YTD": "+20.4%"
+    "M. Cap.": "4.22B",
+    "Close": 498.0,
+    "YTD": "+19.7%"
   },
   {
     "Code": "IVT",
     "Name": "Invicta Holdings Ltd",
-    "M. Cap.": "3.4B",
-    "Close": 38.25,
-    "YTD": "+15.9%"
+    "M. Cap.": "3.37B",
+    "Close": 37.96,
+    "YTD": "+15%"
   }
 ]
