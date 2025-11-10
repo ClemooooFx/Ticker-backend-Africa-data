@@ -1,16 +1,16 @@
 [
   {
-    "Code": "ONTBF",
-    "Name": "Onatel Burkina Faso",
-    "M. Cap.": "170B",
-    "Close": 2500,
-    "YTD": "+8.93%"
-  },
-  {
     "Code": "SNTS",
     "Name": "Sonatel Senegal",
     "M. Cap.": "2.6T",
-    "Close": 25990,
-    "YTD": "+8.29%"
+    "Close": 26000,
+    "YTD": "+8.33%"
+  },
+  {
+    "Code": "ONTBF",
+    "Name": "Onatel Burkina Faso",
+    "M. Cap.": "167B",
+    "Close": 2450,
+    "YTD": "+6.75%"
   }
 ]

@@ -2,71 +2,71 @@
   {
     "Code": "BOAM",
     "Name": "Bank of Africa - Mali",
-    "M. Cap.": "100B",
-    "Close": 3650,
-    "YTD": "+93.1%"
+    "M. Cap.": "104B",
+    "Close": 3800,
+    "YTD": "+101%"
   },
   {
     "Code": "ECOC",
     "Name": "Ecobank C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "864B",
-    "Close": 15700,
-    "YTD": "+78.5%"
-  },
-  {
-    "Code": "NSBC",
-    "Name": "Nsia Banque C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "297B",
-    "Close": 11995,
-    "YTD": "+69.2%"
+    "M. Cap.": "867B",
+    "Close": 15750,
+    "YTD": "+79.1%"
   },
   {
     "Code": "BOAS",
     "Name": "Bank of Africa - Senegal",
-    "M. Cap.": "189B",
-    "Close": 5250,
-    "YTD": "+66.7%"
+    "M. Cap.": "191B",
+    "Close": 5300,
+    "YTD": "+68.3%"
+  },
+  {
+    "Code": "NSBC",
+    "Name": "Nsia Banque C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
+    "M. Cap.": "292B",
+    "Close": 11800,
+    "YTD": "+66.4%"
   },
   {
     "Code": "SIBC",
     "Name": "Societe Ivoirienne de Banque",
-    "M. Cap.": "560B",
-    "Close": 5600,
-    "YTD": "+57.5%"
-  },
-  {
-    "Code": "BOAC",
-    "Name": "Bank of Africa - C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "288B",
-    "Close": 7200,
-    "YTD": "+44.1%"
+    "M. Cap.": "564B",
+    "Close": 5640,
+    "YTD": "+58.7%"
   },
   {
     "Code": "BICC",
     "Name": "BICI C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "325B",
-    "Close": 19490,
-    "YTD": "+39.2%"
+    "M. Cap.": "332B",
+    "Close": 19900,
+    "YTD": "+42.1%"
+  },
+  {
+    "Code": "BOAC",
+    "Name": "Bank of Africa - C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
+    "M. Cap.": "282B",
+    "Close": 7060,
+    "YTD": "+41.3%"
   },
   {
     "Code": "BOAB",
     "Name": "Bank of Africa - Benin",
-    "M. Cap.": "201B",
-    "Close": 4945,
-    "YTD": "+34.2%"
+    "M. Cap.": "211B",
+    "Close": 5200,
+    "YTD": "+41.1%"
   },
   {
     "Code": "ORGT",
     "Name": "Oragroup Togo",
-    "M. Cap.": "173B",
-    "Close": 2495,
-    "YTD": "+30%"
+    "M. Cap.": "182B",
+    "Close": 2620,
+    "YTD": "+36.5%"
   },
   {
     "Code": "SGBC",
     "Name": "SGB C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "839B",
-    "Close": 26955,
-    "YTD": "+28.4%"
+    "M. Cap.": "840B",
+    "Close": 26995,
+    "YTD": "+28.6%"
   }
 ]
