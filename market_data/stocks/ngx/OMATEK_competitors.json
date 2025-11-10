@@ -14,13 +14,6 @@
     "YTD": "+140%"
   },
   {
-    "Code": "CWG",
-    "Name": "Computer Warehouse Group",
-    "M. Cap.": "41B",
-    "Close": 16.25,
-    "YTD": "+111%"
-  },
-  {
     "Code": "ETRANZACT",
     "Name": "E-Tranzact International",
     "M. Cap.": "122B",
@@ -28,11 +21,18 @@
     "YTD": "+104%"
   },
   {
+    "Code": "CWG",
+    "Name": "Computer Warehouse Group",
+    "M. Cap.": "38.9B",
+    "Close": 15.4,
+    "YTD": "+100%"
+  },
+  {
     "Code": "CHAMS",
     "Name": "Chams Plc",
-    "M. Cap.": "15B",
-    "Close": 3.2,
-    "YTD": "+60.8%"
+    "M. Cap.": "14.1B",
+    "Close": 3.0,
+    "YTD": "+50.8%"
   },
   {
     "Code": "LEGENDINT",

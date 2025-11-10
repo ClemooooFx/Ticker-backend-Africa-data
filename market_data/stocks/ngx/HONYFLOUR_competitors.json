@@ -7,18 +7,18 @@
     "YTD": "+309%"
   },
   {
-    "Code": "ELLAHLAKES",
-    "Name": "Ellah Lakes Plc",
-    "M. Cap.": "45.3B",
-    "Close": 11.75,
-    "YTD": "+272%"
-  },
-  {
     "Code": "CHAMPION",
     "Name": "Champion Breweries",
-    "M. Cap.": "116B",
-    "Close": 13.0,
-    "YTD": "+241%"
+    "M. Cap.": "121B",
+    "Close": 13.5,
+    "YTD": "+254%"
+  },
+  {
+    "Code": "ELLAHLAKES",
+    "Name": "Ellah Lakes Plc",
+    "M. Cap.": "42.6B",
+    "Close": 11.05,
+    "YTD": "+250%"
   },
   {
     "Code": "NASCON",
@@ -30,9 +30,9 @@
   {
     "Code": "PRESCO",
     "Name": "Presco Plc",
-    "M. Cap.": "1.48T",
-    "Close": 1480.0,
-    "YTD": "+212%"
+    "M. Cap.": "1.45T",
+    "Close": 1450.0,
+    "YTD": "+205%"
   },
   {
     "Code": "CADBURY",
@@ -40,13 +40,6 @@
     "M. Cap.": "143B",
     "Close": 62.55,
     "YTD": "+191%"
-  },
-  {
-    "Code": "FTNCOCOA",
-    "Name": "FTN Cocoa Processors",
-    "M. Cap.": "18.7B",
-    "Close": 4.8,
-    "YTD": "+164%"
   },
   {
     "Code": "GUINNESS",
@@ -61,6 +54,13 @@
     "M. Cap.": "1.06T",
     "Close": 1110.0,
     "YTD": "+150%"
+  },
+  {
+    "Code": "FTNCOCOA",
+    "Name": "FTN Cocoa Processors",
+    "M. Cap.": "16.9B",
+    "Close": 4.33,
+    "YTD": "+138%"
   },
   {
     "Code": "ENAMELWA",

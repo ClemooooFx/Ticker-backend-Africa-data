@@ -2,30 +2,30 @@
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "5.36B",
-    "Close": 20.65,
-    "YTD": "+244%"
+    "M. Cap.": "5.41B",
+    "Close": 20.85,
+    "YTD": "+248%"
   },
   {
     "Code": "HAFR",
     "Name": "Home Afrika Limited",
-    "M. Cap.": "470M",
-    "Close": 1.16,
-    "YTD": "+214%"
+    "M. Cap.": "466M",
+    "Close": 1.15,
+    "YTD": "+211%"
   },
   {
     "Code": "KNRE",
     "Name": "Kenya Re-Insurance Corporation Ltd",
-    "M. Cap.": "18B",
-    "Close": 3.21,
-    "YTD": "+151%"
+    "M. Cap.": "18.1B",
+    "Close": 3.23,
+    "YTD": "+152%"
   },
   {
     "Code": "HFCK",
     "Name": "HF Group Limited",
-    "M. Cap.": "20.5B",
-    "Close": 10.85,
-    "YTD": "+141%"
+    "M. Cap.": "19.9B",
+    "Close": 10.55,
+    "YTD": "+134%"
   },
   {
     "Code": "CIC",
@@ -38,35 +38,35 @@
     "Code": "JUB",
     "Name": "Jubilee Holdings Limited",
     "M. Cap.": "23.5B",
-    "Close": 323.75,
-    "YTD": "+86.6%"
+    "Close": 324.75,
+    "YTD": "+87.2%"
   },
   {
     "Code": "NCBA",
     "Name": "NCBA Group Plc",
-    "M. Cap.": "140B",
-    "Close": 85.0,
-    "YTD": "+76.4%"
+    "M. Cap.": "142B",
+    "Close": 86.0,
+    "YTD": "+78.4%"
   },
   {
     "Code": "KCB",
     "Name": "KCB Group",
-    "M. Cap.": "225B",
-    "Close": 70.0,
-    "YTD": "+68.3%"
+    "M. Cap.": "223B",
+    "Close": 69.5,
+    "YTD": "+67.1%"
   },
   {
     "Code": "DTK",
     "Name": "Diamond Trust Bank Kenya Limited",
     "M. Cap.": "32.2B",
-    "Close": 115.25,
-    "YTD": "+67%"
+    "Close": 115.0,
+    "YTD": "+66.7%"
   },
   {
     "Code": "CTUM",
     "Name": "Centum Investment Company",
-    "M. Cap.": "10.9B",
-    "Close": 16.4,
-    "YTD": "+66%"
+    "M. Cap.": "10.6B",
+    "Close": 16.0,
+    "YTD": "+61.9%"
   }
 ]

@@ -2,9 +2,9 @@
   {
     "Code": "TIP",
     "Name": "The Initiates Plc",
-    "M. Cap.": "9.57B",
-    "Close": 10.75,
-    "YTD": "+330%"
+    "M. Cap.": "8.9B",
+    "Close": 10.0,
+    "YTD": "+300%"
   },
   {
     "Code": "EUNISELL",
@@ -37,16 +37,23 @@
   {
     "Code": "NAHCO",
     "Name": "Nigerian Aviation Handling Co.",
-    "M. Cap.": "206B",
-    "Close": 105.5,
-    "YTD": "+129%"
+    "M. Cap.": "185B",
+    "Close": 95.0,
+    "YTD": "+106%"
   },
   {
     "Code": "CAVERTON",
     "Name": "Caverton Offshore Support Group",
-    "M. Cap.": "17.1B",
-    "Close": 5.1,
-    "YTD": "+120%"
+    "M. Cap.": "15.4B",
+    "Close": 4.6,
+    "YTD": "+98.3%"
+  },
+  {
+    "Code": "IKEJAHOTEL",
+    "Name": "Ikeja Hotel Plc",
+    "M. Cap.": "38.9B",
+    "Close": 18.0,
+    "YTD": "+60%"
   },
   {
     "Code": "TRANSEXPR",
@@ -54,13 +61,6 @@
     "M. Cap.": "1.07B",
     "Close": 2.15,
     "YTD": "+55.8%"
-  },
-  {
-    "Code": "IKEJAHOTEL",
-    "Name": "Ikeja Hotel Plc",
-    "M. Cap.": "37.5B",
-    "Close": 17.35,
-    "YTD": "+54.2%"
   },
   {
     "Code": "TRANSCOHOT",
