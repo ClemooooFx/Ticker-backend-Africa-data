@@ -2,9 +2,9 @@
   {
     "Code": "ZIMR",
     "Name": "Zimre Holdings Limited",
-    "M. Cap.": "353M",
-    "Close": 0.2305,
-    "YTD": "+70.1%"
+    "M. Cap.": "382M",
+    "Close": 0.249182,
+    "YTD": "+83.9%"
   },
   {
     "Code": "NMB",
@@ -16,16 +16,16 @@
   {
     "Code": "FMP",
     "Name": "First Mutual Properties Limited",
-    "M. Cap.": "1.6B",
-    "Close": 1.289,
-    "YTD": "+4.71%"
+    "M. Cap.": "1.85B",
+    "Close": 1.482,
+    "YTD": "+20.4%"
   },
   {
     "Code": "CBZ",
     "Name": "CBZ Holdings Limited",
-    "M. Cap.": "5.92B",
-    "Close": 8.606829,
-    "YTD": "+0.78%"
+    "M. Cap.": "5.95B",
+    "Close": 8.644783,
+    "YTD": "+1.22%"
   },
   {
     "Code": "FBC",
@@ -51,15 +51,15 @@
   {
     "Code": "ZSEH",
     "Name": "Zimbabwe Stock Exchange Holdings",
-    "M. Cap.": "123M",
-    "Close": 1.201923,
-    "YTD": "-65.6%"
+    "M. Cap.": "116M",
+    "Close": 1.130993,
+    "YTD": "-67.6%"
   },
   {
     "Code": "FML",
     "Name": "First Mutual Holdings Limited",
-    "M. Cap.": "881M",
-    "Close": 1.28,
-    "YTD": "-71.1%"
+    "M. Cap.": "860M",
+    "Close": 1.25,
+    "YTD": "-71.8%"
   }
 ]

@@ -2,9 +2,9 @@
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.22B",
-    "Close": 109.21,
-    "YTD": "+101%"
+    "M. Cap.": "2.34B",
+    "Close": 114.53,
+    "YTD": "+111%"
   },
   {
     "Code": "YYLBEE",
@@ -14,25 +14,25 @@
     "YTD": "+88.6%"
   },
   {
-    "Code": "ETFRHO",
-    "Name": "1nvest Rhodium ETF",
-    "M. Cap.": "1.15B",
-    "Close": 1264.47,
-    "YTD": "+64.9%"
-  },
-  {
     "Code": "STXSHA",
     "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "112M",
-    "Close": 5.52,
-    "YTD": "+61.4%"
+    "M. Cap.": "116M",
+    "Close": 5.72,
+    "YTD": "+67.3%"
+  },
+  {
+    "Code": "ETFRHO",
+    "Name": "1nvest Rhodium ETF",
+    "M. Cap.": "1.16B",
+    "Close": 1276.63,
+    "YTD": "+66.4%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.62B",
-    "Close": 257.43,
-    "YTD": "+55.9%"
+    "M. Cap.": "3.63B",
+    "Close": 258.32,
+    "YTD": "+56.4%"
   },
   {
     "Code": "BAC",
@@ -44,9 +44,23 @@
   {
     "Code": "EPE",
     "Name": "EPE Capital Partners Ltd",
-    "M. Cap.": "2.01B",
-    "Close": 7.85,
-    "YTD": "+45.6%"
+    "M. Cap.": "2.04B",
+    "Close": 7.94,
+    "YTD": "+47.3%"
+  },
+  {
+    "Code": "WTOP20",
+    "Name": "10X Wealth Top 20 Capped ETF",
+    "M. Cap.": "994M",
+    "Close": 15.06,
+    "YTD": "+45.9%"
+  },
+  {
+    "Code": "ETFGLD",
+    "Name": "1nvest Gold ETF",
+    "M. Cap.": "1.88B",
+    "Close": 677.31,
+    "YTD": "+42.6%"
   },
   {
     "Code": "MHB",
@@ -54,19 +68,5 @@
     "M. Cap.": "331M",
     "Close": 6.0,
     "YTD": "+42.5%"
-  },
-  {
-    "Code": "WTOP20",
-    "Name": "10X Wealth Top 20 Capped ETF",
-    "M. Cap.": "969M",
-    "Close": 14.68,
-    "YTD": "+42.3%"
-  },
-  {
-    "Code": "ETFGLD",
-    "Name": "1nvest Gold ETF",
-    "M. Cap.": "1.85B",
-    "Close": 668.78,
-    "YTD": "+40.8%"
   }
 ]

@@ -2,23 +2,30 @@
   {
     "Code": "DLT",
     "Name": "Delta Property Fund Limited",
-    "M. Cap.": "207M",
-    "Close": 0.29,
-    "YTD": "+52.6%"
+    "M. Cap.": "221M",
+    "Close": 0.31,
+    "YTD": "+63.2%"
   },
   {
     "Code": "FTB",
     "Name": "Fairvest Ltd B Shares",
-    "M. Cap.": "12.4B",
-    "Close": 6.3,
-    "YTD": "+32.1%"
+    "M. Cap.": "12.7B",
+    "Close": 6.43,
+    "YTD": "+34.8%"
   },
   {
     "Code": "GRT",
     "Name": "Growthpoint Properties Limited",
-    "M. Cap.": "57.5B",
-    "Close": 16.75,
-    "YTD": "+31.6%"
+    "M. Cap.": "57.2B",
+    "Close": 16.67,
+    "YTD": "+31%"
+  },
+  {
+    "Code": "VKE",
+    "Name": "Vukile Property Fund Ltd",
+    "M. Cap.": "32.2B",
+    "Close": 23.52,
+    "YTD": "+30.9%"
   },
   {
     "Code": "PPR",
@@ -28,45 +35,38 @@
     "YTD": "+30.9%"
   },
   {
-    "Code": "VKE",
-    "Name": "Vukile Property Fund Ltd",
-    "M. Cap.": "31.6B",
-    "Close": 23.05,
-    "YTD": "+28.3%"
-  },
-  {
     "Code": "SRE",
     "Name": "Sirius Real Estate Ltd",
-    "M. Cap.": "35.4B",
-    "Close": 23.41,
-    "YTD": "+27.2%"
+    "M. Cap.": "35.5B",
+    "Close": 23.47,
+    "YTD": "+27.6%"
   },
   {
     "Code": "RDF",
     "Name": "Redefine Properties Limited",
-    "M. Cap.": "40.7B",
-    "Close": 5.65,
-    "YTD": "+24.2%"
-  },
-  {
-    "Code": "RES",
-    "Name": "Resilient REIT Limited",
-    "M. Cap.": "26.5B",
-    "Close": 72.43,
-    "YTD": "+23.3%"
+    "M. Cap.": "41.3B",
+    "Close": 5.73,
+    "YTD": "+25.9%"
   },
   {
     "Code": "EMI",
     "Name": "Emira Property Fund Ltd",
-    "M. Cap.": "6.7B",
-    "Close": 13.37,
-    "YTD": "+22.7%"
+    "M. Cap.": "6.84B",
+    "Close": 13.65,
+    "YTD": "+25.2%"
   },
   {
-    "Code": "DIB",
-    "Name": "Dipula Income Fund B",
-    "M. Cap.": "6.44B",
-    "Close": 6.35,
-    "YTD": "+19.1%"
+    "Code": "RES",
+    "Name": "Resilient REIT Limited",
+    "M. Cap.": "26.7B",
+    "Close": 73.12,
+    "YTD": "+24.4%"
+  },
+  {
+    "Code": "SAR",
+    "Name": "Safari Investments RSA Ltd",
+    "M. Cap.": "2.06B",
+    "Close": 8.0,
+    "YTD": "+18.5%"
   }
 ]

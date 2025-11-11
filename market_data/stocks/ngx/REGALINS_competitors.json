@@ -3,15 +3,15 @@
     "Code": "MANSARD",
     "Name": "AXA Mansard Insurance",
     "M. Cap.": "109B",
-    "Close": 12.07,
-    "YTD": "+47.2%"
+    "Close": 12.1,
+    "YTD": "+47.6%"
   },
   {
     "Code": "CONHALLPLC",
     "Name": "Consolidated Hallmark Holdings",
-    "M. Cap.": "44.6B",
-    "Close": 4.11,
-    "YTD": "+19.1%"
+    "M. Cap.": "43.6B",
+    "Close": 4.02,
+    "YTD": "+16.5%"
   },
   {
     "Code": "FTGINSURE",
@@ -23,23 +23,16 @@
   {
     "Code": "SUNUASSUR",
     "Name": "Sunu Assurances Nigeria Plc",
-    "M. Cap.": "25.6B",
-    "Close": 4.4,
-    "YTD": "-59.1%"
+    "M. Cap.": "25B",
+    "Close": 4.3,
+    "YTD": "-60%"
   },
   {
     "Code": "MBENEFIT",
     "Name": "Mutual Benefits Assurance",
-    "M. Cap.": "67.6B",
-    "Close": 3.37,
-    "YTD": "+452%"
-  },
-  {
-    "Code": "SOVRENINS",
-    "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "40.7B",
-    "Close": 2.86,
-    "YTD": "+155%"
+    "M. Cap.": "61B",
+    "Close": 3.04,
+    "YTD": "+398%"
   },
   {
     "Code": "NEM",
@@ -56,17 +49,24 @@
     "YTD": "+140%"
   },
   {
-    "Code": "AIICO",
-    "Name": "Aiico Insurance Plc",
-    "M. Cap.": "123B",
-    "Close": 3.37,
-    "YTD": "+136%"
-  },
-  {
     "Code": "SFSREIT",
     "Name": "Skye Shelter Fund Plc",
     "M. Cap.": "8.38B",
     "Close": 418.75,
     "YTD": "+133%"
+  },
+  {
+    "Code": "SOVRENINS",
+    "Name": "Sovereign Trust Insurance",
+    "M. Cap.": "37B",
+    "Close": 2.6,
+    "YTD": "+132%"
+  },
+  {
+    "Code": "AIICO",
+    "Name": "Aiico Insurance Plc",
+    "M. Cap.": "111B",
+    "Close": 3.04,
+    "YTD": "+113%"
   }
 ]

@@ -7,32 +7,32 @@
     "YTD": "+111%"
   },
   {
-    "Code": "SBU",
-    "Name": "Stanbic Bank Uganda",
-    "M. Cap.": "3.4T",
-    "Close": 66.47,
-    "YTD": "+69.4%"
-  },
-  {
     "Code": "KCB",
     "Name": "KCB Group",
-    "M. Cap.": "5.58T",
-    "Close": 1870.94,
-    "YTD": "+65%"
+    "M. Cap.": "5.7T",
+    "Close": 1908.9,
+    "YTD": "+68.3%"
+  },
+  {
+    "Code": "SBU",
+    "Name": "Stanbic Bank Uganda",
+    "M. Cap.": "3.33T",
+    "Close": 65.0,
+    "YTD": "+65.6%"
   },
   {
     "Code": "CENT",
     "Name": "Centum Investment",
-    "M. Cap.": "285B",
-    "Close": 428.42,
-    "YTD": "+48.7%"
+    "M. Cap.": "298B",
+    "Close": 447.23,
+    "YTD": "+55.2%"
   },
   {
     "Code": "EBL",
     "Name": "Equity Bank Limited",
-    "M. Cap.": "7T",
-    "Close": 1891.27,
-    "YTD": "+44.4%"
+    "M. Cap.": "7.04T",
+    "Close": 1902.08,
+    "YTD": "+45.2%"
   },
   {
     "Code": "DFCU",

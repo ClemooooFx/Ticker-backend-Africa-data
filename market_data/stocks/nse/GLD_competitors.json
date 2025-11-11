@@ -2,23 +2,23 @@
   {
     "Code": "CTUM",
     "Name": "Centum Investment Company",
-    "M. Cap.": "10.6B",
-    "Close": 16.0,
-    "YTD": "+61.9%"
+    "M. Cap.": "10.3B",
+    "Close": 15.5,
+    "YTD": "+56.9%"
   },
   {
     "Code": "SMWF",
     "Name": "Satrix MSCI World Feeder ETF",
-    "M. Cap.": "85.1M",
-    "Close": 851.0,
-    "YTD": "+11.8%"
+    "M. Cap.": "85.5M",
+    "Close": 855.0,
+    "YTD": "+12.4%"
   },
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "5.41B",
-    "Close": 20.85,
-    "YTD": "+248%"
+    "M. Cap.": "5.36B",
+    "Close": 20.65,
+    "YTD": "+244%"
   },
   {
     "Code": "HAFR",
@@ -30,16 +30,16 @@
   {
     "Code": "KNRE",
     "Name": "Kenya Re-Insurance Corporation Ltd",
-    "M. Cap.": "18.1B",
-    "Close": 3.23,
-    "YTD": "+152%"
+    "M. Cap.": "18B",
+    "Close": 3.21,
+    "YTD": "+151%"
   },
   {
     "Code": "HFCK",
     "Name": "HF Group Limited",
-    "M. Cap.": "19.9B",
-    "Close": 10.55,
-    "YTD": "+134%"
+    "M. Cap.": "18.9B",
+    "Close": 10.05,
+    "YTD": "+123%"
   },
   {
     "Code": "CIC",
@@ -51,22 +51,22 @@
   {
     "Code": "JUB",
     "Name": "Jubilee Holdings Limited",
-    "M. Cap.": "23.5B",
-    "Close": 324.75,
-    "YTD": "+87.2%"
+    "M. Cap.": "22.7B",
+    "Close": 313.5,
+    "YTD": "+80.7%"
   },
   {
     "Code": "NCBA",
     "Name": "NCBA Group Plc",
-    "M. Cap.": "142B",
-    "Close": 86.0,
-    "YTD": "+78.4%"
+    "M. Cap.": "141B",
+    "Close": 85.5,
+    "YTD": "+77.4%"
   },
   {
     "Code": "SLAM",
     "Name": "Sanlam Kenya Plc",
-    "M. Cap.": "1.25B",
-    "Close": 8.68,
-    "YTD": "+75.4%"
+    "M. Cap.": "1.26B",
+    "Close": 8.78,
+    "YTD": "+77.4%"
   }
 ]

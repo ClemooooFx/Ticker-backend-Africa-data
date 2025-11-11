@@ -21,20 +21,6 @@
     "YTD": "+250%"
   },
   {
-    "Code": "NASCON",
-    "Name": "National Salt Company",
-    "M. Cap.": "268B",
-    "Close": 99.0,
-    "YTD": "+216%"
-  },
-  {
-    "Code": "HONYFLOUR",
-    "Name": "Honeywell Flour Mill",
-    "M. Cap.": "157B",
-    "Close": 19.75,
-    "YTD": "+213%"
-  },
-  {
     "Code": "PRESCO",
     "Name": "Presco Plc",
     "M. Cap.": "1.45T",
@@ -42,18 +28,25 @@
     "YTD": "+205%"
   },
   {
-    "Code": "CADBURY",
-    "Name": "Cadbury Nigeria",
-    "M. Cap.": "143B",
-    "Close": 62.55,
-    "YTD": "+191%"
+    "Code": "NASCON",
+    "Name": "National Salt Company",
+    "M. Cap.": "255B",
+    "Close": 94.2,
+    "YTD": "+200%"
   },
   {
-    "Code": "GUINNESS",
-    "Name": "Guinness Nigeria",
-    "M. Cap.": "387B",
-    "Close": 176.7,
-    "YTD": "+152%"
+    "Code": "HONYFLOUR",
+    "Name": "Honeywell Flour Mill",
+    "M. Cap.": "141B",
+    "Close": 17.8,
+    "YTD": "+183%"
+  },
+  {
+    "Code": "CADBURY",
+    "Name": "Cadbury Nigeria",
+    "M. Cap.": "128B",
+    "Close": 56.3,
+    "YTD": "+162%"
   },
   {
     "Code": "OKOMUOIL",
@@ -61,6 +54,13 @@
     "M. Cap.": "1.06T",
     "Close": 1110.0,
     "YTD": "+150%"
+  },
+  {
+    "Code": "GUINNESS",
+    "Name": "Guinness Nigeria",
+    "M. Cap.": "372B",
+    "Close": 170.0,
+    "YTD": "+142%"
   },
   {
     "Code": "FTNCOCOA",

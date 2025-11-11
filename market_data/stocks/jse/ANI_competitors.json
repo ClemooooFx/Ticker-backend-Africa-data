@@ -1,24 +1,24 @@
 [
   {
-    "Code": "PPE",
-    "Name": "Purple Group Ltd",
-    "M. Cap.": "3.3B",
-    "Close": 2.32,
-    "YTD": "+115%"
-  },
-  {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.22B",
-    "Close": 109.21,
-    "YTD": "+101%"
+    "M. Cap.": "2.34B",
+    "Close": 114.53,
+    "YTD": "+111%"
+  },
+  {
+    "Code": "PPE",
+    "Name": "Purple Group Ltd",
+    "M. Cap.": "3.18B",
+    "Close": 2.23,
+    "YTD": "+106%"
   },
   {
     "Code": "FGL",
     "Name": "Finbond Group Ltd",
-    "M. Cap.": "655M",
-    "Close": 1.27,
-    "YTD": "+95.4%"
+    "M. Cap.": "639M",
+    "Close": 1.24,
+    "YTD": "+90.8%"
   },
   {
     "Code": "YYLBEE",
@@ -28,39 +28,39 @@
     "YTD": "+88.6%"
   },
   {
-    "Code": "ETFRHO",
-    "Name": "1nvest Rhodium ETF",
-    "M. Cap.": "1.15B",
-    "Close": 1264.47,
-    "YTD": "+64.9%"
-  },
-  {
     "Code": "STXSHA",
     "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "112M",
-    "Close": 5.52,
-    "YTD": "+61.4%"
+    "M. Cap.": "116M",
+    "Close": 5.72,
+    "YTD": "+67.3%"
+  },
+  {
+    "Code": "ETFRHO",
+    "Name": "1nvest Rhodium ETF",
+    "M. Cap.": "1.16B",
+    "Close": 1276.63,
+    "YTD": "+66.4%"
   },
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "7.56B",
-    "Close": 257.29,
-    "YTD": "+57%"
+    "M. Cap.": "7.62B",
+    "Close": 259.09,
+    "YTD": "+58.1%"
   },
   {
     "Code": "SYG",
     "Name": "Sygnia Limited",
-    "M. Cap.": "5.37B",
-    "Close": 34.41,
-    "YTD": "+56.4%"
+    "M. Cap.": "5.38B",
+    "Close": 34.47,
+    "YTD": "+56.7%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.62B",
-    "Close": 257.43,
-    "YTD": "+55.9%"
+    "M. Cap.": "3.63B",
+    "Close": 258.32,
+    "YTD": "+56.4%"
   },
   {
     "Code": "BAC",

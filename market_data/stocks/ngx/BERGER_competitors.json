@@ -2,9 +2,9 @@
   {
     "Code": "BETAGLAS",
     "Name": "Beta Glass Company",
-    "M. Cap.": "236B",
-    "Close": 393.7,
-    "YTD": "+507%"
+    "M. Cap.": "222B",
+    "Close": 370.0,
+    "YTD": "+470%"
   },
   {
     "Code": "CHELLARAM",
@@ -26,13 +26,6 @@
     "M. Cap.": "109B",
     "Close": 80.6,
     "YTD": "+141%"
-  },
-  {
-    "Code": "BUACEMENT",
-    "Name": "BUA Cement Plc",
-    "M. Cap.": "6.1T",
-    "Close": 180.0,
-    "YTD": "+93.6%"
   },
   {
     "Code": "CAP",
@@ -61,6 +54,13 @@
     "M. Cap.": "2.11T",
     "Close": 131.0,
     "YTD": "+87.3%"
+  },
+  {
+    "Code": "BUACEMENT",
+    "Name": "BUA Cement Plc",
+    "M. Cap.": "5.49T",
+    "Close": 162.0,
+    "YTD": "+74.2%"
   },
   {
     "Code": "AUSTINLAZ",

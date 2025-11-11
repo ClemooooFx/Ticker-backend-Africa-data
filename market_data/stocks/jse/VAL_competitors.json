@@ -2,51 +2,51 @@
   {
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "129B",
-    "Close": 45.7,
-    "YTD": "+205%"
+    "M. Cap.": "139B",
+    "Close": 48.96,
+    "YTD": "+227%"
   },
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "599B",
-    "Close": 1185.84,
-    "YTD": "+182%"
-  },
-  {
-    "Code": "NPH",
-    "Name": "Northam Platinum Holdings",
-    "M. Cap.": "108B",
-    "Close": 270.0,
-    "YTD": "+177%"
-  },
-  {
-    "Code": "DRD",
-    "Name": "DRD Gold Ltd",
-    "M. Cap.": "39.1B",
-    "Close": 45.09,
-    "YTD": "+173%"
+    "M. Cap.": "632B",
+    "Close": 1252.47,
+    "YTD": "+198%"
   },
   {
     "Code": "GFI",
     "Name": "Gold Fields Ltd",
-    "M. Cap.": "602B",
-    "Close": 672.77,
-    "YTD": "+172%"
+    "M. Cap.": "631B",
+    "Close": 705.01,
+    "YTD": "+185%"
+  },
+  {
+    "Code": "NPH",
+    "Name": "Northam Platinum Holdings",
+    "M. Cap.": "111B",
+    "Close": 277.53,
+    "YTD": "+185%"
+  },
+  {
+    "Code": "DRD",
+    "Name": "DRD Gold Ltd",
+    "M. Cap.": "40.5B",
+    "Close": 46.72,
+    "YTD": "+183%"
   },
   {
     "Code": "PAN",
     "Name": "Pan African Resource plc",
-    "M. Cap.": "46.4B",
-    "Close": 19.89,
-    "YTD": "+143%"
+    "M. Cap.": "47.9B",
+    "Close": 20.53,
+    "YTD": "+151%"
   },
   {
     "Code": "HAR",
     "Name": "Harmony GM Co Ltd",
-    "M. Cap.": "181B",
-    "Close": 284.44,
-    "YTD": "+88.8%"
+    "M. Cap.": "190B",
+    "Close": 298.99,
+    "YTD": "+98.4%"
   },
   {
     "Code": "EPS",
@@ -56,17 +56,17 @@
     "YTD": "+53.3%"
   },
   {
-    "Code": "THA",
-    "Name": "Tharisa plc",
-    "M. Cap.": "6.6B",
-    "Close": 21.8,
-    "YTD": "+34.4%"
-  },
-  {
     "Code": "MCZ",
     "Name": "MC Mining Limited",
-    "M. Cap.": "936M",
-    "Close": 2.26,
-    "YTD": "+33.7%"
+    "M. Cap.": "1.04B",
+    "Close": 2.5,
+    "YTD": "+47.9%"
+  },
+  {
+    "Code": "THA",
+    "Name": "Tharisa plc",
+    "M. Cap.": "6.73B",
+    "Close": 22.23,
+    "YTD": "+37.1%"
   }
 ]

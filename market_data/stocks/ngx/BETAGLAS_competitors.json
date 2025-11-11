@@ -21,13 +21,6 @@
     "YTD": "+141%"
   },
   {
-    "Code": "BUACEMENT",
-    "Name": "BUA Cement Plc",
-    "M. Cap.": "6.1T",
-    "Close": 180.0,
-    "YTD": "+93.6%"
-  },
-  {
     "Code": "CAP",
     "Name": "CAP Plc",
     "M. Cap.": "59.5B",
@@ -58,9 +51,16 @@
   {
     "Code": "BERGER",
     "Name": "Berger Paints",
-    "M. Cap.": "10.2B",
-    "Close": 35.1,
-    "YTD": "+75.5%"
+    "M. Cap.": "10.4B",
+    "Close": 36.0,
+    "YTD": "+80%"
+  },
+  {
+    "Code": "BUACEMENT",
+    "Name": "BUA Cement Plc",
+    "M. Cap.": "5.49T",
+    "Close": 162.0,
+    "YTD": "+74.2%"
   },
   {
     "Code": "AUSTINLAZ",

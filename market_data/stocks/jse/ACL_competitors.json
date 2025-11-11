@@ -1,38 +1,31 @@
 [
   {
+    "Code": "EUZ",
+    "Name": "Europa Metals Limited",
+    "M. Cap.": "139M",
+    "Close": 1.36,
+    "YTD": "+167%"
+  },
+  {
     "Code": "IMP",
     "Name": "Impala Platinum Hlgs Ltd",
-    "M. Cap.": "170B",
-    "Close": 187.78,
-    "YTD": "+114%"
+    "M. Cap.": "177B",
+    "Close": 196.12,
+    "YTD": "+124%"
   },
   {
     "Code": "SDL",
     "Name": "Southern Palladium Ltd",
-    "M. Cap.": "1.28B",
-    "Close": 12.0,
-    "YTD": "+71.4%"
-  },
-  {
-    "Code": "ISB",
-    "Name": "Insimbi Industrial Holdings",
-    "M. Cap.": "265M",
-    "Close": 0.8,
-    "YTD": "+14.3%"
-  },
-  {
-    "Code": "EUZ",
-    "Name": "Europa Metals Limited",
-    "M. Cap.": "56.2M",
-    "Close": 0.55,
-    "YTD": "+7.84%"
+    "M. Cap.": "1.2B",
+    "Close": 11.25,
+    "YTD": "+60.7%"
   },
   {
     "Code": "KIO",
     "Name": "Kumba Iron Ore Ltd",
-    "M. Cap.": "106B",
-    "Close": 329.43,
-    "YTD": "+0.97%"
+    "M. Cap.": "107B",
+    "Close": 333.58,
+    "YTD": "+2.25%"
   },
   {
     "Code": "APH",
@@ -42,11 +35,18 @@
     "YTD": "-1.47%"
   },
   {
+    "Code": "ISB",
+    "Name": "Insimbi Industrial Holdings",
+    "M. Cap.": "225M",
+    "Close": 0.68,
+    "YTD": "-2.86%"
+  },
+  {
     "Code": "HLM",
     "Name": "Hulamin Ltd",
-    "M. Cap.": "827M",
-    "Close": 2.55,
-    "YTD": "-27.1%"
+    "M. Cap.": "811M",
+    "Close": 2.5,
+    "YTD": "-28.6%"
   },
   {
     "Code": "CPR",
@@ -58,15 +58,15 @@
   {
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "129B",
-    "Close": 45.7,
-    "YTD": "+205%"
+    "M. Cap.": "139B",
+    "Close": 48.96,
+    "YTD": "+227%"
   },
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "599B",
-    "Close": 1185.84,
-    "YTD": "+182%"
+    "M. Cap.": "632B",
+    "Close": 1252.47,
+    "YTD": "+198%"
   }
 ]

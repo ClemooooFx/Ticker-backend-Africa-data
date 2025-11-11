@@ -7,13 +7,6 @@
     "YTD": "+300%"
   },
   {
-    "Code": "EUNISELL",
-    "Name": "Eunisell Interlinked Plc",
-    "M. Cap.": "16.8B",
-    "Close": 70.9,
-    "YTD": "+268%"
-  },
-  {
     "Code": "ABCTRANS",
     "Name": "Associated Bus Company",
     "M. Cap.": "10.1B",
@@ -21,25 +14,32 @@
     "YTD": "+245%"
   },
   {
+    "Code": "EUNISELL",
+    "Name": "Eunisell Interlinked Plc",
+    "M. Cap.": "15.1B",
+    "Close": 64.0,
+    "YTD": "+232%"
+  },
+  {
     "Code": "ACADEMY",
     "Name": "Academy Press",
-    "M. Cap.": "6.8B",
-    "Close": 7.5,
-    "YTD": "+150%"
+    "M. Cap.": "6.12B",
+    "Close": 6.75,
+    "YTD": "+125%"
   },
   {
     "Code": "NAHCO",
     "Name": "Nigerian Aviation Handling Co.",
-    "M. Cap.": "185B",
-    "Close": 95.0,
-    "YTD": "+106%"
+    "M. Cap.": "172B",
+    "Close": 88.1,
+    "YTD": "+91.3%"
   },
   {
     "Code": "CAVERTON",
     "Name": "Caverton Offshore Support Group",
-    "M. Cap.": "15.4B",
-    "Close": 4.6,
-    "YTD": "+98.3%"
+    "M. Cap.": "14.4B",
+    "Close": 4.3,
+    "YTD": "+85.3%"
   },
   {
     "Code": "IKEJAHOTEL",
@@ -63,10 +63,10 @@
     "YTD": "+50.8%"
   },
   {
-    "Code": "DAARCOMM",
-    "Name": "Daar Communications",
-    "M. Cap.": "10.8B",
-    "Close": 0.9,
-    "YTD": "+42.9%"
+    "Code": "CILEASING",
+    "Name": "C&I Leasing Plc",
+    "M. Cap.": "14.7B",
+    "Close": 5.0,
+    "YTD": "+32.6%"
   }
 ]

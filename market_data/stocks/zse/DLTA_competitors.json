@@ -3,8 +3,8 @@
     "Code": "SACL",
     "Name": "Star Africa Corporation Limited",
     "M. Cap.": "160M",
-    "Close": 0.034105,
-    "YTD": "+70.5%"
+    "Close": 0.033941,
+    "YTD": "+69.7%"
   },
   {
     "Code": "SEED",
@@ -30,9 +30,9 @@
   {
     "Code": "BAT",
     "Name": "British American Tobacco Limited",
-    "M. Cap.": "1.45B",
-    "Close": 70.5345,
-    "YTD": "-12.2%"
+    "M. Cap.": "1.46B",
+    "Close": 71.0,
+    "YTD": "-11.7%"
   },
   {
     "Code": "NTS",
@@ -44,9 +44,9 @@
   {
     "Code": "DZL",
     "Name": "Dairibord Holdings Limited",
-    "M. Cap.": "641M",
-    "Close": 1.8,
-    "YTD": "-19.6%"
+    "M. Cap.": "634M",
+    "Close": 1.779813,
+    "YTD": "-20.5%"
   },
   {
     "Code": "ARIS",
@@ -58,8 +58,8 @@
   {
     "Code": "TANG",
     "Name": "Tanganda Tea Company",
-    "M. Cap.": "183M",
-    "Close": 0.7025,
-    "YTD": "-72%"
+    "M. Cap.": "175M",
+    "Close": 0.671959,
+    "YTD": "-73.2%"
   }
 ]

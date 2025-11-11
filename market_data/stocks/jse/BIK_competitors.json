@@ -2,71 +2,71 @@
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "903M",
-    "Close": 4.8,
-    "YTD": "+20%"
+    "M. Cap.": "893M",
+    "Close": 4.75,
+    "YTD": "+18.8%"
   },
   {
     "Code": "PPC",
     "Name": "PPC Limited",
-    "M. Cap.": "8.2B",
-    "Close": 5.28,
-    "YTD": "+2.52%"
+    "M. Cap.": "8.28B",
+    "Close": 5.33,
+    "YTD": "+3.5%"
   },
   {
     "Code": "TRL",
     "Name": "Trellidor Hldgs Ltd",
-    "M. Cap.": "168M",
-    "Close": 1.76,
-    "YTD": "+1.15%"
+    "M. Cap.": "169M",
+    "Close": 1.77,
+    "YTD": "+1.72%"
   },
   {
     "Code": "SEP",
     "Name": "Sephaku Holdings Limited",
-    "M. Cap.": "369M",
-    "Close": 1.45,
-    "YTD": "-22%"
-  },
-  {
-    "Code": "CGR",
-    "Name": "Calgro M3 Hldgs Ltd",
-    "M. Cap.": "586M",
-    "Close": 5.18,
-    "YTD": "-22.7%"
+    "M. Cap.": "379M",
+    "Close": 1.49,
+    "YTD": "-19.9%"
   },
   {
     "Code": "RBX",
     "Name": "Raubex Group Ltd",
-    "M. Cap.": "7.27B",
-    "Close": 40.0,
-    "YTD": "-24.5%"
+    "M. Cap.": "7.39B",
+    "Close": 40.65,
+    "YTD": "-23.3%"
+  },
+  {
+    "Code": "CGR",
+    "Name": "Calgro M3 Hldgs Ltd",
+    "M. Cap.": "577M",
+    "Close": 5.1,
+    "YTD": "-23.9%"
   },
   {
     "Code": "WBO",
     "Name": "Wilson Bayly Hlm-Ovc Ltd",
-    "M. Cap.": "10.3B",
-    "Close": 145.0,
-    "YTD": "-37.8%"
+    "M. Cap.": "10.5B",
+    "Close": 147.43,
+    "YTD": "-36.8%"
   },
   {
     "Code": "AFT",
     "Name": "Afrimat Limited",
-    "M. Cap.": "6.54B",
-    "Close": 40.77,
-    "YTD": "-42.5%"
+    "M. Cap.": "6.61B",
+    "Close": 41.24,
+    "YTD": "-41.9%"
   },
   {
     "Code": "AEG",
     "Name": "Aveng Group Limited",
-    "M. Cap.": "578M",
-    "Close": 4.55,
-    "YTD": "-63.9%"
+    "M. Cap.": "563M",
+    "Close": 4.43,
+    "YTD": "-64.8%"
   },
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "11.9B",
-    "Close": 17.1,
-    "YTD": "+43%"
+    "M. Cap.": "12.1B",
+    "Close": 17.4,
+    "YTD": "+45.5%"
   }
 ]

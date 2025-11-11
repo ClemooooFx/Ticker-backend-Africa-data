@@ -9,29 +9,29 @@
   {
     "Code": "BLU",
     "Name": "Blue Label Telecoms Ltd",
-    "M. Cap.": "11.4B",
-    "Close": 12.49,
-    "YTD": "+114%"
+    "M. Cap.": "11.1B",
+    "Close": 12.11,
+    "YTD": "+107%"
   },
   {
     "Code": "MTN",
     "Name": "MTN Group Ltd",
-    "M. Cap.": "302B",
-    "Close": 164.74,
-    "YTD": "+79.1%"
+    "M. Cap.": "309B",
+    "Close": 168.63,
+    "YTD": "+83.3%"
   },
   {
     "Code": "VOD",
     "Name": "Vodacom Group Ltd",
     "M. Cap.": "283B",
-    "Close": 136.19,
-    "YTD": "+34.4%"
+    "Close": 136.33,
+    "YTD": "+34.5%"
   },
   {
     "Code": "HUG",
     "Name": "Huge Group Ltd",
-    "M. Cap.": "242M",
-    "Close": 1.4,
-    "YTD": "-33.3%"
+    "M. Cap.": "259M",
+    "Close": 1.5,
+    "YTD": "-28.6%"
   }
 ]

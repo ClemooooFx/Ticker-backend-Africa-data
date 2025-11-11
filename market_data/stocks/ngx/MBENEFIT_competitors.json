@@ -1,12 +1,5 @@
 [
   {
-    "Code": "SOVRENINS",
-    "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "40.7B",
-    "Close": 2.86,
-    "YTD": "+155%"
-  },
-  {
     "Code": "NEM",
     "Name": "N.E.M. Insurance Company",
     "M. Cap.": "138B",
@@ -21,13 +14,6 @@
     "YTD": "+140%"
   },
   {
-    "Code": "AIICO",
-    "Name": "Aiico Insurance Plc",
-    "M. Cap.": "123B",
-    "Close": 3.37,
-    "YTD": "+136%"
-  },
-  {
     "Code": "SFSREIT",
     "Name": "Skye Shelter Fund Plc",
     "M. Cap.": "8.38B",
@@ -35,11 +21,18 @@
     "YTD": "+133%"
   },
   {
-    "Code": "CUSTODIAN",
-    "Name": "Custodian & Allied Plc",
-    "M. Cap.": "224B",
-    "Close": 38.0,
-    "YTD": "+122%"
+    "Code": "SOVRENINS",
+    "Name": "Sovereign Trust Insurance",
+    "M. Cap.": "37B",
+    "Close": 2.6,
+    "YTD": "+132%"
+  },
+  {
+    "Code": "AIICO",
+    "Name": "Aiico Insurance Plc",
+    "M. Cap.": "111B",
+    "Close": 3.04,
+    "YTD": "+113%"
   },
   {
     "Code": "WEMABANK",
@@ -56,17 +49,24 @@
     "YTD": "+104%"
   },
   {
+    "Code": "CUSTODIAN",
+    "Name": "Custodian & Allied Plc",
+    "M. Cap.": "201B",
+    "Close": 34.2,
+    "YTD": "+100%"
+  },
+  {
     "Code": "ASOSAVINGS",
     "Name": "Aso Savings & Loans",
-    "M. Cap.": "14.6B",
-    "Close": 0.99,
-    "YTD": "+98%"
+    "M. Cap.": "13.3B",
+    "Close": 0.9,
+    "YTD": "+80%"
   },
   {
     "Code": "STANBIC",
     "Name": "Stanbic IBTC Holdings",
-    "M. Cap.": "1.79T",
-    "Close": 112.35,
-    "YTD": "+95.1%"
+    "M. Cap.": "1.61T",
+    "Close": 101.15,
+    "YTD": "+75.6%"
   }
 ]
