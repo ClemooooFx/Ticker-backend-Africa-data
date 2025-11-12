@@ -2,36 +2,36 @@
   {
     "Code": "FMBCH",
     "Name": "FMB Capital Holdings Plc",
-    "M. Cap.": "8.32T",
-    "Close": 3383.77,
-    "YTD": "+510%"
+    "M. Cap.": "8.47T",
+    "Close": 3446.85,
+    "YTD": "+521%"
   },
   {
     "Code": "NBS",
     "Name": "NBS Bank Limited",
     "M. Cap.": "2.97T",
-    "Close": 1022.13,
+    "Close": 1022.06,
     "YTD": "+487%"
   },
   {
     "Code": "FDHB",
     "Name": "FDH Bank Plc",
     "M. Cap.": "4.4T",
-    "Close": 637.46,
+    "Close": 637.43,
     "YTD": "+330%"
   },
   {
     "Code": "NICO",
     "Name": "National Insurance Company Holdings",
     "M. Cap.": "1.81T",
-    "Close": 1739.75,
+    "Close": 1739.78,
     "YTD": "+315%"
   },
   {
     "Code": "NBM",
     "Name": "National Bank of Malawi",
     "M. Cap.": "5.79T",
-    "Close": 12399.89,
+    "Close": 12399.87,
     "YTD": "+258%"
   },
   {
@@ -51,8 +51,8 @@
   {
     "Code": "STANDARD",
     "Name": "Standard Bank Malawi Limited",
-    "M. Cap.": "5.84T",
-    "Close": 4972.99,
-    "YTD": "-23.3%"
+    "M. Cap.": "5.73T",
+    "Close": 4885.96,
+    "YTD": "-24.7%"
   }
 ]

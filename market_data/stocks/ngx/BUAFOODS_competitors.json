@@ -7,25 +7,32 @@
     "YTD": NaN
   },
   {
+    "Code": "ELLAHLAKES",
+    "Name": "Ellah Lakes Plc",
+    "M. Cap.": "46.8B",
+    "Close": 12.13,
+    "YTD": "+284%"
+  },
+  {
     "Code": "VITAFOAM",
     "Name": "Vitafoam Nigeria",
-    "M. Cap.": "118B",
-    "Close": 94.0,
-    "YTD": "+309%"
+    "M. Cap.": "106B",
+    "Close": 84.6,
+    "YTD": "+268%"
   },
   {
     "Code": "CHAMPION",
     "Name": "Champion Breweries",
-    "M. Cap.": "121B",
-    "Close": 13.5,
-    "YTD": "+254%"
+    "M. Cap.": "123B",
+    "Close": 13.8,
+    "YTD": "+262%"
   },
   {
-    "Code": "ELLAHLAKES",
-    "Name": "Ellah Lakes Plc",
-    "M. Cap.": "42.6B",
-    "Close": 11.05,
-    "YTD": "+250%"
+    "Code": "NASCON",
+    "Name": "National Salt Company",
+    "M. Cap.": "280B",
+    "Close": 103.6,
+    "YTD": "+230%"
   },
   {
     "Code": "PRESCO",
@@ -35,18 +42,11 @@
     "YTD": "+205%"
   },
   {
-    "Code": "NASCON",
-    "Name": "National Salt Company",
-    "M. Cap.": "255B",
-    "Close": 94.2,
-    "YTD": "+200%"
-  },
-  {
     "Code": "HONYFLOUR",
     "Name": "Honeywell Flour Mill",
-    "M. Cap.": "141B",
-    "Close": 17.8,
-    "YTD": "+183%"
+    "M. Cap.": "149B",
+    "Close": 18.85,
+    "YTD": "+199%"
   },
   {
     "Code": "CADBURY",
@@ -56,17 +56,17 @@
     "YTD": "+162%"
   },
   {
+    "Code": "FTNCOCOA",
+    "Name": "FTN Cocoa Processors",
+    "M. Cap.": "18.3B",
+    "Close": 4.7,
+    "YTD": "+158%"
+  },
+  {
     "Code": "OKOMUOIL",
     "Name": "Okomu Oil Palm",
     "M. Cap.": "1.06T",
     "Close": 1110.0,
     "YTD": "+150%"
-  },
-  {
-    "Code": "GUINNESS",
-    "Name": "Guinness Nigeria",
-    "M. Cap.": "372B",
-    "Close": 170.0,
-    "YTD": "+142%"
   }
 ]

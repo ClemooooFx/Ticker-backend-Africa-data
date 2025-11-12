@@ -2,9 +2,16 @@
   {
     "Code": "TIP",
     "Name": "The Initiates Plc",
-    "M. Cap.": "8.9B",
-    "Close": 10.0,
-    "YTD": "+300%"
+    "M. Cap.": "8.94B",
+    "Close": 10.05,
+    "YTD": "+302%"
+  },
+  {
+    "Code": "EUNISELL",
+    "Name": "Eunisell Interlinked Plc",
+    "M. Cap.": "16.3B",
+    "Close": 68.9,
+    "YTD": "+258%"
   },
   {
     "Code": "ABCTRANS",
@@ -12,20 +19,6 @@
     "M. Cap.": "10.1B",
     "Close": 4.24,
     "YTD": "+245%"
-  },
-  {
-    "Code": "EUNISELL",
-    "Name": "Eunisell Interlinked Plc",
-    "M. Cap.": "15.1B",
-    "Close": 64.0,
-    "YTD": "+232%"
-  },
-  {
-    "Code": "REDSTAREX",
-    "Name": "Red Star Express Plc",
-    "M. Cap.": "9.74B",
-    "Close": 10.2,
-    "YTD": "+131%"
   },
   {
     "Code": "ACADEMY",
@@ -37,16 +30,23 @@
   {
     "Code": "NAHCO",
     "Name": "Nigerian Aviation Handling Co.",
-    "M. Cap.": "172B",
-    "Close": 88.1,
-    "YTD": "+91.3%"
+    "M. Cap.": "189B",
+    "Close": 96.9,
+    "YTD": "+110%"
+  },
+  {
+    "Code": "REDSTAREX",
+    "Name": "Red Star Express Plc",
+    "M. Cap.": "8.78B",
+    "Close": 9.2,
+    "YTD": "+109%"
   },
   {
     "Code": "CAVERTON",
     "Name": "Caverton Offshore Support Group",
-    "M. Cap.": "14.4B",
-    "Close": 4.3,
-    "YTD": "+85.3%"
+    "M. Cap.": "15.7B",
+    "Close": 4.7,
+    "YTD": "+103%"
   },
   {
     "Code": "IKEJAHOTEL",
@@ -65,8 +65,8 @@
   {
     "Code": "CILEASING",
     "Name": "C&I Leasing Plc",
-    "M. Cap.": "14.7B",
-    "Close": 5.0,
-    "YTD": "+32.6%"
+    "M. Cap.": "15.6B",
+    "Close": 5.3,
+    "YTD": "+40.6%"
   }
 ]

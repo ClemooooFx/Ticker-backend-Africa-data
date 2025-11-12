@@ -9,64 +9,64 @@
   {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "9.48B",
-    "Close": 220.87,
-    "YTD": "+18.1%"
+    "M. Cap.": "9.51B",
+    "Close": 221.56,
+    "YTD": "+18.5%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
-    "M. Cap.": "57.7B",
-    "Close": 330.0,
-    "YTD": "+14.2%"
-  },
-  {
-    "Code": "LBR",
-    "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.97B",
-    "Close": 4.88,
-    "YTD": "+12.2%"
+    "M. Cap.": "59B",
+    "Close": 337.5,
+    "YTD": "+16.8%"
   },
   {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
-    "M. Cap.": "5.7B",
-    "Close": 21.7,
-    "YTD": "+4.88%"
+    "M. Cap.": "5.99B",
+    "Close": 22.8,
+    "YTD": "+10.2%"
+  },
+  {
+    "Code": "LBR",
+    "Name": "Libstar Holdings Ltd",
+    "M. Cap.": "2.92B",
+    "Close": 4.79,
+    "YTD": "+10.1%"
   },
   {
     "Code": "RCL",
     "Name": "RCL Foods Limited",
-    "M. Cap.": "8.61B",
-    "Close": 9.59,
-    "YTD": "+0.95%"
+    "M. Cap.": "8.69B",
+    "Close": 9.68,
+    "YTD": "+1.89%"
   },
   {
     "Code": "AVI",
     "Name": "AVI Ltd",
-    "M. Cap.": "33.5B",
-    "Close": 97.96,
-    "YTD": "-10.7%"
-  },
-  {
-    "Code": "QFH",
-    "Name": "Quantum Foods Hldgs Ltd",
-    "M. Cap.": "1.63B",
-    "Close": 8.01,
-    "YTD": "-12.6%"
-  },
-  {
-    "Code": "OCE",
-    "Name": "Oceana Group Ltd",
-    "M. Cap.": "6.98B",
-    "Close": 53.76,
-    "YTD": "-20.3%"
+    "M. Cap.": "35.5B",
+    "Close": 103.89,
+    "YTD": "-5.31%"
   },
   {
     "Code": "CKS",
     "Name": "Crookes Brothers Ltd",
-    "M. Cap.": "382M",
-    "Close": 25.0,
-    "YTD": "-20.7%"
+    "M. Cap.": "405M",
+    "Close": 26.5,
+    "YTD": "-15.9%"
+  },
+  {
+    "Code": "QFH",
+    "Name": "Quantum Foods Hldgs Ltd",
+    "M. Cap.": "1.54B",
+    "Close": 7.56,
+    "YTD": "-17.5%"
+  },
+  {
+    "Code": "OCE",
+    "Name": "Oceana Group Ltd",
+    "M. Cap.": "7B",
+    "Close": 53.9,
+    "YTD": "-20.1%"
   }
 ]

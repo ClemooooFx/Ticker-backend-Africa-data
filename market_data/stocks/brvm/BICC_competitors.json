@@ -2,9 +2,9 @@
   {
     "Code": "BOAM",
     "Name": "Bank of Africa - Mali",
-    "M. Cap.": "104B",
-    "Close": 3795,
-    "YTD": "+101%"
+    "M. Cap.": "105B",
+    "Close": 3810,
+    "YTD": "+102%"
   },
   {
     "Code": "ECOC",
@@ -17,8 +17,8 @@
     "Code": "BOAS",
     "Name": "Bank of Africa - Senegal",
     "M. Cap.": "191B",
-    "Close": 5295,
-    "YTD": "+68.1%"
+    "Close": 5300,
+    "YTD": "+68.3%"
   },
   {
     "Code": "NSBC",
@@ -30,9 +30,16 @@
   {
     "Code": "SIBC",
     "Name": "Societe Ivoirienne de Banque",
-    "M. Cap.": "560B",
-    "Close": 5600,
-    "YTD": "+57.5%"
+    "M. Cap.": "564B",
+    "Close": 5640,
+    "YTD": "+58.7%"
+  },
+  {
+    "Code": "BOAC",
+    "Name": "Bank of Africa - C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
+    "M. Cap.": "287B",
+    "Close": 7185,
+    "YTD": "+43.8%"
   },
   {
     "Code": "ETIT",
@@ -42,31 +49,24 @@
     "YTD": "+43.8%"
   },
   {
-    "Code": "BOAC",
-    "Name": "Bank of Africa - C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "282B",
-    "Close": 7050,
-    "YTD": "+41.1%"
+    "Code": "ORGT",
+    "Name": "Oragroup Togo",
+    "M. Cap.": "183B",
+    "Close": 2640,
+    "YTD": "+37.5%"
   },
   {
     "Code": "BOAB",
     "Name": "Bank of Africa - Benin",
-    "M. Cap.": "207B",
-    "Close": 5100,
-    "YTD": "+38.4%"
-  },
-  {
-    "Code": "ORGT",
-    "Name": "Oragroup Togo",
-    "M. Cap.": "184B",
-    "Close": 2645,
-    "YTD": "+37.8%"
+    "M. Cap.": "205B",
+    "Close": 5060,
+    "YTD": "+37.3%"
   },
   {
     "Code": "SGBC",
     "Name": "SGB C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
     "M. Cap.": "837B",
-    "Close": 26905,
+    "Close": 26900,
     "YTD": "+28.1%"
   }
 ]

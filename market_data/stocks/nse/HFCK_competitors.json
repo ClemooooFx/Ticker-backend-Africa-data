@@ -2,71 +2,71 @@
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "5.36B",
-    "Close": 20.65,
-    "YTD": "+244%"
+    "M. Cap.": "5.24B",
+    "Close": 20.2,
+    "YTD": "+237%"
   },
   {
     "Code": "HAFR",
     "Name": "Home Afrika Limited",
-    "M. Cap.": "466M",
-    "Close": 1.15,
-    "YTD": "+211%"
+    "M. Cap.": "454M",
+    "Close": 1.12,
+    "YTD": "+203%"
   },
   {
     "Code": "KNRE",
     "Name": "Kenya Re-Insurance Corporation Ltd",
-    "M. Cap.": "18B",
-    "Close": 3.21,
-    "YTD": "+151%"
+    "M. Cap.": "17.8B",
+    "Close": 3.17,
+    "YTD": "+148%"
   },
   {
     "Code": "CIC",
     "Name": "CIC Insurance Group Limited",
     "M. Cap.": "12.5B",
-    "Close": 4.79,
-    "YTD": "+123%"
+    "Close": 4.78,
+    "YTD": "+122%"
   },
   {
     "Code": "JUB",
     "Name": "Jubilee Holdings Limited",
-    "M. Cap.": "22.7B",
-    "Close": 313.5,
-    "YTD": "+80.7%"
+    "M. Cap.": "23.4B",
+    "Close": 323.0,
+    "YTD": "+86.2%"
   },
   {
     "Code": "NCBA",
     "Name": "NCBA Group Plc",
-    "M. Cap.": "141B",
-    "Close": 85.5,
-    "YTD": "+77.4%"
+    "M. Cap.": "139B",
+    "Close": 84.5,
+    "YTD": "+75.3%"
   },
   {
     "Code": "SLAM",
     "Name": "Sanlam Kenya Plc",
-    "M. Cap.": "1.26B",
-    "Close": 8.78,
-    "YTD": "+77.4%"
+    "M. Cap.": "1.23B",
+    "Close": 8.54,
+    "YTD": "+72.5%"
   },
   {
     "Code": "DTK",
     "Name": "Diamond Trust Bank Kenya Limited",
-    "M. Cap.": "32.2B",
-    "Close": 115.0,
-    "YTD": "+66.7%"
+    "M. Cap.": "31.7B",
+    "Close": 113.5,
+    "YTD": "+64.5%"
+  },
+  {
+    "Code": "GLD",
+    "Name": "Absa NewGold ETF",
+    "M. Cap.": "2.08B",
+    "Close": 5190.0,
+    "YTD": "+59.2%"
   },
   {
     "Code": "KCB",
     "Name": "KCB Group",
-    "M. Cap.": "218B",
-    "Close": 67.75,
-    "YTD": "+62.9%"
-  },
-  {
-    "Code": "CTUM",
-    "Name": "Centum Investment Company",
-    "M. Cap.": "10.3B",
-    "Close": 15.5,
-    "YTD": "+56.9%"
+    "M. Cap.": "211B",
+    "Close": 65.75,
+    "YTD": "+58.1%"
   }
 ]

@@ -2,16 +2,16 @@
   {
     "Code": "BEL",
     "Name": "Bell Equipment Ltd",
-    "M. Cap.": "4.03B",
-    "Close": 42.1,
-    "YTD": "+3.62%"
+    "M. Cap.": "4.07B",
+    "Close": 42.51,
+    "YTD": "+4.63%"
   },
   {
     "Code": "MTU",
     "Name": "Mantengu Mining Ltd",
-    "M. Cap.": "191M",
-    "Close": 0.6,
-    "YTD": "-14.3%"
+    "M. Cap.": "200M",
+    "Close": 0.63,
+    "YTD": "-10%"
   },
   {
     "Code": "GND",
@@ -23,9 +23,9 @@
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "764M",
-    "Close": 6.95,
-    "YTD": "+40.7%"
+    "M. Cap.": "769M",
+    "Close": 7.0,
+    "YTD": "+41.7%"
   },
   {
     "Code": "MFL",
@@ -42,31 +42,31 @@
     "YTD": "+23.8%"
   },
   {
-    "Code": "BIK",
-    "Name": "Brikor Limited",
-    "M. Cap.": "140M",
-    "Close": 0.17,
-    "YTD": "+21.4%"
-  },
-  {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "903M",
-    "Close": 4.8,
-    "YTD": "+20%"
+    "M. Cap.": "893M",
+    "Close": 4.75,
+    "YTD": "+18.8%"
   },
   {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.22B",
-    "Close": 498.0,
-    "YTD": "+19.7%"
+    "M. Cap.": "4.17B",
+    "Close": 492.01,
+    "YTD": "+18.3%"
+  },
+  {
+    "Code": "BIK",
+    "Name": "Brikor Limited",
+    "M. Cap.": "132M",
+    "Close": 0.16,
+    "YTD": "+14.3%"
   },
   {
     "Code": "BAW",
     "Name": "Barloworld Ltd",
-    "M. Cap.": "22.5B",
-    "Close": 118.6,
-    "YTD": "+9.28%"
+    "M. Cap.": "22.8B",
+    "Close": 119.99,
+    "YTD": "+10.6%"
   }
 ]
