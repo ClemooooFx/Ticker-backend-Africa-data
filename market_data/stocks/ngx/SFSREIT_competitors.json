@@ -1,5 +1,12 @@
 [
   {
+    "Code": "MOFIREIF",
+    "Name": "MOFI Real Estate Investment Fund",
+    "M. Cap.": "1T",
+    "Close": 100.0,
+    "YTD": NaN
+  },
+  {
     "Code": "MBENEFIT",
     "Name": "Mutual Benefits Assurance",
     "M. Cap.": "61B",
@@ -61,12 +68,5 @@
     "M. Cap.": "13.3B",
     "Close": 0.9,
     "YTD": "+80%"
-  },
-  {
-    "Code": "STANBIC",
-    "Name": "Stanbic IBTC Holdings",
-    "M. Cap.": "1.61T",
-    "Close": 101.15,
-    "YTD": "+75.6%"
   }
 ]

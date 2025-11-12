@@ -2,23 +2,23 @@
   {
     "Code": "WVR",
     "Name": "Weaver Fintech Ltd",
-    "M. Cap.": "5.44B",
-    "Close": 51.0,
-    "YTD": "+70%"
+    "M. Cap.": "5.66B",
+    "Close": 53.0,
+    "YTD": "+76.7%"
   },
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.45B",
-    "Close": 11.11,
-    "YTD": "+61%"
+    "M. Cap.": "9.36B",
+    "Close": 11.0,
+    "YTD": "+59.4%"
   },
   {
     "Code": "NCS",
     "Name": "Nictus Ltd",
-    "M. Cap.": "98.9M",
-    "Close": 1.85,
-    "YTD": "+27.6%"
+    "M. Cap.": "106M",
+    "Close": 1.98,
+    "YTD": "+36.6%"
   },
   {
     "Code": "AOO",
@@ -42,13 +42,6 @@
     "YTD": "+4.27%"
   },
   {
-    "Code": "COH",
-    "Name": "Curro Holdings Limited",
-    "M. Cap.": "7.68B",
-    "Close": 13.6,
-    "YTD": "+4.21%"
-  },
-  {
     "Code": "AOVP",
     "Name": "African & Overseas Ent Preference",
     "M. Cap.": "2.89M",
@@ -58,9 +51,16 @@
   {
     "Code": "ADH",
     "Name": "ADvTECH Ltd",
-    "M. Cap.": "19.4B",
-    "Close": 35.0,
-    "YTD": "+3.43%"
+    "M. Cap.": "19.5B",
+    "Close": 35.19,
+    "YTD": "+3.99%"
+  },
+  {
+    "Code": "COH",
+    "Name": "Curro Holdings Limited",
+    "M. Cap.": "7.6B",
+    "Close": 13.45,
+    "YTD": "+3.07%"
   },
   {
     "Code": "TFGP",

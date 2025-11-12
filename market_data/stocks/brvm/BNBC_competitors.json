@@ -2,23 +2,23 @@
   {
     "Code": "STAC",
     "Name": "Setao C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "14B",
-    "Close": 1045,
-    "YTD": "+132%"
+    "M. Cap.": "14.5B",
+    "Close": 1080,
+    "YTD": "+140%"
   },
   {
     "Code": "CABC",
     "Name": "Sicable C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "12.1B",
-    "Close": 2050,
-    "YTD": "+97.1%"
+    "M. Cap.": "13B",
+    "Close": 2200,
+    "YTD": "+112%"
   },
   {
     "Code": "FTSC",
     "Name": "Filtisac C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "33.4B",
-    "Close": 2365,
-    "YTD": "+27.8%"
+    "M. Cap.": "35.8B",
+    "Close": 2540,
+    "YTD": "+37.3%"
   },
   {
     "Code": "SDSC",
@@ -30,15 +30,15 @@
   {
     "Code": "ABJC",
     "Name": "Servair Abidjan C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "25.9B",
-    "Close": 2370,
-    "YTD": "+24.7%"
+    "M. Cap.": "25.8B",
+    "Close": 2360,
+    "YTD": "+24.2%"
   },
   {
     "Code": "SMBC",
     "Name": "SMB C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
     "M. Cap.": "76.4B",
-    "Close": 9800,
-    "YTD": "+13.9%"
+    "Close": 9795,
+    "YTD": "+13.8%"
   }
 ]

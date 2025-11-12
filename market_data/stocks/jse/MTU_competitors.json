@@ -2,37 +2,37 @@
   {
     "Code": "IVT",
     "Name": "Invicta Holdings Ltd",
-    "M. Cap.": "3.37B",
-    "Close": 37.98,
-    "YTD": "+15.1%"
+    "M. Cap.": "3.31B",
+    "Close": 37.25,
+    "YTD": "+12.9%"
   },
   {
     "Code": "BEL",
     "Name": "Bell Equipment Ltd",
-    "M. Cap.": "4.11B",
-    "Close": 43.0,
-    "YTD": "+5.83%"
+    "M. Cap.": "4.07B",
+    "Close": 42.51,
+    "YTD": "+4.63%"
   },
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "12.1B",
-    "Close": 17.4,
-    "YTD": "+45.5%"
+    "M. Cap.": "11.9B",
+    "Close": 17.1,
+    "YTD": "+43%"
   },
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "786M",
-    "Close": 7.15,
-    "YTD": "+44.7%"
+    "M. Cap.": "769M",
+    "Close": 7.0,
+    "YTD": "+41.7%"
   },
   {
     "Code": "MFL",
     "Name": "Metrofile Holdings Ltd",
-    "M. Cap.": "1.36B",
-    "Close": 3.13,
-    "YTD": "+37.9%"
+    "M. Cap.": "1.37B",
+    "Close": 3.15,
+    "YTD": "+38.8%"
   },
   {
     "Code": "PMV",
@@ -42,20 +42,6 @@
     "YTD": "+23.8%"
   },
   {
-    "Code": "NPK",
-    "Name": "Nampak Ltd",
-    "M. Cap.": "4.29B",
-    "Close": 506.1,
-    "YTD": "+21.7%"
-  },
-  {
-    "Code": "BIK",
-    "Name": "Brikor Limited",
-    "M. Cap.": "140M",
-    "Close": 0.17,
-    "YTD": "+21.4%"
-  },
-  {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
     "M. Cap.": "893M",
@@ -63,10 +49,24 @@
     "YTD": "+18.8%"
   },
   {
+    "Code": "NPK",
+    "Name": "Nampak Ltd",
+    "M. Cap.": "4.17B",
+    "Close": 492.01,
+    "YTD": "+18.3%"
+  },
+  {
+    "Code": "BIK",
+    "Name": "Brikor Limited",
+    "M. Cap.": "132M",
+    "Close": 0.16,
+    "YTD": "+14.3%"
+  },
+  {
     "Code": "BAW",
     "Name": "Barloworld Ltd",
-    "M. Cap.": "22.4B",
-    "Close": 118.01,
-    "YTD": "+8.73%"
+    "M. Cap.": "22.8B",
+    "Close": 119.99,
+    "YTD": "+10.6%"
   }
 ]

@@ -1,66 +1,66 @@
 [
   {
-    "Code": "BIK",
-    "Name": "Brikor Limited",
-    "M. Cap.": "140M",
-    "Close": 0.17,
-    "YTD": "+21.4%"
-  },
-  {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "903M",
-    "Close": 4.8,
-    "YTD": "+20%"
+    "M. Cap.": "893M",
+    "Close": 4.75,
+    "YTD": "+18.8%"
   },
   {
-    "Code": "PPC",
-    "Name": "PPC Limited",
-    "M. Cap.": "8.2B",
-    "Close": 5.28,
-    "YTD": "+2.52%"
+    "Code": "BIK",
+    "Name": "Brikor Limited",
+    "M. Cap.": "132M",
+    "Close": 0.16,
+    "YTD": "+14.3%"
   },
   {
     "Code": "TRL",
     "Name": "Trellidor Hldgs Ltd",
-    "M. Cap.": "168M",
-    "Close": 1.76,
-    "YTD": "+1.15%"
+    "M. Cap.": "174M",
+    "Close": 1.83,
+    "YTD": "+5.17%"
+  },
+  {
+    "Code": "PPC",
+    "Name": "PPC Limited",
+    "M. Cap.": "8.27B",
+    "Close": 5.32,
+    "YTD": "+3.3%"
   },
   {
     "Code": "SEP",
     "Name": "Sephaku Holdings Limited",
-    "M. Cap.": "369M",
-    "Close": 1.45,
-    "YTD": "-22%"
-  },
-  {
-    "Code": "CGR",
-    "Name": "Calgro M3 Hldgs Ltd",
-    "M. Cap.": "586M",
-    "Close": 5.18,
-    "YTD": "-22.7%"
+    "M. Cap.": "397M",
+    "Close": 1.56,
+    "YTD": "-16.1%"
   },
   {
     "Code": "RBX",
     "Name": "Raubex Group Ltd",
-    "M. Cap.": "7.27B",
-    "Close": 40.0,
-    "YTD": "-24.5%"
+    "M. Cap.": "7.53B",
+    "Close": 41.44,
+    "YTD": "-21.8%"
+  },
+  {
+    "Code": "CGR",
+    "Name": "Calgro M3 Hldgs Ltd",
+    "M. Cap.": "579M",
+    "Close": 5.12,
+    "YTD": "-23.6%"
   },
   {
     "Code": "WBO",
     "Name": "Wilson Bayly Hlm-Ovc Ltd",
-    "M. Cap.": "10.3B",
-    "Close": 145.0,
-    "YTD": "-37.8%"
+    "M. Cap.": "10.6B",
+    "Close": 148.91,
+    "YTD": "-36.2%"
   },
   {
     "Code": "AEG",
     "Name": "Aveng Group Limited",
-    "M. Cap.": "578M",
-    "Close": 4.55,
-    "YTD": "-63.9%"
+    "M. Cap.": "575M",
+    "Close": 4.52,
+    "YTD": "-64.1%"
   },
   {
     "Code": "GND",

@@ -31,15 +31,8 @@
     "Code": "SCB",
     "Name": "Standard Chartered Bank Limited",
     "M. Cap.": "3.92B",
-    "Close": 29.11,
+    "Close": 29.12,
     "YTD": "+26.6%"
-  },
-  {
-    "Code": "CAL",
-    "Name": "CalBank Plc",
-    "M. Cap.": "407M",
-    "Close": 0.36,
-    "YTD": "+2.86%"
   },
   {
     "Code": "SCBPREF",
@@ -47,6 +40,13 @@
     "M. Cap.": "15.7M",
     "Close": 0.9,
     "YTD": NaN
+  },
+  {
+    "Code": "CAL",
+    "Name": "CalBank Plc",
+    "M. Cap.": "384M",
+    "Close": 0.34,
+    "YTD": "-2.86%"
   },
   {
     "Code": "SIC",

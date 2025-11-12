@@ -2,9 +2,9 @@
   {
     "Code": "CAT",
     "Name": "Caxton & CTP Publishers Limited",
-    "M. Cap.": "4.6B",
-    "Close": 13.01,
-    "YTD": "+6.55%"
+    "M. Cap.": "4.77B",
+    "Close": 13.5,
+    "YTD": "+10.6%"
   },
   {
     "Code": "AME",
@@ -23,37 +23,30 @@
   {
     "Code": "CHP",
     "Name": "Choppies Enterprises Limited",
-    "M. Cap.": "5.29B",
-    "Close": 2.9,
-    "YTD": "+263%"
+    "M. Cap.": "5.42B",
+    "Close": 2.97,
+    "YTD": "+271%"
   },
   {
     "Code": "WVR",
     "Name": "Weaver Fintech Ltd",
-    "M. Cap.": "5.44B",
-    "Close": 51.0,
-    "YTD": "+70%"
+    "M. Cap.": "5.66B",
+    "Close": 53.0,
+    "YTD": "+76.7%"
   },
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.34B",
-    "Close": 10.98,
-    "YTD": "+59.1%"
+    "M. Cap.": "9.36B",
+    "Close": 11.0,
+    "YTD": "+59.4%"
   },
   {
     "Code": "NCS",
     "Name": "Nictus Ltd",
-    "M. Cap.": "98.9M",
-    "Close": 1.85,
-    "YTD": "+27.6%"
-  },
-  {
-    "Code": "BOX",
-    "Name": "Boxer Retail Ltd",
-    "M. Cap.": "34.4B",
-    "Close": 75.13,
-    "YTD": "+16.7%"
+    "M. Cap.": "106M",
+    "Close": 1.98,
+    "YTD": "+36.6%"
   },
   {
     "Code": "AOO",
@@ -61,6 +54,13 @@
     "M. Cap.": "30.4M",
     "Close": 18.81,
     "YTD": "+15.8%"
+  },
+  {
+    "Code": "BOX",
+    "Name": "Boxer Retail Ltd",
+    "M. Cap.": "34B",
+    "Close": 74.38,
+    "YTD": "+15.5%"
   },
   {
     "Code": "RTN",

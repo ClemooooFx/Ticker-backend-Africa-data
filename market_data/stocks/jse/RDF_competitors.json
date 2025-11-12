@@ -10,8 +10,8 @@
     "Code": "FTB",
     "Name": "Fairvest Ltd B Shares",
     "M. Cap.": "12.7B",
-    "Close": 6.43,
-    "YTD": "+34.8%"
+    "Close": 6.41,
+    "YTD": "+34.4%"
   },
   {
     "Code": "VIS",
@@ -21,20 +21,6 @@
     "YTD": "+33.3%"
   },
   {
-    "Code": "GRT",
-    "Name": "Growthpoint Properties Limited",
-    "M. Cap.": "57.2B",
-    "Close": 16.67,
-    "YTD": "+31%"
-  },
-  {
-    "Code": "VKE",
-    "Name": "Vukile Property Fund Ltd",
-    "M. Cap.": "32.2B",
-    "Close": 23.52,
-    "YTD": "+30.9%"
-  },
-  {
     "Code": "PPR",
     "Name": "Putprop Ltd",
     "M. Cap.": "189M",
@@ -42,31 +28,45 @@
     "YTD": "+30.9%"
   },
   {
+    "Code": "GRT",
+    "Name": "Growthpoint Properties Limited",
+    "M. Cap.": "56.7B",
+    "Close": 16.52,
+    "YTD": "+29.8%"
+  },
+  {
+    "Code": "VKE",
+    "Name": "Vukile Property Fund Ltd",
+    "M. Cap.": "31.6B",
+    "Close": 23.1,
+    "YTD": "+28.6%"
+  },
+  {
     "Code": "SRE",
     "Name": "Sirius Real Estate Ltd",
     "M. Cap.": "35.5B",
-    "Close": 23.47,
-    "YTD": "+27.6%"
+    "Close": 23.44,
+    "YTD": "+27.4%"
   },
   {
     "Code": "EMI",
     "Name": "Emira Property Fund Ltd",
-    "M. Cap.": "6.84B",
-    "Close": 13.65,
-    "YTD": "+25.2%"
-  },
-  {
-    "Code": "RES",
-    "Name": "Resilient REIT Limited",
-    "M. Cap.": "26.7B",
-    "Close": 73.12,
-    "YTD": "+24.4%"
+    "M. Cap.": "6.91B",
+    "Close": 13.8,
+    "YTD": "+26.6%"
   },
   {
     "Code": "SAR",
     "Name": "Safari Investments RSA Ltd",
-    "M. Cap.": "2.06B",
-    "Close": 8.0,
-    "YTD": "+18.5%"
+    "M. Cap.": "2.17B",
+    "Close": 8.43,
+    "YTD": "+24.9%"
+  },
+  {
+    "Code": "RES",
+    "Name": "Resilient REIT Limited",
+    "M. Cap.": "26.4B",
+    "Close": 72.39,
+    "YTD": "+23.2%"
   }
 ]

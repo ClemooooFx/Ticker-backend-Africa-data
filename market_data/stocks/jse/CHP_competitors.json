@@ -2,71 +2,71 @@
   {
     "Code": "BOX",
     "Name": "Boxer Retail Ltd",
-    "M. Cap.": "34.4B",
-    "Close": 75.13,
-    "YTD": "+16.7%"
+    "M. Cap.": "34B",
+    "Close": 74.38,
+    "YTD": "+15.5%"
   },
   {
     "Code": "BID",
     "Name": "BID Corporation Ltd",
-    "M. Cap.": "143B",
-    "Close": 423.74,
-    "YTD": "-1.59%"
-  },
-  {
-    "Code": "SHP",
-    "Name": "Shoprite Holdings Ltd",
-    "M. Cap.": "167B",
-    "Close": 282.75,
-    "YTD": "-3.99%"
+    "M. Cap.": "141B",
+    "Close": 419.37,
+    "YTD": "-2.6%"
   },
   {
     "Code": "DCP",
     "Name": "Dis-Chem Pharmacies Limited",
-    "M. Cap.": "29.7B",
-    "Close": 34.56,
-    "YTD": "-4.27%"
+    "M. Cap.": "29.8B",
+    "Close": 34.6,
+    "YTD": "-4.16%"
   },
   {
     "Code": "CLS",
     "Name": "Clicks Group Ltd",
     "M. Cap.": "83.5B",
-    "Close": 356.2,
-    "YTD": "-4.53%"
+    "Close": 356.29,
+    "YTD": "-4.51%"
+  },
+  {
+    "Code": "SHP",
+    "Name": "Shoprite Holdings Ltd",
+    "M. Cap.": "163B",
+    "Close": 276.09,
+    "YTD": "-6.25%"
   },
   {
     "Code": "PIK",
     "Name": "Pick n Pay Stores Ltd",
-    "M. Cap.": "20.6B",
-    "Close": 27.66,
-    "YTD": "-9.9%"
+    "M. Cap.": "20.1B",
+    "Close": 26.95,
+    "YTD": "-12.2%"
   },
   {
     "Code": "SPP",
     "Name": "The Spar Group Ltd",
-    "M. Cap.": "20.6B",
-    "Close": 107.0,
-    "YTD": "-26.8%"
+    "M. Cap.": "20.3B",
+    "Close": 105.61,
+    "YTD": "-27.7%"
   },
   {
     "Code": "WVR",
     "Name": "Weaver Fintech Ltd",
-    "M. Cap.": "5.44B",
-    "Close": 51.0,
-    "YTD": "+70%"
+    "M. Cap.": "5.66B",
+    "Close": 53.0,
+    "YTD": "+76.7%"
   },
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.34B",
-    "Close": 10.98,
-    "YTD": "+59.1%"
+    "M. Cap.": "9.36B",
+    "Close": 11.0,
+    "YTD": "+59.4%"
   },
   {
     "Code": "NCS",
     "Name": "Nictus Ltd",
-    "M. Cap.": "98.9M",
-    "Close": 1.85,
-    "YTD": "+27.6%"
+    "M. Cap.": "106M",
+    "Close": 1.98,
+    "YTD": "+36.6%"
   }
 ]

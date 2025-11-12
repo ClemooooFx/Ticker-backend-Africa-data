@@ -2,9 +2,9 @@
   {
     "Code": "SNV",
     "Name": "Santova Logistics Ltd",
-    "M. Cap.": "920M",
-    "Close": 7.1,
-    "YTD": "-2.2%"
+    "M. Cap.": "917M",
+    "Close": 7.07,
+    "YTD": "-2.62%"
   },
   {
     "Code": "LAB",
@@ -16,23 +16,23 @@
   {
     "Code": "SPG",
     "Name": "Super Group Ltd",
-    "M. Cap.": "5.64B",
-    "Close": 16.62,
-    "YTD": "-43.7%"
+    "M. Cap.": "5.84B",
+    "Close": 17.21,
+    "YTD": "-41.7%"
   },
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "786M",
-    "Close": 7.15,
-    "YTD": "+44.7%"
+    "M. Cap.": "769M",
+    "Close": 7.0,
+    "YTD": "+41.7%"
   },
   {
     "Code": "MFL",
     "Name": "Metrofile Holdings Ltd",
-    "M. Cap.": "1.36B",
-    "Close": 3.13,
-    "YTD": "+37.9%"
+    "M. Cap.": "1.37B",
+    "Close": 3.15,
+    "YTD": "+38.8%"
   },
   {
     "Code": "PMV",
@@ -42,20 +42,6 @@
     "YTD": "+23.8%"
   },
   {
-    "Code": "NPK",
-    "Name": "Nampak Ltd",
-    "M. Cap.": "4.29B",
-    "Close": 506.1,
-    "YTD": "+21.7%"
-  },
-  {
-    "Code": "BIK",
-    "Name": "Brikor Limited",
-    "M. Cap.": "140M",
-    "Close": 0.17,
-    "YTD": "+21.4%"
-  },
-  {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
     "M. Cap.": "893M",
@@ -63,10 +49,24 @@
     "YTD": "+18.8%"
   },
   {
+    "Code": "NPK",
+    "Name": "Nampak Ltd",
+    "M. Cap.": "4.17B",
+    "Close": 492.01,
+    "YTD": "+18.3%"
+  },
+  {
+    "Code": "BIK",
+    "Name": "Brikor Limited",
+    "M. Cap.": "132M",
+    "Close": 0.16,
+    "YTD": "+14.3%"
+  },
+  {
     "Code": "IVT",
     "Name": "Invicta Holdings Ltd",
-    "M. Cap.": "3.37B",
-    "Close": 37.98,
-    "YTD": "+15.1%"
+    "M. Cap.": "3.31B",
+    "Close": 37.25,
+    "YTD": "+12.9%"
   }
 ]

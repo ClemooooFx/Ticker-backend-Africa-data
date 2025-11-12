@@ -1,11 +1,11 @@
 [
   {
     "Growth & Valuation": "Earnings Per Share",
-    "Growth & Valuation.1": "0.20"
+    "Growth & Valuation.1": "-0.0120"
   },
   {
     "Growth & Valuation": "Price/Earning Ratio",
-    "Growth & Valuation.1": "21.75"
+    "Growth & Valuation.1": "-333.33"
   },
   {
     "Growth & Valuation": "Dividend Per Share",
@@ -13,7 +13,7 @@
   },
   {
     "Growth & Valuation": "Dividend Yield",
-    "Growth & Valuation.1": "10.1%"
+    "Growth & Valuation.1": "11%"
   },
   {
     "Growth & Valuation": "Shares Outstanding",
@@ -21,6 +21,6 @@
   },
   {
     "Growth & Valuation": "Market Capitalization",
-    "Growth & Valuation.1": "793M"
+    "Growth & Valuation.1": "729M"
   }
 ]

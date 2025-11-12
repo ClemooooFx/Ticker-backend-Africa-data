@@ -2,44 +2,44 @@
   {
     "Code": "IOC",
     "Name": "iOCO Ltd",
-    "M. Cap.": "2.62B",
-    "Close": 4.11,
-    "YTD": "+67.8%"
+    "M. Cap.": "2.63B",
+    "Close": 4.12,
+    "YTD": "+68.2%"
   },
   {
     "Code": "PRX",
     "Name": "Prosus N.V.",
-    "M. Cap.": "2.91T",
-    "Close": 1224.29,
-    "YTD": "+63.5%"
-  },
-  {
-    "Code": "ISA",
-    "Name": "ISA Holdings Limited",
-    "M. Cap.": "362M",
-    "Close": 2.12,
-    "YTD": "+15.2%"
-  },
-  {
-    "Code": "AXX",
-    "Name": "Araxi Ltd",
-    "M. Cap.": "2.21B",
-    "Close": 1.69,
-    "YTD": "+10.5%"
+    "M. Cap.": "2.88T",
+    "Close": 1211.5,
+    "YTD": "+61.7%"
   },
   {
     "Code": "PBG",
     "Name": "PBT Group Limited",
-    "M. Cap.": "599M",
-    "Close": 5.85,
-    "YTD": "+4.46%"
+    "M. Cap.": "717M",
+    "Close": 7.0,
+    "YTD": "+25%"
+  },
+  {
+    "Code": "ISA",
+    "Name": "ISA Holdings Limited",
+    "M. Cap.": "363M",
+    "Close": 2.13,
+    "YTD": "+15.8%"
+  },
+  {
+    "Code": "AXX",
+    "Name": "Araxi Ltd",
+    "M. Cap.": "2.19B",
+    "Close": 1.67,
+    "YTD": "+9.15%"
   },
   {
     "Code": "KRO",
     "Name": "Karooooo Ltd",
-    "M. Cap.": "25.6B",
-    "Close": 827.25,
-    "YTD": "-4.91%"
+    "M. Cap.": "24.4B",
+    "Close": 791.12,
+    "YTD": "-9.07%"
   },
   {
     "Code": "AEL",
@@ -51,22 +51,22 @@
   {
     "Code": "BYI",
     "Name": "Bytes Technology Group Plc",
-    "M. Cap.": "19.7B",
-    "Close": 82.03,
-    "YTD": "-16.6%"
+    "M. Cap.": "19.8B",
+    "Close": 82.35,
+    "YTD": "-16.2%"
   },
   {
     "Code": "LSK",
     "Name": "Lesaka Technologies",
-    "M. Cap.": "6.32B",
-    "Close": 75.0,
-    "YTD": "-17%"
+    "M. Cap.": "5.8B",
+    "Close": 68.83,
+    "YTD": "-23.8%"
   },
   {
     "Code": "PWR",
     "Name": "PowerFleet Inc",
-    "M. Cap.": "13B",
-    "Close": 97.22,
-    "YTD": "-26.4%"
+    "M. Cap.": "13.4B",
+    "Close": 100.0,
+    "YTD": "-24.2%"
   }
 ]

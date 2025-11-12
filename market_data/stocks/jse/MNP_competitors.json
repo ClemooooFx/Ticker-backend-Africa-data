@@ -2,71 +2,71 @@
   {
     "Code": "YRK",
     "Name": "York Timber Holdings Ltd",
-    "M. Cap.": "1.04B",
-    "Close": 2.2,
-    "YTD": "-4.35%"
+    "M. Cap.": "1.07B",
+    "Close": 2.25,
+    "YTD": "-2.17%"
   },
   {
     "Code": "SAP",
     "Name": "Sappi Ltd",
-    "M. Cap.": "13.5B",
-    "Close": 22.32,
-    "YTD": "-54.7%"
+    "M. Cap.": "13.4B",
+    "Close": 22.21,
+    "YTD": "-54.9%"
   },
   {
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "139B",
-    "Close": 48.96,
-    "YTD": "+227%"
+    "M. Cap.": "138B",
+    "Close": 48.66,
+    "YTD": "+225%"
   },
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "632B",
-    "Close": 1252.47,
-    "YTD": "+198%"
+    "M. Cap.": "670B",
+    "Close": 1326.46,
+    "YTD": "+215%"
   },
   {
     "Code": "GFI",
     "Name": "Gold Fields Ltd",
-    "M. Cap.": "631B",
-    "Close": 705.01,
+    "M. Cap.": "648B",
+    "Close": 723.94,
+    "YTD": "+193%"
+  },
+  {
+    "Code": "DRD",
+    "Name": "DRD Gold Ltd",
+    "M. Cap.": "40.9B",
+    "Close": 47.18,
     "YTD": "+185%"
   },
   {
     "Code": "NPH",
     "Name": "Northam Platinum Holdings",
-    "M. Cap.": "111B",
-    "Close": 277.53,
-    "YTD": "+185%"
-  },
-  {
-    "Code": "DRD",
-    "Name": "DRD Gold Ltd",
-    "M. Cap.": "40.5B",
-    "Close": 46.72,
-    "YTD": "+183%"
-  },
-  {
-    "Code": "EUZ",
-    "Name": "Europa Metals Limited",
-    "M. Cap.": "139M",
-    "Close": 1.36,
-    "YTD": "+167%"
+    "M. Cap.": "110B",
+    "Close": 274.97,
+    "YTD": "+182%"
   },
   {
     "Code": "PAN",
     "Name": "Pan African Resource plc",
-    "M. Cap.": "47.9B",
-    "Close": 20.53,
-    "YTD": "+151%"
+    "M. Cap.": "49.5B",
+    "Close": 21.19,
+    "YTD": "+159%"
   },
   {
     "Code": "IMP",
     "Name": "Impala Platinum Hlgs Ltd",
-    "M. Cap.": "177B",
-    "Close": 196.12,
-    "YTD": "+124%"
+    "M. Cap.": "171B",
+    "Close": 189.63,
+    "YTD": "+116%"
+  },
+  {
+    "Code": "HAR",
+    "Name": "Harmony GM Co Ltd",
+    "M. Cap.": "198B",
+    "Close": 311.15,
+    "YTD": "+107%"
   }
 ]

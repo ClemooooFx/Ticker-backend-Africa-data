@@ -1,72 +1,72 @@
 [
   {
-    "Code": "EUZ",
-    "Name": "Europa Metals Limited",
-    "M. Cap.": "139M",
-    "Close": 1.36,
-    "YTD": "+167%"
-  },
-  {
     "Code": "IMP",
     "Name": "Impala Platinum Hlgs Ltd",
-    "M. Cap.": "177B",
-    "Close": 196.12,
-    "YTD": "+124%"
+    "M. Cap.": "171B",
+    "Close": 189.63,
+    "YTD": "+116%"
   },
   {
-    "Code": "ACL",
-    "Name": "ArcelorMittal SA Limited",
-    "M. Cap.": "1.7B",
-    "Close": 1.49,
-    "YTD": "+11.2%"
+    "Code": "EUZ",
+    "Name": "Europa Metals Limited",
+    "M. Cap.": "102M",
+    "Close": 1.0,
+    "YTD": "+96.1%"
   },
   {
     "Code": "KIO",
     "Name": "Kumba Iron Ore Ltd",
-    "M. Cap.": "107B",
-    "Close": 333.58,
-    "YTD": "+2.25%"
+    "M. Cap.": "108B",
+    "Close": 334.75,
+    "YTD": "+2.61%"
   },
   {
     "Code": "APH",
     "Name": "Alphamin Resources Corp",
-    "M. Cap.": "17.1B",
-    "Close": 13.4,
-    "YTD": "-1.47%"
+    "M. Cap.": "17.7B",
+    "Close": 13.84,
+    "YTD": "+1.76%"
+  },
+  {
+    "Code": "ACL",
+    "Name": "ArcelorMittal SA Limited",
+    "M. Cap.": "1.55B",
+    "Close": 1.36,
+    "YTD": "+1.49%"
   },
   {
     "Code": "ISB",
     "Name": "Insimbi Industrial Holdings",
-    "M. Cap.": "225M",
-    "Close": 0.68,
-    "YTD": "-2.86%"
+    "M. Cap.": "208M",
+    "Close": 0.63,
+    "YTD": "-10%"
   },
   {
     "Code": "HLM",
     "Name": "Hulamin Ltd",
-    "M. Cap.": "811M",
-    "Close": 2.5,
-    "YTD": "-28.6%"
+    "M. Cap.": "749M",
+    "Close": 2.31,
+    "YTD": "-34%"
   },
   {
     "Code": "CPR",
     "Name": "Copper 360 Ltd",
-    "M. Cap.": "690M",
-    "Close": 0.69,
-    "YTD": "-70.6%"
+    "M. Cap.": "680M",
+    "Close": 0.68,
+    "YTD": "-71.1%"
   },
   {
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "139B",
-    "Close": 48.96,
-    "YTD": "+227%"
+    "M. Cap.": "138B",
+    "Close": 48.66,
+    "YTD": "+225%"
   },
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "632B",
-    "Close": 1252.47,
-    "YTD": "+198%"
+    "M. Cap.": "670B",
+    "Close": 1326.46,
+    "YTD": "+215%"
   }
 ]

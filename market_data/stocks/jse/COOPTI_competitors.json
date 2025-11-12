@@ -2,44 +2,44 @@
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.22B",
-    "Close": 109.21,
-    "YTD": "+101%"
+    "M. Cap.": "2.38B",
+    "Close": 116.91,
+    "YTD": "+115%"
   },
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.2B",
-    "Close": 41.5,
-    "YTD": "+88.6%"
-  },
-  {
-    "Code": "ETFRHO",
-    "Name": "1nvest Rhodium ETF",
-    "M. Cap.": "1.15B",
-    "Close": 1264.47,
-    "YTD": "+64.9%"
+    "M. Cap.": "2.38B",
+    "Close": 45.0,
+    "YTD": "+105%"
   },
   {
     "Code": "STXSHA",
     "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "112M",
-    "Close": 5.52,
-    "YTD": "+61.4%"
+    "M. Cap.": "118M",
+    "Close": 5.81,
+    "YTD": "+69.9%"
+  },
+  {
+    "Code": "ETFRHO",
+    "Name": "1nvest Rhodium ETF",
+    "M. Cap.": "1.16B",
+    "Close": 1280.37,
+    "YTD": "+66.9%"
   },
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "7.56B",
-    "Close": 257.29,
-    "YTD": "+57%"
+    "M. Cap.": "7.63B",
+    "Close": 259.51,
+    "YTD": "+58.3%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.62B",
-    "Close": 257.43,
-    "YTD": "+55.9%"
+    "M. Cap.": "3.64B",
+    "Close": 259.07,
+    "YTD": "+56.9%"
   },
   {
     "Code": "BAC",
@@ -49,24 +49,24 @@
     "YTD": "+53.9%"
   },
   {
+    "Code": "WTOP20",
+    "Name": "10X Wealth Top 20 Capped ETF",
+    "M. Cap.": "1000M",
+    "Close": 15.15,
+    "YTD": "+46.8%"
+  },
+  {
     "Code": "EPE",
     "Name": "EPE Capital Partners Ltd",
-    "M. Cap.": "2.01B",
-    "Close": 7.85,
-    "YTD": "+45.6%"
+    "M. Cap.": "2B",
+    "Close": 7.8,
+    "YTD": "+44.7%"
   },
   {
     "Code": "MHB",
     "Name": "Mahube Infrastructure Limited",
-    "M. Cap.": "331M",
-    "Close": 6.0,
-    "YTD": "+42.5%"
-  },
-  {
-    "Code": "WTOP20",
-    "Name": "10X Wealth Top 20 Capped ETF",
-    "M. Cap.": "969M",
-    "Close": 14.68,
-    "YTD": "+42.3%"
+    "M. Cap.": "336M",
+    "Close": 6.09,
+    "YTD": "+44.7%"
   }
 ]
