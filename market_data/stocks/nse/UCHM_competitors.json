@@ -2,44 +2,44 @@
   {
     "Code": "CGEN",
     "Name": "Car and General Kenya Limited",
-    "M. Cap.": "4.81B",
-    "Close": 60.0,
-    "YTD": "+164%"
+    "M. Cap.": "4.69B",
+    "Close": 58.5,
+    "YTD": "+157%"
   },
   {
     "Code": "XPRS",
     "Name": "Express Kenya Limited",
-    "M. Cap.": "343M",
-    "Close": 7.18,
-    "YTD": "+99.4%"
-  },
-  {
-    "Code": "LKL",
-    "Name": "Longhorn Publishers Limited",
-    "M. Cap.": "801M",
-    "Close": 2.94,
-    "YTD": "+27.8%"
+    "M. Cap.": "337M",
+    "Close": 7.06,
+    "YTD": "+96.1%"
   },
   {
     "Code": "SGL",
     "Name": "Standard Group Limited",
-    "M. Cap.": "508M",
-    "Close": 6.22,
-    "YTD": "+23.9%"
+    "M. Cap.": "518M",
+    "Close": 6.34,
+    "YTD": "+26.3%"
+  },
+  {
+    "Code": "LKL",
+    "Name": "Longhorn Publishers Limited",
+    "M. Cap.": "785M",
+    "Close": 2.88,
+    "YTD": "+25.2%"
   },
   {
     "Code": "SCAN",
     "Name": "ScanGroup Limited",
-    "M. Cap.": "1.22B",
-    "Close": 2.82,
-    "YTD": "+13.7%"
+    "M. Cap.": "1.18B",
+    "Close": 2.74,
+    "YTD": "+10.5%"
   },
   {
     "Code": "TPSE",
     "Name": "TPS Eastern Africa Serena Limited",
-    "M. Cap.": "3.03B",
-    "Close": 16.65,
-    "YTD": "+11.7%"
+    "M. Cap.": "2.91B",
+    "Close": 16.0,
+    "YTD": "+7.38%"
   },
   {
     "Code": "HBE",
@@ -51,15 +51,15 @@
   {
     "Code": "NMG",
     "Name": "Nation Media Group",
-    "M. Cap.": "2.41B",
-    "Close": 12.65,
-    "YTD": "-12.2%"
+    "M. Cap.": "2.47B",
+    "Close": 13.0,
+    "YTD": "-9.72%"
   },
   {
     "Code": "NBV",
     "Name": "Nairobi Business Ventures Ltd",
-    "M. Cap.": "2.06B",
-    "Close": 1.52,
-    "YTD": "-24.4%"
+    "M. Cap.": "2.04B",
+    "Close": 1.51,
+    "YTD": "-24.9%"
   }
 ]

@@ -2,37 +2,30 @@
   {
     "Code": "TIP",
     "Name": "The Initiates Plc",
-    "M. Cap.": "8.99B",
-    "Close": 10.1,
-    "YTD": "+304%"
+    "M. Cap.": "9.78B",
+    "Close": 10.99,
+    "YTD": "+340%"
   },
   {
     "Code": "EUNISELL",
     "Name": "Eunisell Interlinked Plc",
-    "M. Cap.": "16.3B",
-    "Close": 68.9,
-    "YTD": "+258%"
+    "M. Cap.": "17.2B",
+    "Close": 72.8,
+    "YTD": "+278%"
   },
   {
     "Code": "ABCTRANS",
     "Name": "Associated Bus Company",
-    "M. Cap.": "10.1B",
-    "Close": 4.24,
-    "YTD": "+245%"
+    "M. Cap.": "9.14B",
+    "Close": 3.82,
+    "YTD": "+211%"
   },
   {
     "Code": "NAHCO",
     "Name": "Nigerian Aviation Handling Co.",
-    "M. Cap.": "208B",
-    "Close": 106.55,
-    "YTD": "+131%"
-  },
-  {
-    "Code": "CAVERTON",
-    "Name": "Caverton Offshore Support Group",
-    "M. Cap.": "16.8B",
-    "Close": 5.0,
-    "YTD": "+116%"
+    "M. Cap.": "214B",
+    "Close": 109.9,
+    "YTD": "+139%"
   },
   {
     "Code": "REDSTAREX",
@@ -40,6 +33,13 @@
     "M. Cap.": "8.78B",
     "Close": 9.2,
     "YTD": "+109%"
+  },
+  {
+    "Code": "CAVERTON",
+    "Name": "Caverton Offshore Support Group",
+    "M. Cap.": "15.7B",
+    "Close": 4.7,
+    "YTD": "+103%"
   },
   {
     "Code": "IKEJAHOTEL",

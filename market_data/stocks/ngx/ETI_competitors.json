@@ -2,23 +2,23 @@
   {
     "Code": "GTCO",
     "Name": "Guaranty Trust Holding",
-    "M. Cap.": "3.22T",
-    "Close": 88.5,
-    "YTD": "+55.3%"
+    "M. Cap.": "3.13T",
+    "Close": 86.0,
+    "YTD": "+50.9%"
   },
   {
     "Code": "ZENITHBANK",
     "Name": "Zenith Bank Plc",
-    "M. Cap.": "2.64T",
-    "Close": 64.4,
-    "YTD": "+41.5%"
+    "M. Cap.": "2.63T",
+    "Close": 64.0,
+    "YTD": "+40.7%"
   },
   {
     "Code": "UBA",
     "Name": "United Bank for Africa",
-    "M. Cap.": "1.68T",
-    "Close": 41.0,
-    "YTD": "+20.6%"
+    "M. Cap.": "1.64T",
+    "Close": 40.0,
+    "YTD": "+17.7%"
   },
   {
     "Code": "FIRSTHOLDCO",
@@ -30,9 +30,9 @@
   {
     "Code": "FIDELITYBK",
     "Name": "Fidelity Bank Plc",
-    "M. Cap.": "959B",
-    "Close": 19.1,
-    "YTD": "+9.14%"
+    "M. Cap.": "957B",
+    "Close": 19.05,
+    "YTD": "+8.86%"
   },
   {
     "Code": "ACCESSCORP",
@@ -44,16 +44,9 @@
   {
     "Code": "MBENEFIT",
     "Name": "Mutual Benefits Assurance",
-    "M. Cap.": "73.2B",
-    "Close": 3.65,
-    "YTD": "+498%"
-  },
-  {
-    "Code": "SOVRENINS",
-    "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "44.7B",
-    "Close": 3.14,
-    "YTD": "+180%"
+    "M. Cap.": "70.2B",
+    "Close": 3.5,
+    "YTD": "+474%"
   },
   {
     "Code": "NEM",
@@ -63,10 +56,17 @@
     "YTD": "+172%"
   },
   {
+    "Code": "SOVRENINS",
+    "Name": "Sovereign Trust Insurance",
+    "M. Cap.": "41.4B",
+    "Close": 2.91,
+    "YTD": "+160%"
+  },
+  {
     "Code": "AIICO",
     "Name": "Aiico Insurance Plc",
     "M. Cap.": "134B",
-    "Close": 3.67,
-    "YTD": "+157%"
+    "Close": 3.65,
+    "YTD": "+155%"
   }
 ]

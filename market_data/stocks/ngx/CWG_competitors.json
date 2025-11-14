@@ -2,16 +2,16 @@
   {
     "Code": "NCR",
     "Name": "NCR Nigeria",
-    "M. Cap.": "2.52B",
-    "Close": 23.35,
-    "YTD": "+367%"
+    "M. Cap.": "2.76B",
+    "Close": 25.6,
+    "YTD": "+412%"
   },
   {
     "Code": "TRIPPLEG",
     "Name": "Tripple Gee & Co. Plc",
-    "M. Cap.": "4.86B",
-    "Close": 4.91,
-    "YTD": "+140%"
+    "M. Cap.": "4.38B",
+    "Close": 4.42,
+    "YTD": "+116%"
   },
   {
     "Code": "ETRANZACT",
@@ -21,18 +21,18 @@
     "YTD": "+104%"
   },
   {
-    "Code": "OMATEK",
-    "Name": "Omatek Ventures",
-    "M. Cap.": "3.77B",
-    "Close": 1.28,
-    "YTD": "+75.3%"
-  },
-  {
     "Code": "CHAMS",
     "Name": "Chams Plc",
-    "M. Cap.": "16.3B",
-    "Close": 3.47,
-    "YTD": "+74.4%"
+    "M. Cap.": "16B",
+    "Close": 3.4,
+    "YTD": "+70.9%"
+  },
+  {
+    "Code": "OMATEK",
+    "Name": "Omatek Ventures",
+    "M. Cap.": "3.56B",
+    "Close": 1.21,
+    "YTD": "+65.8%"
   },
   {
     "Code": "LEGENDINT",
