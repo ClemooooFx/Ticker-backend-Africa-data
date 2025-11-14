@@ -1,52 +1,52 @@
 [
   {
-    "Code": "DSBP",
-    "Name": "Discovery B Preference Shares",
-    "M. Cap.": "1B",
-    "Close": 125.05,
-    "YTD": "+13.7%"
+    "Code": "MTM",
+    "Name": "Momentum Met Hldgs Ltd",
+    "M. Cap.": "49B",
+    "Close": 36.5,
+    "YTD": "+20.6%"
   },
   {
     "Code": "DSY",
     "Name": "Discovery Limited",
-    "M. Cap.": "150B",
-    "Close": 220.11,
-    "YTD": "+13%"
+    "M. Cap.": "156B",
+    "Close": 229.75,
+    "YTD": "+18%"
   },
   {
-    "Code": "MTM",
-    "Name": "Momentum Met Hldgs Ltd",
-    "M. Cap.": "45.7B",
-    "Close": 34.02,
-    "YTD": "+12.4%"
+    "Code": "DSBP",
+    "Name": "Discovery B Preference Shares",
+    "M. Cap.": "1B",
+    "Close": 125.0,
+    "YTD": "+13.6%"
   },
   {
     "Code": "SNT",
     "Name": "Santam Limited",
-    "M. Cap.": "50.3B",
-    "Close": 436.82,
-    "YTD": "+11.3%"
+    "M. Cap.": "49.8B",
+    "Close": 432.19,
+    "YTD": "+10.1%"
   },
   {
     "Code": "SLM",
     "Name": "Sanlam Limited",
-    "M. Cap.": "195B",
-    "Close": 92.16,
-    "YTD": "+6.08%"
+    "M. Cap.": "202B",
+    "Close": 95.62,
+    "YTD": "+10.1%"
   },
   {
     "Code": "CLI",
     "Name": "Clientele Ltd",
-    "M. Cap.": "5.93B",
-    "Close": 13.09,
-    "YTD": "+4.72%"
+    "M. Cap.": "6.06B",
+    "Close": 13.38,
+    "YTD": "+7.04%"
   },
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.38B",
-    "Close": 116.91,
-    "YTD": "+115%"
+    "M. Cap.": "2.39B",
+    "Close": 119.2,
+    "YTD": "+119%"
   },
   {
     "Code": "PPE",
@@ -58,15 +58,15 @@
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.38B",
-    "Close": 45.0,
-    "YTD": "+105%"
+    "M. Cap.": "2.41B",
+    "Close": 45.5,
+    "YTD": "+107%"
   },
   {
     "Code": "FGL",
     "Name": "Finbond Group Ltd",
-    "M. Cap.": "670M",
-    "Close": 1.3,
-    "YTD": "+100%"
+    "M. Cap.": "681M",
+    "Close": 1.32,
+    "YTD": "+103%"
   }
 ]

@@ -9,9 +9,9 @@
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.36B",
-    "Close": 11.0,
-    "YTD": "+59.4%"
+    "M. Cap.": "9.61B",
+    "Close": 11.29,
+    "YTD": "+63.6%"
   },
   {
     "Code": "NCS",
@@ -35,6 +35,20 @@
     "YTD": "+6.74%"
   },
   {
+    "Code": "ADH",
+    "Name": "ADvTECH Ltd",
+    "M. Cap.": "20B",
+    "Close": 36.02,
+    "YTD": "+6.44%"
+  },
+  {
+    "Code": "COH",
+    "Name": "Curro Holdings Limited",
+    "M. Cap.": "7.84B",
+    "Close": 13.88,
+    "YTD": "+6.36%"
+  },
+  {
     "Code": "AON",
     "Name": "African & Overseas Enterprises N-Shares",
     "M. Cap.": "145M",
@@ -47,20 +61,6 @@
     "M. Cap.": "2.89M",
     "Close": 10.5,
     "YTD": "+4.17%"
-  },
-  {
-    "Code": "ADH",
-    "Name": "ADvTECH Ltd",
-    "M. Cap.": "19.5B",
-    "Close": 35.19,
-    "YTD": "+3.99%"
-  },
-  {
-    "Code": "COH",
-    "Name": "Curro Holdings Limited",
-    "M. Cap.": "7.6B",
-    "Close": 13.45,
-    "YTD": "+3.07%"
   },
   {
     "Code": "TFGP",

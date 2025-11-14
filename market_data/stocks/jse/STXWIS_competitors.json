@@ -2,71 +2,71 @@
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.38B",
-    "Close": 45.0,
-    "YTD": "+105%"
+    "M. Cap.": "2.41B",
+    "Close": 45.5,
+    "YTD": "+107%"
+  },
+  {
+    "Code": "BAC",
+    "Name": "Africa Bitcoin Corporation Ltd",
+    "M. Cap.": "125M",
+    "Close": 11.0,
+    "YTD": "+69.2%"
   },
   {
     "Code": "ETFRHO",
     "Name": "1nvest Rhodium ETF",
     "M. Cap.": "1.16B",
-    "Close": 1280.37,
-    "YTD": "+66.9%"
+    "Close": 1252.73,
+    "YTD": "+63.3%"
   },
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "7.63B",
-    "Close": 259.51,
-    "YTD": "+58.3%"
+    "M. Cap.": "7.59B",
+    "Close": 258.95,
+    "YTD": "+58%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.64B",
-    "Close": 259.07,
-    "YTD": "+56.9%"
-  },
-  {
-    "Code": "BAC",
-    "Name": "Africa Bitcoin Corporation Ltd",
-    "M. Cap.": "114M",
-    "Close": 10.0,
-    "YTD": "+53.9%"
+    "M. Cap.": "3.7B",
+    "Close": 259.42,
+    "YTD": "+57.1%"
   },
   {
     "Code": "WTOP20",
     "Name": "10X Wealth Top 20 Capped ETF",
-    "M. Cap.": "1000M",
-    "Close": 15.15,
-    "YTD": "+46.8%"
+    "M. Cap.": "1.02B",
+    "Close": 15.49,
+    "YTD": "+50.1%"
   },
   {
     "Code": "EPE",
     "Name": "EPE Capital Partners Ltd",
-    "M. Cap.": "2B",
-    "Close": 7.8,
-    "YTD": "+44.7%"
+    "M. Cap.": "2.05B",
+    "Close": 8.0,
+    "YTD": "+48.4%"
   },
   {
-    "Code": "MHB",
-    "Name": "Mahube Infrastructure Limited",
-    "M. Cap.": "336M",
-    "Close": 6.09,
-    "YTD": "+44.7%"
+    "Code": "NGPLD",
+    "Name": "NewGold Palladium ETF",
+    "M. Cap.": "242M",
+    "Close": 236.99,
+    "YTD": "+45.5%"
   },
   {
     "Code": "GLD",
     "Name": "New Gold Issuer Limited",
-    "M. Cap.": "38.2B",
-    "Close": 653.49,
-    "YTD": "+43.8%"
+    "M. Cap.": "38.5B",
+    "Close": 659.03,
+    "YTD": "+45%"
   },
   {
     "Code": "ETFGLD",
     "Name": "1nvest Gold ETF",
-    "M. Cap.": "1.89B",
-    "Close": 681.95,
-    "YTD": "+43.6%"
+    "M. Cap.": "1.91B",
+    "Close": 688.14,
+    "YTD": "+44.9%"
   }
 ]

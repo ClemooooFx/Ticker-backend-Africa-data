@@ -2,71 +2,71 @@
   {
     "Code": "DLT",
     "Name": "Delta Property Fund Limited",
-    "M. Cap.": "221M",
-    "Close": 0.31,
-    "YTD": "+63.2%"
-  },
-  {
-    "Code": "VIS",
-    "Name": "Visual International Holdings",
-    "M. Cap.": "44.4M",
-    "Close": 0.04,
-    "YTD": "+33.3%"
-  },
-  {
-    "Code": "PPR",
-    "Name": "Putprop Ltd",
-    "M. Cap.": "189M",
-    "Close": 4.45,
-    "YTD": "+30.9%"
+    "M. Cap.": "214M",
+    "Close": 0.3,
+    "YTD": "+57.9%"
   },
   {
     "Code": "GRT",
     "Name": "Growthpoint Properties Limited",
-    "M. Cap.": "56.7B",
-    "Close": 16.52,
-    "YTD": "+29.8%"
+    "M. Cap.": "58.5B",
+    "Close": 17.06,
+    "YTD": "+34%"
   },
   {
-    "Code": "VKE",
-    "Name": "Vukile Property Fund Ltd",
-    "M. Cap.": "31.6B",
-    "Close": 23.1,
-    "YTD": "+28.6%"
-  },
-  {
-    "Code": "SRE",
-    "Name": "Sirius Real Estate Ltd",
-    "M. Cap.": "35.5B",
-    "Close": 23.44,
-    "YTD": "+27.4%"
+    "Code": "VIS",
+    "Name": "Visual International Holdings",
+    "M. Cap.": "48.1M",
+    "Close": 0.04,
+    "YTD": "+33.3%"
   },
   {
     "Code": "EMI",
     "Name": "Emira Property Fund Ltd",
-    "M. Cap.": "6.91B",
-    "Close": 13.8,
-    "YTD": "+26.6%"
+    "M. Cap.": "7.21B",
+    "Close": 14.4,
+    "YTD": "+32.1%"
   },
   {
-    "Code": "SAR",
-    "Name": "Safari Investments RSA Ltd",
-    "M. Cap.": "2.17B",
-    "Close": 8.43,
-    "YTD": "+24.9%"
+    "Code": "VKE",
+    "Name": "Vukile Property Fund Ltd",
+    "M. Cap.": "32.4B",
+    "Close": 23.65,
+    "YTD": "+31.6%"
   },
   {
     "Code": "RDF",
     "Name": "Redefine Properties Limited",
-    "M. Cap.": "40.6B",
-    "Close": 5.64,
-    "YTD": "+24%"
+    "M. Cap.": "43B",
+    "Close": 5.97,
+    "YTD": "+31.2%"
   },
   {
     "Code": "RES",
     "Name": "Resilient REIT Limited",
-    "M. Cap.": "26.4B",
-    "Close": 72.39,
-    "YTD": "+23.2%"
+    "M. Cap.": "27.3B",
+    "Close": 74.74,
+    "YTD": "+27.2%"
+  },
+  {
+    "Code": "DIB",
+    "Name": "Dipula Income Fund B",
+    "M. Cap.": "6.8B",
+    "Close": 6.71,
+    "YTD": "+25.9%"
+  },
+  {
+    "Code": "SRE",
+    "Name": "Sirius Real Estate Ltd",
+    "M. Cap.": "34B",
+    "Close": 22.5,
+    "YTD": "+22.3%"
+  },
+  {
+    "Code": "FFB",
+    "Name": "Fortress REIT Ltd",
+    "M. Cap.": "29.7B",
+    "Close": 24.42,
+    "YTD": "+20.5%"
   }
 ]

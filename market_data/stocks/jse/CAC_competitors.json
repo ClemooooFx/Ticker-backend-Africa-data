@@ -2,9 +2,9 @@
   {
     "Code": "RLO",
     "Name": "Reunert Ltd",
-    "M. Cap.": "10.6B",
-    "Close": 58.16,
-    "YTD": "-22.5%"
+    "M. Cap.": "10.7B",
+    "Close": 58.54,
+    "YTD": "-22%"
   },
   {
     "Code": "SOH",
@@ -16,23 +16,23 @@
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "11.9B",
-    "Close": 17.1,
-    "YTD": "+43%"
+    "M. Cap.": "12.2B",
+    "Close": 17.49,
+    "YTD": "+46.2%"
   },
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "769M",
-    "Close": 7.0,
-    "YTD": "+41.7%"
+    "M. Cap.": "785M",
+    "Close": 7.14,
+    "YTD": "+44.5%"
   },
   {
     "Code": "MFL",
     "Name": "Metrofile Holdings Ltd",
-    "M. Cap.": "1.37B",
-    "Close": 3.15,
-    "YTD": "+38.8%"
+    "M. Cap.": "1.36B",
+    "Close": 3.14,
+    "YTD": "+38.3%"
   },
   {
     "Code": "PMV",
@@ -44,16 +44,16 @@
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "893M",
-    "Close": 4.75,
-    "YTD": "+18.8%"
+    "M. Cap.": "910M",
+    "Close": 4.84,
+    "YTD": "+21%"
   },
   {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.17B",
-    "Close": 492.01,
-    "YTD": "+18.3%"
+    "M. Cap.": "4.24B",
+    "Close": 500.01,
+    "YTD": "+20.2%"
   },
   {
     "Code": "BIK",
@@ -65,8 +65,8 @@
   {
     "Code": "IVT",
     "Name": "Invicta Holdings Ltd",
-    "M. Cap.": "3.31B",
-    "Close": 37.25,
-    "YTD": "+12.9%"
+    "M. Cap.": "3.33B",
+    "Close": 37.49,
+    "YTD": "+13.6%"
   }
 ]

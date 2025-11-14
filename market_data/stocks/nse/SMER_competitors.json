@@ -9,16 +9,16 @@
   {
     "Code": "UNGA",
     "Name": "Unga Group Limited",
-    "M. Cap.": "1.79B",
-    "Close": 23.65,
-    "YTD": "+57.7%"
+    "M. Cap.": "1.82B",
+    "Close": 24.0,
+    "YTD": "+60%"
   },
   {
     "Code": "EABL",
     "Name": "East African Breweries Limited",
-    "M. Cap.": "190B",
-    "Close": 240.0,
-    "YTD": "+36.8%"
+    "M. Cap.": "186B",
+    "Close": 235.0,
+    "YTD": "+33.9%"
   },
   {
     "Code": "SASN",
@@ -44,29 +44,29 @@
   {
     "Code": "EVRD",
     "Name": "Eveready East Africa Limited",
-    "M. Cap.": "277M",
-    "Close": 1.32,
-    "YTD": "+14.8%"
+    "M. Cap.": "273M",
+    "Close": 1.3,
+    "YTD": "+13%"
   },
   {
     "Code": "KUKZ",
     "Name": "Kakuzi Limited",
-    "M. Cap.": "8.08B",
-    "Close": 412.25,
-    "YTD": "+7.08%"
+    "M. Cap.": "8.1B",
+    "Close": 413.5,
+    "YTD": "+7.4%"
   },
   {
     "Code": "AMAC",
     "Name": "Africa Mega Agricorp",
-    "M. Cap.": "840M",
-    "Close": 65.25,
-    "YTD": "-6.79%"
+    "M. Cap.": "891M",
+    "Close": 69.25,
+    "YTD": "-1.07%"
   },
   {
     "Code": "KAPC",
     "Name": "Kapchorua Tea Company Limited",
-    "M. Cap.": "1.59B",
-    "Close": 203.0,
-    "YTD": "-13.6%"
+    "M. Cap.": "1.63B",
+    "Close": 208.0,
+    "YTD": "-11.5%"
   }
 ]

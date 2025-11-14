@@ -9,9 +9,9 @@
   {
     "Code": "TURN",
     "Name": "Turnall Holdings Limited",
-    "M. Cap.": "44.7M",
-    "Close": 0.09,
-    "YTD": "+50%"
+    "M. Cap.": "44.8M",
+    "Close": 0.0902,
+    "YTD": "+50.3%"
   },
   {
     "Code": "CFI",
@@ -44,29 +44,29 @@
   {
     "Code": "PROL",
     "Name": "Proplastics Limited",
-    "M. Cap.": "258M",
-    "Close": 1.029995,
-    "YTD": "-30.5%"
+    "M. Cap.": "260M",
+    "Close": 1.036405,
+    "YTD": "-30%"
   },
   {
     "Code": "MSHL",
     "Name": "Masimba Holdings Limited",
-    "M. Cap.": "412M",
-    "Close": 1.702861,
-    "YTD": "-43.2%"
+    "M. Cap.": "435M",
+    "Close": 1.7995,
+    "YTD": "-40%"
   },
   {
     "Code": "NPKZ",
     "Name": "Nampak Zimbabwe Limited",
-    "M. Cap.": "438M",
-    "Close": 0.58,
-    "YTD": "-55.4%"
+    "M. Cap.": "491M",
+    "Close": 0.65,
+    "YTD": "-50%"
   },
   {
     "Code": "ARTD",
     "Name": "Amalgamated Regional Trading",
-    "M. Cap.": "37.3M",
-    "Close": 0.08,
-    "YTD": "-75.5%"
+    "M. Cap.": "32.2M",
+    "Close": 0.069143,
+    "YTD": "-78.8%"
   }
 ]

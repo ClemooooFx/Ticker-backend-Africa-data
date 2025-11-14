@@ -2,9 +2,9 @@
   {
     "Code": "ZNCO",
     "Name": "Zambia National Commercial Bank",
-    "M. Cap.": "8.73B",
-    "Close": 6.05,
-    "YTD": "+9.21%"
+    "M. Cap.": "8.72B",
+    "Close": 6.04,
+    "YTD": "+9.03%"
   },
   {
     "Code": "MAFS",
@@ -14,17 +14,17 @@
     "YTD": NaN
   },
   {
+    "Code": "ZMRE",
+    "Name": "Zambia Reinsurance",
+    "M. Cap.": "81M",
+    "Close": 2.7,
+    "YTD": NaN
+  },
+  {
     "Code": "SCBL",
     "Name": "Standard Chartered Bank",
     "M. Cap.": "4.3B",
     "Close": 2.58,
     "YTD": "-2.64%"
-  },
-  {
-    "Code": "ZMRE",
-    "Name": "Zambia Reinsurance",
-    "M. Cap.": "78M",
-    "Close": 2.6,
-    "YTD": "-3.7%"
   }
 ]

@@ -1,24 +1,24 @@
 [
   {
-    "Code": "MANSARD",
-    "Name": "AXA Mansard Insurance",
-    "M. Cap.": "120B",
-    "Close": 13.31,
-    "YTD": "+62.3%"
-  },
-  {
     "Code": "REGALINS",
     "Name": "Regency Alliance Insurance",
-    "M. Cap.": "18.2B",
-    "Close": 1.14,
-    "YTD": "+52%"
+    "M. Cap.": "20B",
+    "Close": 1.25,
+    "YTD": "+66.7%"
+  },
+  {
+    "Code": "MANSARD",
+    "Name": "AXA Mansard Insurance",
+    "M. Cap.": "117B",
+    "Close": 13.0,
+    "YTD": "+58.5%"
   },
   {
     "Code": "CONHALLPLC",
     "Name": "Consolidated Hallmark Holdings",
-    "M. Cap.": "47.9B",
-    "Close": 4.42,
-    "YTD": "+28.1%"
+    "M. Cap.": "47.7B",
+    "Close": 4.4,
+    "YTD": "+27.5%"
   },
   {
     "Code": "SUNUASSUR",
@@ -30,30 +30,30 @@
   {
     "Code": "MBENEFIT",
     "Name": "Mutual Benefits Assurance",
-    "M. Cap.": "67B",
-    "Close": 3.34,
-    "YTD": "+448%"
-  },
-  {
-    "Code": "NEM",
-    "Name": "N.E.M. Insurance Company",
-    "M. Cap.": "144B",
-    "Close": 28.8,
-    "YTD": "+163%"
+    "M. Cap.": "73.2B",
+    "Close": 3.65,
+    "YTD": "+498%"
   },
   {
     "Code": "SOVRENINS",
     "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "40.7B",
-    "Close": 2.86,
-    "YTD": "+155%"
+    "M. Cap.": "44.7B",
+    "Close": 3.14,
+    "YTD": "+180%"
+  },
+  {
+    "Code": "NEM",
+    "Name": "N.E.M. Insurance Company",
+    "M. Cap.": "149B",
+    "Close": 29.8,
+    "YTD": "+172%"
   },
   {
     "Code": "AIICO",
     "Name": "Aiico Insurance Plc",
-    "M. Cap.": "122B",
-    "Close": 3.34,
-    "YTD": "+134%"
+    "M. Cap.": "134B",
+    "Close": 3.67,
+    "YTD": "+157%"
   },
   {
     "Code": "SFSREIT",
@@ -63,10 +63,10 @@
     "YTD": "+133%"
   },
   {
-    "Code": "WEMABANK",
-    "Name": "Wema Bank",
-    "M. Cap.": "794B",
-    "Close": 19.8,
-    "YTD": "+118%"
+    "Code": "CUSTODIAN",
+    "Name": "Custodian & Allied Plc",
+    "M. Cap.": "226B",
+    "Close": 38.5,
+    "YTD": "+125%"
   }
 ]

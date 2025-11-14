@@ -2,71 +2,71 @@
   {
     "Code": "IMP",
     "Name": "Impala Platinum Hlgs Ltd",
-    "M. Cap.": "171B",
-    "Close": 189.63,
-    "YTD": "+116%"
-  },
-  {
-    "Code": "EUZ",
-    "Name": "Europa Metals Limited",
-    "M. Cap.": "102M",
-    "Close": 1.0,
-    "YTD": "+96.1%"
+    "M. Cap.": "177B",
+    "Close": 196.21,
+    "YTD": "+124%"
   },
   {
     "Code": "SDL",
     "Name": "Southern Palladium Ltd",
-    "M. Cap.": "1.2B",
-    "Close": 11.2,
-    "YTD": "+60%"
+    "M. Cap.": "1.26B",
+    "Close": 11.8,
+    "YTD": "+68.6%"
+  },
+  {
+    "Code": "EUZ",
+    "Name": "Europa Metals Limited",
+    "M. Cap.": "86.8M",
+    "Close": 0.85,
+    "YTD": "+66.7%"
+  },
+  {
+    "Code": "ISB",
+    "Name": "Insimbi Industrial Holdings",
+    "M. Cap.": "268M",
+    "Close": 0.81,
+    "YTD": "+15.7%"
   },
   {
     "Code": "KIO",
     "Name": "Kumba Iron Ore Ltd",
     "M. Cap.": "108B",
-    "Close": 334.75,
-    "YTD": "+2.61%"
+    "Close": 335.83,
+    "YTD": "+2.94%"
   },
   {
     "Code": "APH",
     "Name": "Alphamin Resources Corp",
-    "M. Cap.": "17.7B",
-    "Close": 13.84,
-    "YTD": "+1.76%"
+    "M. Cap.": "16.9B",
+    "Close": 13.25,
+    "YTD": "-2.57%"
   },
   {
     "Code": "ACL",
     "Name": "ArcelorMittal SA Limited",
-    "M. Cap.": "1.55B",
-    "Close": 1.36,
-    "YTD": "+1.49%"
-  },
-  {
-    "Code": "ISB",
-    "Name": "Insimbi Industrial Holdings",
-    "M. Cap.": "208M",
-    "Close": 0.63,
-    "YTD": "-10%"
+    "M. Cap.": "1.46B",
+    "Close": 1.28,
+    "YTD": "-4.48%"
   },
   {
     "Code": "CPR",
     "Name": "Copper 360 Ltd",
-    "M. Cap.": "680M",
-    "Close": 0.68,
-    "YTD": "-71.1%"
-  },
-  {
-    "Code": "SSW",
-    "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "138B",
-    "Close": 48.66,
-    "YTD": "+225%"
+    "M. Cap.": "690M",
+    "Close": 0.69,
+    "YTD": "-70.6%"
   },
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "670B",
-    "Close": 1326.46,
-    "YTD": "+215%"
+    "M. Cap.": "717B",
+    "Close": 1419.5,
+    "YTD": "+237%"
+  },
+  {
+    "Code": "SSW",
+    "Name": "Sibanye Stillwater Limited",
+    "M. Cap.": "140B",
+    "Close": 49.58,
+    "YTD": "+231%"
   }
 ]

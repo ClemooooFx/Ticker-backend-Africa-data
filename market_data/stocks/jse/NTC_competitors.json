@@ -1,24 +1,17 @@
 [
   {
-    "Code": "ACT",
-    "Name": "AfroCentric Inv Corp Ltd",
-    "M. Cap.": "1.27B",
-    "Close": 1.51,
-    "YTD": "-24.1%"
-  },
-  {
     "Code": "LHC",
     "Name": "Life Healthcare Group Holdings",
-    "M. Cap.": "17.5B",
-    "Close": 11.95,
-    "YTD": "-27.1%"
+    "M. Cap.": "17.9B",
+    "Close": 12.23,
+    "YTD": "-25.3%"
   },
   {
-    "Code": "PHP",
-    "Name": "Primary Health Properties",
-    "M. Cap.": "57.7B",
-    "Close": 22.25,
-    "YTD": "+1.23%"
+    "Code": "ACT",
+    "Name": "AfroCentric Inv Corp Ltd",
+    "M. Cap.": "1.15B",
+    "Close": 1.37,
+    "YTD": "-31.2%"
   },
   {
     "Code": "XII",
@@ -28,24 +21,31 @@
     "YTD": NaN
   },
   {
+    "Code": "PHP",
+    "Name": "Primary Health Properties",
+    "M. Cap.": "56.7B",
+    "Close": 21.85,
+    "YTD": "-0.59%"
+  },
+  {
     "Code": "ASC",
     "Name": "Ascendis Health Ltd",
-    "M. Cap.": "582M",
-    "Close": 0.92,
-    "YTD": "-8%"
+    "M. Cap.": "595M",
+    "Close": 0.94,
+    "YTD": "-6%"
   },
   {
     "Code": "CCC",
     "Name": "Cilo Cybin Holdings Ltd",
-    "M. Cap.": "645M",
-    "Close": 2.8,
-    "YTD": "-28.2%"
+    "M. Cap.": "691M",
+    "Close": 3.0,
+    "YTD": "-23.1%"
   },
   {
     "Code": "APN",
     "Name": "Aspen Pharmacare Holdings",
-    "M. Cap.": "42.6B",
-    "Close": 95.5,
-    "YTD": "-42.1%"
+    "M. Cap.": "43.5B",
+    "Close": 97.54,
+    "YTD": "-40.8%"
   }
 ]

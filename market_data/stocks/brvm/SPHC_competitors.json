@@ -1,65 +1,65 @@
 [
   {
-    "Code": "UNXC",
-    "Name": "Uniwax C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "33.1B",
-    "Close": 1595,
-    "YTD": "+289%"
-  },
-  {
     "Code": "UNLC",
     "Name": "Unilever C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "228B",
-    "Close": 24830,
-    "YTD": "+283%"
+    "M. Cap.": "263B",
+    "Close": 28690,
+    "YTD": "+343%"
+  },
+  {
+    "Code": "UNXC",
+    "Name": "Uniwax C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
+    "M. Cap.": "30.5B",
+    "Close": 1470,
+    "YTD": "+259%"
   },
   {
     "Code": "STBC",
     "Name": "Sitab C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "350B",
-    "Close": 19500,
-    "YTD": "+167%"
+    "M. Cap.": "349B",
+    "Close": 19450,
+    "YTD": "+166%"
   },
   {
     "Code": "SLBC",
     "Name": "Solibra C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "407B",
-    "Close": 24700,
-    "YTD": "+90.7%"
+    "M. Cap.": "411B",
+    "Close": 24995,
+    "YTD": "+93%"
   },
   {
     "Code": "SOGC",
     "Name": "Sogb C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "172B",
-    "Close": 7975,
-    "YTD": "+73%"
+    "M. Cap.": "170B",
+    "Close": 7860,
+    "YTD": "+70.5%"
   },
   {
     "Code": "PALC",
     "Name": "Palm C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "129B",
-    "Close": 8350,
-    "YTD": "+67%"
-  },
-  {
-    "Code": "SCRC",
-    "Name": "Sucrivoire C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "21B",
-    "Close": 1070,
-    "YTD": "+38.1%"
+    "M. Cap.": "126B",
+    "Close": 8150,
+    "YTD": "+63%"
   },
   {
     "Code": "NTLC",
     "Name": "Nestle C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "242B",
-    "Close": 10950,
-    "YTD": "+37.6%"
+    "M. Cap.": "254B",
+    "Close": 11500,
+    "YTD": "+44.5%"
+  },
+  {
+    "Code": "SCRC",
+    "Name": "Sucrivoire C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
+    "M. Cap.": "20.7B",
+    "Close": 1055,
+    "YTD": "+36.1%"
   },
   {
     "Code": "SICC",
     "Name": "Sicor C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "2B",
-    "Close": 3325,
-    "YTD": "-16.9%"
+    "M. Cap.": "1.89B",
+    "Close": 3155,
+    "YTD": "-21.1%"
   }
 ]

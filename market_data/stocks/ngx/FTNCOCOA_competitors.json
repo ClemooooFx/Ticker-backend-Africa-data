@@ -2,23 +2,23 @@
   {
     "Code": "ELLAHLAKES",
     "Name": "Ellah Lakes Plc",
-    "M. Cap.": "46.8B",
-    "Close": 12.13,
-    "YTD": "+284%"
+    "M. Cap.": "48.2B",
+    "Close": 12.5,
+    "YTD": "+296%"
+  },
+  {
+    "Code": "CHAMPION",
+    "Name": "Champion Breweries",
+    "M. Cap.": "130B",
+    "Close": 14.5,
+    "YTD": "+281%"
   },
   {
     "Code": "VITAFOAM",
     "Name": "Vitafoam Nigeria",
     "M. Cap.": "106B",
-    "Close": 84.6,
-    "YTD": "+268%"
-  },
-  {
-    "Code": "CHAMPION",
-    "Name": "Champion Breweries",
-    "M. Cap.": "123B",
-    "Close": 13.8,
-    "YTD": "+262%"
+    "Close": 85.0,
+    "YTD": "+270%"
   },
   {
     "Code": "NASCON",
@@ -28,6 +28,13 @@
     "YTD": "+230%"
   },
   {
+    "Code": "HONYFLOUR",
+    "Name": "Honeywell Flour Mill",
+    "M. Cap.": "159B",
+    "Close": 20.0,
+    "YTD": "+217%"
+  },
+  {
     "Code": "PRESCO",
     "Name": "Presco Plc",
     "M. Cap.": "1.45T",
@@ -35,18 +42,11 @@
     "YTD": "+205%"
   },
   {
-    "Code": "HONYFLOUR",
-    "Name": "Honeywell Flour Mill",
-    "M. Cap.": "149B",
-    "Close": 18.85,
-    "YTD": "+199%"
-  },
-  {
     "Code": "CADBURY",
     "Name": "Cadbury Nigeria",
-    "M. Cap.": "128B",
-    "Close": 56.3,
-    "YTD": "+162%"
+    "M. Cap.": "134B",
+    "Close": 58.95,
+    "YTD": "+174%"
   },
   {
     "Code": "OKOMUOIL",
@@ -58,9 +58,9 @@
   {
     "Code": "GUINNESS",
     "Name": "Guinness Nigeria",
-    "M. Cap.": "383B",
-    "Close": 175.0,
-    "YTD": "+149%"
+    "M. Cap.": "364B",
+    "Close": 166.0,
+    "YTD": "+136%"
   },
   {
     "Code": "ENAMELWA",

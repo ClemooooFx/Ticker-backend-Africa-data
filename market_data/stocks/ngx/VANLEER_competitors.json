@@ -28,13 +28,6 @@
     "YTD": "+141%"
   },
   {
-    "Code": "WAPCO",
-    "Name": "Lafarge Wapco",
-    "M. Cap.": "2.17T",
-    "Close": 134.95,
-    "YTD": "+92.9%"
-  },
-  {
     "Code": "CAP",
     "Name": "CAP Plc",
     "M. Cap.": "59.5B",
@@ -49,6 +42,13 @@
     "YTD": "+91.6%"
   },
   {
+    "Code": "WAPCO",
+    "Name": "Lafarge Wapco",
+    "M. Cap.": "2.16T",
+    "Close": 134.0,
+    "YTD": "+91.6%"
+  },
+  {
     "Code": "UACN",
     "Name": "UAC of Nigeria",
     "M. Cap.": "176B",
@@ -58,9 +58,9 @@
   {
     "Code": "BERGER",
     "Name": "Berger Paints",
-    "M. Cap.": "10.3B",
-    "Close": 35.6,
-    "YTD": "+78%"
+    "M. Cap.": "10.9B",
+    "Close": 37.45,
+    "YTD": "+87.3%"
   },
   {
     "Code": "BUACEMENT",

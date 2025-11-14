@@ -28,13 +28,6 @@
     "YTD": "+141%"
   },
   {
-    "Code": "WAPCO",
-    "Name": "Lafarge Wapco",
-    "M. Cap.": "2.17T",
-    "Close": 134.95,
-    "YTD": "+92.9%"
-  },
-  {
     "Code": "CAP",
     "Name": "CAP Plc",
     "M. Cap.": "59.5B",
@@ -46,6 +39,13 @@
     "Name": "Meyer Plc",
     "M. Cap.": "8.58B",
     "Close": 16.15,
+    "YTD": "+91.6%"
+  },
+  {
+    "Code": "WAPCO",
+    "Name": "Lafarge Wapco",
+    "M. Cap.": "2.16T",
+    "Close": 134.0,
     "YTD": "+91.6%"
   },
   {
@@ -63,10 +63,10 @@
     "YTD": "+74.2%"
   },
   {
-    "Code": "AUSTINLAZ",
-    "Name": "Austin Laz & Company",
-    "M. Cap.": "2.82B",
-    "Close": 2.61,
-    "YTD": "+43.4%"
+    "Code": "CUTIX",
+    "Name": "Cutix Plc",
+    "M. Cap.": "23.4B",
+    "Close": 3.32,
+    "YTD": "+44.4%"
   }
 ]

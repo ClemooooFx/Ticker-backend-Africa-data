@@ -2,30 +2,30 @@
   {
     "Code": "SUR",
     "Name": "Spur Corporation Ltd",
-    "M. Cap.": "3.33B",
-    "Close": 36.6,
-    "YTD": "+4.69%"
+    "M. Cap.": "3.41B",
+    "Close": 37.49,
+    "YTD": "+7.24%"
   },
   {
     "Code": "SSU",
     "Name": "Southern Sun Limited",
     "M. Cap.": "12.3B",
-    "Close": 9.17,
-    "YTD": "+0.99%"
+    "Close": 9.15,
+    "YTD": "+0.77%"
+  },
+  {
+    "Code": "CLH",
+    "Name": "City Lodge Hotels Limited",
+    "M. Cap.": "2.57B",
+    "Close": 4.63,
+    "YTD": "-8.32%"
   },
   {
     "Code": "SUI",
     "Name": "Sun International Ltd",
     "M. Cap.": "10.1B",
-    "Close": 39.55,
-    "YTD": "-9.08%"
-  },
-  {
-    "Code": "CLH",
-    "Name": "City Lodge Hotels Limited",
-    "M. Cap.": "2.54B",
-    "Close": 4.58,
-    "YTD": "-9.31%"
+    "Close": 39.4,
+    "YTD": "-9.43%"
   },
   {
     "Code": "FTH",
@@ -37,16 +37,16 @@
   {
     "Code": "FBR",
     "Name": "Famous Brands Ltd",
-    "M. Cap.": "5.3B",
-    "Close": 52.85,
-    "YTD": "-23.4%"
+    "M. Cap.": "5.34B",
+    "Close": 53.33,
+    "YTD": "-22.7%"
   },
   {
     "Code": "CHP",
     "Name": "Choppies Enterprises Limited",
-    "M. Cap.": "5.42B",
-    "Close": 2.97,
-    "YTD": "+271%"
+    "M. Cap.": "5.66B",
+    "Close": 3.1,
+    "YTD": "+288%"
   },
   {
     "Code": "WVR",
@@ -58,9 +58,9 @@
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.36B",
-    "Close": 11.0,
-    "YTD": "+59.4%"
+    "M. Cap.": "9.61B",
+    "Close": 11.29,
+    "YTD": "+63.6%"
   },
   {
     "Code": "NCS",

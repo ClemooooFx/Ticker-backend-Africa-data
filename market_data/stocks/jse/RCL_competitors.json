@@ -1,52 +1,59 @@
 [
   {
-    "Code": "RBO",
-    "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4.03B",
-    "Close": 4.5,
-    "YTD": "+24%"
-  },
-  {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "9.51B",
-    "Close": 221.56,
-    "YTD": "+18.5%"
+    "M. Cap.": "9.82B",
+    "Close": 228.8,
+    "YTD": "+22.4%"
+  },
+  {
+    "Code": "RBO",
+    "Name": "Rainbow Chicken Ltd",
+    "M. Cap.": "3.96B",
+    "Close": 4.42,
+    "YTD": "+21.8%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
-    "M. Cap.": "59B",
-    "Close": 337.5,
-    "YTD": "+16.8%"
+    "M. Cap.": "59.4B",
+    "Close": 339.9,
+    "YTD": "+17.6%"
   },
   {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
-    "M. Cap.": "5.99B",
-    "Close": 22.8,
-    "YTD": "+10.2%"
+    "M. Cap.": "6.24B",
+    "Close": 23.74,
+    "YTD": "+14.7%"
   },
   {
     "Code": "LBR",
     "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.92B",
-    "Close": 4.79,
-    "YTD": "+10.1%"
-  },
-  {
-    "Code": "SHG",
-    "Name": "Sea Harvest Group Ltd",
     "M. Cap.": "2.91B",
-    "Close": 8.05,
-    "YTD": "-3.59%"
+    "Close": 4.78,
+    "YTD": "+9.89%"
   },
   {
     "Code": "AVI",
     "Name": "AVI Ltd",
-    "M. Cap.": "35.5B",
-    "Close": 103.89,
-    "YTD": "-5.31%"
+    "M. Cap.": "35.6B",
+    "Close": 104.25,
+    "YTD": "-4.99%"
+  },
+  {
+    "Code": "SHG",
+    "Name": "Sea Harvest Group Ltd",
+    "M. Cap.": "2.86B",
+    "Close": 7.93,
+    "YTD": "-5.03%"
+  },
+  {
+    "Code": "QFH",
+    "Name": "Quantum Foods Hldgs Ltd",
+    "M. Cap.": "1.62B",
+    "Close": 8.0,
+    "YTD": "-12.7%"
   },
   {
     "Code": "CKS",
@@ -56,17 +63,10 @@
     "YTD": "-15.9%"
   },
   {
-    "Code": "QFH",
-    "Name": "Quantum Foods Hldgs Ltd",
-    "M. Cap.": "1.54B",
-    "Close": 7.56,
-    "YTD": "-17.5%"
-  },
-  {
     "Code": "OCE",
     "Name": "Oceana Group Ltd",
-    "M. Cap.": "7B",
-    "Close": 53.9,
-    "YTD": "-20.1%"
+    "M. Cap.": "7.01B",
+    "Close": 54.01,
+    "YTD": "-20%"
   }
 ]

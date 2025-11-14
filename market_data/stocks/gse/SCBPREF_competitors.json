@@ -3,8 +3,8 @@
     "Code": "ACCESS",
     "Name": "Access Bank Ghana",
     "M. Cap.": "2.82B",
-    "Close": 16.19,
-    "YTD": "+211%"
+    "Close": 16.2,
+    "YTD": "+212%"
   },
   {
     "Code": "ETI",
@@ -16,30 +16,30 @@
   {
     "Code": "GCB",
     "Name": "GCB Bank Limited",
-    "M. Cap.": "4.72B",
-    "Close": 17.82,
-    "YTD": "+180%"
+    "M. Cap.": "4.77B",
+    "Close": 18.0,
+    "YTD": "+183%"
   },
   {
     "Code": "EGH",
     "Name": "Ecobank Ghana Limited",
-    "M. Cap.": "5B",
-    "Close": 15.5,
-    "YTD": "+138%"
+    "M. Cap.": "5.01B",
+    "Close": 15.52,
+    "YTD": "+139%"
   },
   {
     "Code": "RBGH",
     "Name": "Republic Bank Ghana Limited",
-    "M. Cap.": "1.06B",
-    "Close": 1.25,
-    "YTD": "+89.4%"
+    "M. Cap.": "1.05B",
+    "Close": 1.23,
+    "YTD": "+86.4%"
   },
   {
     "Code": "CAL",
     "Name": "CalBank Plc",
-    "M. Cap.": "384M",
-    "Close": 0.34,
-    "YTD": "-2.86%"
+    "M. Cap.": "373M",
+    "Close": 0.33,
+    "YTD": "-5.71%"
   },
   {
     "Code": "SIC",
@@ -65,8 +65,8 @@
   {
     "Code": "TBL",
     "Name": "Trust Bank Gambia Limited",
-    "M. Cap.": "220M",
-    "Close": 1.1,
-    "YTD": "+32.5%"
+    "M. Cap.": "240M",
+    "Close": 1.2,
+    "YTD": "+44.6%"
   }
 ]
