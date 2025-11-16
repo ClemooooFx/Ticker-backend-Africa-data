@@ -2,23 +2,16 @@
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.39B",
-    "Close": 119.2,
-    "YTD": "+119%"
+    "M. Cap.": "2.32B",
+    "Close": 115.62,
+    "YTD": "+113%"
   },
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.41B",
-    "Close": 45.5,
-    "YTD": "+107%"
-  },
-  {
-    "Code": "STXSHA",
-    "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "121M",
-    "Close": 5.96,
-    "YTD": "+74.3%"
+    "M. Cap.": "2.42B",
+    "Close": 45.7,
+    "YTD": "+108%"
   },
   {
     "Code": "BAC",
@@ -28,45 +21,52 @@
     "YTD": "+69.2%"
   },
   {
+    "Code": "STXSHA",
+    "Name": "Satrix Shariah Top 40 ETF",
+    "M. Cap.": "118M",
+    "Close": 5.78,
+    "YTD": "+69%"
+  },
+  {
     "Code": "ETFRHO",
     "Name": "1nvest Rhodium ETF",
     "M. Cap.": "1.16B",
-    "Close": 1252.73,
-    "YTD": "+63.3%"
+    "Close": 1243.53,
+    "YTD": "+62.1%"
   },
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "7.59B",
-    "Close": 258.95,
-    "YTD": "+58%"
+    "M. Cap.": "7.44B",
+    "Close": 253.82,
+    "YTD": "+54.9%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.7B",
-    "Close": 259.42,
-    "YTD": "+57.1%"
+    "M. Cap.": "3.64B",
+    "Close": 255.24,
+    "YTD": "+54.6%"
   },
   {
     "Code": "EPE",
     "Name": "EPE Capital Partners Ltd",
-    "M. Cap.": "2.05B",
-    "Close": 8.0,
-    "YTD": "+48.4%"
+    "M. Cap.": "2.01B",
+    "Close": 7.85,
+    "YTD": "+45.6%"
   },
   {
-    "Code": "NGPLD",
-    "Name": "NewGold Palladium ETF",
-    "M. Cap.": "242M",
-    "Close": 236.99,
-    "YTD": "+45.5%"
+    "Code": "MHB",
+    "Name": "Mahube Infrastructure Limited",
+    "M. Cap.": "331M",
+    "Close": 6.0,
+    "YTD": "+42.5%"
   },
   {
     "Code": "GLD",
     "Name": "New Gold Issuer Limited",
-    "M. Cap.": "38.5B",
-    "Close": 659.03,
-    "YTD": "+45%"
+    "M. Cap.": "37.6B",
+    "Close": 644.19,
+    "YTD": "+41.8%"
   }
 ]

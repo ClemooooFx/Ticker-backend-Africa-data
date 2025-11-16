@@ -23,23 +23,23 @@
   {
     "Code": "CHP",
     "Name": "Choppies Enterprises Limited",
-    "M. Cap.": "5.66B",
-    "Close": 3.1,
-    "YTD": "+288%"
+    "M. Cap.": "5.78B",
+    "Close": 3.17,
+    "YTD": "+296%"
   },
   {
     "Code": "WVR",
     "Name": "Weaver Fintech Ltd",
-    "M. Cap.": "5.66B",
-    "Close": 53.0,
-    "YTD": "+76.7%"
+    "M. Cap.": "5.76B",
+    "Close": 54.0,
+    "YTD": "+80%"
   },
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
     "M. Cap.": "9.61B",
-    "Close": 11.29,
-    "YTD": "+63.6%"
+    "Close": 11.3,
+    "YTD": "+63.8%"
   },
   {
     "Code": "NCS",
@@ -51,9 +51,9 @@
   {
     "Code": "BOX",
     "Name": "Boxer Retail Ltd",
-    "M. Cap.": "34.7B",
-    "Close": 75.9,
-    "YTD": "+17.9%"
+    "M. Cap.": "34.6B",
+    "Close": 75.72,
+    "YTD": "+17.6%"
   },
   {
     "Code": "AOO",
@@ -63,10 +63,10 @@
     "YTD": "+15.8%"
   },
   {
-    "Code": "SUR",
-    "Name": "Spur Corporation Ltd",
-    "M. Cap.": "3.41B",
-    "Close": 37.49,
-    "YTD": "+7.24%"
+    "Code": "RTN",
+    "Name": "Rex Trueform Group -N-",
+    "M. Cap.": "254M",
+    "Close": 12.51,
+    "YTD": "+6.74%"
   }
 ]

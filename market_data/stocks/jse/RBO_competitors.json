@@ -2,58 +2,51 @@
   {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "9.82B",
-    "Close": 228.8,
-    "YTD": "+22.4%"
+    "M. Cap.": "9.76B",
+    "Close": 227.42,
+    "YTD": "+21.6%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
-    "M. Cap.": "59.4B",
-    "Close": 339.9,
-    "YTD": "+17.6%"
+    "M. Cap.": "59.2B",
+    "Close": 338.51,
+    "YTD": "+17.1%"
   },
   {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
-    "M. Cap.": "6.24B",
-    "Close": 23.74,
-    "YTD": "+14.7%"
+    "M. Cap.": "6.11B",
+    "Close": 23.27,
+    "YTD": "+12.5%"
   },
   {
     "Code": "LBR",
     "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.91B",
-    "Close": 4.78,
-    "YTD": "+9.89%"
+    "M. Cap.": "2.86B",
+    "Close": 4.7,
+    "YTD": "+8.05%"
   },
   {
     "Code": "RCL",
     "Name": "RCL Foods Limited",
-    "M. Cap.": "8.71B",
-    "Close": 9.7,
-    "YTD": "+2.11%"
-  },
-  {
-    "Code": "AVI",
-    "Name": "AVI Ltd",
-    "M. Cap.": "35.6B",
-    "Close": 104.25,
-    "YTD": "-4.99%"
+    "M. Cap.": "8.64B",
+    "Close": 9.62,
+    "YTD": "+1.26%"
   },
   {
     "Code": "SHG",
     "Name": "Sea Harvest Group Ltd",
-    "M. Cap.": "2.86B",
-    "Close": 7.93,
-    "YTD": "-5.03%"
+    "M. Cap.": "2.82B",
+    "Close": 7.8,
+    "YTD": "-6.59%"
   },
   {
-    "Code": "QFH",
-    "Name": "Quantum Foods Hldgs Ltd",
-    "M. Cap.": "1.62B",
-    "Close": 8.0,
-    "YTD": "-12.7%"
+    "Code": "AVI",
+    "Name": "AVI Ltd",
+    "M. Cap.": "34.8B",
+    "Close": 101.87,
+    "YTD": "-7.15%"
   },
   {
     "Code": "CKS",
@@ -63,10 +56,17 @@
     "YTD": "-15.9%"
   },
   {
+    "Code": "QFH",
+    "Name": "Quantum Foods Hldgs Ltd",
+    "M. Cap.": "1.55B",
+    "Close": 7.61,
+    "YTD": "-16.9%"
+  },
+  {
     "Code": "OCE",
     "Name": "Oceana Group Ltd",
-    "M. Cap.": "7.01B",
-    "Close": 54.01,
-    "YTD": "-20%"
+    "M. Cap.": "6.88B",
+    "Close": 53.02,
+    "YTD": "-21.4%"
   }
 ]

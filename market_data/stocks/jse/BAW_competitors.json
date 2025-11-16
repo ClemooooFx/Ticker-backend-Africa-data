@@ -3,15 +3,15 @@
     "Code": "NPK",
     "Name": "Nampak Ltd",
     "M. Cap.": "4.24B",
-    "Close": 500.01,
-    "YTD": "+20.2%"
+    "Close": 500.46,
+    "YTD": "+20.3%"
   },
   {
     "Code": "BCF",
     "Name": "Bowler Metcalf Ltd",
-    "M. Cap.": "1.08B",
-    "Close": 14.5,
-    "YTD": "+6.46%"
+    "M. Cap.": "1.2B",
+    "Close": 16.0,
+    "YTD": "+17.5%"
   },
   {
     "Code": "NPKP",
@@ -37,36 +37,36 @@
   {
     "Code": "BVT",
     "Name": "Bidvest Ltd",
-    "M. Cap.": "81.3B",
-    "Close": 239.0,
-    "YTD": "-9.36%"
+    "M. Cap.": "79.5B",
+    "Close": 233.76,
+    "YTD": "-11.3%"
   },
   {
     "Code": "MPT",
     "Name": "Mpact Limited",
     "M. Cap.": "3.24B",
-    "Close": 21.66,
+    "Close": 21.65,
     "YTD": "-26.7%"
   },
   {
     "Code": "ENX",
     "Name": "enX Group LImited",
-    "M. Cap.": "729M",
-    "Close": 4.0,
-    "YTD": "-27.3%"
+    "M. Cap.": "711M",
+    "Close": 3.9,
+    "YTD": "-29.1%"
   },
   {
     "Code": "KAP",
     "Name": "KAP Industrial Holdings Ltd",
-    "M. Cap.": "4.08B",
-    "Close": 1.63,
-    "YTD": "-46.9%"
+    "M. Cap.": "4.05B",
+    "Close": 1.62,
+    "YTD": "-47.2%"
   },
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "12.2B",
-    "Close": 17.49,
-    "YTD": "+46.2%"
+    "M. Cap.": "12B",
+    "Close": 17.19,
+    "YTD": "+43.7%"
   }
 ]

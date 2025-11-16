@@ -1,167 +1,18 @@
-[
-  {
-    "export_date": "2025-11-09T05:00:02.343579",
-    "exchanges_processed": 10,
-    "total_stocks": 873,
-    "duration_seconds": 4561.603003,
-    "exchanges": [
-      "bse",
-      "brvm",
-      "gse",
-      "jse",
-      "luse",
-      "mse",
-      "nse",
-      "ngx",
-      "use",
-      "zse"
-    ]
-  },
-  {
-    "update_date": "2025-11-10T07:10:41.872584",
-    "update_type": "incremental",
-    "exchanges_updated": 10,
-    "total_updates": 2840,
-    "total_possible": 3492,
-    "update_rate_percent": 81.33,
-    "duration_seconds": 2929.925583,
-    "exchanges": [
-      "bse",
-      "brvm",
-      "gse",
-      "jse",
-      "luse",
-      "mse",
-      "nse",
-      "ngx",
-      "use",
-      "zse"
-    ]
-  },
-  {
-    "update_date": "2025-11-10T15:16:41.653086",
-    "update_type": "incremental",
-    "exchanges_updated": 10,
-    "total_updates": 2375,
-    "total_possible": 3492,
-    "update_rate_percent": 68.01,
-    "duration_seconds": 3127.180804,
-    "exchanges": [
-      "bse",
-      "brvm",
-      "gse",
-      "jse",
-      "luse",
-      "mse",
-      "nse",
-      "ngx",
-      "use",
-      "zse"
-    ]
-  },
-  {
-    "update_date": "2025-11-11T15:19:37.196440",
-    "update_type": "incremental",
-    "exchanges_updated": 10,
-    "total_updates": 2657,
-    "total_possible": 3492,
-    "update_rate_percent": 76.09,
-    "duration_seconds": 3254.476696,
-    "exchanges": [
-      "bse",
-      "brvm",
-      "gse",
-      "jse",
-      "luse",
-      "mse",
-      "nse",
-      "ngx",
-      "use",
-      "zse"
-    ]
-  },
-  {
-    "update_date": "2025-11-12T07:09:46.320191",
-    "update_type": "incremental",
-    "exchanges_updated": 10,
-    "total_updates": 2585,
-    "total_possible": 3492,
-    "update_rate_percent": 74.03,
-    "duration_seconds": 2948.129513,
-    "exchanges": [
-      "bse",
-      "brvm",
-      "gse",
-      "jse",
-      "luse",
-      "mse",
-      "nse",
-      "ngx",
-      "use",
-      "zse"
-    ]
-  },
-  {
-    "update_date": "2025-11-12T15:25:53.593148",
-    "update_type": "incremental",
-    "exchanges_updated": 10,
-    "total_updates": 2560,
-    "total_possible": 3492,
-    "update_rate_percent": 73.31,
-    "duration_seconds": 3602.279006,
-    "exchanges": [
-      "bse",
-      "brvm",
-      "gse",
-      "jse",
-      "luse",
-      "mse",
-      "nse",
-      "ngx",
-      "use",
-      "zse"
-    ]
-  },
-  {
-    "update_date": "2025-11-14T09:37:38.622044",
-    "update_type": "incremental",
-    "exchanges_updated": 10,
-    "total_updates": 3282,
-    "total_possible": 3492,
-    "update_rate_percent": 93.99,
-    "duration_seconds": 5187.778618,
-    "exchanges": [
-      "bse",
-      "brvm",
-      "gse",
-      "jse",
-      "luse",
-      "mse",
-      "nse",
-      "ngx",
-      "use",
-      "zse"
-    ]
-  },
-  {
-    "update_date": "2025-11-14T16:21:26.682867",
-    "update_type": "incremental",
-    "exchanges_updated": 10,
-    "total_updates": 2758,
-    "total_possible": 3492,
-    "update_rate_percent": 78.98,
-    "duration_seconds": 6842.863467,
-    "exchanges": [
-      "bse",
-      "brvm",
-      "gse",
-      "jse",
-      "luse",
-      "mse",
-      "nse",
-      "ngx",
-      "use",
-      "zse"
-    ]
-  }
-]
+{
+  "export_date": "2025-11-16T05:53:04.892350",
+  "exchanges_processed": 10,
+  "total_stocks": 875,
+  "duration_seconds": 7332.366585,
+  "exchanges": [
+    "bse",
+    "brvm",
+    "gse",
+    "jse",
+    "luse",
+    "mse",
+    "nse",
+    "ngx",
+    "use",
+    "zse"
+  ]
+}

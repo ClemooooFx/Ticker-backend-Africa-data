@@ -3,15 +3,15 @@
     "Code": "FTB",
     "Name": "Fairvest Ltd B Shares",
     "M. Cap.": "13.1B",
-    "Close": 6.65,
-    "YTD": "+39.4%"
+    "Close": 6.61,
+    "YTD": "+38.6%"
   },
   {
     "Code": "GRT",
     "Name": "Growthpoint Properties Limited",
-    "M. Cap.": "58.5B",
-    "Close": 17.06,
-    "YTD": "+34%"
+    "M. Cap.": "58.3B",
+    "Close": 16.98,
+    "YTD": "+33.4%"
   },
   {
     "Code": "VIS",
@@ -21,52 +21,52 @@
     "YTD": "+33.3%"
   },
   {
-    "Code": "EMI",
-    "Name": "Emira Property Fund Ltd",
-    "M. Cap.": "7.21B",
-    "Close": 14.4,
-    "YTD": "+32.1%"
-  },
-  {
     "Code": "VKE",
     "Name": "Vukile Property Fund Ltd",
-    "M. Cap.": "32.4B",
-    "Close": 23.65,
-    "YTD": "+31.6%"
+    "M. Cap.": "32.3B",
+    "Close": 23.6,
+    "YTD": "+31.3%"
+  },
+  {
+    "Code": "EMI",
+    "Name": "Emira Property Fund Ltd",
+    "M. Cap.": "7.16B",
+    "Close": 14.3,
+    "YTD": "+31.2%"
   },
   {
     "Code": "RDF",
     "Name": "Redefine Properties Limited",
-    "M. Cap.": "43B",
-    "Close": 5.97,
-    "YTD": "+31.2%"
+    "M. Cap.": "42.5B",
+    "Close": 5.9,
+    "YTD": "+29.7%"
   },
   {
     "Code": "RES",
     "Name": "Resilient REIT Limited",
-    "M. Cap.": "27.3B",
-    "Close": 74.74,
-    "YTD": "+27.2%"
+    "M. Cap.": "27.2B",
+    "Close": 74.55,
+    "YTD": "+26.9%"
   },
   {
     "Code": "DIB",
     "Name": "Dipula Income Fund B",
-    "M. Cap.": "6.8B",
-    "Close": 6.71,
-    "YTD": "+25.9%"
+    "M. Cap.": "6.79B",
+    "Close": 6.7,
+    "YTD": "+25.7%"
   },
   {
     "Code": "SRE",
     "Name": "Sirius Real Estate Ltd",
-    "M. Cap.": "34B",
-    "Close": 22.5,
-    "YTD": "+22.3%"
+    "M. Cap.": "33.7B",
+    "Close": 22.3,
+    "YTD": "+21.2%"
   },
   {
-    "Code": "FFB",
-    "Name": "Fortress REIT Ltd",
-    "M. Cap.": "29.7B",
-    "Close": 24.42,
-    "YTD": "+20.5%"
+    "Code": "OCT",
+    "Name": "OCTODEC INVEST LTD",
+    "M. Cap.": "3.67B",
+    "Close": 13.8,
+    "YTD": "+20%"
   }
 ]

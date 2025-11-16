@@ -2,16 +2,16 @@
   {
     "ticker": "AECI",
     "name": "AECI Mining Explosives",
-    "volume": "198.0",
+    "volume": "270.0",
     "price": 120.0,
     "change": 0.0
   },
   {
     "ticker": "ATEL",
     "name": "Airtel Networks",
-    "volume": "10.0",
-    "price": 137.74,
-    "change": -1.25
+    "volume": "397.0",
+    "price": 137.73,
+    "change": 0.03
   },
   {
     "ticker": "BATA",
@@ -23,29 +23,29 @@
   {
     "ticker": "BATZ",
     "name": "British American Tobacco",
-    "volume": "917.0",
-    "price": 15.5,
+    "volume": "231.0",
+    "price": 15.11,
     "change": 0.0
   },
   {
     "ticker": "CCAF",
     "name": "CEC Africa (CECA) Investments Ltd",
-    "volume": null,
+    "volume": "2807.0",
     "price": 0.83,
-    "change": null
+    "change": 0.0
   },
   {
     "ticker": "CECZ",
     "name": "Copperbelt Energy Corporation",
-    "volume": "3714.0",
+    "volume": "19315.0",
     "price": 22.84,
-    "change": 0.0
+    "change": 0.16
   },
   {
     "ticker": "CHIL",
     "name": "Chilanga Cement",
-    "volume": "135.0",
-    "price": 40.01,
+    "volume": "3140.0",
+    "price": 50.0,
     "change": 0.0
   },
   {
@@ -65,16 +65,16 @@
   {
     "ticker": "MAFS",
     "name": "Madison Financial Services",
-    "volume": null,
+    "volume": "10.0",
     "price": 1.8,
-    "change": null
+    "change": 0.0
   },
   {
     "ticker": "NATB",
     "name": "National Breweries",
-    "volume": null,
+    "volume": "35.0",
     "price": 3.0,
-    "change": null
+    "change": 0.0
   },
   {
     "ticker": "PMDZ",
@@ -86,14 +86,14 @@
   {
     "ticker": "PUMA",
     "name": "Puma Energy",
-    "volume": "300.0",
+    "volume": "638.0",
     "price": 4.28,
-    "change": -0.02
+    "change": 0.0
   },
   {
     "ticker": "REIZ",
     "name": "Real Estate Investments Zambia Plc",
-    "volume": "459.0",
+    "volume": "1000.0",
     "price": 0.09,
     "change": 0.0
   },
@@ -107,9 +107,9 @@
   {
     "ticker": "SCBL",
     "name": "Standard Chartered Bank",
-    "volume": "1922.0",
+    "volume": "214073.0",
     "price": 2.58,
-    "change": -0.01
+    "change": 0.0
   },
   {
     "ticker": "SHOP",
@@ -130,7 +130,7 @@
     "name": "ZCCM-Investment Holdings",
     "volume": null,
     "price": 162.3,
-    "change": 0.3
+    "change": null
   },
   {
     "ticker": "ZFCO",
@@ -142,36 +142,36 @@
   {
     "ticker": "ZMBF",
     "name": "Zambeef Products",
-    "volume": "2520.0",
-    "price": 2.24,
-    "change": 0.0
+    "volume": "1139.0",
+    "price": 2.23,
+    "change": -0.01
   },
   {
     "ticker": "ZMFA",
     "name": "Zambia Metal Fabricators",
-    "volume": "328.0",
-    "price": 65.99,
+    "volume": "700.0",
+    "price": 65.0,
     "change": 0.0
   },
   {
     "ticker": "ZMRE",
     "name": "Zambia Reinsurance",
-    "volume": "14.0",
-    "price": 2.6,
+    "volume": "9.0",
+    "price": 2.7,
     "change": 0.0
   },
   {
     "ticker": "ZNCO",
     "name": "Zambia National Commercial Bank",
-    "volume": "18797.0",
-    "price": 6.08,
+    "volume": "10641.0",
+    "price": 6.04,
     "change": 0.0
   },
   {
     "ticker": "ZSUG",
     "name": "Zambia Sugar",
-    "volume": "5.0",
+    "volume": null,
     "price": 65.24,
-    "change": 0.0
+    "change": null
   }
 ]

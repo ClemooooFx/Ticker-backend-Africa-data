@@ -2,37 +2,37 @@
   {
     "Code": "IVT",
     "Name": "Invicta Holdings Ltd",
-    "M. Cap.": "3.33B",
-    "Close": 37.49,
-    "YTD": "+13.6%"
+    "M. Cap.": "3.35B",
+    "Close": 37.78,
+    "YTD": "+14.5%"
   },
   {
     "Code": "MTU",
     "Name": "Mantengu Mining Ltd",
-    "M. Cap.": "197M",
-    "Close": 0.62,
-    "YTD": "-11.4%"
+    "M. Cap.": "187M",
+    "Close": 0.59,
+    "YTD": "-15.7%"
   },
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "12.2B",
-    "Close": 17.49,
-    "YTD": "+46.2%"
+    "M. Cap.": "12B",
+    "Close": 17.19,
+    "YTD": "+43.7%"
   },
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "785M",
-    "Close": 7.14,
-    "YTD": "+44.5%"
+    "M. Cap.": "769M",
+    "Close": 7.0,
+    "YTD": "+41.7%"
   },
   {
     "Code": "MFL",
     "Name": "Metrofile Holdings Ltd",
-    "M. Cap.": "1.36B",
-    "Close": 3.14,
-    "YTD": "+38.3%"
+    "M. Cap.": "1.37B",
+    "Close": 3.15,
+    "YTD": "+38.8%"
   },
   {
     "Code": "PMV",
@@ -42,18 +42,25 @@
     "YTD": "+23.8%"
   },
   {
-    "Code": "SSK",
-    "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "910M",
-    "Close": 4.84,
-    "YTD": "+21%"
-  },
-  {
     "Code": "NPK",
     "Name": "Nampak Ltd",
     "M. Cap.": "4.24B",
-    "Close": 500.01,
-    "YTD": "+20.2%"
+    "Close": 500.46,
+    "YTD": "+20.3%"
+  },
+  {
+    "Code": "SSK",
+    "Name": "Stefanutti Stocks Holdings Ltd",
+    "M. Cap.": "884M",
+    "Close": 4.7,
+    "YTD": "+17.5%"
+  },
+  {
+    "Code": "BCF",
+    "Name": "Bowler Metcalf Ltd",
+    "M. Cap.": "1.2B",
+    "Close": 16.0,
+    "YTD": "+17.5%"
   },
   {
     "Code": "BIK",
@@ -61,12 +68,5 @@
     "M. Cap.": "132M",
     "Close": 0.16,
     "YTD": "+14.3%"
-  },
-  {
-    "Code": "BAW",
-    "Name": "Barloworld Ltd",
-    "M. Cap.": "22.8B",
-    "Close": 120.0,
-    "YTD": "+10.6%"
   }
 ]

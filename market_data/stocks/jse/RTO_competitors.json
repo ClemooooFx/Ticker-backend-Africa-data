@@ -2,16 +2,16 @@
   {
     "Code": "WVR",
     "Name": "Weaver Fintech Ltd",
-    "M. Cap.": "5.66B",
-    "Close": 53.0,
-    "YTD": "+76.7%"
+    "M. Cap.": "5.76B",
+    "Close": 54.0,
+    "YTD": "+80%"
   },
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
     "M. Cap.": "9.61B",
-    "Close": 11.29,
-    "YTD": "+63.6%"
+    "Close": 11.3,
+    "YTD": "+63.8%"
   },
   {
     "Code": "NCS",
@@ -31,15 +31,15 @@
     "Code": "ADH",
     "Name": "ADvTECH Ltd",
     "M. Cap.": "20B",
-    "Close": 36.02,
-    "YTD": "+6.44%"
+    "Close": 36.0,
+    "YTD": "+6.38%"
   },
   {
     "Code": "COH",
     "Name": "Curro Holdings Limited",
-    "M. Cap.": "7.84B",
-    "Close": 13.88,
-    "YTD": "+6.36%"
+    "M. Cap.": "7.77B",
+    "Close": 13.75,
+    "YTD": "+5.36%"
   },
   {
     "Code": "AON",
@@ -56,17 +56,17 @@
     "YTD": "+4.17%"
   },
   {
-    "Code": "LEW",
-    "Name": "Lewis Group Ltd",
-    "M. Cap.": "4.22B",
-    "Close": 80.96,
-    "YTD": "+1.09%"
-  },
-  {
     "Code": "TFGP",
     "Name": "Foschini Ltd 6.5% Preference Share",
     "M. Cap.": "202000",
     "Close": 1.01,
     "YTD": NaN
+  },
+  {
+    "Code": "LEW",
+    "Name": "Lewis Group Ltd",
+    "M. Cap.": "4.17B",
+    "Close": 80.0,
+    "YTD": "-0.11%"
   }
 ]

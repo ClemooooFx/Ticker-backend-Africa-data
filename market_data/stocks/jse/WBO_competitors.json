@@ -2,9 +2,9 @@
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "910M",
-    "Close": 4.84,
-    "YTD": "+21%"
+    "M. Cap.": "884M",
+    "Close": 4.7,
+    "YTD": "+17.5%"
   },
   {
     "Code": "BIK",
@@ -16,9 +16,9 @@
   {
     "Code": "PPC",
     "Name": "PPC Limited",
-    "M. Cap.": "8.62B",
-    "Close": 5.55,
-    "YTD": "+7.77%"
+    "M. Cap.": "8.48B",
+    "Close": 5.46,
+    "YTD": "+6.02%"
   },
   {
     "Code": "TRL",
@@ -44,16 +44,16 @@
   {
     "Code": "RBX",
     "Name": "Raubex Group Ltd",
-    "M. Cap.": "7.32B",
-    "Close": 40.27,
-    "YTD": "-24%"
+    "M. Cap.": "7.21B",
+    "Close": 39.69,
+    "YTD": "-25.1%"
   },
   {
     "Code": "AFT",
     "Name": "Afrimat Limited",
-    "M. Cap.": "6.72B",
-    "Close": 41.94,
-    "YTD": "-40.9%"
+    "M. Cap.": "6.59B",
+    "Close": 41.1,
+    "YTD": "-42.1%"
   },
   {
     "Code": "AEG",
@@ -65,8 +65,8 @@
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "12.2B",
-    "Close": 17.49,
-    "YTD": "+46.2%"
+    "M. Cap.": "12B",
+    "Close": 17.19,
+    "YTD": "+43.7%"
   }
 ]

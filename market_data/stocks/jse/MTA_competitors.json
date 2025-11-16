@@ -2,71 +2,71 @@
   {
     "Code": "WBC",
     "Name": "WeBuyCars Holdings Ltd",
-    "M. Cap.": "18.8B",
-    "Close": 44.9,
-    "YTD": "+4.3%"
+    "M. Cap.": "18.1B",
+    "Close": 43.35,
+    "YTD": "+0.7%"
   },
   {
     "Code": "BTI",
     "Name": "British American Tobacco Plc",
-    "M. Cap.": "2.19T",
-    "Close": 941.68,
-    "YTD": "+39.2%"
-  },
-  {
-    "Code": "PMR",
-    "Name": "Premier Group Ltd",
-    "M. Cap.": "22.4B",
-    "Close": 173.64,
-    "YTD": "+27.7%"
+    "M. Cap.": "2.13T",
+    "Close": 916.44,
+    "YTD": "+35.5%"
   },
   {
     "Code": "CFR",
     "Name": "Compagnie Financi\\xc3\\xa8re Richemont",
-    "M. Cap.": "1.88T",
-    "Close": 3500.06,
-    "YTD": "+26.1%"
+    "M. Cap.": "1.97T",
+    "Close": 3658.33,
+    "YTD": "+31.8%"
   },
   {
-    "Code": "ARL",
-    "Name": "Astral Foods Ltd",
-    "M. Cap.": "9.82B",
-    "Close": 228.8,
-    "YTD": "+22.4%"
+    "Code": "PMR",
+    "Name": "Premier Group Ltd",
+    "M. Cap.": "22.2B",
+    "Close": 172.54,
+    "YTD": "+26.9%"
   },
   {
     "Code": "RBO",
     "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "3.96B",
-    "Close": 4.42,
-    "YTD": "+21.8%"
+    "M. Cap.": "4.03B",
+    "Close": 4.5,
+    "YTD": "+24%"
+  },
+  {
+    "Code": "ARL",
+    "Name": "Astral Foods Ltd",
+    "M. Cap.": "9.76B",
+    "Close": 227.42,
+    "YTD": "+21.6%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
-    "M. Cap.": "59.4B",
-    "Close": 339.9,
-    "YTD": "+17.6%"
+    "M. Cap.": "59.2B",
+    "Close": 338.51,
+    "YTD": "+17.1%"
   },
   {
     "Code": "ANH",
     "Name": "Anheuser-Busch InBev SA/NV",
-    "M. Cap.": "1.97T",
-    "Close": 1098.3,
-    "YTD": "+17.1%"
+    "M. Cap.": "1.96T",
+    "Close": 1091.35,
+    "YTD": "+16.4%"
   },
   {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
-    "M. Cap.": "6.24B",
-    "Close": 23.74,
-    "YTD": "+14.7%"
+    "M. Cap.": "6.11B",
+    "Close": 23.27,
+    "YTD": "+12.5%"
   },
   {
     "Code": "LBR",
     "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.91B",
-    "Close": 4.78,
-    "YTD": "+9.89%"
+    "M. Cap.": "2.86B",
+    "Close": 4.7,
+    "YTD": "+8.05%"
   }
 ]

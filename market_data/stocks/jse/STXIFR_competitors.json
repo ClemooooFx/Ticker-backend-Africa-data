@@ -2,9 +2,9 @@
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.41B",
-    "Close": 45.5,
-    "YTD": "+107%"
+    "M. Cap.": "2.42B",
+    "Close": 45.7,
+    "YTD": "+108%"
   },
   {
     "Code": "BAC",
@@ -17,56 +17,56 @@
     "Code": "ETFRHO",
     "Name": "1nvest Rhodium ETF",
     "M. Cap.": "1.16B",
-    "Close": 1252.73,
-    "YTD": "+63.3%"
+    "Close": 1243.53,
+    "YTD": "+62.1%"
   },
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "7.59B",
-    "Close": 258.95,
-    "YTD": "+58%"
+    "M. Cap.": "7.44B",
+    "Close": 253.82,
+    "YTD": "+54.9%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.7B",
-    "Close": 259.42,
-    "YTD": "+57.1%"
+    "M. Cap.": "3.64B",
+    "Close": 255.24,
+    "YTD": "+54.6%"
   },
   {
     "Code": "WTOP20",
     "Name": "10X Wealth Top 20 Capped ETF",
-    "M. Cap.": "1.02B",
-    "Close": 15.49,
-    "YTD": "+50.1%"
+    "M. Cap.": "1B",
+    "Close": 15.16,
+    "YTD": "+46.9%"
   },
   {
     "Code": "EPE",
     "Name": "EPE Capital Partners Ltd",
-    "M. Cap.": "2.05B",
-    "Close": 8.0,
-    "YTD": "+48.4%"
+    "M. Cap.": "2.01B",
+    "Close": 7.85,
+    "YTD": "+45.6%"
   },
   {
-    "Code": "NGPLD",
-    "Name": "NewGold Palladium ETF",
-    "M. Cap.": "242M",
-    "Close": 236.99,
-    "YTD": "+45.5%"
+    "Code": "MHB",
+    "Name": "Mahube Infrastructure Limited",
+    "M. Cap.": "331M",
+    "Close": 6.0,
+    "YTD": "+42.5%"
   },
   {
     "Code": "GLD",
     "Name": "New Gold Issuer Limited",
-    "M. Cap.": "38.5B",
-    "Close": 659.03,
-    "YTD": "+45%"
+    "M. Cap.": "37.6B",
+    "Close": 644.19,
+    "YTD": "+41.8%"
   },
   {
     "Code": "ETFGLD",
     "Name": "1nvest Gold ETF",
-    "M. Cap.": "1.91B",
-    "Close": 688.14,
-    "YTD": "+44.9%"
+    "M. Cap.": "1.86B",
+    "Close": 672.5,
+    "YTD": "+41.6%"
   }
 ]

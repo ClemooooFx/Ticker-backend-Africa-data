@@ -2,16 +2,16 @@
   {
     "Code": "LHC",
     "Name": "Life Healthcare Group Holdings",
-    "M. Cap.": "17.9B",
-    "Close": 12.23,
-    "YTD": "-25.3%"
+    "M. Cap.": "17.7B",
+    "Close": 12.03,
+    "YTD": "-26.6%"
   },
   {
     "Code": "ACT",
     "Name": "AfroCentric Inv Corp Ltd",
-    "M. Cap.": "1.15B",
-    "Close": 1.37,
-    "YTD": "-31.2%"
+    "M. Cap.": "1.22B",
+    "Close": 1.45,
+    "YTD": "-27.1%"
   },
   {
     "Code": "XII",
@@ -23,9 +23,9 @@
   {
     "Code": "PHP",
     "Name": "Primary Health Properties",
-    "M. Cap.": "56.7B",
-    "Close": 21.85,
-    "YTD": "-0.59%"
+    "M. Cap.": "56.3B",
+    "Close": 21.69,
+    "YTD": "-1.32%"
   },
   {
     "Code": "ASC",
@@ -44,8 +44,8 @@
   {
     "Code": "APN",
     "Name": "Aspen Pharmacare Holdings",
-    "M. Cap.": "43.5B",
-    "Close": 97.54,
-    "YTD": "-40.8%"
+    "M. Cap.": "42.4B",
+    "Close": 95.01,
+    "YTD": "-42.4%"
   }
 ]

@@ -2,71 +2,71 @@
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "717B",
-    "Close": 1419.5,
-    "YTD": "+237%"
+    "M. Cap.": "690B",
+    "Close": 1365.72,
+    "YTD": "+224%"
   },
   {
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "140B",
-    "Close": 49.58,
-    "YTD": "+231%"
+    "M. Cap.": "136B",
+    "Close": 48.2,
+    "YTD": "+222%"
   },
   {
     "Code": "DRD",
     "Name": "DRD Gold Ltd",
-    "M. Cap.": "42.5B",
-    "Close": 49.0,
-    "YTD": "+196%"
-  },
-  {
-    "Code": "GFI",
-    "Name": "Gold Fields Ltd",
-    "M. Cap.": "646B",
-    "Close": 721.92,
+    "M. Cap.": "41.9B",
+    "Close": 48.34,
     "YTD": "+192%"
   },
   {
     "Code": "NPH",
     "Name": "Northam Platinum Holdings",
-    "M. Cap.": "114B",
-    "Close": 283.96,
-    "YTD": "+192%"
+    "M. Cap.": "111B",
+    "Close": 278.51,
+    "YTD": "+186%"
+  },
+  {
+    "Code": "GFI",
+    "Name": "Gold Fields Ltd",
+    "M. Cap.": "628B",
+    "Close": 702.12,
+    "YTD": "+184%"
   },
   {
     "Code": "PAN",
     "Name": "Pan African Resource plc",
-    "M. Cap.": "51.1B",
-    "Close": 21.89,
-    "YTD": "+167%"
+    "M. Cap.": "49.6B",
+    "Close": 21.24,
+    "YTD": "+159%"
   },
   {
     "Code": "HAR",
     "Name": "Harmony GM Co Ltd",
-    "M. Cap.": "203B",
-    "Close": 318.4,
-    "YTD": "+111%"
+    "M. Cap.": "191B",
+    "Close": 299.6,
+    "YTD": "+98.8%"
   },
   {
     "Code": "VAL",
     "Name": "Valterra Platinum Ltd",
-    "M. Cap.": "295B",
-    "Close": 1113.45,
-    "YTD": "+95.7%"
+    "M. Cap.": "292B",
+    "Close": 1099.17,
+    "YTD": "+93.2%"
   },
   {
     "Code": "MCZ",
     "Name": "MC Mining Limited",
-    "M. Cap.": "973M",
-    "Close": 2.35,
-    "YTD": "+39.1%"
+    "M. Cap.": "994M",
+    "Close": 2.4,
+    "YTD": "+42%"
   },
   {
     "Code": "THA",
     "Name": "Tharisa plc",
-    "M. Cap.": "6.75B",
-    "Close": 22.3,
-    "YTD": "+37.5%"
+    "M. Cap.": "6.66B",
+    "Close": 22.0,
+    "YTD": "+35.6%"
   }
 ]
