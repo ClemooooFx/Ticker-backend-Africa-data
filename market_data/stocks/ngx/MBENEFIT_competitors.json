@@ -1,5 +1,12 @@
 [
   {
+    "Code": "SOVRENINS",
+    "Name": "Sovereign Trust Insurance",
+    "M. Cap.": "45.5B",
+    "Close": 3.2,
+    "YTD": "+186%"
+  },
+  {
     "Code": "NEM",
     "Name": "N.E.M. Insurance Company",
     "M. Cap.": "149B",
@@ -7,18 +14,11 @@
     "YTD": "+172%"
   },
   {
-    "Code": "SOVRENINS",
-    "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "41.4B",
-    "Close": 2.91,
-    "YTD": "+160%"
-  },
-  {
     "Code": "AIICO",
     "Name": "Aiico Insurance Plc",
-    "M. Cap.": "134B",
-    "Close": 3.65,
-    "YTD": "+155%"
+    "M. Cap.": "128B",
+    "Close": 3.5,
+    "YTD": "+145%"
   },
   {
     "Code": "SFSREIT",
@@ -58,9 +58,9 @@
   {
     "Code": "ROYALEX",
     "Name": "Royal Exchange",
-    "M. Cap.": "16.5B",
-    "Close": 2.0,
-    "YTD": "+100%"
+    "M. Cap.": "16.9B",
+    "Close": 2.05,
+    "YTD": "+105%"
   },
   {
     "Code": "NGXGROUP",

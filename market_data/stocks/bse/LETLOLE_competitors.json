@@ -9,9 +9,9 @@
   {
     "Code": "NEWGOLD",
     "Name": "NewGold ETF",
-    "M. Cap.": "32.8B",
-    "Close": 561.4,
-    "YTD": "+66.8%"
+    "M. Cap.": "32.2B",
+    "Close": 550.18,
+    "YTD": "+63.5%"
   },
   {
     "Code": "BBS",
@@ -63,10 +63,10 @@
     "YTD": "+5.67%"
   },
   {
-    "Code": "BIHL",
-    "Name": "Botswana Insurance Holdings Ltd",
-    "M. Cap.": "6.56B",
-    "Close": 23.02,
-    "YTD": "+2.31%"
+    "Code": "RDCP",
+    "Name": "RDC Properties Limited",
+    "M. Cap.": "2.37B",
+    "Close": 2.5,
+    "YTD": "+4.17%"
   }
 ]

@@ -2,9 +2,9 @@
   {
     "Code": "CWG",
     "Name": "Computer Warehouse Group",
-    "M. Cap.": "42.9B",
-    "Close": 17.0,
-    "YTD": "+121%"
+    "M. Cap.": "44.2B",
+    "Close": 17.5,
+    "YTD": "+127%"
   },
   {
     "Code": "TRIPPLEG",
@@ -21,24 +21,24 @@
     "YTD": "+104%"
   },
   {
-    "Code": "CHAMS",
-    "Name": "Chams Plc",
-    "M. Cap.": "16B",
-    "Close": 3.4,
-    "YTD": "+70.9%"
-  },
-  {
     "Code": "OMATEK",
     "Name": "Omatek Ventures",
-    "M. Cap.": "3.56B",
-    "Close": 1.21,
+    "M. Cap.": "3.68B",
+    "Close": 1.25,
+    "YTD": "+71.2%"
+  },
+  {
+    "Code": "CHAMS",
+    "Name": "Chams Plc",
+    "M. Cap.": "15.5B",
+    "Close": 3.3,
     "YTD": "+65.8%"
   },
   {
     "Code": "LEGENDINT",
     "Name": "Legend Internet",
-    "M. Cap.": "11.5B",
-    "Close": 5.74,
-    "YTD": "-7.42%"
+    "M. Cap.": "12.1B",
+    "Close": 6.05,
+    "YTD": "-2.42%"
   }
 ]

@@ -2,9 +2,9 @@
   {
     "Code": "EUNISELL",
     "Name": "Eunisell Interlinked Plc",
-    "M. Cap.": "17.2B",
-    "Close": 72.8,
-    "YTD": "+278%"
+    "M. Cap.": "18.7B",
+    "Close": 79.0,
+    "YTD": "+310%"
   },
   {
     "Code": "ABCTRANS",
@@ -23,9 +23,9 @@
   {
     "Code": "ACADEMY",
     "Name": "Academy Press",
-    "M. Cap.": "6.12B",
-    "Close": 6.75,
-    "YTD": "+125%"
+    "M. Cap.": "6.08B",
+    "Close": 6.7,
+    "YTD": "+123%"
   },
   {
     "Code": "REDSTAREX",
@@ -44,9 +44,16 @@
   {
     "Code": "IKEJAHOTEL",
     "Name": "Ikeja Hotel Plc",
-    "M. Cap.": "38.9B",
-    "Close": 18.0,
-    "YTD": "+60%"
+    "M. Cap.": "42.2B",
+    "Close": 19.5,
+    "YTD": "+73.3%"
+  },
+  {
+    "Code": "DAARCOMM",
+    "Name": "Daar Communications",
+    "M. Cap.": "12.1B",
+    "Close": 1.01,
+    "YTD": "+60.3%"
   },
   {
     "Code": "TRANSEXPR",
@@ -54,13 +61,6 @@
     "M. Cap.": "1.07B",
     "Close": 2.15,
     "YTD": "+55.8%"
-  },
-  {
-    "Code": "DAARCOMM",
-    "Name": "Daar Communications",
-    "M. Cap.": "11.4B",
-    "Close": 0.95,
-    "YTD": "+50.8%"
   },
   {
     "Code": "TRANSCOHOT",

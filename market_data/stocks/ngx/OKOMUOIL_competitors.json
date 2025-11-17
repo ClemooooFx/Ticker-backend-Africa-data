@@ -2,16 +2,9 @@
   {
     "Code": "ELLAHLAKES",
     "Name": "Ellah Lakes Plc",
-    "M. Cap.": "47.3B",
-    "Close": 12.25,
-    "YTD": "+288%"
-  },
-  {
-    "Code": "CHAMPION",
-    "Name": "Champion Breweries",
-    "M. Cap.": "130B",
-    "Close": 14.5,
-    "YTD": "+281%"
+    "M. Cap.": "48.6B",
+    "Close": 12.6,
+    "YTD": "+299%"
   },
   {
     "Code": "VITAFOAM",
@@ -19,6 +12,13 @@
     "M. Cap.": "109B",
     "Close": 87.0,
     "YTD": "+278%"
+  },
+  {
+    "Code": "CHAMPION",
+    "Name": "Champion Breweries",
+    "M. Cap.": "128B",
+    "Close": 14.35,
+    "YTD": "+277%"
   },
   {
     "Code": "NASCON",
@@ -44,9 +44,9 @@
   {
     "Code": "FTNCOCOA",
     "Name": "FTN Cocoa Processors",
-    "M. Cap.": "20.5B",
-    "Close": 5.25,
-    "YTD": "+188%"
+    "M. Cap.": "20.6B",
+    "Close": 5.27,
+    "YTD": "+190%"
   },
   {
     "Code": "CADBURY",
@@ -63,10 +63,10 @@
     "YTD": "+142%"
   },
   {
-    "Code": "ENAMELWA",
-    "Name": "Nigerian Enamelware Plc",
-    "M. Cap.": "3.42B",
-    "Close": 45.0,
-    "YTD": "+133%"
+    "Code": "UNILEVER",
+    "Name": "Unilever Nigeria",
+    "M. Cap.": "419B",
+    "Close": 73.0,
+    "YTD": "+122%"
   }
 ]

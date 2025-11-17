@@ -1,17 +1,17 @@
 [
   {
+    "Code": "TURN",
+    "Name": "Turnall Holdings Limited",
+    "M. Cap.": "59.6M",
+    "Close": 0.12,
+    "YTD": "+100%"
+  },
+  {
     "Code": "GBH",
     "Name": "General Beltings Holdings Limited",
     "M. Cap.": "54.2M",
     "Close": 0.101,
     "YTD": "+53%"
-  },
-  {
-    "Code": "TURN",
-    "Name": "Turnall Holdings Limited",
-    "M. Cap.": "44.8M",
-    "Close": 0.0902,
-    "YTD": "+50.3%"
   },
   {
     "Code": "CFI",
@@ -30,9 +30,9 @@
   {
     "Code": "TSL",
     "Name": "TSL Limited",
-    "M. Cap.": "781M",
-    "Close": 2.1925,
-    "YTD": "-1.35%"
+    "M. Cap.": "784M",
+    "Close": 2.2,
+    "YTD": "-1.01%"
   },
   {
     "Code": "PROL",
@@ -45,7 +45,7 @@
     "Code": "MSHL",
     "Name": "Masimba Holdings Limited",
     "M. Cap.": "435M",
-    "Close": 1.7999,
+    "Close": 1.799938,
     "YTD": "-40%"
   },
   {
@@ -58,15 +58,15 @@
   {
     "Code": "NPKZ",
     "Name": "Nampak Zimbabwe Limited",
-    "M. Cap.": "491M",
-    "Close": 0.65,
-    "YTD": "-50%"
+    "M. Cap.": "544M",
+    "Close": 0.72,
+    "YTD": "-44.6%"
   },
   {
     "Code": "ARTD",
     "Name": "Amalgamated Regional Trading",
     "M. Cap.": "31.8M",
-    "Close": 0.0682,
+    "Close": 0.068171,
     "YTD": "-79.1%"
   }
 ]

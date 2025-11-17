@@ -2,16 +2,16 @@
   {
     "Code": "NCR",
     "Name": "NCR Nigeria",
-    "M. Cap.": "2.76B",
-    "Close": 25.6,
-    "YTD": "+412%"
+    "M. Cap.": "3.04B",
+    "Close": 28.15,
+    "YTD": "+463%"
   },
   {
     "Code": "CWG",
     "Name": "Computer Warehouse Group",
-    "M. Cap.": "42.9B",
-    "Close": 17.0,
-    "YTD": "+121%"
+    "M. Cap.": "44.2B",
+    "Close": 17.5,
+    "YTD": "+127%"
   },
   {
     "Code": "TRIPPLEG",
@@ -30,15 +30,15 @@
   {
     "Code": "OMATEK",
     "Name": "Omatek Ventures",
-    "M. Cap.": "3.56B",
-    "Close": 1.21,
-    "YTD": "+65.8%"
+    "M. Cap.": "3.68B",
+    "Close": 1.25,
+    "YTD": "+71.2%"
   },
   {
     "Code": "LEGENDINT",
     "Name": "Legend Internet",
-    "M. Cap.": "11.5B",
-    "Close": 5.74,
-    "YTD": "-7.42%"
+    "M. Cap.": "12.1B",
+    "Close": 6.05,
+    "YTD": "-2.42%"
   }
 ]
