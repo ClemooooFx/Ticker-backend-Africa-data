@@ -2,30 +2,37 @@
   {
     "Code": "UCHM",
     "Name": "Uchumi Supermarket Limited",
-    "M. Cap.": "190M",
-    "Close": 0.52,
-    "YTD": "+206%"
+    "M. Cap.": "208M",
+    "Close": 0.57,
+    "YTD": "+235%"
   },
   {
     "Code": "CGEN",
     "Name": "Car and General Kenya Limited",
-    "M. Cap.": "4.67B",
-    "Close": 58.25,
-    "YTD": "+156%"
+    "M. Cap.": "4.77B",
+    "Close": 59.5,
+    "YTD": "+162%"
   },
   {
     "Code": "XPRS",
     "Name": "Express Kenya Limited",
-    "M. Cap.": "340M",
-    "Close": 7.12,
-    "YTD": "+97.8%"
+    "M. Cap.": "329M",
+    "Close": 6.9,
+    "YTD": "+91.7%"
   },
   {
     "Code": "SGL",
     "Name": "Standard Group Limited",
-    "M. Cap.": "508M",
-    "Close": 6.22,
-    "YTD": "+23.9%"
+    "M. Cap.": "521M",
+    "Close": 6.38,
+    "YTD": "+27.1%"
+  },
+  {
+    "Code": "TPSE",
+    "Name": "TPS Eastern Africa Serena Limited",
+    "M. Cap.": "3.1B",
+    "Close": 17.0,
+    "YTD": "+14.1%"
   },
   {
     "Code": "SCAN",
@@ -33,13 +40,6 @@
     "M. Cap.": "1.22B",
     "Close": 2.82,
     "YTD": "+13.7%"
-  },
-  {
-    "Code": "TPSE",
-    "Name": "TPS Eastern Africa Serena Limited",
-    "M. Cap.": "3.08B",
-    "Close": 16.9,
-    "YTD": "+13.4%"
   },
   {
     "Code": "HBE",
@@ -51,15 +51,15 @@
   {
     "Code": "NMG",
     "Name": "Nation Media Group",
-    "M. Cap.": "2.45B",
-    "Close": 12.9,
-    "YTD": "-10.4%"
+    "M. Cap.": "2.53B",
+    "Close": 13.3,
+    "YTD": "-7.64%"
   },
   {
     "Code": "NBV",
     "Name": "Nairobi Business Ventures Ltd",
-    "M. Cap.": "2.03B",
-    "Close": 1.5,
-    "YTD": "-25.4%"
+    "M. Cap.": "2.06B",
+    "Close": 1.52,
+    "YTD": "-24.4%"
   }
 ]

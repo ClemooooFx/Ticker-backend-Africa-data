@@ -2,9 +2,9 @@
   {
     "Code": "MBENEFIT",
     "Name": "Mutual Benefits Assurance",
-    "M. Cap.": "71.2B",
-    "Close": 3.55,
-    "YTD": "+482%"
+    "M. Cap.": "67.8B",
+    "Close": 3.38,
+    "YTD": "+454%"
   },
   {
     "Code": "NEM",
@@ -17,8 +17,8 @@
     "Code": "AIICO",
     "Name": "Aiico Insurance Plc",
     "M. Cap.": "128B",
-    "Close": 3.5,
-    "YTD": "+145%"
+    "Close": 3.49,
+    "YTD": "+144%"
   },
   {
     "Code": "SFSREIT",
@@ -30,16 +30,16 @@
   {
     "Code": "CUSTODIAN",
     "Name": "Custodian & Allied Plc",
-    "M. Cap.": "232B",
-    "Close": 39.5,
-    "YTD": "+131%"
+    "M. Cap.": "235B",
+    "Close": 39.9,
+    "YTD": "+133%"
   },
   {
     "Code": "WEMABANK",
     "Name": "Wema Bank",
-    "M. Cap.": "798B",
-    "Close": 19.9,
-    "YTD": "+119%"
+    "M. Cap.": "794B",
+    "Close": 19.8,
+    "YTD": "+118%"
   },
   {
     "Code": "ABBEYBDS",
@@ -51,9 +51,9 @@
   {
     "Code": "ASOSAVINGS",
     "Name": "Aso Savings & Loans",
-    "M. Cap.": "15.2B",
-    "Close": 1.03,
-    "YTD": "+106%"
+    "M. Cap.": "15.8B",
+    "Close": 1.07,
+    "YTD": "+114%"
   },
   {
     "Code": "ROYALEX",
@@ -63,10 +63,10 @@
     "YTD": "+105%"
   },
   {
-    "Code": "NGXGROUP",
-    "Name": "Nigerian Exchange Group",
-    "M. Cap.": "103B",
-    "Close": 52.6,
-    "YTD": "+93%"
+    "Code": "UNIVINSURE",
+    "Name": "Universal Insurance Company",
+    "M. Cap.": "20.8B",
+    "Close": 1.3,
+    "YTD": "+97%"
   }
 ]

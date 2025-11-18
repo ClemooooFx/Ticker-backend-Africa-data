@@ -2,71 +2,71 @@
   {
     "Code": "GLD",
     "Name": "Absa NewGold ETF",
-    "M. Cap.": "2.07B",
-    "Close": 5180.0,
-    "YTD": "+58.9%"
+    "M. Cap.": "2B",
+    "Close": 5005.0,
+    "YTD": "+53.5%"
   },
   {
     "Code": "CTUM",
     "Name": "Centum Investment Company",
-    "M. Cap.": "10.1B",
-    "Close": 15.15,
-    "YTD": "+53.3%"
+    "M. Cap.": "9.95B",
+    "Close": 14.95,
+    "YTD": "+51.3%"
   },
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "5.11B",
-    "Close": 19.7,
-    "YTD": "+228%"
+    "M. Cap.": "5.03B",
+    "Close": 19.4,
+    "YTD": "+223%"
   },
   {
     "Code": "HAFR",
     "Name": "Home Afrika Limited",
-    "M. Cap.": "454M",
-    "Close": 1.12,
-    "YTD": "+203%"
+    "M. Cap.": "458M",
+    "Close": 1.13,
+    "YTD": "+205%"
   },
   {
     "Code": "KNRE",
     "Name": "Kenya Re-Insurance Corporation Ltd",
-    "M. Cap.": "17.6B",
-    "Close": 3.15,
-    "YTD": "+146%"
+    "M. Cap.": "17.5B",
+    "Close": 3.13,
+    "YTD": "+145%"
   },
   {
     "Code": "HFCK",
     "Name": "HF Group Limited",
-    "M. Cap.": "19.6B",
-    "Close": 10.4,
-    "YTD": "+131%"
+    "M. Cap.": "19.8B",
+    "Close": 10.5,
+    "YTD": "+133%"
   },
   {
     "Code": "CIC",
     "Name": "CIC Insurance Group Limited",
-    "M. Cap.": "12.4B",
-    "Close": 4.76,
-    "YTD": "+121%"
+    "M. Cap.": "12.2B",
+    "Close": 4.66,
+    "YTD": "+117%"
   },
   {
     "Code": "JUB",
     "Name": "Jubilee Holdings Limited",
-    "M. Cap.": "23.4B",
-    "Close": 322.75,
-    "YTD": "+86%"
-  },
-  {
-    "Code": "SLAM",
-    "Name": "Sanlam Kenya Plc",
-    "M. Cap.": "1.25B",
-    "Close": 8.68,
-    "YTD": "+75.4%"
+    "M. Cap.": "23.5B",
+    "Close": 324.25,
+    "YTD": "+86.9%"
   },
   {
     "Code": "NCBA",
     "Name": "NCBA Group Plc",
     "M. Cap.": "138B",
-    "Close": 84.0,
-    "YTD": "+74.3%"
+    "Close": 83.75,
+    "YTD": "+73.8%"
+  },
+  {
+    "Code": "SLAM",
+    "Name": "Sanlam Kenya Plc",
+    "M. Cap.": "1.23B",
+    "Close": 8.54,
+    "YTD": "+72.5%"
   }
 ]

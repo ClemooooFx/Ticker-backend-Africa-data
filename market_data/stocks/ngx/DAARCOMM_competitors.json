@@ -2,9 +2,9 @@
   {
     "Code": "TIP",
     "Name": "The Initiates Plc",
-    "M. Cap.": "9.79B",
-    "Close": 11.0,
-    "YTD": "+340%"
+    "M. Cap.": "10.4B",
+    "Close": 11.65,
+    "YTD": "+366%"
   },
   {
     "Code": "EUNISELL",
@@ -35,6 +35,13 @@
     "YTD": "+123%"
   },
   {
+    "Code": "CAVERTON",
+    "Name": "Caverton Offshore Support Group",
+    "M. Cap.": "17.3B",
+    "Close": 5.15,
+    "YTD": "+122%"
+  },
+  {
     "Code": "REDSTAREX",
     "Name": "Red Star Express Plc",
     "M. Cap.": "8.78B",
@@ -42,18 +49,11 @@
     "YTD": "+109%"
   },
   {
-    "Code": "CAVERTON",
-    "Name": "Caverton Offshore Support Group",
-    "M. Cap.": "15.7B",
-    "Close": 4.7,
-    "YTD": "+103%"
-  },
-  {
     "Code": "IKEJAHOTEL",
     "Name": "Ikeja Hotel Plc",
-    "M. Cap.": "42.2B",
-    "Close": 19.5,
-    "YTD": "+73.3%"
+    "M. Cap.": "44.3B",
+    "Close": 20.5,
+    "YTD": "+82.2%"
   },
   {
     "Code": "TRANSEXPR",

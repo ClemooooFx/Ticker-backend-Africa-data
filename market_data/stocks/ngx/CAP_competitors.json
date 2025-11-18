@@ -28,6 +28,13 @@
     "YTD": "+141%"
   },
   {
+    "Code": "UACN",
+    "Name": "UAC of Nigeria",
+    "M. Cap.": "184B",
+    "Close": 63.05,
+    "YTD": "+100%"
+  },
+  {
     "Code": "MEYER",
     "Name": "Meyer Plc",
     "M. Cap.": "8.58B",
@@ -47,13 +54,6 @@
     "M. Cap.": "10.7B",
     "Close": 37.0,
     "YTD": "+85%"
-  },
-  {
-    "Code": "UACN",
-    "Name": "UAC of Nigeria",
-    "M. Cap.": "170B",
-    "Close": 58.1,
-    "YTD": "+84.7%"
   },
   {
     "Code": "BUACEMENT",
