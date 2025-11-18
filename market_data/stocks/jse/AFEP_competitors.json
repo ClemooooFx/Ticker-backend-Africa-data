@@ -2,71 +2,71 @@
   {
     "Code": "SOLBE1",
     "Name": "BEE - Sasol Limited",
-    "M. Cap.": "412M",
-    "Close": 65.0,
-    "YTD": "+54.8%"
+    "M. Cap.": "538M",
+    "Close": 85.0,
+    "YTD": "+102%"
   },
   {
     "Code": "SOL",
     "Name": "Sasol Limited",
-    "M. Cap.": "77.3B",
-    "Close": 120.0,
-    "YTD": "+44.1%"
+    "M. Cap.": "81.1B",
+    "Close": 125.82,
+    "YTD": "+51.1%"
   },
   {
     "Code": "OMN",
     "Name": "Omnia Holdings Ltd",
-    "M. Cap.": "12.4B",
-    "Close": 76.51,
-    "YTD": "-2.04%"
+    "M. Cap.": "12.6B",
+    "Close": 77.69,
+    "YTD": "-0.52%"
   },
   {
     "Code": "ISO",
     "Name": "ASP Isotopes",
-    "M. Cap.": "16.1B",
-    "Close": 146.0,
-    "YTD": "-32.7%"
+    "M. Cap.": "14.9B",
+    "Close": 134.6,
+    "YTD": "-38%"
+  },
+  {
+    "Code": "SSW",
+    "Name": "Sibanye Stillwater Limited",
+    "M. Cap.": "139B",
+    "Close": 48.97,
+    "YTD": "+227%"
   },
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
     "M. Cap.": "690B",
-    "Close": 1365.72,
-    "YTD": "+224%"
-  },
-  {
-    "Code": "SSW",
-    "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "136B",
-    "Close": 48.2,
-    "YTD": "+222%"
+    "Close": 1367.0,
+    "YTD": "+225%"
   },
   {
     "Code": "DRD",
     "Name": "DRD Gold Ltd",
-    "M. Cap.": "41.9B",
-    "Close": 48.34,
-    "YTD": "+192%"
+    "M. Cap.": "42.5B",
+    "Close": 49.0,
+    "YTD": "+196%"
   },
   {
     "Code": "NPH",
     "Name": "Northam Platinum Holdings",
     "M. Cap.": "111B",
-    "Close": 278.51,
+    "Close": 278.36,
     "YTD": "+186%"
   },
   {
     "Code": "GFI",
     "Name": "Gold Fields Ltd",
-    "M. Cap.": "628B",
-    "Close": 702.12,
-    "YTD": "+184%"
+    "M. Cap.": "625B",
+    "Close": 697.93,
+    "YTD": "+182%"
   },
   {
     "Code": "PAN",
     "Name": "Pan African Resource plc",
-    "M. Cap.": "49.6B",
-    "Close": 21.24,
-    "YTD": "+159%"
+    "M. Cap.": "49.7B",
+    "Close": 21.3,
+    "YTD": "+160%"
   }
 ]

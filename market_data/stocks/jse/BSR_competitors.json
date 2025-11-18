@@ -2,9 +2,9 @@
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "884M",
-    "Close": 4.7,
-    "YTD": "+17.5%"
+    "M. Cap.": "899M",
+    "Close": 4.78,
+    "YTD": "+19.5%"
   },
   {
     "Code": "BIK",
@@ -16,9 +16,9 @@
   {
     "Code": "PPC",
     "Name": "PPC Limited",
-    "M. Cap.": "8.48B",
-    "Close": 5.46,
-    "YTD": "+6.02%"
+    "M. Cap.": "8.37B",
+    "Close": 5.39,
+    "YTD": "+4.66%"
   },
   {
     "Code": "TRL",
@@ -30,9 +30,9 @@
   {
     "Code": "SEP",
     "Name": "Sephaku Holdings Limited",
-    "M. Cap.": "407M",
-    "Close": 1.6,
-    "YTD": "-14%"
+    "M. Cap.": "405M",
+    "Close": 1.59,
+    "YTD": "-14.5%"
   },
   {
     "Code": "CGR",
@@ -44,29 +44,29 @@
   {
     "Code": "RBX",
     "Name": "Raubex Group Ltd",
-    "M. Cap.": "7.21B",
-    "Close": 39.69,
-    "YTD": "-25.1%"
+    "M. Cap.": "7.22B",
+    "Close": 39.75,
+    "YTD": "-25%"
   },
   {
     "Code": "WBO",
     "Name": "Wilson Bayly Hlm-Ovc Ltd",
-    "M. Cap.": "10.6B",
-    "Close": 148.71,
-    "YTD": "-36.3%"
+    "M. Cap.": "10.7B",
+    "Close": 150.5,
+    "YTD": "-35.5%"
   },
   {
     "Code": "AFT",
     "Name": "Afrimat Limited",
-    "M. Cap.": "6.59B",
-    "Close": 41.1,
-    "YTD": "-42.1%"
+    "M. Cap.": "6.64B",
+    "Close": 41.41,
+    "YTD": "-41.6%"
   },
   {
     "Code": "AEG",
     "Name": "Aveng Group Limited",
-    "M. Cap.": "562M",
-    "Close": 4.42,
-    "YTD": "-64.9%"
+    "M. Cap.": "559M",
+    "Close": 4.4,
+    "YTD": "-65.1%"
   }
 ]

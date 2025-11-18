@@ -9,9 +9,9 @@
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.61B",
-    "Close": 11.3,
-    "YTD": "+63.8%"
+    "M. Cap.": "9.63B",
+    "Close": 11.32,
+    "YTD": "+64.1%"
   },
   {
     "Code": "NCS",
@@ -30,30 +30,23 @@
   {
     "Code": "RTN",
     "Name": "Rex Trueform Group -N-",
-    "M. Cap.": "254M",
-    "Close": 12.51,
-    "YTD": "+6.74%"
-  },
-  {
-    "Code": "ADH",
-    "Name": "ADvTECH Ltd",
-    "M. Cap.": "20B",
-    "Close": 36.0,
-    "YTD": "+6.38%"
+    "M. Cap.": "274M",
+    "Close": 13.5,
+    "YTD": "+15.2%"
   },
   {
     "Code": "COH",
     "Name": "Curro Holdings Limited",
-    "M. Cap.": "7.77B",
-    "Close": 13.75,
-    "YTD": "+5.36%"
+    "M. Cap.": "7.94B",
+    "Close": 14.05,
+    "YTD": "+7.66%"
   },
   {
-    "Code": "AON",
-    "Name": "African & Overseas Enterprises N-Shares",
-    "M. Cap.": "145M",
-    "Close": 14.15,
-    "YTD": "+4.27%"
+    "Code": "ADH",
+    "Name": "ADvTECH Ltd",
+    "M. Cap.": "20.2B",
+    "Close": 36.43,
+    "YTD": "+7.65%"
   },
   {
     "Code": "AOVP",
@@ -61,6 +54,13 @@
     "M. Cap.": "2.89M",
     "Close": 10.5,
     "YTD": "+4.17%"
+  },
+  {
+    "Code": "AON",
+    "Name": "African & Overseas Enterprises N-Shares",
+    "M. Cap.": "141M",
+    "Close": 13.81,
+    "YTD": "+1.77%"
   },
   {
     "Code": "TFGP",

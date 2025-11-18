@@ -2,71 +2,71 @@
   {
     "Code": "YRK",
     "Name": "York Timber Holdings Ltd",
-    "M. Cap.": "1.05B",
-    "Close": 2.21,
-    "YTD": "-3.91%"
+    "M. Cap.": "1.02B",
+    "Close": 2.16,
+    "YTD": "-6.09%"
   },
   {
     "Code": "MNP",
     "Name": "Mondi plc",
-    "M. Cap.": "83B",
-    "Close": 188.0,
-    "YTD": "-32.3%"
+    "M. Cap.": "83.4B",
+    "Close": 189.0,
+    "YTD": "-31.9%"
+  },
+  {
+    "Code": "SSW",
+    "Name": "Sibanye Stillwater Limited",
+    "M. Cap.": "139B",
+    "Close": 48.97,
+    "YTD": "+227%"
   },
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
     "M. Cap.": "690B",
-    "Close": 1365.72,
-    "YTD": "+224%"
-  },
-  {
-    "Code": "SSW",
-    "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "136B",
-    "Close": 48.2,
-    "YTD": "+222%"
+    "Close": 1367.0,
+    "YTD": "+225%"
   },
   {
     "Code": "DRD",
     "Name": "DRD Gold Ltd",
-    "M. Cap.": "41.9B",
-    "Close": 48.34,
-    "YTD": "+192%"
+    "M. Cap.": "42.5B",
+    "Close": 49.0,
+    "YTD": "+196%"
   },
   {
     "Code": "NPH",
     "Name": "Northam Platinum Holdings",
     "M. Cap.": "111B",
-    "Close": 278.51,
+    "Close": 278.36,
     "YTD": "+186%"
   },
   {
     "Code": "GFI",
     "Name": "Gold Fields Ltd",
-    "M. Cap.": "628B",
-    "Close": 702.12,
-    "YTD": "+184%"
+    "M. Cap.": "625B",
+    "Close": 697.93,
+    "YTD": "+182%"
   },
   {
     "Code": "PAN",
     "Name": "Pan African Resource plc",
-    "M. Cap.": "49.6B",
-    "Close": 21.24,
-    "YTD": "+159%"
+    "M. Cap.": "49.7B",
+    "Close": 21.3,
+    "YTD": "+160%"
   },
   {
     "Code": "IMP",
     "Name": "Impala Platinum Hlgs Ltd",
-    "M. Cap.": "174B",
-    "Close": 191.87,
-    "YTD": "+119%"
+    "M. Cap.": "173B",
+    "Close": 191.37,
+    "YTD": "+118%"
   },
   {
-    "Code": "HAR",
-    "Name": "Harmony GM Co Ltd",
-    "M. Cap.": "191B",
-    "Close": 299.6,
-    "YTD": "+98.8%"
+    "Code": "SOLBE1",
+    "Name": "BEE - Sasol Limited",
+    "M. Cap.": "538M",
+    "Close": 85.0,
+    "YTD": "+102%"
   }
 ]

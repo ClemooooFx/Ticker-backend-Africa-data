@@ -2,23 +2,23 @@
   {
     "Code": "IMP",
     "Name": "Impala Platinum Hlgs Ltd",
-    "M. Cap.": "174B",
-    "Close": 191.87,
-    "YTD": "+119%"
+    "M. Cap.": "173B",
+    "Close": 191.37,
+    "YTD": "+118%"
   },
   {
     "Code": "SDL",
     "Name": "Southern Palladium Ltd",
-    "M. Cap.": "1.28B",
-    "Close": 12.0,
-    "YTD": "+71.4%"
+    "M. Cap.": "1.38B",
+    "Close": 12.9,
+    "YTD": "+84.3%"
   },
   {
     "Code": "EUZ",
     "Name": "Europa Metals Limited",
-    "M. Cap.": "86.8M",
-    "Close": 0.85,
-    "YTD": "+66.7%"
+    "M. Cap.": "81.7M",
+    "Close": 0.8,
+    "YTD": "+56.9%"
   },
   {
     "Code": "ISB",
@@ -30,23 +30,23 @@
   {
     "Code": "KIO",
     "Name": "Kumba Iron Ore Ltd",
-    "M. Cap.": "107B",
-    "Close": 331.79,
-    "YTD": "+1.7%"
-  },
-  {
-    "Code": "ACL",
-    "Name": "ArcelorMittal SA Limited",
-    "M. Cap.": "1.47B",
-    "Close": 1.29,
-    "YTD": "-3.73%"
+    "M. Cap.": "109B",
+    "Close": 337.12,
+    "YTD": "+3.33%"
   },
   {
     "Code": "APH",
     "Name": "Alphamin Resources Corp",
     "M. Cap.": "16.6B",
-    "Close": 12.99,
-    "YTD": "-4.49%"
+    "Close": 13.01,
+    "YTD": "-4.34%"
+  },
+  {
+    "Code": "ACL",
+    "Name": "ArcelorMittal SA Limited",
+    "M. Cap.": "1.46B",
+    "Close": 1.28,
+    "YTD": "-4.48%"
   },
   {
     "Code": "CPR",
@@ -56,17 +56,17 @@
     "YTD": "-72.8%"
   },
   {
+    "Code": "SSW",
+    "Name": "Sibanye Stillwater Limited",
+    "M. Cap.": "139B",
+    "Close": 48.97,
+    "YTD": "+227%"
+  },
+  {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
     "M. Cap.": "690B",
-    "Close": 1365.72,
-    "YTD": "+224%"
-  },
-  {
-    "Code": "SSW",
-    "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "136B",
-    "Close": 48.2,
-    "YTD": "+222%"
+    "Close": 1367.0,
+    "YTD": "+225%"
   }
 ]

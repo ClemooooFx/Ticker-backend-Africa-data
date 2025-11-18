@@ -2,30 +2,30 @@
   {
     "Code": "BOAM",
     "Name": "Bank of Africa - Mali",
-    "M. Cap.": "103B",
-    "Close": 3770,
-    "YTD": "+99.5%"
+    "M. Cap.": "104B",
+    "Close": 3795,
+    "YTD": "+101%"
   },
   {
     "Code": "ECOC",
     "Name": "Ecobank C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "839B",
-    "Close": 15240,
-    "YTD": "+73.3%"
+    "M. Cap.": "875B",
+    "Close": 15900,
+    "YTD": "+80.8%"
   },
   {
     "Code": "NSBC",
     "Name": "Nsia Banque C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "292B",
-    "Close": 11820,
-    "YTD": "+66.7%"
+    "M. Cap.": "294B",
+    "Close": 11900,
+    "YTD": "+67.8%"
   },
   {
     "Code": "SIBC",
     "Name": "Societe Ivoirienne de Banque",
-    "M. Cap.": "562B",
-    "Close": 5620,
-    "YTD": "+58.1%"
+    "M. Cap.": "570B",
+    "Close": 5700,
+    "YTD": "+60.3%"
   },
   {
     "Code": "BOAC",
@@ -35,11 +35,18 @@
     "YTD": "+45.2%"
   },
   {
+    "Code": "ETIT",
+    "Name": "Ecobank Transnational Inc",
+    "M. Cap.": "416B",
+    "Close": 23,
+    "YTD": "+43.8%"
+  },
+  {
     "Code": "BICC",
     "Name": "BICI C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "332B",
-    "Close": 19900,
-    "YTD": "+42.1%"
+    "M. Cap.": "325B",
+    "Close": 19500,
+    "YTD": "+39.3%"
   },
   {
     "Code": "BOAB",
@@ -49,24 +56,17 @@
     "YTD": "+38.4%"
   },
   {
-    "Code": "ETIT",
-    "Name": "Ecobank Transnational Inc",
-    "M. Cap.": "398B",
-    "Close": 22,
-    "YTD": "+37.5%"
+    "Code": "SGBC",
+    "Name": "SGB C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
+    "M. Cap.": "849B",
+    "Close": 27300,
+    "YTD": "+30%"
   },
   {
     "Code": "ORGT",
     "Name": "Oragroup Togo",
-    "M. Cap.": "177B",
-    "Close": 2550,
-    "YTD": "+32.8%"
-  },
-  {
-    "Code": "SGBC",
-    "Name": "SGB C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "840B",
-    "Close": 27000,
-    "YTD": "+28.6%"
+    "M. Cap.": "170B",
+    "Close": 2445,
+    "YTD": "+27.3%"
   }
 ]

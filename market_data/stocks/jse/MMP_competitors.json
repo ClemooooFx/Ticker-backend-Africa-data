@@ -2,9 +2,9 @@
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "769M",
-    "Close": 7.0,
-    "YTD": "+41.7%"
+    "M. Cap.": "780M",
+    "Close": 7.1,
+    "YTD": "+43.7%"
   },
   {
     "Code": "MFL",
@@ -14,59 +14,59 @@
     "YTD": "+38.8%"
   },
   {
-    "Code": "PMV",
-    "Name": "Primeserv Group Ltd",
-    "M. Cap.": "340M",
-    "Close": 2.97,
-    "YTD": "+23.8%"
-  },
-  {
     "Code": "ART",
     "Name": "Argent Industrial Ltd",
-    "M. Cap.": "1.51B",
-    "Close": 28.01,
-    "YTD": "+1.63%"
+    "M. Cap.": "1.55B",
+    "Close": 28.81,
+    "YTD": "+4.54%"
+  },
+  {
+    "Code": "PMV",
+    "Name": "Primeserv Group Ltd",
+    "M. Cap.": "286M",
+    "Close": 2.5,
+    "YTD": "+4.17%"
   },
   {
     "Code": "NVS",
     "Name": "Novus Holdings Limited",
     "M. Cap.": "2.27B",
-    "Close": 6.6,
-    "YTD": "-10.1%"
+    "Close": 6.61,
+    "YTD": "-9.95%"
   },
   {
     "Code": "HDC",
     "Name": "Hudaco Industries Ltd",
-    "M. Cap.": "5.86B",
-    "Close": 189.62,
-    "YTD": "-12.2%"
+    "M. Cap.": "5.83B",
+    "Close": 188.61,
+    "YTD": "-12.7%"
   },
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "12B",
-    "Close": 17.19,
-    "YTD": "+43.7%"
+    "M. Cap.": "12.1B",
+    "Close": 17.36,
+    "YTD": "+45.2%"
   },
   {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.24B",
-    "Close": 500.46,
-    "YTD": "+20.3%"
+    "M. Cap.": "4.25B",
+    "Close": 501.51,
+    "YTD": "+20.6%"
   },
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "884M",
-    "Close": 4.7,
-    "YTD": "+17.5%"
+    "M. Cap.": "899M",
+    "Close": 4.78,
+    "YTD": "+19.5%"
   },
   {
-    "Code": "BCF",
-    "Name": "Bowler Metcalf Ltd",
-    "M. Cap.": "1.2B",
-    "Close": 16.0,
-    "YTD": "+17.5%"
+    "Code": "BIK",
+    "Name": "Brikor Limited",
+    "M. Cap.": "132M",
+    "Close": 0.16,
+    "YTD": "+14.3%"
   }
 ]

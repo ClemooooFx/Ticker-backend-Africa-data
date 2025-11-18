@@ -1,72 +1,72 @@
 [
   {
-    "Code": "RBO",
-    "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4.03B",
-    "Close": 4.5,
-    "YTD": "+24%"
-  },
-  {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "9.76B",
-    "Close": 227.42,
-    "YTD": "+21.6%"
+    "M. Cap.": "10.4B",
+    "Close": 241.87,
+    "YTD": "+29.3%"
+  },
+  {
+    "Code": "RBO",
+    "Name": "Rainbow Chicken Ltd",
+    "M. Cap.": "4.13B",
+    "Close": 4.61,
+    "YTD": "+27%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
-    "M. Cap.": "59.2B",
-    "Close": 338.51,
-    "YTD": "+17.1%"
+    "M. Cap.": "60B",
+    "Close": 343.0,
+    "YTD": "+18.7%"
   },
   {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
     "M. Cap.": "6.11B",
-    "Close": 23.27,
-    "YTD": "+12.5%"
+    "Close": 23.25,
+    "YTD": "+12.4%"
   },
   {
     "Code": "LBR",
     "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.86B",
-    "Close": 4.7,
-    "YTD": "+8.05%"
+    "M. Cap.": "2.8B",
+    "Close": 4.6,
+    "YTD": "+5.75%"
   },
   {
     "Code": "RCL",
     "Name": "RCL Foods Limited",
-    "M. Cap.": "8.64B",
-    "Close": 9.62,
-    "YTD": "+1.26%"
-  },
-  {
-    "Code": "SHG",
-    "Name": "Sea Harvest Group Ltd",
-    "M. Cap.": "2.82B",
-    "Close": 7.8,
-    "YTD": "-6.59%"
+    "M. Cap.": "8.74B",
+    "Close": 9.73,
+    "YTD": "+2.42%"
   },
   {
     "Code": "AVI",
     "Name": "AVI Ltd",
-    "M. Cap.": "34.8B",
-    "Close": 101.87,
-    "YTD": "-7.15%"
+    "M. Cap.": "34.9B",
+    "Close": 102.08,
+    "YTD": "-6.96%"
   },
   {
     "Code": "QFH",
     "Name": "Quantum Foods Hldgs Ltd",
-    "M. Cap.": "1.55B",
-    "Close": 7.61,
-    "YTD": "-16.9%"
+    "M. Cap.": "1.73B",
+    "Close": 8.5,
+    "YTD": "-7.21%"
+  },
+  {
+    "Code": "SHG",
+    "Name": "Sea Harvest Group Ltd",
+    "M. Cap.": "2.78B",
+    "Close": 7.7,
+    "YTD": "-7.78%"
   },
   {
     "Code": "OCE",
     "Name": "Oceana Group Ltd",
-    "M. Cap.": "6.88B",
-    "Close": 53.02,
-    "YTD": "-21.4%"
+    "M. Cap.": "6.65B",
+    "Close": 51.26,
+    "YTD": "-24%"
   }
 ]

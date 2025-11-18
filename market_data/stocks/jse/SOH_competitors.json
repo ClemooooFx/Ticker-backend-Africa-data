@@ -9,23 +9,23 @@
   {
     "Code": "RLO",
     "Name": "Reunert Ltd",
-    "M. Cap.": "10.7B",
-    "Close": 58.52,
-    "YTD": "-22%"
+    "M. Cap.": "10.6B",
+    "Close": 58.26,
+    "YTD": "-22.3%"
   },
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "12B",
-    "Close": 17.19,
-    "YTD": "+43.7%"
+    "M. Cap.": "12.1B",
+    "Close": 17.36,
+    "YTD": "+45.2%"
   },
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "769M",
-    "Close": 7.0,
-    "YTD": "+41.7%"
+    "M. Cap.": "780M",
+    "Close": 7.1,
+    "YTD": "+43.7%"
   },
   {
     "Code": "MFL",
@@ -35,38 +35,38 @@
     "YTD": "+38.8%"
   },
   {
-    "Code": "PMV",
-    "Name": "Primeserv Group Ltd",
-    "M. Cap.": "340M",
-    "Close": 2.97,
-    "YTD": "+23.8%"
-  },
-  {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.24B",
-    "Close": 500.46,
-    "YTD": "+20.3%"
+    "M. Cap.": "4.25B",
+    "Close": 501.51,
+    "YTD": "+20.6%"
   },
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "884M",
-    "Close": 4.7,
-    "YTD": "+17.5%"
+    "M. Cap.": "899M",
+    "Close": 4.78,
+    "YTD": "+19.5%"
   },
   {
-    "Code": "BCF",
-    "Name": "Bowler Metcalf Ltd",
-    "M. Cap.": "1.2B",
-    "Close": 16.0,
-    "YTD": "+17.5%"
+    "Code": "BIK",
+    "Name": "Brikor Limited",
+    "M. Cap.": "132M",
+    "Close": 0.16,
+    "YTD": "+14.3%"
   },
   {
     "Code": "IVT",
     "Name": "Invicta Holdings Ltd",
     "M. Cap.": "3.35B",
-    "Close": 37.78,
-    "YTD": "+14.5%"
+    "Close": 37.7,
+    "YTD": "+14.2%"
+  },
+  {
+    "Code": "BCF",
+    "Name": "Bowler Metcalf Ltd",
+    "M. Cap.": "1.16B",
+    "Close": 15.5,
+    "YTD": "+13.8%"
   }
 ]

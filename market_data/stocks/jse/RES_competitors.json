@@ -2,23 +2,23 @@
   {
     "Code": "DLT",
     "Name": "Delta Property Fund Limited",
-    "M. Cap.": "214M",
-    "Close": 0.3,
-    "YTD": "+57.9%"
+    "M. Cap.": "229M",
+    "Close": 0.32,
+    "YTD": "+68.4%"
   },
   {
     "Code": "FTB",
     "Name": "Fairvest Ltd B Shares",
-    "M. Cap.": "13.1B",
-    "Close": 6.61,
-    "YTD": "+38.6%"
+    "M. Cap.": "13.3B",
+    "Close": 6.75,
+    "YTD": "+41.5%"
   },
   {
     "Code": "GRT",
     "Name": "Growthpoint Properties Limited",
-    "M. Cap.": "58.3B",
-    "Close": 16.98,
-    "YTD": "+33.4%"
+    "M. Cap.": "58.9B",
+    "Close": 17.17,
+    "YTD": "+34.9%"
   },
   {
     "Code": "VIS",
@@ -28,45 +28,45 @@
     "YTD": "+33.3%"
   },
   {
-    "Code": "VKE",
-    "Name": "Vukile Property Fund Ltd",
-    "M. Cap.": "32.3B",
-    "Close": 23.6,
-    "YTD": "+31.3%"
+    "Code": "RDF",
+    "Name": "Redefine Properties Limited",
+    "M. Cap.": "43.6B",
+    "Close": 6.06,
+    "YTD": "+33.2%"
   },
   {
     "Code": "EMI",
     "Name": "Emira Property Fund Ltd",
-    "M. Cap.": "7.16B",
-    "Close": 14.3,
-    "YTD": "+31.2%"
+    "M. Cap.": "7.22B",
+    "Close": 14.42,
+    "YTD": "+32.3%"
   },
   {
-    "Code": "RDF",
-    "Name": "Redefine Properties Limited",
-    "M. Cap.": "42.5B",
-    "Close": 5.9,
-    "YTD": "+29.7%"
+    "Code": "VKE",
+    "Name": "Vukile Property Fund Ltd",
+    "M. Cap.": "32.2B",
+    "Close": 23.49,
+    "YTD": "+30.7%"
   },
   {
     "Code": "DIB",
     "Name": "Dipula Income Fund B",
-    "M. Cap.": "6.79B",
-    "Close": 6.7,
-    "YTD": "+25.7%"
+    "M. Cap.": "6.74B",
+    "Close": 6.65,
+    "YTD": "+24.8%"
   },
   {
-    "Code": "SRE",
-    "Name": "Sirius Real Estate Ltd",
-    "M. Cap.": "33.7B",
-    "Close": 22.3,
-    "YTD": "+21.2%"
+    "Code": "FFB",
+    "Name": "Fortress REIT Ltd",
+    "M. Cap.": "30.2B",
+    "Close": 24.81,
+    "YTD": "+22.5%"
   },
   {
     "Code": "OCT",
     "Name": "OCTODEC INVEST LTD",
-    "M. Cap.": "3.67B",
-    "Close": 13.8,
-    "YTD": "+20%"
+    "M. Cap.": "3.73B",
+    "Close": 14.0,
+    "YTD": "+21.7%"
   }
 ]
