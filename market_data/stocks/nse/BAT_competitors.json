@@ -2,9 +2,9 @@
   {
     "Code": "SMER",
     "Name": "Sameer Africa Plc",
-    "M. Cap.": "3.81B",
-    "Close": 13.7,
-    "YTD": "+464%"
+    "M. Cap.": "4.04B",
+    "Close": 14.5,
+    "YTD": "+497%"
   },
   {
     "Code": "EGAD",
@@ -16,30 +16,30 @@
   {
     "Code": "UNGA",
     "Name": "Unga Group Limited",
-    "M. Cap.": "1.85B",
-    "Close": 24.45,
-    "YTD": "+63%"
-  },
-  {
-    "Code": "LIMT",
-    "Name": "Limuru Tea Company Limited",
-    "M. Cap.": "1.12B",
-    "Close": 465.75,
-    "YTD": "+33.1%"
+    "M. Cap.": "1.81B",
+    "Close": 23.85,
+    "YTD": "+59%"
   },
   {
     "Code": "EABL",
     "Name": "East African Breweries Limited",
-    "M. Cap.": "184B",
-    "Close": 232.75,
-    "YTD": "+32.6%"
+    "M. Cap.": "186B",
+    "Close": 235.0,
+    "YTD": "+33.9%"
   },
   {
     "Code": "SASN",
     "Name": "Sasini Tea and Coffee Limited",
-    "M. Cap.": "4.25B",
-    "Close": 18.65,
-    "YTD": "+24.3%"
+    "M. Cap.": "4.21B",
+    "Close": 18.45,
+    "YTD": "+23%"
+  },
+  {
+    "Code": "LIMT",
+    "Name": "Limuru Tea Company Limited",
+    "M. Cap.": "1.02B",
+    "Close": 423.5,
+    "YTD": "+21%"
   },
   {
     "Code": "EVRD",
@@ -58,15 +58,15 @@
   {
     "Code": "KUKZ",
     "Name": "Kakuzi Limited",
-    "M. Cap.": "7.9B",
-    "Close": 403.25,
-    "YTD": "+4.74%"
+    "M. Cap.": "7.84B",
+    "Close": 400.25,
+    "YTD": "+3.96%"
   },
   {
     "Code": "KAPC",
     "Name": "Kapchorua Tea Company Limited",
-    "M. Cap.": "1.62B",
-    "Close": 207.5,
-    "YTD": "-11.7%"
+    "M. Cap.": "1.66B",
+    "Close": 212.0,
+    "YTD": "-9.79%"
   }
 ]

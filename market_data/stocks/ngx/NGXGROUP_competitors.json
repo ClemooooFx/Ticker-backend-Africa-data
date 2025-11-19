@@ -9,30 +9,30 @@
   {
     "Code": "MBENEFIT",
     "Name": "Mutual Benefits Assurance",
-    "M. Cap.": "67.8B",
-    "Close": 3.38,
-    "YTD": "+454%"
+    "M. Cap.": "73B",
+    "Close": 3.64,
+    "YTD": "+497%"
   },
   {
     "Code": "SOVRENINS",
     "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "48.4B",
-    "Close": 3.4,
-    "YTD": "+204%"
+    "M. Cap.": "44.4B",
+    "Close": 3.12,
+    "YTD": "+179%"
   },
   {
     "Code": "NEM",
     "Name": "N.E.M. Insurance Company",
-    "M. Cap.": "149B",
-    "Close": 29.8,
-    "YTD": "+172%"
+    "M. Cap.": "146B",
+    "Close": 29.05,
+    "YTD": "+165%"
   },
   {
     "Code": "AIICO",
     "Name": "Aiico Insurance Plc",
-    "M. Cap.": "128B",
-    "Close": 3.49,
-    "YTD": "+144%"
+    "M. Cap.": "125B",
+    "Close": 3.42,
+    "YTD": "+139%"
   },
   {
     "Code": "SFSREIT",
@@ -49,18 +49,18 @@
     "YTD": "+133%"
   },
   {
-    "Code": "WEMABANK",
-    "Name": "Wema Bank",
-    "M. Cap.": "794B",
-    "Close": 19.8,
-    "YTD": "+118%"
-  },
-  {
     "Code": "ABBEYBDS",
     "Name": "Abbey Mortgage Bank Plc",
     "M. Cap.": "66B",
     "Close": 6.5,
     "YTD": "+117%"
+  },
+  {
+    "Code": "WEMABANK",
+    "Name": "Wema Bank",
+    "M. Cap.": "790B",
+    "Close": 19.7,
+    "YTD": "+116%"
   },
   {
     "Code": "ASOSAVINGS",

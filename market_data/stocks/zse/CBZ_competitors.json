@@ -16,9 +16,9 @@
   {
     "Code": "FMP",
     "Name": "First Mutual Properties Limited",
-    "M. Cap.": "1.85B",
-    "Close": 1.482,
-    "YTD": "+20.4%"
+    "M. Cap.": "1.57B",
+    "Close": 1.26,
+    "YTD": "+2.36%"
   },
   {
     "Code": "FBC",
@@ -30,9 +30,9 @@
   {
     "Code": "ZBFH",
     "Name": "ZB Financial Holdings Limited",
-    "M. Cap.": "756M",
-    "Close": 4.3038,
-    "YTD": "-33.8%"
+    "M. Cap.": "825M",
+    "Close": 4.7,
+    "YTD": "-27.7%"
   },
   {
     "Code": "FIDL",
@@ -44,22 +44,22 @@
   {
     "Code": "MASH",
     "Name": "Mashonaland Holdings Limited",
-    "M. Cap.": "1.84B",
-    "Close": 0.9805,
-    "YTD": "-53.3%"
+    "M. Cap.": "1.88B",
+    "Close": 1.0,
+    "YTD": "-52.4%"
   },
   {
     "Code": "ZSEH",
     "Name": "Zimbabwe Stock Exchange Holdings",
-    "M. Cap.": "130M",
-    "Close": 1.2645,
-    "YTD": "-63.8%"
+    "M. Cap.": "149M",
+    "Close": 1.454,
+    "YTD": "-58.3%"
   },
   {
     "Code": "FML",
     "Name": "First Mutual Holdings Limited",
-    "M. Cap.": "805M",
-    "Close": 1.17,
-    "YTD": "-73.6%"
+    "M. Cap.": "689M",
+    "Close": 1.001345,
+    "YTD": "-77.4%"
   }
 ]

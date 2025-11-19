@@ -1,23 +1,23 @@
 [
   {
+    "Code": "FTGH",
+    "Name": "Flame Tree Group Holdings Limited",
+    "M. Cap.": "274M",
+    "Close": 1.54,
+    "YTD": "+54%"
+  },
+  {
     "Code": "CARB",
     "Name": "Carbacid Investments Limited",
-    "M. Cap.": "8.03B",
-    "Close": 31.5,
-    "YTD": "+50.4%"
+    "M. Cap.": "7.95B",
+    "Close": 31.2,
+    "YTD": "+48.9%"
   },
   {
     "Code": "BOC",
     "Name": "BOC Kenya Limited",
-    "M. Cap.": "2.52B",
-    "Close": 129.0,
-    "YTD": "+45.4%"
-  },
-  {
-    "Code": "FTGH",
-    "Name": "Flame Tree Group Holdings Limited",
-    "M. Cap.": "255M",
-    "Close": 1.43,
-    "YTD": "+43%"
+    "M. Cap.": "2.51B",
+    "Close": 128.5,
+    "YTD": "+44.8%"
   }
 ]

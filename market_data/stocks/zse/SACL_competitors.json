@@ -9,9 +9,9 @@
   {
     "Code": "SEED",
     "Name": "Seed Co Limited",
-    "M. Cap.": "865M",
-    "Close": 3.5,
-    "YTD": "+34.7%"
+    "M. Cap.": "867M",
+    "Close": 3.505614,
+    "YTD": "+34.9%"
   },
   {
     "Code": "AFDS",
@@ -23,9 +23,9 @@
   {
     "Code": "DLTA",
     "Name": "Delta Corporation Limited",
-    "M. Cap.": "20B",
-    "Close": 15.6037,
-    "YTD": "+11.5%"
+    "M. Cap.": "20.1B",
+    "Close": 15.620159,
+    "YTD": "+11.6%"
   },
   {
     "Code": "HIPO",
@@ -37,9 +37,9 @@
   {
     "Code": "BAT",
     "Name": "British American Tobacco Limited",
-    "M. Cap.": "1.46B",
-    "Close": 71.0,
-    "YTD": "-11.7%"
+    "M. Cap.": "1.44B",
+    "Close": 70.0,
+    "YTD": "-12.9%"
   },
   {
     "Code": "DZL",
@@ -49,17 +49,17 @@
     "YTD": "-19.6%"
   },
   {
+    "Code": "ARIS",
+    "Name": "Ariston Holdings Limited",
+    "M. Cap.": "36.4M",
+    "Close": 0.0226,
+    "YTD": "-62.3%"
+  },
+  {
     "Code": "NTS",
     "Name": "National Tyre Services Limited",
     "M. Cap.": "63.6M",
     "Close": 0.2505,
     "YTD": "-62.4%"
-  },
-  {
-    "Code": "ARIS",
-    "Name": "Ariston Holdings Limited",
-    "M. Cap.": "35.4M",
-    "Close": 0.022,
-    "YTD": "-63.3%"
   }
 ]

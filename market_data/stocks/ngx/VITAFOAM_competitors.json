@@ -2,16 +2,16 @@
   {
     "Code": "ELLAHLAKES",
     "Name": "Ellah Lakes Plc",
-    "M. Cap.": "49.4B",
-    "Close": 12.8,
-    "YTD": "+305%"
+    "M. Cap.": "48.3B",
+    "Close": 12.51,
+    "YTD": "+296%"
   },
   {
     "Code": "CHAMPION",
     "Name": "Champion Breweries",
-    "M. Cap.": "128B",
-    "Close": 14.35,
-    "YTD": "+277%"
+    "M. Cap.": "123B",
+    "Close": 13.7,
+    "YTD": "+260%"
   },
   {
     "Code": "NASCON",
@@ -21,18 +21,18 @@
     "YTD": "+230%"
   },
   {
-    "Code": "HONYFLOUR",
-    "Name": "Honeywell Flour Mill",
-    "M. Cap.": "158B",
-    "Close": 19.9,
-    "YTD": "+216%"
-  },
-  {
     "Code": "PRESCO",
     "Name": "Presco Plc",
     "M. Cap.": "1.45T",
     "Close": 1450.0,
     "YTD": "+205%"
+  },
+  {
+    "Code": "HONYFLOUR",
+    "Name": "Honeywell Flour Mill",
+    "M. Cap.": "146B",
+    "Close": 18.45,
+    "YTD": "+193%"
   },
   {
     "Code": "FTNCOCOA",
@@ -58,9 +58,9 @@
   {
     "Code": "GUINNESS",
     "Name": "Guinness Nigeria",
-    "M. Cap.": "372B",
-    "Close": 170.0,
-    "YTD": "+142%"
+    "M. Cap.": "366B",
+    "Close": 167.0,
+    "YTD": "+138%"
   },
   {
     "Code": "UNILEVER",
