@@ -21,17 +21,17 @@
     "YTD": "+3.29%"
   },
   {
-    "Code": "ZABR",
-    "Name": "Zambian Breweries",
-    "M. Cap.": "3.77B",
-    "Close": 6.9,
-    "YTD": NaN
-  },
-  {
     "Code": "NATB",
     "Name": "National Breweries",
     "M. Cap.": "189M",
     "Close": 3.0,
     "YTD": NaN
+  },
+  {
+    "Code": "ZABR",
+    "Name": "Zambian Breweries",
+    "M. Cap.": "3.76B",
+    "Close": 6.88,
+    "YTD": "-0.29%"
   }
 ]

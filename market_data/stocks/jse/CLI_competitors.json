@@ -2,65 +2,65 @@
   {
     "Code": "MTM",
     "Name": "Momentum Met Hldgs Ltd",
-    "M. Cap.": "49B",
-    "Close": 36.45,
-    "YTD": "+20.5%"
-  },
-  {
-    "Code": "DSY",
-    "Name": "Discovery Limited",
-    "M. Cap.": "158B",
-    "Close": 231.75,
+    "M. Cap.": "48.4B",
+    "Close": 36.01,
     "YTD": "+19%"
   },
   {
     "Code": "DSBP",
     "Name": "Discovery B Preference Shares",
-    "M. Cap.": "1.02B",
-    "Close": 128.03,
-    "YTD": "+16.4%"
+    "M. Cap.": "1.04B",
+    "Close": 129.96,
+    "YTD": "+18.2%"
   },
   {
-    "Code": "SLM",
-    "Name": "Sanlam Limited",
-    "M. Cap.": "202B",
-    "Close": 95.49,
-    "YTD": "+9.91%"
+    "Code": "DSY",
+    "Name": "Discovery Limited",
+    "M. Cap.": "154B",
+    "Close": 227.25,
+    "YTD": "+16.7%"
   },
   {
     "Code": "SNT",
     "Name": "Santam Limited",
-    "M. Cap.": "49.3B",
-    "Close": 428.57,
-    "YTD": "+9.15%"
+    "M. Cap.": "48.6B",
+    "Close": 421.96,
+    "YTD": "+7.47%"
+  },
+  {
+    "Code": "SLM",
+    "Name": "Sanlam Limited",
+    "M. Cap.": "197B",
+    "Close": 93.23,
+    "YTD": "+7.31%"
   },
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.49B",
-    "Close": 47.0,
-    "YTD": "+114%"
+    "M. Cap.": "2.57B",
+    "Close": 48.5,
+    "YTD": "+120%"
   },
   {
     "Code": "PPE",
     "Name": "Purple Group Ltd",
-    "M. Cap.": "3.28B",
-    "Close": 2.3,
-    "YTD": "+113%"
+    "M. Cap.": "3.25B",
+    "Close": 2.28,
+    "YTD": "+111%"
   },
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.32B",
-    "Close": 115.68,
-    "YTD": "+113%"
+    "M. Cap.": "2.29B",
+    "Close": 113.82,
+    "YTD": "+109%"
   },
   {
     "Code": "FGL",
     "Name": "Finbond Group Ltd",
-    "M. Cap.": "670M",
-    "Close": 1.3,
-    "YTD": "+100%"
+    "M. Cap.": "686M",
+    "Close": 1.33,
+    "YTD": "+105%"
   },
   {
     "Code": "BAC",

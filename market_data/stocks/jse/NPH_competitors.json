@@ -1,72 +1,72 @@
 [
   {
-    "Code": "SSW",
-    "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "139B",
-    "Close": 48.97,
-    "YTD": "+227%"
-  },
-  {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "690B",
-    "Close": 1367.0,
-    "YTD": "+225%"
+    "M. Cap.": "682B",
+    "Close": 1350.0,
+    "YTD": "+221%"
+  },
+  {
+    "Code": "SSW",
+    "Name": "Sibanye Stillwater Limited",
+    "M. Cap.": "134B",
+    "Close": 47.5,
+    "YTD": "+217%"
   },
   {
     "Code": "DRD",
     "Name": "DRD Gold Ltd",
-    "M. Cap.": "42.5B",
-    "Close": 49.0,
-    "YTD": "+196%"
+    "M. Cap.": "42.2B",
+    "Close": 48.7,
+    "YTD": "+195%"
   },
   {
     "Code": "GFI",
     "Name": "Gold Fields Ltd",
-    "M. Cap.": "625B",
-    "Close": 697.93,
-    "YTD": "+182%"
+    "M. Cap.": "614B",
+    "Close": 685.74,
+    "YTD": "+178%"
   },
   {
     "Code": "PAN",
     "Name": "Pan African Resource plc",
-    "M. Cap.": "49.7B",
-    "Close": 21.3,
-    "YTD": "+160%"
+    "M. Cap.": "48.5B",
+    "Close": 20.8,
+    "YTD": "+154%"
   },
   {
     "Code": "HAR",
     "Name": "Harmony GM Co Ltd",
-    "M. Cap.": "188B",
-    "Close": 295.12,
-    "YTD": "+95.9%"
+    "M. Cap.": "183B",
+    "Close": 287.79,
+    "YTD": "+91%"
   },
   {
     "Code": "VAL",
     "Name": "Valterra Platinum Ltd",
-    "M. Cap.": "289B",
-    "Close": 1088.0,
-    "YTD": "+91.2%"
+    "M. Cap.": "275B",
+    "Close": 1038.45,
+    "YTD": "+82.5%"
   },
   {
     "Code": "EPS",
     "Name": "Eastern Platinum Limited",
-    "M. Cap.": "466M",
-    "Close": 2.3,
-    "YTD": "+53.3%"
+    "M. Cap.": "468M",
+    "Close": 2.31,
+    "YTD": "+54%"
   },
   {
     "Code": "MCZ",
     "Name": "MC Mining Limited",
-    "M. Cap.": "998M",
-    "Close": 2.41,
-    "YTD": "+42.6%"
+    "M. Cap.": "1.05B",
+    "Close": 2.53,
+    "YTD": "+49.7%"
   },
   {
     "Code": "THA",
     "Name": "Tharisa plc",
-    "M. Cap.": "6.66B",
-    "Close": 22.0,
-    "YTD": "+35.6%"
+    "M. Cap.": "6.45B",
+    "Close": 21.3,
+    "YTD": "+31.3%"
   }
 ]

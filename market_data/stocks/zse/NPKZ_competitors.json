@@ -31,22 +31,22 @@
     "Code": "TSL",
     "Name": "TSL Limited",
     "M. Cap.": "784M",
-    "Close": 2.2,
-    "YTD": "-1.01%"
+    "Close": 2.2025,
+    "YTD": "-0.9%"
   },
   {
     "Code": "CAFCA",
     "Name": "Cafca Limited",
-    "M. Cap.": "529M",
-    "Close": 16.0,
-    "YTD": "-22%"
+    "M. Cap.": "496M",
+    "Close": 15.0,
+    "YTD": "-26.8%"
   },
   {
     "Code": "PROL",
     "Name": "Proplastics Limited",
-    "M. Cap.": "258M",
-    "Close": 1.03,
-    "YTD": "-30.5%"
+    "M. Cap.": "255M",
+    "Close": 1.02,
+    "YTD": "-31.2%"
   },
   {
     "Code": "MSHL",
@@ -58,15 +58,15 @@
   {
     "Code": "WILD",
     "Name": "Willdale Zimbabwe Limited",
-    "M. Cap.": "72.1M",
-    "Close": 0.04,
-    "YTD": "-42.5%"
+    "M. Cap.": "63.1M",
+    "Close": 0.035,
+    "YTD": "-49.6%"
   },
   {
     "Code": "ARTD",
     "Name": "Amalgamated Regional Trading",
-    "M. Cap.": "31.8M",
-    "Close": 0.068171,
+    "M. Cap.": "31.7M",
+    "Close": 0.0681,
     "YTD": "-79.1%"
   }
 ]

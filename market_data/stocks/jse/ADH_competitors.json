@@ -9,9 +9,9 @@
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.63B",
-    "Close": 11.32,
-    "YTD": "+64.1%"
+    "M. Cap.": "9.39B",
+    "Close": 11.03,
+    "YTD": "+59.9%"
   },
   {
     "Code": "NCS",
@@ -37,9 +37,9 @@
   {
     "Code": "COH",
     "Name": "Curro Holdings Limited",
-    "M. Cap.": "7.94B",
-    "Close": 14.05,
-    "YTD": "+7.66%"
+    "M. Cap.": "7.88B",
+    "Close": 13.95,
+    "YTD": "+6.9%"
   },
   {
     "Code": "AOVP",
@@ -56,16 +56,16 @@
     "YTD": "+1.77%"
   },
   {
-    "Code": "LEW",
-    "Name": "Lewis Group Ltd",
-    "M. Cap.": "4.2B",
-    "Close": 80.5,
-    "YTD": "+0.51%"
-  },
-  {
     "Code": "TFGP",
     "Name": "Foschini Ltd 6.5% Preference Share",
     "M. Cap.": "202000",
+    "Close": 1.01,
+    "YTD": NaN
+  },
+  {
+    "Code": "RTOP",
+    "Name": "Rex Trueform Grp 6%Pref",
+    "M. Cap.": "141400",
     "Close": 1.01,
     "YTD": NaN
   }

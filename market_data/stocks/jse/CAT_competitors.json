@@ -3,29 +3,29 @@
     "Code": "AME",
     "Name": "African Media Ent Ltd",
     "M. Cap.": "291M",
-    "Close": 42.01,
-    "YTD": "+3.73%"
+    "Close": 42.0,
+    "YTD": "+3.7%"
   },
   {
     "Code": "EMH",
     "Name": "E Media Holdings Ltd",
     "M. Cap.": "137M",
-    "Close": 2.14,
-    "YTD": "-39.7%"
+    "Close": 2.15,
+    "YTD": "-39.4%"
   },
   {
     "Code": "EMN",
     "Name": "E Media Holdings Ltd -N-",
-    "M. Cap.": "1.2B",
-    "Close": 1.95,
-    "YTD": "-45.8%"
+    "M. Cap.": "1.19B",
+    "Close": 1.92,
+    "YTD": "-46.7%"
   },
   {
     "Code": "CHP",
     "Name": "Choppies Enterprises Limited",
-    "M. Cap.": "5.93B",
-    "Close": 3.25,
-    "YTD": "+306%"
+    "M. Cap.": "5.84B",
+    "Close": 3.2,
+    "YTD": "+300%"
   },
   {
     "Code": "WVR",
@@ -37,9 +37,9 @@
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.63B",
-    "Close": 11.32,
-    "YTD": "+64.1%"
+    "M. Cap.": "9.39B",
+    "Close": 11.03,
+    "YTD": "+59.9%"
   },
   {
     "Code": "NCS",
@@ -47,13 +47,6 @@
     "M. Cap.": "106M",
     "Close": 1.98,
     "YTD": "+36.6%"
-  },
-  {
-    "Code": "BOX",
-    "Name": "Boxer Retail Ltd",
-    "M. Cap.": "34.3B",
-    "Close": 74.89,
-    "YTD": "+16.3%"
   },
   {
     "Code": "AOO",
@@ -68,5 +61,12 @@
     "M. Cap.": "274M",
     "Close": 13.5,
     "YTD": "+15.2%"
+  },
+  {
+    "Code": "SUR",
+    "Name": "Spur Corporation Ltd",
+    "M. Cap.": "3.64B",
+    "Close": 40.0,
+    "YTD": "+14.4%"
   }
 ]

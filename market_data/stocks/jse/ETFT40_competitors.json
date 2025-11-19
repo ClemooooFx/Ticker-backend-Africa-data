@@ -2,16 +2,16 @@
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.49B",
-    "Close": 47.0,
-    "YTD": "+114%"
+    "M. Cap.": "2.57B",
+    "Close": 48.5,
+    "YTD": "+120%"
   },
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.32B",
-    "Close": 115.68,
-    "YTD": "+113%"
+    "M. Cap.": "2.29B",
+    "Close": 113.82,
+    "YTD": "+109%"
   },
   {
     "Code": "BAC",
@@ -23,16 +23,16 @@
   {
     "Code": "STXSHA",
     "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "118M",
-    "Close": 5.78,
-    "YTD": "+69%"
+    "M. Cap.": "116M",
+    "Close": 5.69,
+    "YTD": "+66.4%"
   },
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "7.39B",
-    "Close": 252.26,
-    "YTD": "+53.9%"
+    "M. Cap.": "6.76B",
+    "Close": 251.2,
+    "YTD": "+53.3%"
   },
   {
     "Code": "EPE",
@@ -44,9 +44,9 @@
   {
     "Code": "WTOP20",
     "Name": "10X Wealth Top 20 Capped ETF",
-    "M. Cap.": "1B",
-    "Close": 15.18,
-    "YTD": "+47.1%"
+    "M. Cap.": "991M",
+    "Close": 15.01,
+    "YTD": "+45.5%"
   },
   {
     "Code": "MHB",
@@ -58,15 +58,15 @@
   {
     "Code": "GLD",
     "Name": "New Gold Issuer Limited",
-    "M. Cap.": "37.6B",
-    "Close": 644.13,
-    "YTD": "+41.7%"
+    "M. Cap.": "37.8B",
+    "Close": 647.17,
+    "YTD": "+42.4%"
   },
   {
     "Code": "NGPLD",
     "Name": "NewGold Palladium ETF",
-    "M. Cap.": "233M",
-    "Close": 228.57,
-    "YTD": "+40.3%"
+    "M. Cap.": "235M",
+    "Close": 230.17,
+    "YTD": "+41.3%"
   }
 ]

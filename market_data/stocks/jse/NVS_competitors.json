@@ -9,30 +9,30 @@
   {
     "Code": "MFL",
     "Name": "Metrofile Holdings Ltd",
-    "M. Cap.": "1.37B",
-    "Close": 3.15,
-    "YTD": "+38.8%"
-  },
-  {
-    "Code": "ART",
-    "Name": "Argent Industrial Ltd",
-    "M. Cap.": "1.55B",
-    "Close": 28.81,
-    "YTD": "+4.54%"
+    "M. Cap.": "1.36B",
+    "Close": 3.13,
+    "YTD": "+37.9%"
   },
   {
     "Code": "PMV",
     "Name": "Primeserv Group Ltd",
-    "M. Cap.": "286M",
-    "Close": 2.5,
-    "YTD": "+4.17%"
+    "M. Cap.": "287M",
+    "Close": 2.51,
+    "YTD": "+4.58%"
+  },
+  {
+    "Code": "ART",
+    "Name": "Argent Industrial Ltd",
+    "M. Cap.": "1.52B",
+    "Close": 28.3,
+    "YTD": "+2.69%"
   },
   {
     "Code": "HDC",
     "Name": "Hudaco Industries Ltd",
-    "M. Cap.": "5.83B",
-    "Close": 188.61,
-    "YTD": "-12.7%"
+    "M. Cap.": "5.61B",
+    "Close": 181.5,
+    "YTD": "-16%"
   },
   {
     "Code": "MMP",
@@ -44,29 +44,29 @@
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "12.1B",
-    "Close": 17.36,
-    "YTD": "+45.2%"
+    "M. Cap.": "11.6B",
+    "Close": 16.66,
+    "YTD": "+39.3%"
   },
   {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.25B",
-    "Close": 501.51,
-    "YTD": "+20.6%"
+    "M. Cap.": "4.37B",
+    "Close": 515.0,
+    "YTD": "+23.8%"
   },
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "899M",
-    "Close": 4.78,
-    "YTD": "+19.5%"
+    "M. Cap.": "884M",
+    "Close": 4.7,
+    "YTD": "+17.5%"
   },
   {
-    "Code": "BIK",
-    "Name": "Brikor Limited",
-    "M. Cap.": "132M",
-    "Close": 0.16,
-    "YTD": "+14.3%"
+    "Code": "IVT",
+    "Name": "Invicta Holdings Ltd",
+    "M. Cap.": "3.35B",
+    "Close": 37.68,
+    "YTD": "+14.2%"
   }
 ]

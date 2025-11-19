@@ -2,71 +2,71 @@
   {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "10.4B",
-    "Close": 241.87,
-    "YTD": "+29.3%"
+    "M. Cap.": "10.5B",
+    "Close": 244.48,
+    "YTD": "+30.7%"
   },
   {
     "Code": "RBO",
     "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4.13B",
-    "Close": 4.61,
-    "YTD": "+27%"
+    "M. Cap.": "4.11B",
+    "Close": 4.59,
+    "YTD": "+26.5%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
-    "M. Cap.": "60B",
-    "Close": 343.0,
-    "YTD": "+18.7%"
+    "M. Cap.": "59.4B",
+    "Close": 339.5,
+    "YTD": "+17.5%"
   },
   {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
-    "M. Cap.": "6.11B",
-    "Close": 23.25,
-    "YTD": "+12.4%"
-  },
-  {
-    "Code": "LBR",
-    "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.8B",
-    "Close": 4.6,
-    "YTD": "+5.75%"
+    "M. Cap.": "6.1B",
+    "Close": 23.23,
+    "YTD": "+12.3%"
   },
   {
     "Code": "RCL",
     "Name": "RCL Foods Limited",
-    "M. Cap.": "8.74B",
-    "Close": 9.73,
-    "YTD": "+2.42%"
+    "M. Cap.": "8.7B",
+    "Close": 9.69,
+    "YTD": "+2%"
+  },
+  {
+    "Code": "LBR",
+    "Name": "Libstar Holdings Ltd",
+    "M. Cap.": "2.69B",
+    "Close": 4.42,
+    "YTD": "+1.61%"
   },
   {
     "Code": "AVI",
     "Name": "AVI Ltd",
-    "M. Cap.": "34.9B",
-    "Close": 102.08,
-    "YTD": "-6.96%"
+    "M. Cap.": "34.6B",
+    "Close": 101.34,
+    "YTD": "-7.64%"
   },
   {
     "Code": "QFH",
     "Name": "Quantum Foods Hldgs Ltd",
-    "M. Cap.": "1.73B",
-    "Close": 8.5,
-    "YTD": "-7.21%"
+    "M. Cap.": "1.63B",
+    "Close": 8.03,
+    "YTD": "-12.3%"
   },
   {
     "Code": "CKS",
     "Name": "Crookes Brothers Ltd",
-    "M. Cap.": "405M",
-    "Close": 26.5,
-    "YTD": "-15.9%"
+    "M. Cap.": "412M",
+    "Close": 27.0,
+    "YTD": "-14.3%"
   },
   {
     "Code": "OCE",
     "Name": "Oceana Group Ltd",
-    "M. Cap.": "6.65B",
-    "Close": 51.26,
-    "YTD": "-24%"
+    "M. Cap.": "6.61B",
+    "Close": 50.97,
+    "YTD": "-24.5%"
   }
 ]

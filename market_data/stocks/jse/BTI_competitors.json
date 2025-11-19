@@ -1,72 +1,72 @@
 [
   {
-    "Code": "CFR",
-    "Name": "Compagnie Financi\\xc3\\xa8re Richemont",
-    "M. Cap.": "1.95T",
-    "Close": 3635.53,
-    "YTD": "+31%"
-  },
-  {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "10.4B",
-    "Close": 241.87,
-    "YTD": "+29.3%"
+    "M. Cap.": "10.5B",
+    "Close": 244.48,
+    "YTD": "+30.7%"
   },
   {
-    "Code": "PMR",
-    "Name": "Premier Group Ltd",
-    "M. Cap.": "22.4B",
-    "Close": 173.5,
-    "YTD": "+27.6%"
+    "Code": "CFR",
+    "Name": "Compagnie Financi\\xc3\\xa8re Richemont",
+    "M. Cap.": "1.9T",
+    "Close": 3539.97,
+    "YTD": "+27.5%"
   },
   {
     "Code": "RBO",
     "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4.13B",
-    "Close": 4.61,
-    "YTD": "+27%"
+    "M. Cap.": "4.11B",
+    "Close": 4.59,
+    "YTD": "+26.5%"
+  },
+  {
+    "Code": "PMR",
+    "Name": "Premier Group Ltd",
+    "M. Cap.": "22B",
+    "Close": 170.5,
+    "YTD": "+25.4%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
-    "M. Cap.": "60B",
-    "Close": 343.0,
-    "YTD": "+18.7%"
-  },
-  {
-    "Code": "ANH",
-    "Name": "Anheuser-Busch InBev SA/NV",
-    "M. Cap.": "1.92T",
-    "Close": 1065.93,
-    "YTD": "+13.6%"
+    "M. Cap.": "59.4B",
+    "Close": 339.5,
+    "YTD": "+17.5%"
   },
   {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
-    "M. Cap.": "6.11B",
-    "Close": 23.25,
-    "YTD": "+12.4%"
+    "M. Cap.": "6.1B",
+    "Close": 23.23,
+    "YTD": "+12.3%"
   },
   {
-    "Code": "LBR",
-    "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.8B",
-    "Close": 4.6,
-    "YTD": "+5.75%"
+    "Code": "ANH",
+    "Name": "Anheuser-Busch InBev SA/NV",
+    "M. Cap.": "1.89T",
+    "Close": 1052.79,
+    "YTD": "+12.2%"
   },
   {
     "Code": "RCL",
     "Name": "RCL Foods Limited",
-    "M. Cap.": "8.74B",
-    "Close": 9.73,
-    "YTD": "+2.42%"
+    "M. Cap.": "8.7B",
+    "Close": 9.69,
+    "YTD": "+2%"
   },
   {
-    "Code": "WBC",
-    "Name": "WeBuyCars Holdings Ltd",
-    "M. Cap.": "18B",
-    "Close": 43.0,
-    "YTD": "-0.12%"
+    "Code": "LBR",
+    "Name": "Libstar Holdings Ltd",
+    "M. Cap.": "2.69B",
+    "Close": 4.42,
+    "YTD": "+1.61%"
+  },
+  {
+    "Code": "CAA",
+    "Name": "CA Sales Holdings Ltd",
+    "M. Cap.": "7.89B",
+    "Close": 16.4,
+    "YTD": "+1.23%"
   }
 ]
