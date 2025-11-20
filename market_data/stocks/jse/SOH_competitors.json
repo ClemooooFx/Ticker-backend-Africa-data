@@ -9,30 +9,30 @@
   {
     "Code": "RLO",
     "Name": "Reunert Ltd",
-    "M. Cap.": "10.7B",
-    "Close": 58.54,
-    "YTD": "-22%"
+    "M. Cap.": "10.8B",
+    "Close": 58.96,
+    "YTD": "-21.4%"
   },
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "780M",
-    "Close": 7.1,
-    "YTD": "+43.7%"
-  },
-  {
-    "Code": "GND",
-    "Name": "Grindrod Ltd",
-    "M. Cap.": "11.6B",
-    "Close": 16.66,
-    "YTD": "+39.3%"
+    "M. Cap.": "769M",
+    "Close": 7.0,
+    "YTD": "+41.7%"
   },
   {
     "Code": "MFL",
     "Name": "Metrofile Holdings Ltd",
-    "M. Cap.": "1.36B",
-    "Close": 3.13,
-    "YTD": "+37.9%"
+    "M. Cap.": "1.37B",
+    "Close": 3.15,
+    "YTD": "+38.8%"
+  },
+  {
+    "Code": "GND",
+    "Name": "Grindrod Ltd",
+    "M. Cap.": "11.5B",
+    "Close": 16.54,
+    "YTD": "+38.3%"
   },
   {
     "Code": "NPK",
@@ -42,31 +42,31 @@
     "YTD": "+23.8%"
   },
   {
-    "Code": "SSK",
-    "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "884M",
-    "Close": 4.7,
-    "YTD": "+17.5%"
+    "Code": "BIK",
+    "Name": "Brikor Limited",
+    "M. Cap.": "140M",
+    "Close": 0.17,
+    "YTD": "+21.4%"
+  },
+  {
+    "Code": "GNDP",
+    "Name": "Grindrod Ltd Pref",
+    "M. Cap.": "814M",
+    "Close": 110.0,
+    "YTD": "+15.2%"
   },
   {
     "Code": "IVT",
     "Name": "Invicta Holdings Ltd",
-    "M. Cap.": "3.35B",
-    "Close": 37.68,
-    "YTD": "+14.2%"
+    "M. Cap.": "3.37B",
+    "Close": 38.0,
+    "YTD": "+15.2%"
   },
   {
     "Code": "BAW",
     "Name": "Barloworld Ltd",
-    "M. Cap.": "22.4B",
-    "Close": 118.2,
-    "YTD": "+8.91%"
-  },
-  {
-    "Code": "BAWP",
-    "Name": "Barworld Ltd 6%Pref",
-    "M. Cap.": "330000",
-    "Close": 0.88,
-    "YTD": "+8.64%"
+    "M. Cap.": "22.6B",
+    "Close": 119.1,
+    "YTD": "+9.74%"
   }
 ]

@@ -9,16 +9,16 @@
   {
     "Code": "NTC",
     "Name": "Netcare Limited",
-    "M. Cap.": "20.6B",
-    "Close": 15.11,
-    "YTD": "+1.27%"
+    "M. Cap.": "20.3B",
+    "Close": 14.9,
+    "YTD": "-0.13%"
   },
   {
     "Code": "ACT",
     "Name": "AfroCentric Inv Corp Ltd",
-    "M. Cap.": "1.34B",
-    "Close": 1.59,
-    "YTD": "-20.1%"
+    "M. Cap.": "1.26B",
+    "Close": 1.5,
+    "YTD": "-24.6%"
   },
   {
     "Code": "XII",
@@ -30,16 +30,16 @@
   {
     "Code": "PHP",
     "Name": "Primary Health Properties",
-    "M. Cap.": "56.5B",
-    "Close": 21.76,
-    "YTD": "-1%"
+    "M. Cap.": "55.5B",
+    "Close": 21.37,
+    "YTD": "-2.78%"
   },
   {
     "Code": "ASC",
     "Name": "Ascendis Health Ltd",
-    "M. Cap.": "601M",
-    "Close": 0.95,
-    "YTD": "-5%"
+    "M. Cap.": "613M",
+    "Close": 0.97,
+    "YTD": "-3%"
   },
   {
     "Code": "CCC",
@@ -51,8 +51,8 @@
   {
     "Code": "APN",
     "Name": "Aspen Pharmacare Holdings",
-    "M. Cap.": "41.1B",
-    "Close": 92.03,
-    "YTD": "-44.2%"
+    "M. Cap.": "41.6B",
+    "Close": 93.26,
+    "YTD": "-43.4%"
   }
 ]

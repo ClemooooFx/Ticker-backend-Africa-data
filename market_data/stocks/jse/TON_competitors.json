@@ -1,66 +1,66 @@
 [
   {
-    "Code": "ARL",
-    "Name": "Astral Foods Ltd",
-    "M. Cap.": "10.5B",
-    "Close": 244.48,
-    "YTD": "+30.7%"
-  },
-  {
     "Code": "RBO",
     "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4.11B",
-    "Close": 4.59,
-    "YTD": "+26.5%"
+    "M. Cap.": "4.3B",
+    "Close": 4.78,
+    "YTD": "+31.7%"
+  },
+  {
+    "Code": "ARL",
+    "Name": "Astral Foods Ltd",
+    "M. Cap.": "10.2B",
+    "Close": 238.0,
+    "YTD": "+27.3%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
-    "M. Cap.": "59.4B",
-    "Close": 339.5,
-    "YTD": "+17.5%"
+    "M. Cap.": "58.3B",
+    "Close": 340.0,
+    "YTD": "+17.6%"
   },
   {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
-    "M. Cap.": "6.1B",
-    "Close": 23.23,
-    "YTD": "+12.3%"
-  },
-  {
-    "Code": "RCL",
-    "Name": "RCL Foods Limited",
-    "M. Cap.": "8.7B",
-    "Close": 9.69,
-    "YTD": "+2%"
+    "M. Cap.": "5.96B",
+    "Close": 22.69,
+    "YTD": "+9.67%"
   },
   {
     "Code": "LBR",
     "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.69B",
-    "Close": 4.42,
-    "YTD": "+1.61%"
-  },
-  {
-    "Code": "AVI",
-    "Name": "AVI Ltd",
-    "M. Cap.": "34.6B",
-    "Close": 101.34,
-    "YTD": "-7.64%"
-  },
-  {
-    "Code": "SHG",
-    "Name": "Sea Harvest Group Ltd",
     "M. Cap.": "2.74B",
-    "Close": 7.6,
-    "YTD": "-8.98%"
+    "Close": 4.5,
+    "YTD": "+3.45%"
   },
   {
     "Code": "QFH",
     "Name": "Quantum Foods Hldgs Ltd",
-    "M. Cap.": "1.63B",
-    "Close": 8.03,
-    "YTD": "-12.3%"
+    "M. Cap.": "1.9B",
+    "Close": 9.38,
+    "YTD": "+2.4%"
+  },
+  {
+    "Code": "RCL",
+    "Name": "RCL Foods Limited",
+    "M. Cap.": "8.57B",
+    "Close": 9.54,
+    "YTD": "+0.42%"
+  },
+  {
+    "Code": "AVI",
+    "Name": "AVI Ltd",
+    "M. Cap.": "34.9B",
+    "Close": 102.05,
+    "YTD": "-6.99%"
+  },
+  {
+    "Code": "SHG",
+    "Name": "Sea Harvest Group Ltd",
+    "M. Cap.": "2.78B",
+    "Close": 7.7,
+    "YTD": "-7.78%"
   },
   {
     "Code": "CKS",

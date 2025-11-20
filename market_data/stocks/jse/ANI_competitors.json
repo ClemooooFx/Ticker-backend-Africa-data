@@ -2,30 +2,37 @@
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.57B",
-    "Close": 48.5,
-    "YTD": "+120%"
-  },
-  {
-    "Code": "PPE",
-    "Name": "Purple Group Ltd",
-    "M. Cap.": "3.25B",
-    "Close": 2.28,
-    "YTD": "+111%"
+    "M. Cap.": "2.59B",
+    "Close": 49.0,
+    "YTD": "+123%"
   },
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.29B",
-    "Close": 113.82,
-    "YTD": "+109%"
+    "M. Cap.": "2.37B",
+    "Close": 117.91,
+    "YTD": "+117%"
+  },
+  {
+    "Code": "PPE",
+    "Name": "Purple Group Ltd",
+    "M. Cap.": "3.28B",
+    "Close": 2.3,
+    "YTD": "+113%"
   },
   {
     "Code": "FGL",
     "Name": "Finbond Group Ltd",
-    "M. Cap.": "686M",
-    "Close": 1.33,
-    "YTD": "+105%"
+    "M. Cap.": "696M",
+    "Close": 1.35,
+    "YTD": "+108%"
+  },
+  {
+    "Code": "STXSHA",
+    "Name": "Satrix Shariah Top 40 ETF",
+    "M. Cap.": "119M",
+    "Close": 5.85,
+    "YTD": "+71.1%"
   },
   {
     "Code": "BAC",
@@ -35,38 +42,31 @@
     "YTD": "+69.2%"
   },
   {
-    "Code": "STXSHA",
-    "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "116M",
-    "Close": 5.69,
-    "YTD": "+66.4%"
+    "Code": "SYG",
+    "Name": "Sygnia Limited",
+    "M. Cap.": "5.45B",
+    "Close": 34.94,
+    "YTD": "+58.8%"
   },
   {
     "Code": "ETFRHO",
     "Name": "1nvest Rhodium ETF",
-    "M. Cap.": "1.13B",
-    "Close": 1208.44,
-    "YTD": "+57.6%"
-  },
-  {
-    "Code": "SYG",
-    "Name": "Sygnia Limited",
-    "M. Cap.": "5.38B",
-    "Close": 34.48,
-    "YTD": "+56.7%"
-  },
-  {
-    "Code": "ETFPLT",
-    "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.61B",
-    "Close": 253.47,
-    "YTD": "+53.5%"
+    "M. Cap.": "1.14B",
+    "Close": 1215.36,
+    "YTD": "+58.5%"
   },
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "6.76B",
-    "Close": 251.2,
-    "YTD": "+53.3%"
+    "M. Cap.": "6.86B",
+    "Close": 254.86,
+    "YTD": "+55.5%"
+  },
+  {
+    "Code": "ETFPLT",
+    "Name": "1nvest Platinum ETF",
+    "M. Cap.": "3.66B",
+    "Close": 256.77,
+    "YTD": "+55.5%"
   }
 ]
