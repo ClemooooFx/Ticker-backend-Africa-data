@@ -2,9 +2,9 @@
   {
     "Code": "TURN",
     "Name": "Turnall Holdings Limited",
-    "M. Cap.": "59.6M",
-    "Close": 0.12,
-    "YTD": "+100%"
+    "M. Cap.": "52.3M",
+    "Close": 0.105398,
+    "YTD": "+75.7%"
   },
   {
     "Code": "GBH",
@@ -49,18 +49,18 @@
     "YTD": "-31.2%"
   },
   {
+    "Code": "NPKZ",
+    "Name": "Nampak Zimbabwe Limited",
+    "M. Cap.": "604M",
+    "Close": 0.8,
+    "YTD": "-38.5%"
+  },
+  {
     "Code": "MSHL",
     "Name": "Masimba Holdings Limited",
     "M. Cap.": "435M",
     "Close": 1.799938,
     "YTD": "-40%"
-  },
-  {
-    "Code": "NPKZ",
-    "Name": "Nampak Zimbabwe Limited",
-    "M. Cap.": "546M",
-    "Close": 0.7225,
-    "YTD": "-44.4%"
   },
   {
     "Code": "WILD",

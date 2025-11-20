@@ -2,16 +2,16 @@
   {
     "Code": "EGAD",
     "Name": "Eaagads Limited",
-    "M. Cap.": "648M",
-    "Close": 20.15,
-    "YTD": "+67.9%"
+    "M. Cap.": "650M",
+    "Close": 20.2,
+    "YTD": "+68.3%"
   },
   {
     "Code": "UNGA",
     "Name": "Unga Group Limited",
-    "M. Cap.": "1.81B",
-    "Close": 23.85,
-    "YTD": "+59%"
+    "M. Cap.": "1.79B",
+    "Close": 23.6,
+    "YTD": "+57.3%"
   },
   {
     "Code": "EABL",
@@ -21,52 +21,52 @@
     "YTD": "+33.9%"
   },
   {
-    "Code": "SASN",
-    "Name": "Sasini Tea and Coffee Limited",
-    "M. Cap.": "4.21B",
-    "Close": 18.45,
-    "YTD": "+23%"
-  },
-  {
     "Code": "LIMT",
     "Name": "Limuru Tea Company Limited",
-    "M. Cap.": "1.02B",
-    "Close": 423.5,
-    "YTD": "+21%"
+    "M. Cap.": "1.12B",
+    "Close": 465.75,
+    "YTD": "+33.1%"
+  },
+  {
+    "Code": "SASN",
+    "Name": "Sasini Tea and Coffee Limited",
+    "M. Cap.": "4.18B",
+    "Close": 18.35,
+    "YTD": "+22.3%"
   },
   {
     "Code": "BAT",
     "Name": "British American Tobacco Kenya",
-    "M. Cap.": "45B",
-    "Close": 449.5,
-    "YTD": "+19.6%"
+    "M. Cap.": "44.8B",
+    "Close": 448.0,
+    "YTD": "+19.2%"
   },
   {
     "Code": "EVRD",
     "Name": "Eveready East Africa Limited",
-    "M. Cap.": "273M",
-    "Close": 1.3,
-    "YTD": "+13%"
+    "M. Cap.": "284M",
+    "Close": 1.35,
+    "YTD": "+17.4%"
   },
   {
     "Code": "AMAC",
     "Name": "Africa Mega Agricorp",
-    "M. Cap.": "978M",
-    "Close": 76.0,
-    "YTD": "+8.57%"
+    "M. Cap.": "927M",
+    "Close": 72.0,
+    "YTD": "+2.86%"
   },
   {
     "Code": "KUKZ",
     "Name": "Kakuzi Limited",
-    "M. Cap.": "7.84B",
-    "Close": 400.25,
-    "YTD": "+3.96%"
+    "M. Cap.": "7.61B",
+    "Close": 388.5,
+    "YTD": "+0.91%"
   },
   {
     "Code": "KAPC",
     "Name": "Kapchorua Tea Company Limited",
-    "M. Cap.": "1.66B",
-    "Close": 212.0,
-    "YTD": "-9.79%"
+    "M. Cap.": "1.68B",
+    "Close": 215.25,
+    "YTD": "-8.4%"
   }
 ]

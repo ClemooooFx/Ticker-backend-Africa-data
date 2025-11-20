@@ -2,9 +2,9 @@
   {
     "Code": "ELLAHLAKES",
     "Name": "Ellah Lakes Plc",
-    "M. Cap.": "48.3B",
-    "Close": 12.51,
-    "YTD": "+296%"
+    "M. Cap.": "49.2B",
+    "Close": 12.75,
+    "YTD": "+303%"
   },
   {
     "Code": "VITAFOAM",
@@ -16,9 +16,9 @@
   {
     "Code": "CHAMPION",
     "Name": "Champion Breweries",
-    "M. Cap.": "123B",
-    "Close": 13.7,
-    "YTD": "+260%"
+    "M. Cap.": "125B",
+    "Close": 14.0,
+    "YTD": "+267%"
   },
   {
     "Code": "NASCON",
@@ -42,18 +42,18 @@
     "YTD": "+193%"
   },
   {
-    "Code": "FTNCOCOA",
-    "Name": "FTN Cocoa Processors",
-    "M. Cap.": "20.6B",
-    "Close": 5.27,
-    "YTD": "+190%"
-  },
-  {
     "Code": "CADBURY",
     "Name": "Cadbury Nigeria",
     "M. Cap.": "134B",
     "Close": 58.95,
     "YTD": "+174%"
+  },
+  {
+    "Code": "FTNCOCOA",
+    "Name": "FTN Cocoa Processors",
+    "M. Cap.": "19.1B",
+    "Close": 4.9,
+    "YTD": "+169%"
   },
   {
     "Code": "GUINNESS",

@@ -9,9 +9,9 @@
   {
     "Code": "CHAMPION",
     "Name": "Champion Breweries",
-    "M. Cap.": "123B",
-    "Close": 13.7,
-    "YTD": "+260%"
+    "M. Cap.": "125B",
+    "Close": 14.0,
+    "YTD": "+267%"
   },
   {
     "Code": "NASCON",
@@ -35,18 +35,18 @@
     "YTD": "+193%"
   },
   {
-    "Code": "FTNCOCOA",
-    "Name": "FTN Cocoa Processors",
-    "M. Cap.": "20.6B",
-    "Close": 5.27,
-    "YTD": "+190%"
-  },
-  {
     "Code": "CADBURY",
     "Name": "Cadbury Nigeria",
     "M. Cap.": "134B",
     "Close": 58.95,
     "YTD": "+174%"
+  },
+  {
+    "Code": "FTNCOCOA",
+    "Name": "FTN Cocoa Processors",
+    "M. Cap.": "19.1B",
+    "Close": 4.9,
+    "YTD": "+169%"
   },
   {
     "Code": "OKOMUOIL",
