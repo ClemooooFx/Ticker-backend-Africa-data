@@ -14,13 +14,6 @@
     "YTD": "+180%"
   },
   {
-    "Code": "NAHCO",
-    "Name": "Nigerian Aviation Handling Co.",
-    "M. Cap.": "214B",
-    "Close": 109.9,
-    "YTD": "+139%"
-  },
-  {
     "Code": "CAVERTON",
     "Name": "Caverton Offshore Support Group",
     "M. Cap.": "18.4B",
@@ -35,6 +28,13 @@
     "YTD": "+123%"
   },
   {
+    "Code": "NAHCO",
+    "Name": "Nigerian Aviation Handling Co.",
+    "M. Cap.": "193B",
+    "Close": 99.15,
+    "YTD": "+115%"
+  },
+  {
     "Code": "REDSTAREX",
     "Name": "Red Star Express Plc",
     "M. Cap.": "8.78B",
@@ -44,9 +44,9 @@
   {
     "Code": "IKEJAHOTEL",
     "Name": "Ikeja Hotel Plc",
-    "M. Cap.": "41.1B",
-    "Close": 19.0,
-    "YTD": "+68.9%"
+    "M. Cap.": "45.1B",
+    "Close": 20.85,
+    "YTD": "+85.3%"
   },
   {
     "Code": "UPL",

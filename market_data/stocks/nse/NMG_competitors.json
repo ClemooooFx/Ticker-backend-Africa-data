@@ -9,51 +9,51 @@
   {
     "Code": "UCHM",
     "Name": "Uchumi Supermarket Limited",
-    "M. Cap.": "248M",
-    "Close": 0.68,
-    "YTD": "+300%"
+    "M. Cap.": "270M",
+    "Close": 0.74,
+    "YTD": "+335%"
   },
   {
     "Code": "CGEN",
     "Name": "Car and General Kenya Limited",
-    "M. Cap.": "4.71B",
-    "Close": 58.75,
-    "YTD": "+158%"
+    "M. Cap.": "4.75B",
+    "Close": 59.25,
+    "YTD": "+160%"
   },
   {
     "Code": "XPRS",
     "Name": "Express Kenya Limited",
-    "M. Cap.": "332M",
-    "Close": 6.96,
-    "YTD": "+93.3%"
-  },
-  {
-    "Code": "LKL",
-    "Name": "Longhorn Publishers Limited",
-    "M. Cap.": "790M",
-    "Close": 2.9,
-    "YTD": "+26.1%"
+    "M. Cap.": "339M",
+    "Close": 7.1,
+    "YTD": "+97.2%"
   },
   {
     "Code": "SGL",
     "Name": "Standard Group Limited",
-    "M. Cap.": "492M",
-    "Close": 6.02,
-    "YTD": "+19.9%"
+    "M. Cap.": "523M",
+    "Close": 6.4,
+    "YTD": "+27.5%"
   },
   {
-    "Code": "TPSE",
-    "Name": "TPS Eastern Africa Serena Limited",
-    "M. Cap.": "2.87B",
-    "Close": 15.75,
-    "YTD": "+5.7%"
+    "Code": "LKL",
+    "Name": "Longhorn Publishers Limited",
+    "M. Cap.": "738M",
+    "Close": 2.71,
+    "YTD": "+17.8%"
   },
   {
     "Code": "SCAN",
     "Name": "ScanGroup Limited",
-    "M. Cap.": "1.1B",
-    "Close": 2.55,
-    "YTD": "+2.82%"
+    "M. Cap.": "1.21B",
+    "Close": 2.79,
+    "YTD": "+12.5%"
+  },
+  {
+    "Code": "TPSE",
+    "Name": "TPS Eastern Africa Serena Limited",
+    "M. Cap.": "2.85B",
+    "Close": 15.65,
+    "YTD": "+5.03%"
   },
   {
     "Code": "NBV",

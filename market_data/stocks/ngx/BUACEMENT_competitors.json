@@ -30,9 +30,9 @@
   {
     "Code": "UACN",
     "Name": "UAC of Nigeria",
-    "M. Cap.": "200B",
-    "Close": 68.3,
-    "YTD": "+117%"
+    "M. Cap.": "205B",
+    "Close": 70.0,
+    "YTD": "+123%"
   },
   {
     "Code": "CAP",
@@ -58,15 +58,15 @@
   {
     "Code": "BERGER",
     "Name": "Berger Paints",
-    "M. Cap.": "10.7B",
-    "Close": 37.0,
-    "YTD": "+85%"
+    "M. Cap.": "10.4B",
+    "Close": 35.8,
+    "YTD": "+79%"
   },
   {
     "Code": "CUTIX",
     "Name": "Cutix Plc",
-    "M. Cap.": "22.5B",
-    "Close": 3.2,
-    "YTD": "+39.1%"
+    "M. Cap.": "22.1B",
+    "Close": 3.13,
+    "YTD": "+36.1%"
   }
 ]

@@ -2,16 +2,9 @@
   {
     "Code": "NCR",
     "Name": "NCR Nigeria",
-    "M. Cap.": "4.04B",
-    "Close": 37.4,
-    "YTD": "+648%"
-  },
-  {
-    "Code": "CWG",
-    "Name": "Computer Warehouse Group",
-    "M. Cap.": "42.8B",
-    "Close": 16.95,
-    "YTD": "+120%"
+    "M. Cap.": "4.44B",
+    "Close": 41.1,
+    "YTD": "+722%"
   },
   {
     "Code": "TRIPPLEG",
@@ -21,6 +14,13 @@
     "YTD": "+116%"
   },
   {
+    "Code": "CWG",
+    "Name": "Computer Warehouse Group",
+    "M. Cap.": "40.5B",
+    "Close": 16.05,
+    "YTD": "+108%"
+  },
+  {
     "Code": "ETRANZACT",
     "Name": "E-Tranzact International",
     "M. Cap.": "122B",
@@ -28,17 +28,17 @@
     "YTD": "+104%"
   },
   {
-    "Code": "OMATEK",
-    "Name": "Omatek Ventures",
-    "M. Cap.": "3.44B",
-    "Close": 1.17,
-    "YTD": "+60.3%"
-  },
-  {
     "Code": "CHAMS",
     "Name": "Chams Plc",
-    "M. Cap.": "20.6B",
-    "Close": 3.1,
-    "YTD": "+55.8%"
+    "M. Cap.": "21B",
+    "Close": 3.15,
+    "YTD": "+58.3%"
+  },
+  {
+    "Code": "OMATEK",
+    "Name": "Omatek Ventures",
+    "M. Cap.": "3.27B",
+    "Close": 1.11,
+    "YTD": "+52.1%"
   }
 ]

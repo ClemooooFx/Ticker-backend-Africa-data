@@ -2,16 +2,9 @@
   {
     "Code": "NCR",
     "Name": "NCR Nigeria",
-    "M. Cap.": "4.04B",
-    "Close": 37.4,
-    "YTD": "+648%"
-  },
-  {
-    "Code": "CWG",
-    "Name": "Computer Warehouse Group",
-    "M. Cap.": "42.8B",
-    "Close": 16.95,
-    "YTD": "+120%"
+    "M. Cap.": "4.44B",
+    "Close": 41.1,
+    "YTD": "+722%"
   },
   {
     "Code": "TRIPPLEG",
@@ -19,6 +12,13 @@
     "M. Cap.": "4.38B",
     "Close": 4.42,
     "YTD": "+116%"
+  },
+  {
+    "Code": "CWG",
+    "Name": "Computer Warehouse Group",
+    "M. Cap.": "40.5B",
+    "Close": 16.05,
+    "YTD": "+108%"
   },
   {
     "Code": "ETRANZACT",
@@ -30,15 +30,15 @@
   {
     "Code": "CHAMS",
     "Name": "Chams Plc",
-    "M. Cap.": "20.6B",
-    "Close": 3.1,
-    "YTD": "+55.8%"
+    "M. Cap.": "21B",
+    "Close": 3.15,
+    "YTD": "+58.3%"
   },
   {
     "Code": "LEGENDINT",
     "Name": "Legend Internet",
-    "M. Cap.": "11.7B",
-    "Close": 5.84,
-    "YTD": "-5.81%"
+    "M. Cap.": "10.5B",
+    "Close": 5.26,
+    "YTD": "-15.2%"
   }
 ]

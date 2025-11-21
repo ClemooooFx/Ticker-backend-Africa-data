@@ -2,16 +2,16 @@
   {
     "Code": "SACL",
     "Name": "Star Africa Corporation Limited",
-    "M. Cap.": "165M",
-    "Close": 0.0351,
-    "YTD": "+75.5%"
+    "M. Cap.": "147M",
+    "Close": 0.031372,
+    "YTD": "+56.9%"
   },
   {
     "Code": "SEED",
     "Name": "Seed Co Limited",
-    "M. Cap.": "867M",
-    "Close": 3.505614,
-    "YTD": "+34.9%"
+    "M. Cap.": "939M",
+    "Close": 3.800046,
+    "YTD": "+46.3%"
   },
   {
     "Code": "AFDS",
@@ -21,18 +21,18 @@
     "YTD": "+30.3%"
   },
   {
+    "Code": "BAT",
+    "Name": "British American Tobacco Limited",
+    "M. Cap.": "1.91B",
+    "Close": 92.575,
+    "YTD": "+15.2%"
+  },
+  {
     "Code": "DLTA",
     "Name": "Delta Corporation Limited",
     "M. Cap.": "20B",
-    "Close": 15.602735,
-    "YTD": "+11.5%"
-  },
-  {
-    "Code": "BAT",
-    "Name": "British American Tobacco Limited",
-    "M. Cap.": "1.66B",
-    "Close": 80.5,
-    "YTD": "+0.17%"
+    "Close": 15.60003,
+    "YTD": "+11.4%"
   },
   {
     "Code": "HIPO",
@@ -51,9 +51,9 @@
   {
     "Code": "ARIS",
     "Name": "Ariston Holdings Limited",
-    "M. Cap.": "48.3M",
-    "Close": 0.03,
-    "YTD": "-50%"
+    "M. Cap.": "54.6M",
+    "Close": 0.033919,
+    "YTD": "-43.5%"
   },
   {
     "Code": "NTS",

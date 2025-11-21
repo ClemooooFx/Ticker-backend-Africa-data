@@ -2,58 +2,58 @@
   {
     "Code": "SMER",
     "Name": "Sameer Africa Plc",
-    "M. Cap.": "4.04B",
-    "Close": 14.5,
-    "YTD": "+497%"
+    "M. Cap.": "3.94B",
+    "Close": 14.15,
+    "YTD": "+482%"
   },
   {
     "Code": "EGAD",
     "Name": "Eaagads Limited",
-    "M. Cap.": "650M",
-    "Close": 20.2,
-    "YTD": "+68.3%"
+    "M. Cap.": "637M",
+    "Close": 19.8,
+    "YTD": "+65%"
   },
   {
     "Code": "UNGA",
     "Name": "Unga Group Limited",
-    "M. Cap.": "1.79B",
-    "Close": 23.6,
-    "YTD": "+57.3%"
+    "M. Cap.": "1.82B",
+    "Close": 24.0,
+    "YTD": "+60%"
   },
   {
     "Code": "EABL",
     "Name": "East African Breweries Limited",
-    "M. Cap.": "186B",
-    "Close": 235.0,
-    "YTD": "+33.9%"
-  },
-  {
-    "Code": "LIMT",
-    "Name": "Limuru Tea Company Limited",
-    "M. Cap.": "1.12B",
-    "Close": 465.75,
-    "YTD": "+33.1%"
+    "M. Cap.": "185B",
+    "Close": 234.0,
+    "YTD": "+33.3%"
   },
   {
     "Code": "SASN",
     "Name": "Sasini Tea and Coffee Limited",
-    "M. Cap.": "4.18B",
-    "Close": 18.35,
-    "YTD": "+22.3%"
+    "M. Cap.": "4.17B",
+    "Close": 18.3,
+    "YTD": "+22%"
+  },
+  {
+    "Code": "LIMT",
+    "Name": "Limuru Tea Company Limited",
+    "M. Cap.": "1.02B",
+    "Close": 423.5,
+    "YTD": "+21%"
   },
   {
     "Code": "EVRD",
     "Name": "Eveready East Africa Limited",
-    "M. Cap.": "284M",
-    "Close": 1.35,
-    "YTD": "+17.4%"
+    "M. Cap.": "269M",
+    "Close": 1.28,
+    "YTD": "+11.3%"
   },
   {
     "Code": "AMAC",
     "Name": "Africa Mega Agricorp",
-    "M. Cap.": "927M",
-    "Close": 72.0,
-    "YTD": "+2.86%"
+    "M. Cap.": "984M",
+    "Close": 76.5,
+    "YTD": "+9.29%"
   },
   {
     "Code": "KUKZ",
@@ -65,8 +65,8 @@
   {
     "Code": "KAPC",
     "Name": "Kapchorua Tea Company Limited",
-    "M. Cap.": "1.68B",
-    "Close": 215.25,
-    "YTD": "-8.4%"
+    "M. Cap.": "1.67B",
+    "Close": 213.0,
+    "YTD": "-9.36%"
   }
 ]

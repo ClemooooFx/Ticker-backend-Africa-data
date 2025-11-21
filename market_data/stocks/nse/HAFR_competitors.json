@@ -2,16 +2,16 @@
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "4.92B",
-    "Close": 18.95,
-    "YTD": "+216%"
+    "M. Cap.": "4.84B",
+    "Close": 18.65,
+    "YTD": "+211%"
   },
   {
     "Code": "KNRE",
     "Name": "Kenya Re-Insurance Corporation Ltd",
-    "M. Cap.": "17.4B",
-    "Close": 3.11,
-    "YTD": "+143%"
+    "M. Cap.": "17.3B",
+    "Close": 3.09,
+    "YTD": "+141%"
   },
   {
     "Code": "HFCK",
@@ -23,30 +23,30 @@
   {
     "Code": "CIC",
     "Name": "CIC Insurance Group Limited",
-    "M. Cap.": "12.1B",
-    "Close": 4.62,
-    "YTD": "+115%"
-  },
-  {
-    "Code": "SLAM",
-    "Name": "Sanlam Kenya Plc",
-    "M. Cap.": "1.29B",
-    "Close": 8.98,
-    "YTD": "+81.4%"
+    "M. Cap.": "12B",
+    "Close": 4.59,
+    "YTD": "+113%"
   },
   {
     "Code": "JUB",
     "Name": "Jubilee Holdings Limited",
-    "M. Cap.": "22.5B",
-    "Close": 310.0,
-    "YTD": "+78.7%"
+    "M. Cap.": "23.6B",
+    "Close": 325.0,
+    "YTD": "+87.3%"
+  },
+  {
+    "Code": "SLAM",
+    "Name": "Sanlam Kenya Plc",
+    "M. Cap.": "1.26B",
+    "Close": 8.74,
+    "YTD": "+76.6%"
   },
   {
     "Code": "NCBA",
     "Name": "NCBA Group Plc",
-    "M. Cap.": "137B",
-    "Close": 83.25,
-    "YTD": "+72.7%"
+    "M. Cap.": "139B",
+    "Close": 84.25,
+    "YTD": "+74.8%"
   },
   {
     "Code": "DTK",
@@ -58,15 +58,15 @@
   {
     "Code": "GLD",
     "Name": "Absa NewGold ETF",
-    "M. Cap.": "2.04B",
-    "Close": 5105.0,
-    "YTD": "+56.6%"
+    "M. Cap.": "2.1B",
+    "Close": 5260.0,
+    "YTD": "+61.4%"
   },
   {
-    "Code": "KCB",
-    "Name": "KCB Group",
-    "M. Cap.": "209B",
-    "Close": 65.0,
-    "YTD": "+56.3%"
+    "Code": "LBTY",
+    "Name": "Liberty Kenya Holdings Limited",
+    "M. Cap.": "5.54B",
+    "Close": 10.35,
+    "YTD": "+54.9%"
   }
 ]

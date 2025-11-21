@@ -2,9 +2,9 @@
   {
     "Code": "TURN",
     "Name": "Turnall Holdings Limited",
-    "M. Cap.": "52.3M",
-    "Close": 0.105398,
-    "YTD": "+75.7%"
+    "M. Cap.": "54.6M",
+    "Close": 0.11,
+    "YTD": "+83.3%"
   },
   {
     "Code": "CFI",
@@ -14,18 +14,18 @@
     "YTD": "+29%"
   },
   {
+    "Code": "TSL",
+    "Name": "TSL Limited",
+    "M. Cap.": "802M",
+    "Close": 2.2524,
+    "YTD": "+1.35%"
+  },
+  {
     "Code": "ZECO",
     "Name": "Zeco Holdings Limited",
     "M. Cap.": "8340",
     "Close": 1.8e-05,
     "YTD": NaN
-  },
-  {
-    "Code": "TSL",
-    "Name": "TSL Limited",
-    "M. Cap.": "784M",
-    "Close": 2.2025,
-    "YTD": "-0.9%"
   },
   {
     "Code": "CAFCA",
@@ -35,18 +35,18 @@
     "YTD": "-26.8%"
   },
   {
+    "Code": "NPKZ",
+    "Name": "Nampak Zimbabwe Limited",
+    "M. Cap.": "695M",
+    "Close": 0.92,
+    "YTD": "-29.2%"
+  },
+  {
     "Code": "PROL",
     "Name": "Proplastics Limited",
     "M. Cap.": "255M",
     "Close": 1.02,
     "YTD": "-31.2%"
-  },
-  {
-    "Code": "NPKZ",
-    "Name": "Nampak Zimbabwe Limited",
-    "M. Cap.": "604M",
-    "Close": 0.8,
-    "YTD": "-38.5%"
   },
   {
     "Code": "MSHL",

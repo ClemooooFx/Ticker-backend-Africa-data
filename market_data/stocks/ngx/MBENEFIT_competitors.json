@@ -2,16 +2,16 @@
   {
     "Code": "SOVRENINS",
     "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "42B",
-    "Close": 2.95,
-    "YTD": "+163%"
+    "M. Cap.": "41.3B",
+    "Close": 2.9,
+    "YTD": "+159%"
   },
   {
     "Code": "NEM",
     "Name": "N.E.M. Insurance Company",
-    "M. Cap.": "135B",
-    "Close": 27.0,
-    "YTD": "+147%"
+    "M. Cap.": "130B",
+    "Close": 26.0,
+    "YTD": "+137%"
   },
   {
     "Code": "SFSREIT",
@@ -30,9 +30,9 @@
   {
     "Code": "AIICO",
     "Name": "Aiico Insurance Plc",
-    "M. Cap.": "119B",
-    "Close": 3.25,
-    "YTD": "+127%"
+    "M. Cap.": "115B",
+    "Close": 3.15,
+    "YTD": "+120%"
   },
   {
     "Code": "ABBEYBDS",
@@ -49,18 +49,11 @@
     "YTD": "+114%"
   },
   {
-    "Code": "ROYALEX",
-    "Name": "Royal Exchange",
-    "M. Cap.": "16.5B",
-    "Close": 1.99,
-    "YTD": "+99%"
-  },
-  {
     "Code": "WEMABANK",
     "Name": "Wema Bank",
-    "M. Cap.": "722B",
-    "Close": 18.0,
-    "YTD": "+97.8%"
+    "M. Cap.": "754B",
+    "Close": 18.8,
+    "YTD": "+107%"
   },
   {
     "Code": "NGXGROUP",
@@ -68,5 +61,12 @@
     "M. Cap.": "101B",
     "Close": 51.6,
     "YTD": "+89.4%"
+  },
+  {
+    "Code": "STANBIC",
+    "Name": "Stanbic IBTC Holdings",
+    "M. Cap.": "1.67T",
+    "Close": 105.0,
+    "YTD": "+82.3%"
   }
 ]

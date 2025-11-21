@@ -2,9 +2,9 @@
   {
     "Code": "TIP",
     "Name": "The Initiates Plc",
-    "M. Cap.": "9.83B",
-    "Close": 11.05,
-    "YTD": "+342%"
+    "M. Cap.": "9.97B",
+    "Close": 11.2,
+    "YTD": "+348%"
   },
   {
     "Code": "EUNISELL",
@@ -21,18 +21,18 @@
     "YTD": "+180%"
   },
   {
-    "Code": "NAHCO",
-    "Name": "Nigerian Aviation Handling Co.",
-    "M. Cap.": "214B",
-    "Close": 109.9,
-    "YTD": "+139%"
-  },
-  {
     "Code": "ACADEMY",
     "Name": "Academy Press",
     "M. Cap.": "6.08B",
     "Close": 6.7,
     "YTD": "+123%"
+  },
+  {
+    "Code": "NAHCO",
+    "Name": "Nigerian Aviation Handling Co.",
+    "M. Cap.": "193B",
+    "Close": 99.15,
+    "YTD": "+115%"
   },
   {
     "Code": "REDSTAREX",
@@ -44,9 +44,9 @@
   {
     "Code": "IKEJAHOTEL",
     "Name": "Ikeja Hotel Plc",
-    "M. Cap.": "41.1B",
-    "Close": 19.0,
-    "YTD": "+68.9%"
+    "M. Cap.": "45.1B",
+    "Close": 20.85,
+    "YTD": "+85.3%"
   },
   {
     "Code": "UPL",
