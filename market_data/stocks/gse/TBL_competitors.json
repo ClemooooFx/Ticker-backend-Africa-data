@@ -14,6 +14,13 @@
     "YTD": "+212%"
   },
   {
+    "Code": "EGH",
+    "Name": "Ecobank Ghana Limited",
+    "M. Cap.": "6.13B",
+    "Close": 19.0,
+    "YTD": "+192%"
+  },
+  {
     "Code": "GCB",
     "Name": "GCB Bank Limited",
     "M. Cap.": "4.9B",
@@ -33,13 +40,6 @@
     "M. Cap.": "2.91B",
     "Close": 4.1,
     "YTD": "+173%"
-  },
-  {
-    "Code": "EGH",
-    "Name": "Ecobank Ghana Limited",
-    "M. Cap.": "5.64B",
-    "Close": 17.5,
-    "YTD": "+169%"
   },
   {
     "Code": "RBGH",

@@ -9,37 +9,37 @@
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.37B",
-    "Close": 117.91,
-    "YTD": "+117%"
+    "M. Cap.": "2.35B",
+    "Close": 116.85,
+    "YTD": "+115%"
   },
   {
     "Code": "STXSHA",
     "Name": "Satrix Shariah Top 40 ETF",
     "M. Cap.": "119M",
-    "Close": 5.85,
-    "YTD": "+71.1%"
+    "Close": 5.83,
+    "YTD": "+70.5%"
   },
   {
     "Code": "ETFRHO",
     "Name": "1nvest Rhodium ETF",
-    "M. Cap.": "1.14B",
-    "Close": 1215.36,
-    "YTD": "+58.5%"
+    "M. Cap.": "1.16B",
+    "Close": 1212.57,
+    "YTD": "+58.1%"
   },
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "6.86B",
-    "Close": 254.86,
-    "YTD": "+55.5%"
+    "M. Cap.": "6.83B",
+    "Close": 253.98,
+    "YTD": "+55%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.66B",
-    "Close": 256.77,
-    "YTD": "+55.5%"
+    "M. Cap.": "3.65B",
+    "Close": 255.81,
+    "YTD": "+54.9%"
   },
   {
     "Code": "WTOP20",
@@ -49,24 +49,24 @@
     "YTD": "+46.8%"
   },
   {
-    "Code": "EPE",
-    "Name": "EPE Capital Partners Ltd",
-    "M. Cap.": "2B",
-    "Close": 7.8,
-    "YTD": "+44.7%"
+    "Code": "NGPLD",
+    "Name": "NewGold Palladium ETF",
+    "M. Cap.": "238M",
+    "Close": 233.39,
+    "YTD": "+43.3%"
   },
   {
     "Code": "ETFGLD",
     "Name": "1nvest Gold ETF",
-    "M. Cap.": "1.82B",
-    "Close": 682.25,
-    "YTD": "+43.7%"
+    "M. Cap.": "1.81B",
+    "Close": 679.59,
+    "YTD": "+43.1%"
   },
   {
     "Code": "GLD",
     "Name": "New Gold Issuer Limited",
-    "M. Cap.": "38.1B",
-    "Close": 652.6,
-    "YTD": "+43.6%"
+    "M. Cap.": "38B",
+    "Close": 650.06,
+    "YTD": "+43.1%"
   }
 ]

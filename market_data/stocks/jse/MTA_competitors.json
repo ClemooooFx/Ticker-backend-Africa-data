@@ -2,44 +2,44 @@
   {
     "Code": "WBC",
     "Name": "WeBuyCars Holdings Ltd",
-    "M. Cap.": "18.3B",
-    "Close": 43.91,
-    "YTD": "+2%"
+    "M. Cap.": "19.2B",
+    "Close": 46.0,
+    "YTD": "+6.85%"
   },
   {
     "Code": "BTI",
     "Name": "British American Tobacco Plc",
     "M. Cap.": "2.19T",
-    "Close": 939.42,
-    "YTD": "+38.9%"
-  },
-  {
-    "Code": "RBO",
-    "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4.3B",
-    "Close": 4.78,
-    "YTD": "+31.7%"
+    "Close": 938.35,
+    "YTD": "+38.7%"
   },
   {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "10.2B",
-    "Close": 238.0,
-    "YTD": "+27.3%"
+    "M. Cap.": "10.7B",
+    "Close": 249.5,
+    "YTD": "+33.4%"
+  },
+  {
+    "Code": "RBO",
+    "Name": "Rainbow Chicken Ltd",
+    "M. Cap.": "4.28B",
+    "Close": 4.76,
+    "YTD": "+31.1%"
   },
   {
     "Code": "CFR",
     "Name": "Compagnie Financi\\xc3\\xa8re Richemont",
-    "M. Cap.": "1.87T",
-    "Close": 3477.44,
-    "YTD": "+25.3%"
+    "M. Cap.": "1.9T",
+    "Close": 3528.35,
+    "YTD": "+27.1%"
   },
   {
     "Code": "PMR",
     "Name": "Premier Group Ltd",
-    "M. Cap.": "21.7B",
-    "Close": 168.2,
-    "YTD": "+23.7%"
+    "M. Cap.": "21.5B",
+    "Close": 167.0,
+    "YTD": "+22.8%"
   },
   {
     "Code": "TBS",
@@ -51,22 +51,22 @@
   {
     "Code": "ANH",
     "Name": "Anheuser-Busch InBev SA/NV",
-    "M. Cap.": "1.89T",
-    "Close": 1052.2,
-    "YTD": "+12.2%"
+    "M. Cap.": "1.87T",
+    "Close": 1041.64,
+    "YTD": "+11.1%"
   },
   {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
     "M. Cap.": "5.96B",
-    "Close": 22.69,
-    "YTD": "+9.67%"
+    "Close": 22.7,
+    "YTD": "+9.71%"
   },
   {
     "Code": "LBR",
     "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.74B",
-    "Close": 4.5,
-    "YTD": "+3.45%"
+    "M. Cap.": "2.71B",
+    "Close": 4.45,
+    "YTD": "+2.3%"
   }
 ]

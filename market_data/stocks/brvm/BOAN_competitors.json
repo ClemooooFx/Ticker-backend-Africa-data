@@ -9,23 +9,23 @@
   {
     "Code": "ECOC",
     "Name": "Ecobank C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "875B",
-    "Close": 15900,
-    "YTD": "+80.8%"
+    "M. Cap.": "881B",
+    "Close": 16000,
+    "YTD": "+81.9%"
   },
   {
     "Code": "BOAS",
     "Name": "Bank of Africa - Senegal",
-    "M. Cap.": "202B",
-    "Close": 5600,
-    "YTD": "+77.8%"
+    "M. Cap.": "198B",
+    "Close": 5505,
+    "YTD": "+74.8%"
   },
   {
     "Code": "NSBC",
     "Name": "Nsia Banque C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "294B",
-    "Close": 11895,
-    "YTD": "+67.8%"
+    "M. Cap.": "297B",
+    "Close": 12000,
+    "YTD": "+69.3%"
   },
   {
     "Code": "SIBC",
@@ -42,25 +42,25 @@
     "YTD": "+50%"
   },
   {
-    "Code": "BICC",
-    "Name": "BICI C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "339B",
-    "Close": 20350,
-    "YTD": "+45.4%"
-  },
-  {
     "Code": "BOAC",
     "Name": "Bank of Africa - C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "290B",
-    "Close": 7250,
-    "YTD": "+45.2%"
+    "M. Cap.": "292B",
+    "Close": 7295,
+    "YTD": "+46.1%"
+  },
+  {
+    "Code": "BICC",
+    "Name": "BICI C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
+    "M. Cap.": "325B",
+    "Close": 19500,
+    "YTD": "+39.3%"
   },
   {
     "Code": "BOAB",
     "Name": "Bank of Africa - Benin",
     "M. Cap.": "204B",
-    "Close": 5030,
-    "YTD": "+36.5%"
+    "Close": 5035,
+    "YTD": "+36.6%"
   },
   {
     "Code": "ORGT",

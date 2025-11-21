@@ -7,6 +7,13 @@
     "YTD": "+212%"
   },
   {
+    "Code": "EGH",
+    "Name": "Ecobank Ghana Limited",
+    "M. Cap.": "6.13B",
+    "Close": 19.0,
+    "YTD": "+192%"
+  },
+  {
     "Code": "GCB",
     "Name": "GCB Bank Limited",
     "M. Cap.": "4.9B",
@@ -21,13 +28,6 @@
     "YTD": "+190%"
   },
   {
-    "Code": "EGH",
-    "Name": "Ecobank Ghana Limited",
-    "M. Cap.": "5.64B",
-    "Close": 17.5,
-    "YTD": "+169%"
-  },
-  {
     "Code": "RBGH",
     "Name": "Republic Bank Ghana Limited",
     "M. Cap.": "1.06B",
@@ -37,9 +37,9 @@
   {
     "Code": "CAL",
     "Name": "CalBank Plc",
-    "M. Cap.": "384M",
-    "Close": 0.34,
-    "YTD": "-2.86%"
+    "M. Cap.": "395M",
+    "Close": 0.35,
+    "YTD": NaN
   },
   {
     "Code": "SIC",

@@ -1,17 +1,17 @@
 [
   {
+    "Code": "CPC",
+    "Name": "Cocoa Processing Company Limited",
+    "M. Cap.": "102M",
+    "Close": 0.05,
+    "YTD": "+150%"
+  },
+  {
     "Code": "FML",
     "Name": "Fan Milk Plc",
     "M. Cap.": "931M",
     "Close": 8.01,
     "YTD": "+116%"
-  },
-  {
-    "Code": "CPC",
-    "Name": "Cocoa Processing Company Limited",
-    "M. Cap.": "81.5M",
-    "Close": 0.04,
-    "YTD": "+100%"
   },
   {
     "Code": "GGBL",

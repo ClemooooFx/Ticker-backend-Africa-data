@@ -14,11 +14,18 @@
     "YTD": "-51.8%"
   },
   {
+    "Code": "GND",
+    "Name": "Grindrod Ltd",
+    "M. Cap.": "11.8B",
+    "Close": 16.92,
+    "YTD": "+41.5%"
+  },
+  {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "769M",
-    "Close": 7.0,
-    "YTD": "+41.7%"
+    "M. Cap.": "757M",
+    "Close": 6.89,
+    "YTD": "+39.5%"
   },
   {
     "Code": "MFL",
@@ -28,25 +35,18 @@
     "YTD": "+38.8%"
   },
   {
-    "Code": "GND",
-    "Name": "Grindrod Ltd",
-    "M. Cap.": "11.5B",
-    "Close": 16.54,
-    "YTD": "+38.3%"
-  },
-  {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.37B",
-    "Close": 515.0,
-    "YTD": "+23.8%"
+    "M. Cap.": "4.45B",
+    "Close": 525.0,
+    "YTD": "+26.2%"
   },
   {
-    "Code": "BIK",
-    "Name": "Brikor Limited",
-    "M. Cap.": "140M",
-    "Close": 0.17,
-    "YTD": "+21.4%"
+    "Code": "SSK",
+    "Name": "Stefanutti Stocks Holdings Ltd",
+    "M. Cap.": "878M",
+    "Close": 4.67,
+    "YTD": "+16.8%"
   },
   {
     "Code": "GNDP",
@@ -56,17 +56,17 @@
     "YTD": "+15.2%"
   },
   {
-    "Code": "IVT",
-    "Name": "Invicta Holdings Ltd",
-    "M. Cap.": "3.37B",
-    "Close": 38.0,
-    "YTD": "+15.2%"
+    "Code": "BIK",
+    "Name": "Brikor Limited",
+    "M. Cap.": "132M",
+    "Close": 0.16,
+    "YTD": "+14.3%"
   },
   {
-    "Code": "BAW",
-    "Name": "Barloworld Ltd",
-    "M. Cap.": "22.6B",
-    "Close": 119.1,
-    "YTD": "+9.74%"
+    "Code": "IVT",
+    "Name": "Invicta Holdings Ltd",
+    "M. Cap.": "3.33B",
+    "Close": 37.5,
+    "YTD": "+13.6%"
   }
 ]
