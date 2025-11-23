@@ -2,71 +2,71 @@
   {
     "Code": "PPE",
     "Name": "Purple Group Ltd",
-    "M. Cap.": "3.25B",
-    "Close": 2.28,
-    "YTD": "+111%"
+    "M. Cap.": "3.2B",
+    "Close": 2.25,
+    "YTD": "+108%"
   },
   {
     "Code": "SYG",
     "Name": "Sygnia Limited",
-    "M. Cap.": "5.55B",
-    "Close": 35.55,
-    "YTD": "+61.6%"
+    "M. Cap.": "5.59B",
+    "Close": 35.8,
+    "YTD": "+62.7%"
   },
   {
     "Code": "N91",
     "Name": "Ninety One Plc",
-    "M. Cap.": "29.4B",
-    "Close": 46.9,
-    "YTD": "+36.4%"
+    "M. Cap.": "30B",
+    "Close": 47.73,
+    "YTD": "+38.8%"
   },
   {
     "Code": "NY1",
     "Name": "Ninety One Limited",
-    "M. Cap.": "12.3B",
-    "Close": 45.66,
-    "YTD": "+31.8%"
+    "M. Cap.": "12.4B",
+    "Close": 46.27,
+    "YTD": "+33.6%"
   },
   {
     "Code": "KST",
     "Name": "PSG Konsult Limited",
-    "M. Cap.": "32.2B",
-    "Close": 25.72,
-    "YTD": "+31.1%"
+    "M. Cap.": "31.4B",
+    "Close": 25.03,
+    "YTD": "+27.6%"
   },
   {
     "Code": "RNI",
     "Name": "Reinet Investments S.C.A",
-    "M. Cap.": "113B",
-    "Close": 578.01,
-    "YTD": "+29.3%"
+    "M. Cap.": "112B",
+    "Close": 570.0,
+    "YTD": "+27.5%"
   },
   {
     "Code": "CML",
     "Name": "Coronation Fund Mngrs Ld",
-    "M. Cap.": "18.6B",
-    "Close": 48.14,
-    "YTD": "+22.9%"
+    "M. Cap.": "18.2B",
+    "Close": 47.07,
+    "YTD": "+20.2%"
+  },
+  {
+    "Code": "DNB",
+    "Name": "Deneb Investments Ltd",
+    "M. Cap.": "1.04B",
+    "Close": 2.35,
+    "YTD": "+16.3%"
   },
   {
     "Code": "REM",
     "Name": "Remgro Ltd",
-    "M. Cap.": "93.8B",
-    "Close": 177.29,
-    "YTD": "+14.3%"
+    "M. Cap.": "91.8B",
+    "Close": 173.54,
+    "YTD": "+11.9%"
   },
   {
     "Code": "QLT",
     "Name": "Quilter Plc",
-    "M. Cap.": "56.4B",
-    "Close": 40.17,
-    "YTD": "+13%"
-  },
-  {
-    "Code": "OUT",
-    "Name": "OUTsurance Group Ltd",
-    "M. Cap.": "114B",
-    "Close": 73.59,
-    "YTD": "+10.7%"
+    "M. Cap.": "55.6B",
+    "Close": 39.6,
+    "YTD": "+11.4%"
   }
 ]

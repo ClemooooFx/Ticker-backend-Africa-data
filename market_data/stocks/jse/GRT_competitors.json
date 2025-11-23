@@ -2,37 +2,44 @@
   {
     "Code": "DLT",
     "Name": "Delta Property Fund Limited",
-    "M. Cap.": "229M",
-    "Close": 0.32,
-    "YTD": "+68.4%"
+    "M. Cap.": "243M",
+    "Close": 0.34,
+    "YTD": "+79%"
   },
   {
     "Code": "FTB",
     "Name": "Fairvest Ltd B Shares",
-    "M. Cap.": "13.5B",
-    "Close": 6.84,
-    "YTD": "+43.4%"
+    "M. Cap.": "13B",
+    "Close": 6.56,
+    "YTD": "+37.5%"
   },
   {
     "Code": "RDF",
     "Name": "Redefine Properties Limited",
-    "M. Cap.": "43.6B",
-    "Close": 6.06,
-    "YTD": "+33.2%"
+    "M. Cap.": "43.1B",
+    "Close": 5.98,
+    "YTD": "+31.4%"
   },
   {
     "Code": "VKE",
     "Name": "Vukile Property Fund Ltd",
-    "M. Cap.": "32.3B",
-    "Close": 23.57,
-    "YTD": "+31.2%"
+    "M. Cap.": "32B",
+    "Close": 23.4,
+    "YTD": "+30.2%"
+  },
+  {
+    "Code": "EMI",
+    "Name": "Emira Property Fund Ltd",
+    "M. Cap.": "7.1B",
+    "Close": 14.18,
+    "YTD": "+30.1%"
   },
   {
     "Code": "RES",
     "Name": "Resilient REIT Limited",
-    "M. Cap.": "27.8B",
-    "Close": 76.18,
-    "YTD": "+29.7%"
+    "M. Cap.": "27.6B",
+    "Close": 75.56,
+    "YTD": "+28.6%"
   },
   {
     "Code": "DIB",
@@ -42,31 +49,24 @@
     "YTD": "+27.6%"
   },
   {
-    "Code": "EMI",
-    "Name": "Emira Property Fund Ltd",
-    "M. Cap.": "6.89B",
-    "Close": 13.75,
-    "YTD": "+26.2%"
+    "Code": "EQU",
+    "Name": "Equites Prop Fund Ltd",
+    "M. Cap.": "14.9B",
+    "Close": 18.09,
+    "YTD": "+23.1%"
   },
   {
     "Code": "FFB",
     "Name": "Fortress REIT Ltd",
-    "M. Cap.": "30.7B",
-    "Close": 25.2,
-    "YTD": "+24.4%"
+    "M. Cap.": "30.3B",
+    "Close": 24.91,
+    "YTD": "+23%"
   },
   {
     "Code": "OCT",
     "Name": "OCTODEC INVEST LTD",
-    "M. Cap.": "3.77B",
-    "Close": 14.17,
-    "YTD": "+23.2%"
-  },
-  {
-    "Code": "EQU",
-    "Name": "Equites Prop Fund Ltd",
-    "M. Cap.": "14.8B",
-    "Close": 17.95,
-    "YTD": "+22.1%"
+    "M. Cap.": "3.75B",
+    "Close": 14.1,
+    "YTD": "+22.6%"
   }
 ]

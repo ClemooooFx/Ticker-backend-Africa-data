@@ -9,64 +9,64 @@
   {
     "Code": "DSY",
     "Name": "Discovery Limited",
-    "M. Cap.": "155B",
-    "Close": 228.28,
-    "YTD": "+17.2%"
+    "M. Cap.": "153B",
+    "Close": 224.98,
+    "YTD": "+15.5%"
   },
   {
     "Code": "SNT",
     "Name": "Santam Limited",
-    "M. Cap.": "50.1B",
-    "Close": 434.8,
-    "YTD": "+10.7%"
-  },
-  {
-    "Code": "SLM",
-    "Name": "Sanlam Limited",
-    "M. Cap.": "198B",
-    "Close": 93.54,
-    "YTD": "+7.67%"
+    "M. Cap.": "49.2B",
+    "Close": 427.77,
+    "YTD": "+8.95%"
   },
   {
     "Code": "CLI",
     "Name": "Clientele Ltd",
-    "M. Cap.": "5.94B",
-    "Close": 13.1,
-    "YTD": "+4.8%"
+    "M. Cap.": "6.03B",
+    "Close": 13.3,
+    "YTD": "+6.4%"
+  },
+  {
+    "Code": "SLM",
+    "Name": "Sanlam Limited",
+    "M. Cap.": "194B",
+    "Close": 91.55,
+    "YTD": "+5.38%"
   },
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.59B",
-    "Close": 49.0,
-    "YTD": "+123%"
-  },
-  {
-    "Code": "STXRES",
-    "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.35B",
-    "Close": 116.85,
-    "YTD": "+115%"
+    "M. Cap.": "2.65B",
+    "Close": 50.0,
+    "YTD": "+127%"
   },
   {
     "Code": "PPE",
     "Name": "Purple Group Ltd",
-    "M. Cap.": "3.25B",
-    "Close": 2.28,
-    "YTD": "+111%"
+    "M. Cap.": "3.2B",
+    "Close": 2.25,
+    "YTD": "+108%"
+  },
+  {
+    "Code": "STXRES",
+    "Name": "Satrix RESI ETF Portfolio",
+    "M. Cap.": "2.26B",
+    "Close": 112.39,
+    "YTD": "+107%"
   },
   {
     "Code": "FGL",
     "Name": "Finbond Group Ltd",
-    "M. Cap.": "696M",
-    "Close": 1.35,
-    "YTD": "+108%"
+    "M. Cap.": "686M",
+    "Close": 1.33,
+    "YTD": "+105%"
   },
   {
-    "Code": "STXSHA",
-    "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "119M",
-    "Close": 5.83,
-    "YTD": "+70.5%"
+    "Code": "BAC",
+    "Name": "Africa Bitcoin Corporation Ltd",
+    "M. Cap.": "125M",
+    "Close": 11.0,
+    "YTD": "+69.2%"
   }
 ]

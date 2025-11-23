@@ -16,9 +16,9 @@
   {
     "Code": "ART",
     "Name": "Argent Industrial Ltd",
-    "M. Cap.": "1.61B",
-    "Close": 29.9,
-    "YTD": "+8.49%"
+    "M. Cap.": "1.72B",
+    "Close": 32.0,
+    "YTD": "+16.1%"
   },
   {
     "Code": "PMV",
@@ -37,36 +37,36 @@
   {
     "Code": "HDC",
     "Name": "Hudaco Industries Ltd",
-    "M. Cap.": "5.88B",
-    "Close": 190.34,
-    "YTD": "-11.9%"
+    "M. Cap.": "5.62B",
+    "Close": 182.0,
+    "YTD": "-15.7%"
   },
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
     "M. Cap.": "11.8B",
-    "Close": 16.92,
-    "YTD": "+41.5%"
+    "Close": 16.88,
+    "YTD": "+41.1%"
   },
   {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.45B",
-    "Close": 525.0,
-    "YTD": "+26.2%"
+    "M. Cap.": "4.41B",
+    "Close": 520.58,
+    "YTD": "+25.1%"
   },
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "878M",
-    "Close": 4.67,
-    "YTD": "+16.8%"
+    "M. Cap.": "869M",
+    "Close": 4.62,
+    "YTD": "+15.5%"
   },
   {
-    "Code": "GNDP",
-    "Name": "Grindrod Ltd Pref",
-    "M. Cap.": "814M",
-    "Close": 110.0,
+    "Code": "IVT",
+    "Name": "Invicta Holdings Ltd",
+    "M. Cap.": "3.37B",
+    "Close": 38.0,
     "YTD": "+15.2%"
   }
 ]

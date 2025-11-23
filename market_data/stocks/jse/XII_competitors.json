@@ -9,16 +9,16 @@
   {
     "Code": "CCC",
     "Name": "Cilo Cybin Holdings Ltd",
-    "M. Cap.": "714M",
-    "Close": 3.1,
-    "YTD": "-20.5%"
+    "M. Cap.": "664M",
+    "Close": 2.88,
+    "YTD": "-26.2%"
   },
   {
     "Code": "APN",
     "Name": "Aspen Pharmacare Holdings",
-    "M. Cap.": "41.9B",
-    "Close": 93.86,
-    "YTD": "-43.1%"
+    "M. Cap.": "40.8B",
+    "Close": 91.45,
+    "YTD": "-44.5%"
   },
   {
     "Code": "NTCP",
@@ -28,31 +28,31 @@
     "YTD": "+9.41%"
   },
   {
-    "Code": "NTC",
-    "Name": "Netcare Limited",
-    "M. Cap.": "20.6B",
-    "Close": 15.11,
-    "YTD": "+1.27%"
-  },
-  {
     "Code": "PHP",
     "Name": "Primary Health Properties",
-    "M. Cap.": "54.9B",
-    "Close": 21.15,
-    "YTD": "-3.78%"
+    "M. Cap.": "57B",
+    "Close": 21.95,
+    "YTD": "-0.14%"
+  },
+  {
+    "Code": "NTC",
+    "Name": "Netcare Limited",
+    "M. Cap.": "20.2B",
+    "Close": 14.82,
+    "YTD": "-0.67%"
   },
   {
     "Code": "ACT",
     "Name": "AfroCentric Inv Corp Ltd",
-    "M. Cap.": "1.26B",
-    "Close": 1.5,
-    "YTD": "-24.6%"
+    "M. Cap.": "1.31B",
+    "Close": 1.56,
+    "YTD": "-21.6%"
   },
   {
     "Code": "LHC",
     "Name": "Life Healthcare Group Holdings",
-    "M. Cap.": "15.9B",
-    "Close": 10.84,
-    "YTD": "-33.8%"
+    "M. Cap.": "15.8B",
+    "Close": 10.78,
+    "YTD": "-34.2%"
   }
 ]

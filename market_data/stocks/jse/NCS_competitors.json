@@ -2,16 +2,16 @@
   {
     "Code": "WVR",
     "Name": "Weaver Fintech Ltd",
-    "M. Cap.": "5.87B",
-    "Close": 55.0,
-    "YTD": "+83.3%"
+    "M. Cap.": "5.71B",
+    "Close": 53.5,
+    "YTD": "+78.3%"
   },
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.66B",
-    "Close": 11.35,
-    "YTD": "+64.5%"
+    "M. Cap.": "9.8B",
+    "Close": 11.52,
+    "YTD": "+67%"
   },
   {
     "Code": "AOO",
@@ -30,16 +30,9 @@
   {
     "Code": "ADH",
     "Name": "ADvTECH Ltd",
-    "M. Cap.": "20.8B",
-    "Close": 37.51,
-    "YTD": "+10.9%"
-  },
-  {
-    "Code": "COH",
-    "Name": "Curro Holdings Limited",
-    "M. Cap.": "7.78B",
-    "Close": 13.78,
-    "YTD": "+5.59%"
+    "M. Cap.": "20.6B",
+    "Close": 37.2,
+    "YTD": "+9.93%"
   },
   {
     "Code": "AOVP",
@@ -49,18 +42,25 @@
     "YTD": "+4.17%"
   },
   {
+    "Code": "LEW",
+    "Name": "Lewis Group Ltd",
+    "M. Cap.": "4.33B",
+    "Close": 83.0,
+    "YTD": "+3.63%"
+  },
+  {
+    "Code": "COH",
+    "Name": "Curro Holdings Limited",
+    "M. Cap.": "7.64B",
+    "Close": 13.52,
+    "YTD": "+3.6%"
+  },
+  {
     "Code": "AON",
     "Name": "African & Overseas Enterprises N-Shares",
     "M. Cap.": "141M",
     "Close": 13.81,
     "YTD": "+1.77%"
-  },
-  {
-    "Code": "LEW",
-    "Name": "Lewis Group Ltd",
-    "M. Cap.": "4.25B",
-    "Close": 81.5,
-    "YTD": "+1.76%"
   },
   {
     "Code": "TFGP",

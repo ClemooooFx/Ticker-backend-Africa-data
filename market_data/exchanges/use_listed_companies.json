@@ -2,21 +2,21 @@
   {
     "ticker": "AIRTEL",
     "name": "Airtel Uganda",
-    "volume": "5500.0",
+    "volume": null,
     "price": 85.0,
-    "change": 0.0
+    "change": null
   },
   {
     "ticker": "BATU",
     "name": "British American Tobacco Uganda",
-    "volume": "100.0",
+    "volume": null,
     "price": 13500.0,
-    "change": -1500.0
+    "change": null
   },
   {
     "ticker": "BOBU",
     "name": "Bank of Baroda Uganda",
-    "volume": "134352.0",
+    "volume": "10000.0",
     "price": 47.0,
     "change": 0.0
   },
@@ -24,57 +24,57 @@
     "ticker": "CENT",
     "name": "Centum Investment",
     "volume": null,
-    "price": 413.89,
-    "change": -21.35
+    "price": 420.9,
+    "change": 2.97
   },
   {
     "ticker": "DFCU",
     "name": "DFCU Limited",
     "volume": null,
-    "price": 300.0,
+    "price": 301.0,
     "change": null
   },
   {
     "ticker": "EABL",
     "name": "East African Breweries Limited",
     "volume": null,
-    "price": 6578.4,
-    "change": -174.84
+    "price": 6594.1,
+    "change": 87.57
   },
   {
     "ticker": "EBL",
     "name": "Equity Bank Limited",
     "volume": null,
-    "price": 1781.65,
-    "change": -106.73
+    "price": 1795.84,
+    "change": -21.24
   },
   {
     "ticker": "JHL",
     "name": "Jubilee Holdings Limited",
     "volume": null,
-    "price": 8593.04,
-    "change": -210.04
+    "price": 9098.46,
+    "change": 34.05
   },
   {
     "ticker": "KA",
     "name": "Kenya Airways",
     "volume": null,
-    "price": 104.16,
-    "change": -2.54
+    "price": 103.26,
+    "change": -1.85
   },
   {
     "ticker": "KCB",
     "name": "KCB Group",
     "volume": null,
-    "price": 1802.21,
-    "change": -100.21
+    "price": 1837.93,
+    "change": 20.85
   },
   {
     "ticker": "MTNU",
     "name": "MTN Uganda",
-    "volume": "6321327.0",
-    "price": 305.42,
-    "change": -2.68
+    "volume": "80550.0",
+    "price": 311.0,
+    "change": 1.04
   },
   {
     "ticker": "NIC",
@@ -87,8 +87,8 @@
     "ticker": "NMG",
     "name": "Nation Media Group",
     "volume": null,
-    "price": 365.92,
-    "change": 2.28
+    "price": 366.18,
+    "change": -5.62
   },
   {
     "ticker": "NVL",
@@ -100,16 +100,16 @@
   {
     "ticker": "QCIL",
     "name": "Quality Chemical Industries Ltd",
-    "volume": "3100.0",
+    "volume": "32500.0",
     "price": 119.0,
     "change": 0.0
   },
   {
     "ticker": "SBU",
     "name": "Stanbic Bank Uganda",
-    "volume": "170720.0",
-    "price": 63.3,
-    "change": -0.2
+    "volume": "6700.0",
+    "price": 60.0,
+    "change": -1.06
   },
   {
     "ticker": "UCHM",
@@ -128,8 +128,8 @@
   {
     "ticker": "UMEM",
     "name": "Umeme Limited",
-    "volume": "60000.0",
+    "volume": null,
     "price": 142.0,
-    "change": -15.0
+    "change": null
   }
 ]

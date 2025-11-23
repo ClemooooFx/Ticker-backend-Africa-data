@@ -2,23 +2,16 @@
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.59B",
-    "Close": 49.0,
-    "YTD": "+123%"
+    "M. Cap.": "2.65B",
+    "Close": 50.0,
+    "YTD": "+127%"
   },
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.35B",
-    "Close": 116.85,
-    "YTD": "+115%"
-  },
-  {
-    "Code": "STXSHA",
-    "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "119M",
-    "Close": 5.83,
-    "YTD": "+70.5%"
+    "M. Cap.": "2.26B",
+    "Close": 112.39,
+    "YTD": "+107%"
   },
   {
     "Code": "BAC",
@@ -28,45 +21,52 @@
     "YTD": "+69.2%"
   },
   {
+    "Code": "STXSHA",
+    "Name": "Satrix Shariah Top 40 ETF",
+    "M. Cap.": "115M",
+    "Close": 5.65,
+    "YTD": "+65.2%"
+  },
+  {
     "Code": "ETFRHO",
     "Name": "1nvest Rhodium ETF",
-    "M. Cap.": "1.16B",
-    "Close": 1212.57,
-    "YTD": "+58.1%"
+    "M. Cap.": "1.19B",
+    "Close": 1236.98,
+    "YTD": "+61.3%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
-    "M. Cap.": "3.65B",
-    "Close": 255.81,
-    "YTD": "+54.9%"
-  },
-  {
-    "Code": "WTOP20",
-    "Name": "10X Wealth Top 20 Capped ETF",
-    "M. Cap.": "992M",
-    "Close": 15.15,
-    "YTD": "+46.8%"
+    "M. Cap.": "3.59B",
+    "Close": 251.79,
+    "YTD": "+52.5%"
   },
   {
     "Code": "ETFGLD",
     "Name": "1nvest Gold ETF",
-    "M. Cap.": "1.81B",
-    "Close": 679.59,
-    "YTD": "+43.1%"
+    "M. Cap.": "1.82B",
+    "Close": 683.44,
+    "YTD": "+43.9%"
   },
   {
-    "Code": "ETFPLD",
-    "Name": "1nvest Palladium ETF",
-    "M. Cap.": "56.8M",
-    "Close": 231.94,
-    "YTD": "+42.6%"
+    "Code": "WTOP20",
+    "Name": "10X Wealth Top 20 Capped ETF",
+    "M. Cap.": "972M",
+    "Close": 14.84,
+    "YTD": "+43.8%"
   },
   {
     "Code": "EPE",
     "Name": "EPE Capital Partners Ltd",
     "M. Cap.": "1.97B",
-    "Close": 7.67,
-    "YTD": "+42.3%"
+    "Close": 7.69,
+    "YTD": "+42.7%"
+  },
+  {
+    "Code": "ETFPLD",
+    "Name": "1nvest Palladium ETF",
+    "M. Cap.": "55.3M",
+    "Close": 225.84,
+    "YTD": "+38.8%"
   }
 ]

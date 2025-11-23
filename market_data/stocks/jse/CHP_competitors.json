@@ -2,71 +2,71 @@
   {
     "Code": "BOX",
     "Name": "Boxer Retail Ltd",
-    "M. Cap.": "33.7B",
-    "Close": 73.7,
-    "YTD": "+14.4%"
+    "M. Cap.": "32.7B",
+    "Close": 71.57,
+    "YTD": "+11.1%"
   },
   {
     "Code": "BID",
     "Name": "BID Corporation Ltd",
-    "M. Cap.": "142B",
-    "Close": 422.07,
-    "YTD": "-1.97%"
+    "M. Cap.": "141B",
+    "Close": 418.25,
+    "YTD": "-2.86%"
   },
   {
     "Code": "DCP",
     "Name": "Dis-Chem Pharmacies Limited",
-    "M. Cap.": "29.9B",
-    "Close": 34.71,
-    "YTD": "-3.85%"
+    "M. Cap.": "29.3B",
+    "Close": 34.08,
+    "YTD": "-5.6%"
   },
   {
     "Code": "CLS",
     "Name": "Clicks Group Ltd",
-    "M. Cap.": "83.1B",
-    "Close": 354.43,
-    "YTD": "-5%"
+    "M. Cap.": "81.6B",
+    "Close": 348.0,
+    "YTD": "-6.73%"
   },
   {
     "Code": "SHP",
     "Name": "Shoprite Holdings Ltd",
-    "M. Cap.": "165B",
-    "Close": 279.34,
-    "YTD": "-5.15%"
+    "M. Cap.": "162B",
+    "Close": 273.99,
+    "YTD": "-6.96%"
   },
   {
     "Code": "PIK",
     "Name": "Pick n Pay Stores Ltd",
-    "M. Cap.": "19.4B",
-    "Close": 26.0,
-    "YTD": "-15.3%"
+    "M. Cap.": "18.9B",
+    "Close": 25.37,
+    "YTD": "-17.4%"
   },
   {
     "Code": "SPP",
     "Name": "The Spar Group Ltd",
-    "M. Cap.": "20.8B",
-    "Close": 108.21,
-    "YTD": "-25.9%"
+    "M. Cap.": "19.9B",
+    "Close": 103.5,
+    "YTD": "-29.2%"
   },
   {
     "Code": "WVR",
     "Name": "Weaver Fintech Ltd",
-    "M. Cap.": "5.87B",
-    "Close": 55.0,
-    "YTD": "+83.3%"
+    "M. Cap.": "5.71B",
+    "Close": 53.5,
+    "YTD": "+78.3%"
   },
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.66B",
-    "Close": 11.35,
-    "YTD": "+64.5%"
+    "M. Cap.": "9.8B",
+    "Close": 11.52,
+    "YTD": "+67%"
   },
   {
     "Code": "NCS",
     "Name": "Nictus Ltd",
-    "M. Cap.": "106M",
-    "Close": 1.98,
-    "YTD": "+36.6%"
+    "M. Cap.": "102M",
+    "Close": 1.9,
+    "YTD": "+31%"
   }
 ]
