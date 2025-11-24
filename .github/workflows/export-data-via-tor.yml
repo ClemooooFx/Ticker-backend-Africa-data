@@ -25,7 +25,9 @@ permissions:
 jobs:
   export-data:
     runs-on: ubuntu-latest
-    
+
+    permissions:
+      contents: write
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
