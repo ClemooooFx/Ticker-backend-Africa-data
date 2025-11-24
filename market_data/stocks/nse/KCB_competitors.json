@@ -2,71 +2,71 @@
   {
     "Code": "NCBA",
     "Name": "NCBA Group Plc",
-    "M. Cap.": "139B",
-    "Close": 84.25,
-    "YTD": "+74.8%"
+    "M. Cap.": "138B",
+    "Close": 83.75,
+    "YTD": "+73.8%"
   },
   {
     "Code": "BKG",
     "Name": "BK Group Plc",
-    "M. Cap.": "40.3B",
-    "Close": 44.95,
-    "YTD": "+38.1%"
+    "M. Cap.": "39.7B",
+    "Close": 44.25,
+    "YTD": "+35.9%"
   },
   {
     "Code": "EQTY",
     "Name": "Equity Group Holdings Limited",
-    "M. Cap.": "241B",
-    "Close": 63.75,
-    "YTD": "+32%"
-  },
-  {
-    "Code": "ABSA",
-    "Name": "Absa Bank Kenya Plc",
-    "M. Cap.": "124B",
-    "Close": 22.9,
-    "YTD": "+26.9%"
+    "M. Cap.": "239B",
+    "Close": 63.25,
+    "YTD": "+31%"
   },
   {
     "Code": "IMH",
     "Name": "I&M Holdings Plc",
-    "M. Cap.": "75.9B",
-    "Close": 45.9,
-    "YTD": "+26.6%"
+    "M. Cap.": "75.7B",
+    "Close": 45.75,
+    "YTD": "+26.2%"
+  },
+  {
+    "Code": "ABSA",
+    "Name": "Absa Bank Kenya Plc",
+    "M. Cap.": "122B",
+    "Close": 22.55,
+    "YTD": "+24.9%"
   },
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "4.84B",
-    "Close": 18.65,
-    "YTD": "+211%"
+    "M. Cap.": "4.97B",
+    "Close": 19.15,
+    "YTD": "+219%"
   },
   {
     "Code": "HAFR",
     "Name": "Home Afrika Limited",
-    "M. Cap.": "442M",
-    "Close": 1.09,
-    "YTD": "+195%"
+    "M. Cap.": "434M",
+    "Close": 1.07,
+    "YTD": "+189%"
   },
   {
     "Code": "KNRE",
     "Name": "Kenya Re-Insurance Corporation Ltd",
-    "M. Cap.": "17.3B",
-    "Close": 3.09,
+    "M. Cap.": "17.2B",
+    "Close": 3.08,
     "YTD": "+141%"
   },
   {
     "Code": "HFCK",
     "Name": "HF Group Limited",
-    "M. Cap.": "19.5B",
-    "Close": 10.35,
-    "YTD": "+129%"
+    "M. Cap.": "19.1B",
+    "Close": 10.15,
+    "YTD": "+125%"
   },
   {
     "Code": "CIC",
     "Name": "CIC Insurance Group Limited",
-    "M. Cap.": "12B",
-    "Close": 4.59,
-    "YTD": "+113%"
+    "M. Cap.": "11.7B",
+    "Close": 4.49,
+    "YTD": "+109%"
   }
 ]

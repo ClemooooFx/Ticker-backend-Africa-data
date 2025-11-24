@@ -3,50 +3,50 @@
     "Code": "GLD",
     "Name": "Absa NewGold ETF",
     "M. Cap.": "2.1B",
-    "Close": 5260.0,
-    "YTD": "+61.4%"
+    "Close": 5245.0,
+    "YTD": "+60.9%"
   },
   {
     "Code": "CTUM",
     "Name": "Centum Investment Company",
-    "M. Cap.": "10B",
-    "Close": 15.05,
-    "YTD": "+52.3%"
+    "M. Cap.": "10.1B",
+    "Close": 15.2,
+    "YTD": "+53.9%"
   },
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "4.84B",
-    "Close": 18.65,
-    "YTD": "+211%"
+    "M. Cap.": "4.97B",
+    "Close": 19.15,
+    "YTD": "+219%"
   },
   {
     "Code": "HAFR",
     "Name": "Home Afrika Limited",
-    "M. Cap.": "442M",
-    "Close": 1.09,
-    "YTD": "+195%"
+    "M. Cap.": "434M",
+    "Close": 1.07,
+    "YTD": "+189%"
   },
   {
     "Code": "KNRE",
     "Name": "Kenya Re-Insurance Corporation Ltd",
-    "M. Cap.": "17.3B",
-    "Close": 3.09,
+    "M. Cap.": "17.2B",
+    "Close": 3.08,
     "YTD": "+141%"
   },
   {
     "Code": "HFCK",
     "Name": "HF Group Limited",
-    "M. Cap.": "19.5B",
-    "Close": 10.35,
-    "YTD": "+129%"
+    "M. Cap.": "19.1B",
+    "Close": 10.15,
+    "YTD": "+125%"
   },
   {
     "Code": "CIC",
     "Name": "CIC Insurance Group Limited",
-    "M. Cap.": "12B",
-    "Close": 4.59,
-    "YTD": "+113%"
+    "M. Cap.": "11.7B",
+    "Close": 4.49,
+    "YTD": "+109%"
   },
   {
     "Code": "JUB",
@@ -56,17 +56,17 @@
     "YTD": "+87.3%"
   },
   {
-    "Code": "SLAM",
-    "Name": "Sanlam Kenya Plc",
-    "M. Cap.": "1.26B",
-    "Close": 8.74,
-    "YTD": "+76.6%"
-  },
-  {
     "Code": "NCBA",
     "Name": "NCBA Group Plc",
-    "M. Cap.": "139B",
-    "Close": 84.25,
-    "YTD": "+74.8%"
+    "M. Cap.": "138B",
+    "Close": 83.75,
+    "YTD": "+73.8%"
+  },
+  {
+    "Code": "DTK",
+    "Name": "Diamond Trust Bank Kenya Limited",
+    "M. Cap.": "32.2B",
+    "Close": 115.0,
+    "YTD": "+66.7%"
   }
 ]

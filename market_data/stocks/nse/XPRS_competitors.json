@@ -2,16 +2,16 @@
   {
     "Code": "UCHM",
     "Name": "Uchumi Supermarket Limited",
-    "M. Cap.": "270M",
-    "Close": 0.74,
-    "YTD": "+335%"
+    "M. Cap.": "288M",
+    "Close": 0.79,
+    "YTD": "+365%"
   },
   {
     "Code": "CGEN",
     "Name": "Car and General Kenya Limited",
-    "M. Cap.": "4.75B",
-    "Close": 59.25,
-    "YTD": "+160%"
+    "M. Cap.": "4.67B",
+    "Close": 58.25,
+    "YTD": "+156%"
   },
   {
     "Code": "SGL",
@@ -23,16 +23,16 @@
   {
     "Code": "LKL",
     "Name": "Longhorn Publishers Limited",
-    "M. Cap.": "738M",
-    "Close": 2.71,
-    "YTD": "+17.8%"
+    "M. Cap.": "785M",
+    "Close": 2.88,
+    "YTD": "+25.2%"
   },
   {
     "Code": "SCAN",
     "Name": "ScanGroup Limited",
-    "M. Cap.": "1.21B",
-    "Close": 2.79,
-    "YTD": "+12.5%"
+    "M. Cap.": "1.2B",
+    "Close": 2.78,
+    "YTD": "+12.1%"
   },
   {
     "Code": "TPSE",
@@ -51,15 +51,15 @@
   {
     "Code": "NMG",
     "Name": "Nation Media Group",
-    "M. Cap.": "2.52B",
-    "Close": 13.25,
-    "YTD": "-7.99%"
+    "M. Cap.": "2.47B",
+    "Close": 13.0,
+    "YTD": "-9.72%"
   },
   {
     "Code": "NBV",
     "Name": "Nairobi Business Ventures Ltd",
-    "M. Cap.": "2.08B",
-    "Close": 1.54,
-    "YTD": "-23.4%"
+    "M. Cap.": "2.07B",
+    "Close": 1.53,
+    "YTD": "-23.9%"
   }
 ]

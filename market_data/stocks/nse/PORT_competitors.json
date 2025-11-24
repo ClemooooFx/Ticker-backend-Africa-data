@@ -2,9 +2,9 @@
   {
     "Code": "OCH",
     "Name": "Olympia Capital Holdings Limited",
-    "M. Cap.": "310M",
-    "Close": 7.74,
-    "YTD": "+176%"
+    "M. Cap.": "299M",
+    "Close": 7.48,
+    "YTD": "+167%"
   },
   {
     "Code": "TCL",
@@ -16,16 +16,9 @@
   {
     "Code": "SKL",
     "Name": "Shri Krishana Overseas Ltd",
-    "M. Cap.": "414M",
-    "Close": 8.2,
-    "YTD": "+39%"
-  },
-  {
-    "Code": "KQ",
-    "Name": "Kenya Airways Limited",
-    "M. Cap.": "20.8B",
-    "Close": 3.66,
-    "YTD": "-4.44%"
+    "M. Cap.": "407M",
+    "Close": 8.06,
+    "YTD": "+36.6%"
   },
   {
     "Code": "CABL",
@@ -33,6 +26,13 @@
     "M. Cap.": "253M",
     "Close": 1.0,
     "YTD": "-7.41%"
+  },
+  {
+    "Code": "KQ",
+    "Name": "Kenya Airways Limited",
+    "M. Cap.": "19.6B",
+    "Close": 3.45,
+    "YTD": "-9.92%"
   },
   {
     "Code": "BAMB",

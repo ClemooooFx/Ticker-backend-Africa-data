@@ -7,6 +7,13 @@
     "YTD": "+722%"
   },
   {
+    "Code": "ETRANZACT",
+    "Name": "E-Tranzact International",
+    "M. Cap.": "133B",
+    "Close": 14.45,
+    "YTD": "+122%"
+  },
+  {
     "Code": "TRIPPLEG",
     "Name": "Tripple Gee & Co. Plc",
     "M. Cap.": "4.38B",
@@ -14,25 +21,18 @@
     "YTD": "+116%"
   },
   {
-    "Code": "ETRANZACT",
-    "Name": "E-Tranzact International",
-    "M. Cap.": "122B",
-    "Close": 13.25,
-    "YTD": "+104%"
-  },
-  {
     "Code": "CHAMS",
     "Name": "Chams Plc",
-    "M. Cap.": "21B",
-    "Close": 3.15,
-    "YTD": "+58.3%"
+    "M. Cap.": "20B",
+    "Close": 3.01,
+    "YTD": "+51.3%"
   },
   {
     "Code": "OMATEK",
     "Name": "Omatek Ventures",
-    "M. Cap.": "3.27B",
-    "Close": 1.11,
-    "YTD": "+52.1%"
+    "M. Cap.": "3.12B",
+    "Close": 1.06,
+    "YTD": "+45.2%"
   },
   {
     "Code": "LEGENDINT",

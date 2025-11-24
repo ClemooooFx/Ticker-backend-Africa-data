@@ -2,71 +2,71 @@
   {
     "Code": "SMER",
     "Name": "Sameer Africa Plc",
-    "M. Cap.": "3.94B",
-    "Close": 14.15,
-    "YTD": "+482%"
+    "M. Cap.": "3.9B",
+    "Close": 14.0,
+    "YTD": "+476%"
   },
   {
     "Code": "EGAD",
     "Name": "Eaagads Limited",
-    "M. Cap.": "637M",
-    "Close": 19.8,
-    "YTD": "+65%"
+    "M. Cap.": "630M",
+    "Close": 19.6,
+    "YTD": "+63.3%"
   },
   {
     "Code": "UNGA",
     "Name": "Unga Group Limited",
-    "M. Cap.": "1.82B",
-    "Close": 24.0,
-    "YTD": "+60%"
-  },
-  {
-    "Code": "EABL",
-    "Name": "East African Breweries Limited",
-    "M. Cap.": "185B",
-    "Close": 234.0,
-    "YTD": "+33.3%"
+    "M. Cap.": "1.78B",
+    "Close": 23.5,
+    "YTD": "+56.7%"
   },
   {
     "Code": "LIMT",
     "Name": "Limuru Tea Company Limited",
-    "M. Cap.": "1.02B",
-    "Close": 423.5,
-    "YTD": "+21%"
+    "M. Cap.": "1.11B",
+    "Close": 463.0,
+    "YTD": "+32.3%"
+  },
+  {
+    "Code": "EABL",
+    "Name": "East African Breweries Limited",
+    "M. Cap.": "182B",
+    "Close": 230.5,
+    "YTD": "+31.3%"
   },
   {
     "Code": "BAT",
     "Name": "British American Tobacco Kenya",
-    "M. Cap.": "44.5B",
-    "Close": 445.0,
-    "YTD": "+18.4%"
+    "M. Cap.": "44.6B",
+    "Close": 446.0,
+    "YTD": "+18.6%"
   },
   {
     "Code": "EVRD",
     "Name": "Eveready East Africa Limited",
-    "M. Cap.": "269M",
-    "Close": 1.28,
-    "YTD": "+11.3%"
+    "M. Cap.": "281M",
+    "Close": 1.34,
+    "YTD": "+16.5%"
   },
   {
     "Code": "AMAC",
     "Name": "Africa Mega Agricorp",
-    "M. Cap.": "984M",
-    "Close": 76.5,
-    "YTD": "+9.29%"
+    "M. Cap.": "927M",
+    "Close": 72.0,
+    "YTD": "+2.86%"
   },
   {
     "Code": "KUKZ",
     "Name": "Kakuzi Limited",
-    "M. Cap.": "7.61B",
-    "Close": 388.5,
-    "YTD": "+0.91%"
+    "M. Cap.": "7.55B",
+    "Close": 385.25,
+    "YTD": "+0.06%"
   },
   {
     "Code": "KAPC",
     "Name": "Kapchorua Tea Company Limited",
     "M. Cap.": "1.67B",
-    "Close": 213.0,
-    "YTD": "-9.36%"
+    "Close": 213.5,
+    "YTD": "-9.15%"
   }
 ]
