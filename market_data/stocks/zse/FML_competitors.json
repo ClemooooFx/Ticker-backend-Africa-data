@@ -2,9 +2,9 @@
   {
     "Code": "ZIMR",
     "Name": "Zimre Holdings Limited",
-    "M. Cap.": "491M",
-    "Close": 0.32,
-    "YTD": "+136%"
+    "M. Cap.": "557M",
+    "Close": 0.363,
+    "YTD": "+168%"
   },
   {
     "Code": "NMB",
@@ -16,9 +16,9 @@
   {
     "Code": "CBZ",
     "Name": "CBZ Holdings Limited",
-    "M. Cap.": "5.98B",
-    "Close": 8.7,
-    "YTD": "+1.87%"
+    "M. Cap.": "6.03B",
+    "Close": 8.7727,
+    "YTD": "+2.72%"
   },
   {
     "Code": "FMP",
@@ -30,9 +30,9 @@
   {
     "Code": "FBC",
     "Name": "FBC Holdings Limited",
-    "M. Cap.": "5.79B",
-    "Close": 8.6,
-    "YTD": "-20.7%"
+    "M. Cap.": "6.3B",
+    "Close": 9.3524,
+    "YTD": "-13.8%"
   },
   {
     "Code": "ZBFH",
@@ -51,15 +51,15 @@
   {
     "Code": "MASH",
     "Name": "Mashonaland Holdings Limited",
-    "M. Cap.": "1.84B",
-    "Close": 0.980338,
-    "YTD": "-53.3%"
+    "M. Cap.": "1.88B",
+    "Close": 0.9999,
+    "YTD": "-52.4%"
   },
   {
     "Code": "ZSEH",
     "Name": "Zimbabwe Stock Exchange Holdings",
-    "M. Cap.": "109M",
-    "Close": 1.064121,
-    "YTD": "-69.5%"
+    "M. Cap.": "105M",
+    "Close": 1.0225,
+    "YTD": "-70.7%"
   }
 ]

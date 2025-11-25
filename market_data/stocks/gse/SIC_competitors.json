@@ -1,5 +1,12 @@
 [
   {
+    "Code": "EGH",
+    "Name": "Ecobank Ghana Limited",
+    "M. Cap.": "6.65B",
+    "Close": 20.61,
+    "YTD": "+217%"
+  },
+  {
     "Code": "ACCESS",
     "Name": "Access Bank Ghana",
     "M. Cap.": "2.82B",
@@ -14,13 +21,6 @@
     "YTD": "+198%"
   },
   {
-    "Code": "EGH",
-    "Name": "Ecobank Ghana Limited",
-    "M. Cap.": "6.13B",
-    "Close": 19.02,
-    "YTD": "+193%"
-  },
-  {
     "Code": "ETI",
     "Name": "Ecobank Transnational Incorporated",
     "M. Cap.": "21.7B",
@@ -30,9 +30,9 @@
   {
     "Code": "SOGEGH",
     "Name": "Societe Generale Ghana Limited",
-    "M. Cap.": "2.91B",
-    "Close": 4.1,
-    "YTD": "+173%"
+    "M. Cap.": "2.98B",
+    "Close": 4.2,
+    "YTD": "+180%"
   },
   {
     "Code": "RBGH",

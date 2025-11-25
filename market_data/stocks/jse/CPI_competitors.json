@@ -2,9 +2,9 @@
   {
     "Code": "FGL",
     "Name": "Finbond Group Ltd",
-    "M. Cap.": "686M",
-    "Close": 1.33,
-    "YTD": "+105%"
+    "M. Cap.": "660M",
+    "Close": 1.28,
+    "YTD": "+96.9%"
   },
   {
     "Code": "INPP",
@@ -16,30 +16,30 @@
   {
     "Code": "SBK",
     "Name": "Standard Bank Group Limited",
-    "M. Cap.": "440B",
-    "Close": 267.36,
-    "YTD": "+20.6%"
+    "M. Cap.": "436B",
+    "Close": 264.82,
+    "YTD": "+19.4%"
   },
   {
     "Code": "ABG",
     "Name": "Absa Group Limited",
-    "M. Cap.": "186B",
-    "Close": 208.5,
-    "YTD": "+9.88%"
+    "M. Cap.": "184B",
+    "Close": 206.09,
+    "YTD": "+8.61%"
   },
   {
     "Code": "INPR",
     "Name": "Investec Ltd Preference Shares",
     "M. Cap.": "2.53B",
-    "Close": 101.94,
-    "YTD": "+8.1%"
+    "Close": 101.7,
+    "YTD": "+7.85%"
   },
   {
     "Code": "FSR",
     "Name": "FirstRand Limited",
-    "M. Cap.": "457B",
-    "Close": 81.52,
-    "YTD": "+7.32%"
+    "M. Cap.": "458B",
+    "Close": 81.65,
+    "YTD": "+7.49%"
   },
   {
     "Code": "INPPR",
@@ -51,22 +51,22 @@
   {
     "Code": "SBPP",
     "Name": "Standard Bank Preference Shares",
-    "M. Cap.": "5.19B",
-    "Close": 97.99,
-    "YTD": "+4.24%"
+    "M. Cap.": "5.18B",
+    "Close": 97.75,
+    "YTD": "+3.99%"
   },
   {
     "Code": "INL",
     "Name": "Investec Limited",
-    "M. Cap.": "35.6B",
-    "Close": 121.53,
-    "YTD": "-2.81%"
+    "M. Cap.": "36.6B",
+    "Close": 125.0,
+    "YTD": "-0.03%"
   },
   {
     "Code": "INP",
     "Name": "Investec Plc",
-    "M. Cap.": "84.9B",
-    "Close": 122.0,
-    "YTD": "-3.71%"
+    "M. Cap.": "87.1B",
+    "Close": 125.13,
+    "YTD": "-1.24%"
   }
 ]

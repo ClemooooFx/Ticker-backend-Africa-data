@@ -7,18 +7,18 @@
     "YTD": "+90.9%"
   },
   {
-    "Code": "UNIF",
-    "Name": "Unifreight Africa Limited",
-    "M. Cap.": "190M",
-    "Close": 1.75,
-    "YTD": "-29.5%"
-  },
-  {
     "Code": "ZIMP",
     "Name": "Zimbabwe Newspapers Limited",
     "M. Cap.": "39.6M",
     "Close": 0.0704,
     "YTD": "-29.6%"
+  },
+  {
+    "Code": "UNIF",
+    "Name": "Unifreight Africa Limited",
+    "M. Cap.": "162M",
+    "Close": 1.5,
+    "YTD": "-39.6%"
   },
   {
     "Code": "OKZ",

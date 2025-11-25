@@ -2,71 +2,71 @@
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "687B",
-    "Close": 1361.17,
-    "YTD": "+223%"
-  },
-  {
-    "Code": "DRD",
-    "Name": "DRD Gold Ltd",
-    "M. Cap.": "41.1B",
-    "Close": 47.36,
-    "YTD": "+187%"
+    "M. Cap.": "706B",
+    "Close": 1399.0,
+    "YTD": "+232%"
   },
   {
     "Code": "NPH",
     "Name": "Northam Platinum Holdings",
-    "M. Cap.": "110B",
-    "Close": 274.27,
-    "YTD": "+182%"
+    "M. Cap.": "113B",
+    "Close": 281.28,
+    "YTD": "+189%"
+  },
+  {
+    "Code": "DRD",
+    "Name": "DRD Gold Ltd",
+    "M. Cap.": "40.7B",
+    "Close": 46.96,
+    "YTD": "+184%"
   },
   {
     "Code": "GFI",
     "Name": "Gold Fields Ltd",
-    "M. Cap.": "595B",
-    "Close": 664.31,
-    "YTD": "+169%"
-  },
-  {
-    "Code": "PAN",
-    "Name": "Pan African Resource plc",
-    "M. Cap.": "47.8B",
-    "Close": 20.48,
-    "YTD": "+150%"
-  },
-  {
-    "Code": "HAR",
-    "Name": "Harmony GM Co Ltd",
-    "M. Cap.": "186B",
-    "Close": 292.53,
-    "YTD": "+94.1%"
-  },
-  {
-    "Code": "VAL",
-    "Name": "Valterra Platinum Ltd",
-    "M. Cap.": "276B",
-    "Close": 1039.58,
-    "YTD": "+82.7%"
+    "M. Cap.": "603B",
+    "Close": 673.45,
+    "YTD": "+173%"
   },
   {
     "Code": "EPS",
     "Name": "Eastern Platinum Limited",
-    "M. Cap.": "472M",
-    "Close": 2.33,
-    "YTD": "+55.3%"
+    "M. Cap.": "810M",
+    "Close": 4.0,
+    "YTD": "+167%"
+  },
+  {
+    "Code": "PAN",
+    "Name": "Pan African Resource plc",
+    "M. Cap.": "48.9B",
+    "Close": 20.95,
+    "YTD": "+156%"
+  },
+  {
+    "Code": "HAR",
+    "Name": "Harmony GM Co Ltd",
+    "M. Cap.": "193B",
+    "Close": 302.42,
+    "YTD": "+101%"
+  },
+  {
+    "Code": "VAL",
+    "Name": "Valterra Platinum Ltd",
+    "M. Cap.": "290B",
+    "Close": 1091.35,
+    "YTD": "+91.8%"
   },
   {
     "Code": "MCZ",
     "Name": "MC Mining Limited",
-    "M. Cap.": "961M",
-    "Close": 2.32,
-    "YTD": "+37.3%"
+    "M. Cap.": "998M",
+    "Close": 2.41,
+    "YTD": "+42.6%"
   },
   {
     "Code": "THA",
     "Name": "Tharisa plc",
-    "M. Cap.": "6.64B",
-    "Close": 21.93,
-    "YTD": "+35.2%"
+    "M. Cap.": "6.42B",
+    "Close": 21.21,
+    "YTD": "+30.8%"
   }
 ]

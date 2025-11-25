@@ -2,23 +2,23 @@
   {
     "Code": "WVR",
     "Name": "Weaver Fintech Ltd",
-    "M. Cap.": "5.71B",
-    "Close": 53.5,
-    "YTD": "+78.3%"
+    "M. Cap.": "5.87B",
+    "Close": 55.0,
+    "YTD": "+83.3%"
   },
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "9.8B",
-    "Close": 11.52,
-    "YTD": "+67%"
+    "M. Cap.": "10.1B",
+    "Close": 11.9,
+    "YTD": "+72.5%"
   },
   {
     "Code": "NCS",
     "Name": "Nictus Ltd",
-    "M. Cap.": "102M",
-    "Close": 1.9,
-    "YTD": "+31%"
+    "M. Cap.": "134M",
+    "Close": 2.5,
+    "YTD": "+72.4%"
   },
   {
     "Code": "AOO",
@@ -35,25 +35,25 @@
     "YTD": "+15.2%"
   },
   {
+    "Code": "COH",
+    "Name": "Curro Holdings Limited",
+    "M. Cap.": "7.71B",
+    "Close": 13.65,
+    "YTD": "+4.6%"
+  },
+  {
+    "Code": "LEW",
+    "Name": "Lewis Group Ltd",
+    "M. Cap.": "4.36B",
+    "Close": 83.5,
+    "YTD": "+4.26%"
+  },
+  {
     "Code": "AOVP",
     "Name": "African & Overseas Ent Preference",
     "M. Cap.": "2.89M",
     "Close": 10.5,
     "YTD": "+4.17%"
-  },
-  {
-    "Code": "LEW",
-    "Name": "Lewis Group Ltd",
-    "M. Cap.": "4.33B",
-    "Close": 83.0,
-    "YTD": "+3.63%"
-  },
-  {
-    "Code": "COH",
-    "Name": "Curro Holdings Limited",
-    "M. Cap.": "7.64B",
-    "Close": 13.52,
-    "YTD": "+3.6%"
   },
   {
     "Code": "AON",

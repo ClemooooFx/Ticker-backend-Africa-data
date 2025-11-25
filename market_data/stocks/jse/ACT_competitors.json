@@ -2,23 +2,23 @@
   {
     "Code": "NTCP",
     "Name": "Netcare Limited Pref",
-    "M. Cap.": "605M",
-    "Close": 93.0,
-    "YTD": "+9.41%"
+    "M. Cap.": "614M",
+    "Close": 94.5,
+    "YTD": "+11.2%"
   },
   {
     "Code": "NTC",
     "Name": "Netcare Limited",
-    "M. Cap.": "20.2B",
-    "Close": 14.82,
-    "YTD": "-0.67%"
+    "M. Cap.": "21B",
+    "Close": 15.38,
+    "YTD": "+3.08%"
   },
   {
     "Code": "LHC",
     "Name": "Life Healthcare Group Holdings",
     "M. Cap.": "15.8B",
-    "Close": 10.78,
-    "YTD": "-34.2%"
+    "Close": 10.77,
+    "YTD": "-34.3%"
   },
   {
     "Code": "XII",
@@ -28,31 +28,31 @@
     "YTD": NaN
   },
   {
-    "Code": "PHP",
-    "Name": "Primary Health Properties",
-    "M. Cap.": "57B",
-    "Close": 21.95,
-    "YTD": "-0.14%"
-  },
-  {
     "Code": "ASC",
     "Name": "Ascendis Health Ltd",
-    "M. Cap.": "607M",
-    "Close": 0.96,
-    "YTD": "-4%"
+    "M. Cap.": "613M",
+    "Close": 0.97,
+    "YTD": "-3%"
+  },
+  {
+    "Code": "PHP",
+    "Name": "Primary Health Properties",
+    "M. Cap.": "55B",
+    "Close": 21.2,
+    "YTD": "-3.55%"
   },
   {
     "Code": "CCC",
     "Name": "Cilo Cybin Holdings Ltd",
-    "M. Cap.": "664M",
-    "Close": 2.88,
-    "YTD": "-26.2%"
+    "M. Cap.": "634M",
+    "Close": 2.75,
+    "YTD": "-29.5%"
   },
   {
     "Code": "APN",
     "Name": "Aspen Pharmacare Holdings",
-    "M. Cap.": "40.8B",
-    "Close": 91.45,
-    "YTD": "-44.5%"
+    "M. Cap.": "41.5B",
+    "Close": 92.89,
+    "YTD": "-43.7%"
   }
 ]

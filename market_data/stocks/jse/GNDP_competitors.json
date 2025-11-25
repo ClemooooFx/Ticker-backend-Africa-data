@@ -2,65 +2,58 @@
   {
     "Code": "SNV",
     "Name": "Santova Logistics Ltd",
-    "M. Cap.": "907M",
-    "Close": 7.0,
-    "YTD": "-3.58%"
-  },
-  {
-    "Code": "SPG",
-    "Name": "Super Group Ltd",
-    "M. Cap.": "6.17B",
-    "Close": 18.19,
-    "YTD": "-38.3%"
+    "M. Cap.": "945M",
+    "Close": 7.29,
+    "YTD": "+0.41%"
   },
   {
     "Code": "LAB",
     "Name": "Labat Africa Ltd",
-    "M. Cap.": "45.3M",
-    "Close": 0.04,
-    "YTD": "-42.9%"
+    "M. Cap.": "56.6M",
+    "Close": 0.05,
+    "YTD": "-28.6%"
+  },
+  {
+    "Code": "SPG",
+    "Name": "Super Group Ltd",
+    "M. Cap.": "6.26B",
+    "Close": 18.46,
+    "YTD": "-37.4%"
   },
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "757M",
-    "Close": 6.89,
-    "YTD": "+39.5%"
+    "M. Cap.": "769M",
+    "Close": 7.0,
+    "YTD": "+41.7%"
   },
   {
     "Code": "MFL",
     "Name": "Metrofile Holdings Ltd",
     "M. Cap.": "1.37B",
-    "Close": 3.15,
-    "YTD": "+38.8%"
+    "Close": 3.17,
+    "YTD": "+39.7%"
   },
   {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.41B",
-    "Close": 520.58,
-    "YTD": "+25.1%"
-  },
-  {
-    "Code": "ART",
-    "Name": "Argent Industrial Ltd",
-    "M. Cap.": "1.72B",
-    "Close": 32.0,
-    "YTD": "+16.1%"
+    "M. Cap.": "4.44B",
+    "Close": 523.6,
+    "YTD": "+25.9%"
   },
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "869M",
-    "Close": 4.62,
-    "YTD": "+15.5%"
+    "M. Cap.": "901M",
+    "Close": 4.79,
+    "YTD": "+19.8%"
   },
   {
-    "Code": "IVT",
-    "Name": "Invicta Holdings Ltd",
-    "M. Cap.": "3.37B",
-    "Close": 38.0,
-    "YTD": "+15.2%"
+    "Code": "ART",
+    "Name": "Argent Industrial Ltd",
+    "M. Cap.": "1.73B",
+    "Close": 32.21,
+    "YTD": "+16.9%"
   },
   {
     "Code": "BIK",
@@ -68,5 +61,12 @@
     "M. Cap.": "132M",
     "Close": 0.16,
     "YTD": "+14.3%"
+  },
+  {
+    "Code": "IVT",
+    "Name": "Invicta Holdings Ltd",
+    "M. Cap.": "3.33B",
+    "Close": 37.5,
+    "YTD": "+13.6%"
   }
 ]

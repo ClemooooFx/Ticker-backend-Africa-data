@@ -1,59 +1,66 @@
 [
   {
-    "Code": "ARL",
-    "Name": "Astral Foods Ltd",
-    "M. Cap.": "10.7B",
-    "Close": 249.57,
-    "YTD": "+33.5%"
-  },
-  {
     "Code": "RBO",
     "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4.33B",
-    "Close": 4.82,
-    "YTD": "+32.8%"
+    "M. Cap.": "4.49B",
+    "Close": 5.0,
+    "YTD": "+37.7%"
+  },
+  {
+    "Code": "ARL",
+    "Name": "Astral Foods Ltd",
+    "M. Cap.": "11B",
+    "Close": 256.0,
+    "YTD": "+36.9%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
-    "M. Cap.": "58.2B",
-    "Close": 339.5,
-    "YTD": "+17.5%"
-  },
-  {
-    "Code": "LBR",
-    "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.73B",
-    "Close": 4.48,
-    "YTD": "+2.99%"
+    "M. Cap.": "57.5B",
+    "Close": 335.0,
+    "YTD": "+15.9%"
   },
   {
     "Code": "SHG",
     "Name": "Sea Harvest Group Ltd",
-    "M. Cap.": "3.06B",
-    "Close": 8.48,
-    "YTD": "+1.56%"
+    "M. Cap.": "3.2B",
+    "Close": 8.86,
+    "YTD": "+6.11%"
   },
   {
-    "Code": "QFH",
-    "Name": "Quantum Foods Hldgs Ltd",
-    "M. Cap.": "1.89B",
-    "Close": 9.3,
-    "YTD": "+1.53%"
+    "Code": "LBR",
+    "Name": "Libstar Holdings Ltd",
+    "M. Cap.": "2.74B",
+    "Close": 4.5,
+    "YTD": "+3.45%"
   },
   {
     "Code": "RCL",
     "Name": "RCL Foods Limited",
-    "M. Cap.": "8.62B",
-    "Close": 9.6,
-    "YTD": "+1.05%"
+    "M. Cap.": "8.58B",
+    "Close": 9.55,
+    "YTD": "+0.53%"
+  },
+  {
+    "Code": "QFH",
+    "Name": "Quantum Foods Hldgs Ltd",
+    "M. Cap.": "1.87B",
+    "Close": 9.19,
+    "YTD": "+0.33%"
   },
   {
     "Code": "AVI",
     "Name": "AVI Ltd",
-    "M. Cap.": "34.9B",
-    "Close": 102.22,
-    "YTD": "-6.84%"
+    "M. Cap.": "34.8B",
+    "Close": 101.85,
+    "YTD": "-7.17%"
+  },
+  {
+    "Code": "OCE",
+    "Name": "Oceana Group Ltd",
+    "M. Cap.": "6.81B",
+    "Close": 52.5,
+    "YTD": "-22.2%"
   },
   {
     "Code": "CKS",
@@ -61,12 +68,5 @@
     "M. Cap.": "370M",
     "Close": 24.21,
     "YTD": "-23.2%"
-  },
-  {
-    "Code": "OCE",
-    "Name": "Oceana Group Ltd",
-    "M. Cap.": "6.7B",
-    "Close": 51.65,
-    "YTD": "-23.5%"
   }
 ]

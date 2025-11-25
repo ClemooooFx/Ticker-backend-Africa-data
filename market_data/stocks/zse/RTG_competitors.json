@@ -2,16 +2,9 @@
   {
     "Code": "MEIK",
     "Name": "Meikles Limited",
-    "M. Cap.": "827M",
-    "Close": 3.2025,
-    "YTD": "-8.54%"
-  },
-  {
-    "Code": "UNIF",
-    "Name": "Unifreight Africa Limited",
-    "M. Cap.": "190M",
-    "Close": 1.75,
-    "YTD": "-29.5%"
+    "M. Cap.": "830M",
+    "Close": 3.2123,
+    "YTD": "-8.27%"
   },
   {
     "Code": "ZIMP",
@@ -19,6 +12,13 @@
     "M. Cap.": "39.6M",
     "Close": 0.0704,
     "YTD": "-29.6%"
+  },
+  {
+    "Code": "UNIF",
+    "Name": "Unifreight Africa Limited",
+    "M. Cap.": "162M",
+    "Close": 1.5,
+    "YTD": "-39.6%"
   },
   {
     "Code": "OKZ",
