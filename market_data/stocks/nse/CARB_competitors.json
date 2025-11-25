@@ -1,12 +1,5 @@
 [
   {
-    "Code": "FTGH",
-    "Name": "Flame Tree Group Holdings Limited",
-    "M. Cap.": "306M",
-    "Close": 1.72,
-    "YTD": "+72%"
-  },
-  {
     "Code": "CRWN",
     "Name": "Crown Paints Kenya Limited",
     "M. Cap.": "7.97B",
@@ -14,10 +7,17 @@
     "YTD": "+70.2%"
   },
   {
+    "Code": "FTGH",
+    "Name": "Flame Tree Group Holdings Limited",
+    "M. Cap.": "303M",
+    "Close": 1.7,
+    "YTD": "+70%"
+  },
+  {
     "Code": "BOC",
     "Name": "BOC Kenya Limited",
-    "M. Cap.": "2.42B",
-    "Close": 124.0,
-    "YTD": "+39.7%"
+    "M. Cap.": "2.48B",
+    "Close": 127.0,
+    "YTD": "+43.1%"
   }
 ]

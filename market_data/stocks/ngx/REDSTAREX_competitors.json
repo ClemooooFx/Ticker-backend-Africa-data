@@ -9,9 +9,9 @@
   {
     "Code": "EUNISELL",
     "Name": "Eunisell Interlinked Plc",
-    "M. Cap.": "18.7B",
-    "Close": 79.0,
-    "YTD": "+310%"
+    "M. Cap.": "20.5B",
+    "Close": 86.5,
+    "YTD": "+349%"
   },
   {
     "Code": "ABCTRANS",
@@ -21,11 +21,11 @@
     "YTD": "+180%"
   },
   {
-    "Code": "CAVERTON",
-    "Name": "Caverton Offshore Support Group",
-    "M. Cap.": "18.4B",
-    "Close": 5.5,
-    "YTD": "+137%"
+    "Code": "NAHCO",
+    "Name": "Nigerian Aviation Handling Co.",
+    "M. Cap.": "208B",
+    "Close": 106.5,
+    "YTD": "+131%"
   },
   {
     "Code": "ACADEMY",
@@ -35,18 +35,25 @@
     "YTD": "+123%"
   },
   {
-    "Code": "NAHCO",
-    "Name": "Nigerian Aviation Handling Co.",
-    "M. Cap.": "193B",
-    "Close": 99.15,
-    "YTD": "+115%"
+    "Code": "CAVERTON",
+    "Name": "Caverton Offshore Support Group",
+    "M. Cap.": "16.6B",
+    "Close": 4.95,
+    "YTD": "+113%"
   },
   {
     "Code": "IKEJAHOTEL",
     "Name": "Ikeja Hotel Plc",
-    "M. Cap.": "45B",
-    "Close": 20.8,
-    "YTD": "+84.9%"
+    "M. Cap.": "49.4B",
+    "Close": 22.85,
+    "YTD": "+103%"
+  },
+  {
+    "Code": "DAARCOMM",
+    "Name": "Daar Communications",
+    "M. Cap.": "11.9B",
+    "Close": 0.99,
+    "YTD": "+57.1%"
   },
   {
     "Code": "UPL",
@@ -61,12 +68,5 @@
     "M. Cap.": "1.07B",
     "Close": 2.15,
     "YTD": "+55.8%"
-  },
-  {
-    "Code": "TRANSCOHOT",
-    "Name": "Transcorp Hotels Plc",
-    "M. Cap.": "1.79T",
-    "Close": 174.9,
-    "YTD": "+50.8%"
   }
 ]
