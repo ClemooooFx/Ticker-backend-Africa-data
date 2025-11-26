@@ -16,44 +16,44 @@
   {
     "Code": "ETFRHO",
     "Name": "1nvest Rhodium ETF",
-    "M. Cap.": "1.2B",
-    "Close": 1253.0,
-    "YTD": "+63.4%"
+    "M. Cap.": "1.18B",
+    "Close": 1232.76,
+    "YTD": "+60.7%"
   },
   {
     "Code": "ETFPLT",
     "Name": "1nvest Platinum ETF",
     "M. Cap.": "3.65B",
-    "Close": 255.97,
-    "YTD": "+55%"
+    "Close": 256.1,
+    "YTD": "+55.1%"
   },
   {
     "Code": "NGPLT",
     "Name": "NewGold Platinum ETF",
-    "M. Cap.": "6.81B",
-    "Close": 253.3,
-    "YTD": "+54.5%"
+    "M. Cap.": "6.83B",
+    "Close": 253.91,
+    "YTD": "+54.9%"
   },
   {
     "Code": "WTOP20",
     "Name": "10X Wealth Top 20 Capped ETF",
-    "M. Cap.": "976M",
-    "Close": 14.9,
-    "YTD": "+44.4%"
-  },
-  {
-    "Code": "ETFGLD",
-    "Name": "1nvest Gold ETF",
-    "M. Cap.": "1.75B",
-    "Close": 682.5,
-    "YTD": "+43.7%"
+    "M. Cap.": "981M",
+    "Close": 14.97,
+    "YTD": "+45.1%"
   },
   {
     "Code": "GLD",
     "Name": "New Gold Issuer Limited",
-    "M. Cap.": "37.7B",
-    "Close": 652.56,
-    "YTD": "+43.6%"
+    "M. Cap.": "38B",
+    "Close": 657.52,
+    "YTD": "+44.7%"
+  },
+  {
+    "Code": "ETFGLD",
+    "Name": "1nvest Gold ETF",
+    "M. Cap.": "1.76B",
+    "Close": 686.26,
+    "YTD": "+44.5%"
   },
   {
     "Code": "EPE",
@@ -65,8 +65,8 @@
   {
     "Code": "NGPLD",
     "Name": "NewGold Palladium ETF",
-    "M. Cap.": "235M",
-    "Close": 230.19,
-    "YTD": "+41.3%"
+    "M. Cap.": "233M",
+    "Close": 228.4,
+    "YTD": "+40.2%"
   }
 ]

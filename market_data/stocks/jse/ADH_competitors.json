@@ -9,9 +9,9 @@
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "10.1B",
-    "Close": 11.9,
-    "YTD": "+72.5%"
+    "M. Cap.": "10.2B",
+    "Close": 11.98,
+    "YTD": "+73.6%"
   },
   {
     "Code": "NCS",
@@ -35,25 +35,25 @@
     "YTD": "+15.2%"
   },
   {
-    "Code": "COH",
-    "Name": "Curro Holdings Limited",
-    "M. Cap.": "7.71B",
-    "Close": 13.65,
-    "YTD": "+4.6%"
-  },
-  {
-    "Code": "LEW",
-    "Name": "Lewis Group Ltd",
-    "M. Cap.": "4.36B",
-    "Close": 83.5,
-    "YTD": "+4.26%"
-  },
-  {
     "Code": "AOVP",
     "Name": "African & Overseas Ent Preference",
     "M. Cap.": "2.89M",
     "Close": 10.5,
     "YTD": "+4.17%"
+  },
+  {
+    "Code": "LEW",
+    "Name": "Lewis Group Ltd",
+    "M. Cap.": "4.32B",
+    "Close": 82.8,
+    "YTD": "+3.38%"
+  },
+  {
+    "Code": "COH",
+    "Name": "Curro Holdings Limited",
+    "M. Cap.": "7.61B",
+    "Close": 13.48,
+    "YTD": "+3.3%"
   },
   {
     "Code": "AON",

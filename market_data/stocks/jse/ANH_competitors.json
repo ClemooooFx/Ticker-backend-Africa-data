@@ -2,71 +2,71 @@
   {
     "Code": "BTI",
     "Name": "British American Tobacco Plc",
-    "M. Cap.": "2.22T",
-    "Close": 951.75,
-    "YTD": "+40.7%"
+    "M. Cap.": "2.27T",
+    "Close": 976.06,
+    "YTD": "+44.3%"
   },
   {
     "Code": "RBO",
     "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4.49B",
-    "Close": 5.0,
-    "YTD": "+37.7%"
+    "M. Cap.": "4.48B",
+    "Close": 4.99,
+    "YTD": "+37.5%"
   },
   {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "11B",
-    "Close": 256.0,
-    "YTD": "+36.9%"
+    "M. Cap.": "10.9B",
+    "Close": 255.0,
+    "YTD": "+36.4%"
   },
   {
     "Code": "CFR",
     "Name": "Compagnie Financi\\xc3\\xa8re Richemont",
-    "M. Cap.": "1.92T",
-    "Close": 3566.66,
-    "YTD": "+28.5%"
+    "M. Cap.": "1.93T",
+    "Close": 3581.32,
+    "YTD": "+29%"
   },
   {
     "Code": "PMR",
     "Name": "Premier Group Ltd",
     "M. Cap.": "21.4B",
-    "Close": 165.77,
-    "YTD": "+21.9%"
+    "Close": 165.7,
+    "YTD": "+21.8%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
-    "M. Cap.": "57.5B",
-    "Close": 335.0,
-    "YTD": "+15.9%"
-  },
-  {
-    "Code": "RFG",
-    "Name": "RFG Holdings Limited",
-    "M. Cap.": "5.89B",
-    "Close": 22.4,
-    "YTD": "+8.26%"
-  },
-  {
-    "Code": "WBC",
-    "Name": "WeBuyCars Holdings Ltd",
-    "M. Cap.": "19.1B",
-    "Close": 45.75,
-    "YTD": "+6.27%"
+    "M. Cap.": "57.7B",
+    "Close": 336.41,
+    "YTD": "+16.4%"
   },
   {
     "Code": "SHG",
     "Name": "Sea Harvest Group Ltd",
-    "M. Cap.": "3.2B",
-    "Close": 8.86,
-    "YTD": "+6.11%"
+    "M. Cap.": "3.39B",
+    "Close": 9.38,
+    "YTD": "+12.3%"
   },
   {
-    "Code": "LBR",
-    "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.74B",
-    "Close": 4.5,
-    "YTD": "+3.45%"
+    "Code": "RFG",
+    "Name": "RFG Holdings Limited",
+    "M. Cap.": "5.83B",
+    "Close": 22.2,
+    "YTD": "+7.3%"
+  },
+  {
+    "Code": "WBC",
+    "Name": "WeBuyCars Holdings Ltd",
+    "M. Cap.": "19B",
+    "Close": 45.6,
+    "YTD": "+5.92%"
+  },
+  {
+    "Code": "RCL",
+    "Name": "RCL Foods Limited",
+    "M. Cap.": "8.61B",
+    "Close": 9.59,
+    "YTD": "+0.95%"
   }
 ]

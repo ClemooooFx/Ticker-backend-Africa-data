@@ -2,71 +2,71 @@
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "901M",
-    "Close": 4.79,
-    "YTD": "+19.8%"
+    "M. Cap.": "886M",
+    "Close": 4.71,
+    "YTD": "+17.8%"
   },
   {
     "Code": "BIK",
     "Name": "Brikor Limited",
-    "M. Cap.": "132M",
-    "Close": 0.16,
-    "YTD": "+14.3%"
-  },
-  {
-    "Code": "SEP",
-    "Name": "Sephaku Holdings Limited",
-    "M. Cap.": "481M",
-    "Close": 1.89,
-    "YTD": "+1.61%"
+    "M. Cap.": "123M",
+    "Close": 0.15,
+    "YTD": "+7.14%"
   },
   {
     "Code": "PPC",
     "Name": "PPC Limited",
-    "M. Cap.": "8B",
-    "Close": 5.15,
-    "YTD": NaN
+    "M. Cap.": "7.86B",
+    "Close": 5.06,
+    "YTD": "-1.75%"
   },
   {
-    "Code": "RBX",
-    "Name": "Raubex Group Ltd",
-    "M. Cap.": "7.28B",
-    "Close": 40.04,
-    "YTD": "-24.5%"
+    "Code": "SEP",
+    "Name": "Sephaku Holdings Limited",
+    "M. Cap.": "445M",
+    "Close": 1.75,
+    "YTD": "-5.91%"
   },
   {
     "Code": "CGR",
     "Name": "Calgro M3 Hldgs Ltd",
-    "M. Cap.": "565M",
-    "Close": 5.0,
-    "YTD": "-25.4%"
+    "M. Cap.": "591M",
+    "Close": 5.23,
+    "YTD": "-21.9%"
+  },
+  {
+    "Code": "RBX",
+    "Name": "Raubex Group Ltd",
+    "M. Cap.": "7.33B",
+    "Close": 40.31,
+    "YTD": "-23.9%"
   },
   {
     "Code": "WBO",
     "Name": "Wilson Bayly Hlm-Ovc Ltd",
-    "M. Cap.": "10.7B",
-    "Close": 150.16,
-    "YTD": "-35.6%"
+    "M. Cap.": "10.6B",
+    "Close": 149.4,
+    "YTD": "-36%"
   },
   {
     "Code": "AFT",
     "Name": "Afrimat Limited",
-    "M. Cap.": "6.32B",
-    "Close": 39.41,
-    "YTD": "-44.5%"
+    "M. Cap.": "6.09B",
+    "Close": 38.0,
+    "YTD": "-46.4%"
   },
   {
     "Code": "AEG",
     "Name": "Aveng Group Limited",
-    "M. Cap.": "567M",
-    "Close": 4.46,
-    "YTD": "-64.6%"
+    "M. Cap.": "559M",
+    "Close": 4.4,
+    "YTD": "-65.1%"
   },
   {
-    "Code": "GND",
-    "Name": "Grindrod Ltd",
-    "M. Cap.": "11.9B",
-    "Close": 17.09,
-    "YTD": "+42.9%"
+    "Code": "MFL",
+    "Name": "Metrofile Holdings Ltd",
+    "M. Cap.": "1.39B",
+    "Close": 3.2,
+    "YTD": "+41%"
   }
 ]

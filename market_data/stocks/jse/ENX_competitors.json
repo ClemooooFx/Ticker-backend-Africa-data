@@ -2,9 +2,9 @@
   {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.44B",
-    "Close": 523.6,
-    "YTD": "+25.9%"
+    "M. Cap.": "4.39B",
+    "Close": 518.12,
+    "YTD": "+24.6%"
   },
   {
     "Code": "BCF",
@@ -17,8 +17,8 @@
     "Code": "BAW",
     "Name": "Barloworld Ltd",
     "M. Cap.": "22.5B",
-    "Close": 118.51,
-    "YTD": "+9.2%"
+    "Close": 118.54,
+    "YTD": "+9.22%"
   },
   {
     "Code": "BAWP",
@@ -51,22 +51,22 @@
   {
     "Code": "BVT",
     "Name": "Bidvest Ltd",
-    "M. Cap.": "79.5B",
-    "Close": 233.52,
-    "YTD": "-11.4%"
+    "M. Cap.": "79.1B",
+    "Close": 232.39,
+    "YTD": "-11.9%"
   },
   {
     "Code": "MPT",
     "Name": "Mpact Limited",
-    "M. Cap.": "3.24B",
-    "Close": 21.67,
-    "YTD": "-26.6%"
+    "M. Cap.": "3.14B",
+    "Close": 21.0,
+    "YTD": "-28.9%"
   },
   {
     "Code": "KAP",
     "Name": "KAP Industrial Holdings Ltd",
-    "M. Cap.": "4.33B",
-    "Close": 1.73,
-    "YTD": "-43.7%"
+    "M. Cap.": "4.38B",
+    "Close": 1.75,
+    "YTD": "-43%"
   }
 ]

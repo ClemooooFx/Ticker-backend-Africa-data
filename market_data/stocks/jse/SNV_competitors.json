@@ -2,16 +2,16 @@
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "11.9B",
-    "Close": 17.09,
-    "YTD": "+42.9%"
+    "M. Cap.": "11.7B",
+    "Close": 16.83,
+    "YTD": "+40.7%"
   },
   {
     "Code": "GNDP",
     "Name": "Grindrod Ltd Pref",
-    "M. Cap.": "757M",
-    "Close": 102.25,
-    "YTD": "+7.07%"
+    "M. Cap.": "755M",
+    "Close": 102.0,
+    "YTD": "+6.81%"
   },
   {
     "Code": "LAB",
@@ -24,49 +24,49 @@
     "Code": "SPG",
     "Name": "Super Group Ltd",
     "M. Cap.": "6.26B",
-    "Close": 18.46,
-    "YTD": "-37.4%"
-  },
-  {
-    "Code": "ADR",
-    "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "769M",
-    "Close": 7.0,
-    "YTD": "+41.7%"
+    "Close": 18.45,
+    "YTD": "-37.5%"
   },
   {
     "Code": "MFL",
     "Name": "Metrofile Holdings Ltd",
-    "M. Cap.": "1.37B",
-    "Close": 3.17,
+    "M. Cap.": "1.39B",
+    "Close": 3.2,
+    "YTD": "+41%"
+  },
+  {
+    "Code": "ADR",
+    "Name": "Adcorp Holdings Limited",
+    "M. Cap.": "758M",
+    "Close": 6.9,
     "YTD": "+39.7%"
   },
   {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.44B",
-    "Close": 523.6,
-    "YTD": "+25.9%"
-  },
-  {
-    "Code": "SSK",
-    "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "901M",
-    "Close": 4.79,
-    "YTD": "+19.8%"
+    "M. Cap.": "4.39B",
+    "Close": 518.12,
+    "YTD": "+24.6%"
   },
   {
     "Code": "ART",
     "Name": "Argent Industrial Ltd",
-    "M. Cap.": "1.73B",
-    "Close": 32.21,
-    "YTD": "+16.9%"
+    "M. Cap.": "1.78B",
+    "Close": 33.0,
+    "YTD": "+19.7%"
   },
   {
-    "Code": "BIK",
-    "Name": "Brikor Limited",
-    "M. Cap.": "132M",
-    "Close": 0.16,
-    "YTD": "+14.3%"
+    "Code": "SSK",
+    "Name": "Stefanutti Stocks Holdings Ltd",
+    "M. Cap.": "886M",
+    "Close": 4.71,
+    "YTD": "+17.8%"
+  },
+  {
+    "Code": "IVT",
+    "Name": "Invicta Holdings Ltd",
+    "M. Cap.": "3.33B",
+    "Close": 37.5,
+    "YTD": "+13.6%"
   }
 ]

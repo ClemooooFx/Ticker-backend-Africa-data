@@ -2,9 +2,9 @@
   {
     "Code": "CHP",
     "Name": "Choppies Enterprises Limited",
-    "M. Cap.": "6.57B",
-    "Close": 3.6,
-    "YTD": "+350%"
+    "M. Cap.": "6.75B",
+    "Close": 3.7,
+    "YTD": "+363%"
   },
   {
     "Code": "WVR",
@@ -16,9 +16,9 @@
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "10.1B",
-    "Close": 11.9,
-    "YTD": "+72.5%"
+    "M. Cap.": "10.2B",
+    "Close": 11.98,
+    "YTD": "+73.6%"
   },
   {
     "Code": "NCS",
@@ -42,31 +42,31 @@
     "YTD": "+15.2%"
   },
   {
-    "Code": "SUR",
-    "Name": "Spur Corporation Ltd",
-    "M. Cap.": "3.5B",
-    "Close": 38.5,
-    "YTD": "+10.1%"
-  },
-  {
     "Code": "BOX",
     "Name": "Boxer Retail Ltd",
-    "M. Cap.": "32.4B",
-    "Close": 70.75,
-    "YTD": "+9.86%"
+    "M. Cap.": "32.2B",
+    "Close": 70.3,
+    "YTD": "+9.16%"
   },
   {
-    "Code": "ADH",
-    "Name": "ADvTECH Ltd",
-    "M. Cap.": "20.5B",
-    "Close": 37.05,
-    "YTD": "+9.49%"
+    "Code": "SUR",
+    "Name": "Spur Corporation Ltd",
+    "M. Cap.": "3.47B",
+    "Close": 38.12,
+    "YTD": "+9.04%"
   },
   {
     "Code": "CAT",
     "Name": "Caxton & CTP Publishers Limited",
-    "M. Cap.": "4.63B",
-    "Close": 13.09,
-    "YTD": "+7.21%"
+    "M. Cap.": "4.7B",
+    "Close": 13.29,
+    "YTD": "+8.85%"
+  },
+  {
+    "Code": "ADH",
+    "Name": "ADvTECH Ltd",
+    "M. Cap.": "20.2B",
+    "Close": 36.49,
+    "YTD": "+7.83%"
   }
 ]

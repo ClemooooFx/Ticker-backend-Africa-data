@@ -2,44 +2,37 @@
   {
     "Code": "BOAM",
     "Name": "Bank of Africa - Mali",
-    "M. Cap.": "104B",
-    "Close": 3790,
-    "YTD": "+101%"
+    "M. Cap.": "110B",
+    "Close": 3990,
+    "YTD": "+111%"
   },
   {
     "Code": "ECOC",
     "Name": "Ecobank C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "842B",
-    "Close": 15300,
-    "YTD": "+74%"
-  },
-  {
-    "Code": "NSBC",
-    "Name": "Nsia Banque C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "296B",
-    "Close": 11955,
-    "YTD": "+68.6%"
+    "M. Cap.": "864B",
+    "Close": 15700,
+    "YTD": "+78.5%"
   },
   {
     "Code": "BOAS",
     "Name": "Bank of Africa - Senegal",
-    "M. Cap.": "191B",
-    "Close": 5310,
-    "YTD": "+68.6%"
+    "M. Cap.": "198B",
+    "Close": 5500,
+    "YTD": "+74.6%"
+  },
+  {
+    "Code": "NSBC",
+    "Name": "Nsia Banque C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
+    "M. Cap.": "297B",
+    "Close": 12000,
+    "YTD": "+69.3%"
   },
   {
     "Code": "SIBC",
     "Name": "Societe Ivoirienne de Banque",
-    "M. Cap.": "555B",
-    "Close": 5550,
-    "YTD": "+56.1%"
-  },
-  {
-    "Code": "ETIT",
-    "Name": "Ecobank Transnational Inc",
-    "M. Cap.": "434B",
-    "Close": 24,
-    "YTD": "+50%"
+    "M. Cap.": "574B",
+    "Close": 5740,
+    "YTD": "+61.5%"
   },
   {
     "Code": "BOAC",
@@ -49,24 +42,31 @@
     "YTD": "+46.1%"
   },
   {
+    "Code": "ETIT",
+    "Name": "Ecobank Transnational Inc",
+    "M. Cap.": "416B",
+    "Close": 23,
+    "YTD": "+43.8%"
+  },
+  {
     "Code": "BICC",
     "Name": "BICI C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "339B",
-    "Close": 20350,
-    "YTD": "+45.4%"
+    "M. Cap.": "333B",
+    "Close": 20000,
+    "YTD": "+42.9%"
   },
   {
     "Code": "BOAB",
     "Name": "Bank of Africa - Benin",
-    "M. Cap.": "206B",
-    "Close": 5090,
-    "YTD": "+38.1%"
+    "M. Cap.": "211B",
+    "Close": 5190,
+    "YTD": "+40.8%"
   },
   {
     "Code": "SGBC",
     "Name": "SGB C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "860B",
-    "Close": 27650,
-    "YTD": "+31.7%"
+    "M. Cap.": "824B",
+    "Close": 26500,
+    "YTD": "+26.2%"
   }
 ]

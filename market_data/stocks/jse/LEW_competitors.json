@@ -9,9 +9,9 @@
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "10.1B",
-    "Close": 11.9,
-    "YTD": "+72.5%"
+    "M. Cap.": "10.2B",
+    "Close": 11.98,
+    "YTD": "+73.6%"
   },
   {
     "Code": "NCS",
@@ -37,16 +37,9 @@
   {
     "Code": "ADH",
     "Name": "ADvTECH Ltd",
-    "M. Cap.": "20.5B",
-    "Close": 37.05,
-    "YTD": "+9.49%"
-  },
-  {
-    "Code": "COH",
-    "Name": "Curro Holdings Limited",
-    "M. Cap.": "7.71B",
-    "Close": 13.65,
-    "YTD": "+4.6%"
+    "M. Cap.": "20.2B",
+    "Close": 36.49,
+    "YTD": "+7.83%"
   },
   {
     "Code": "AOVP",
@@ -54,6 +47,13 @@
     "M. Cap.": "2.89M",
     "Close": 10.5,
     "YTD": "+4.17%"
+  },
+  {
+    "Code": "COH",
+    "Name": "Curro Holdings Limited",
+    "M. Cap.": "7.61B",
+    "Close": 13.48,
+    "YTD": "+3.3%"
   },
   {
     "Code": "AON",

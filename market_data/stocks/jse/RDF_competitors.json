@@ -2,71 +2,71 @@
   {
     "Code": "DLT",
     "Name": "Delta Property Fund Limited",
-    "M. Cap.": "229M",
-    "Close": 0.32,
-    "YTD": "+68.4%"
+    "M. Cap.": "243M",
+    "Close": 0.34,
+    "YTD": "+79%"
   },
   {
     "Code": "FTB",
     "Name": "Fairvest Ltd B Shares",
-    "M. Cap.": "13B",
-    "Close": 6.6,
-    "YTD": "+38.4%"
+    "M. Cap.": "13.2B",
+    "Close": 6.7,
+    "YTD": "+40.5%"
   },
   {
     "Code": "GRT",
     "Name": "Growthpoint Properties Limited",
-    "M. Cap.": "59.4B",
-    "Close": 17.31,
-    "YTD": "+36%"
-  },
-  {
-    "Code": "VKE",
-    "Name": "Vukile Property Fund Ltd",
-    "M. Cap.": "32.2B",
-    "Close": 23.49,
-    "YTD": "+30.7%"
+    "M. Cap.": "59.2B",
+    "Close": 17.27,
+    "YTD": "+35.7%"
   },
   {
     "Code": "EMI",
     "Name": "Emira Property Fund Ltd",
-    "M. Cap.": "7.1B",
-    "Close": 14.18,
-    "YTD": "+30.1%"
+    "M. Cap.": "7.2B",
+    "Close": 14.37,
+    "YTD": "+31.8%"
   },
   {
-    "Code": "DIB",
-    "Name": "Dipula Income Fund B",
-    "M. Cap.": "7B",
-    "Close": 6.91,
-    "YTD": "+29.6%"
+    "Code": "VKE",
+    "Name": "Vukile Property Fund Ltd",
+    "M. Cap.": "32.3B",
+    "Close": 23.6,
+    "YTD": "+31.3%"
   },
   {
     "Code": "RES",
     "Name": "Resilient REIT Limited",
-    "M. Cap.": "27.7B",
-    "Close": 75.85,
-    "YTD": "+29.1%"
+    "M. Cap.": "27.8B",
+    "Close": 76.03,
+    "YTD": "+29.4%"
   },
   {
-    "Code": "SAR",
-    "Name": "Safari Investments RSA Ltd",
-    "M. Cap.": "2.19B",
-    "Close": 8.49,
-    "YTD": "+25.8%"
+    "Code": "DIB",
+    "Name": "Dipula Income Fund B",
+    "M. Cap.": "6.94B",
+    "Close": 6.85,
+    "YTD": "+28.5%"
   },
   {
     "Code": "FFB",
     "Name": "Fortress REIT Ltd",
-    "M. Cap.": "30.5B",
-    "Close": 25.06,
-    "YTD": "+23.7%"
+    "M. Cap.": "30.7B",
+    "Close": 25.24,
+    "YTD": "+24.6%"
   },
   {
     "Code": "OCT",
     "Name": "OCTODEC INVEST LTD",
-    "M. Cap.": "3.75B",
-    "Close": 14.1,
-    "YTD": "+22.6%"
+    "M. Cap.": "3.8B",
+    "Close": 14.29,
+    "YTD": "+24.3%"
+  },
+  {
+    "Code": "SAR",
+    "Name": "Safari Investments RSA Ltd",
+    "M. Cap.": "2.13B",
+    "Close": 8.27,
+    "YTD": "+22.5%"
   }
 ]
