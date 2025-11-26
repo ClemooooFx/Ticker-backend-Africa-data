@@ -2,9 +2,9 @@
   {
     "Code": "ELLAHLAKES",
     "Name": "Ellah Lakes Plc",
-    "M. Cap.": "49.2B",
-    "Close": 12.76,
-    "YTD": "+304%"
+    "M. Cap.": "50.2B",
+    "Close": 13.0,
+    "YTD": "+311%"
   },
   {
     "Code": "VITAFOAM",
@@ -16,9 +16,9 @@
   {
     "Code": "CHAMPION",
     "Name": "Champion Breweries",
-    "M. Cap.": "118B",
-    "Close": 13.2,
-    "YTD": "+246%"
+    "M. Cap.": "123B",
+    "Close": 13.7,
+    "YTD": "+260%"
   },
   {
     "Code": "NASCON",
@@ -37,23 +37,16 @@
   {
     "Code": "HONYFLOUR",
     "Name": "Honeywell Flour Mill",
-    "M. Cap.": "143B",
-    "Close": 18.0,
-    "YTD": "+186%"
+    "M. Cap.": "136B",
+    "Close": 17.1,
+    "YTD": "+171%"
   },
   {
     "Code": "FTNCOCOA",
     "Name": "FTN Cocoa Processors",
-    "M. Cap.": "19.5B",
-    "Close": 5.0,
-    "YTD": "+175%"
-  },
-  {
-    "Code": "CADBURY",
-    "Name": "Cadbury Nigeria",
-    "M. Cap.": "134B",
-    "Close": 58.95,
-    "YTD": "+174%"
+    "M. Cap.": "19.1B",
+    "Close": 4.9,
+    "YTD": "+169%"
   },
   {
     "Code": "OKOMUOIL",
@@ -61,6 +54,13 @@
     "M. Cap.": "1.06T",
     "Close": 1110.0,
     "YTD": "+150%"
+  },
+  {
+    "Code": "CADBURY",
+    "Name": "Cadbury Nigeria",
+    "M. Cap.": "121B",
+    "Close": 53.1,
+    "YTD": "+147%"
   },
   {
     "Code": "GUINNESS",

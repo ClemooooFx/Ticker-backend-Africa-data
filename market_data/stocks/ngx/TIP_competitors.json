@@ -28,6 +28,13 @@
     "YTD": "+123%"
   },
   {
+    "Code": "IKEJAHOTEL",
+    "Name": "Ikeja Hotel Plc",
+    "M. Cap.": "54.1B",
+    "Close": 25.0,
+    "YTD": "+122%"
+  },
+  {
     "Code": "CAVERTON",
     "Name": "Caverton Offshore Support Group",
     "M. Cap.": "16.6B",
@@ -42,20 +49,6 @@
     "YTD": "+109%"
   },
   {
-    "Code": "IKEJAHOTEL",
-    "Name": "Ikeja Hotel Plc",
-    "M. Cap.": "49.4B",
-    "Close": 22.85,
-    "YTD": "+103%"
-  },
-  {
-    "Code": "DAARCOMM",
-    "Name": "Daar Communications",
-    "M. Cap.": "11.9B",
-    "Close": 0.99,
-    "YTD": "+57.1%"
-  },
-  {
     "Code": "UPL",
     "Name": "University Press",
     "M. Cap.": "2.59B",
@@ -68,5 +61,12 @@
     "M. Cap.": "1.07B",
     "Close": 2.15,
     "YTD": "+55.8%"
+  },
+  {
+    "Code": "TRANSCOHOT",
+    "Name": "Transcorp Hotels Plc",
+    "M. Cap.": "1.79T",
+    "Close": 174.9,
+    "YTD": "+50.8%"
   }
 ]

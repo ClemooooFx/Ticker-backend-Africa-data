@@ -7,39 +7,39 @@
     "YTD": "+105%"
   },
   {
-    "Code": "KCB",
-    "Name": "KCB Group",
-    "M. Cap.": "5.37T",
-    "Close": 1799.96,
-    "YTD": "+58.7%"
-  },
-  {
     "Code": "SBU",
     "Name": "Stanbic Bank Uganda",
-    "M. Cap.": "3.07T",
-    "Close": 60.0,
-    "YTD": "+52.9%"
+    "M. Cap.": "3.05T",
+    "Close": 59.51,
+    "YTD": "+51.6%"
+  },
+  {
+    "Code": "KCB",
+    "Name": "KCB Group",
+    "M. Cap.": "5.09T",
+    "Close": 1704.34,
+    "YTD": "+50.3%"
   },
   {
     "Code": "JHL",
     "Name": "Jubilee Holdings Limited",
-    "M. Cap.": "545B",
-    "Close": 9104.88,
-    "YTD": "+87.6%"
+    "M. Cap.": "544B",
+    "Close": 9080.5,
+    "YTD": "+87.1%"
   },
   {
     "Code": "CENT",
     "Name": "Centum Investment",
-    "M. Cap.": "281B",
-    "Close": 421.63,
-    "YTD": "+46.3%"
+    "M. Cap.": "283B",
+    "Close": 424.69,
+    "YTD": "+47.4%"
   },
   {
     "Code": "DFCU",
     "Name": "DFCU Limited",
-    "M. Cap.": "225B",
-    "Close": 301.0,
-    "YTD": "+33.8%"
+    "M. Cap.": "226B",
+    "Close": 302.0,
+    "YTD": "+34.2%"
   },
   {
     "Code": "NIC",

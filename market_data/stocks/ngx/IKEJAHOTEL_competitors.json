@@ -1,17 +1,17 @@
 [
   {
-    "Code": "TIP",
-    "Name": "The Initiates Plc",
-    "M. Cap.": "10.3B",
-    "Close": 11.6,
-    "YTD": "+364%"
-  },
-  {
     "Code": "EUNISELL",
     "Name": "Eunisell Interlinked Plc",
     "M. Cap.": "20.5B",
     "Close": 86.5,
     "YTD": "+349%"
+  },
+  {
+    "Code": "TIP",
+    "Name": "The Initiates Plc",
+    "M. Cap.": "9.83B",
+    "Close": 11.05,
+    "YTD": "+342%"
   },
   {
     "Code": "ABCTRANS",
@@ -49,13 +49,6 @@
     "YTD": "+109%"
   },
   {
-    "Code": "DAARCOMM",
-    "Name": "Daar Communications",
-    "M. Cap.": "11.9B",
-    "Close": 0.99,
-    "YTD": "+57.1%"
-  },
-  {
     "Code": "UPL",
     "Name": "University Press",
     "M. Cap.": "2.59B",
@@ -68,5 +61,12 @@
     "M. Cap.": "1.07B",
     "Close": 2.15,
     "YTD": "+55.8%"
+  },
+  {
+    "Code": "TRANSCOHOT",
+    "Name": "Transcorp Hotels Plc",
+    "M. Cap.": "1.79T",
+    "Close": 174.9,
+    "YTD": "+50.8%"
   }
 ]

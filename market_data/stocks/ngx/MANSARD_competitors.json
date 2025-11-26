@@ -2,16 +2,16 @@
   {
     "Code": "REGALINS",
     "Name": "Regency Alliance Insurance",
-    "M. Cap.": "16.8B",
-    "Close": 1.05,
-    "YTD": "+40%"
+    "M. Cap.": "16.5B",
+    "Close": 1.03,
+    "YTD": "+37.3%"
   },
   {
     "Code": "CONHALLPLC",
     "Name": "Consolidated Hallmark Holdings",
-    "M. Cap.": "44.9B",
-    "Close": 4.14,
-    "YTD": "+20%"
+    "M. Cap.": "43.4B",
+    "Close": 4.0,
+    "YTD": "+15.9%"
   },
   {
     "Code": "FTGINSURE",
@@ -23,23 +23,30 @@
   {
     "Code": "SUNUASSUR",
     "Name": "Sunu Assurances Nigeria Plc",
-    "M. Cap.": "25.5B",
-    "Close": 4.38,
-    "YTD": "-59.3%"
+    "M. Cap.": "25.3B",
+    "Close": 4.35,
+    "YTD": "-59.5%"
   },
   {
     "Code": "MBENEFIT",
     "Name": "Mutual Benefits Assurance",
-    "M. Cap.": "67.2B",
-    "Close": 3.35,
-    "YTD": "+449%"
+    "M. Cap.": "62.2B",
+    "Close": 3.1,
+    "YTD": "+408%"
   },
   {
     "Code": "SOVRENINS",
     "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "40.6B",
-    "Close": 2.85,
-    "YTD": "+154%"
+    "M. Cap.": "41.3B",
+    "Close": 2.9,
+    "YTD": "+159%"
+  },
+  {
+    "Code": "AIICO",
+    "Name": "Aiico Insurance Plc",
+    "M. Cap.": "129B",
+    "Close": 3.52,
+    "YTD": "+146%"
   },
   {
     "Code": "SFSREIT",
@@ -58,15 +65,8 @@
   {
     "Code": "NEM",
     "Name": "N.E.M. Insurance Company",
-    "M. Cap.": "128B",
-    "Close": 25.45,
-    "YTD": "+132%"
-  },
-  {
-    "Code": "AIICO",
-    "Name": "Aiico Insurance Plc",
-    "M. Cap.": "117B",
-    "Close": 3.2,
-    "YTD": "+124%"
+    "M. Cap.": "126B",
+    "Close": 25.2,
+    "YTD": "+130%"
   }
 ]

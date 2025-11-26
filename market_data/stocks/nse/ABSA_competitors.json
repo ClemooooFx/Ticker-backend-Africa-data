@@ -2,71 +2,71 @@
   {
     "Code": "NCBA",
     "Name": "NCBA Group Plc",
-    "M. Cap.": "140B",
-    "Close": 84.75,
-    "YTD": "+75.8%"
+    "M. Cap.": "139B",
+    "Close": 84.25,
+    "YTD": "+74.8%"
   },
   {
     "Code": "KCB",
     "Name": "KCB Group",
-    "M. Cap.": "191B",
-    "Close": 59.5,
-    "YTD": "+43%"
-  },
-  {
-    "Code": "BKG",
-    "Name": "BK Group Plc",
-    "M. Cap.": "38.7B",
-    "Close": 43.15,
-    "YTD": "+32.6%"
+    "M. Cap.": "194B",
+    "Close": 60.25,
+    "YTD": "+44.8%"
   },
   {
     "Code": "EQTY",
     "Name": "Equity Group Holdings Limited",
-    "M. Cap.": "238B",
-    "Close": 63.0,
-    "YTD": "+30.4%"
+    "M. Cap.": "237B",
+    "Close": 62.75,
+    "YTD": "+29.9%"
   },
   {
     "Code": "IMH",
     "Name": "I&M Holdings Plc",
-    "M. Cap.": "75.7B",
-    "Close": 45.75,
-    "YTD": "+26.2%"
+    "M. Cap.": "74.7B",
+    "Close": 45.2,
+    "YTD": "+24.7%"
+  },
+  {
+    "Code": "BKG",
+    "Name": "BK Group Plc",
+    "M. Cap.": "35.9B",
+    "Close": 40.0,
+    "YTD": "+22.9%"
   },
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "4.89B",
-    "Close": 18.85,
-    "YTD": "+214%"
+    "M. Cap.": "4.9B",
+    "Close": 18.9,
+    "YTD": "+215%"
   },
   {
     "Code": "HAFR",
     "Name": "Home Afrika Limited",
-    "M. Cap.": "438M",
-    "Close": 1.08,
-    "YTD": "+192%"
+    "M. Cap.": "434M",
+    "Close": 1.07,
+    "YTD": "+189%"
   },
   {
     "Code": "KNRE",
     "Name": "Kenya Re-Insurance Corporation Ltd",
-    "M. Cap.": "16.9B",
-    "Close": 3.01,
-    "YTD": "+135%"
+    "M. Cap.": "16.8B",
+    "Close": 3.0,
+    "YTD": "+134%"
   },
   {
     "Code": "HFCK",
     "Name": "HF Group Limited",
     "M. Cap.": "18.9B",
-    "Close": 10.05,
-    "YTD": "+123%"
+    "Close": 10.0,
+    "YTD": "+122%"
   },
   {
     "Code": "CIC",
     "Name": "CIC Insurance Group Limited",
-    "M. Cap.": "12B",
-    "Close": 4.58,
-    "YTD": "+113%"
+    "M. Cap.": "11.8B",
+    "Close": 4.51,
+    "YTD": "+110%"
   }
 ]

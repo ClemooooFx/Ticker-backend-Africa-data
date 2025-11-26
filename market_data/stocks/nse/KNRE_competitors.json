@@ -2,51 +2,51 @@
   {
     "Code": "NSE",
     "Name": "Nairobi Securities Exchange Limited",
-    "M. Cap.": "4.89B",
-    "Close": 18.85,
-    "YTD": "+214%"
+    "M. Cap.": "4.9B",
+    "Close": 18.9,
+    "YTD": "+215%"
   },
   {
     "Code": "HAFR",
     "Name": "Home Afrika Limited",
-    "M. Cap.": "438M",
-    "Close": 1.08,
-    "YTD": "+192%"
+    "M. Cap.": "434M",
+    "Close": 1.07,
+    "YTD": "+189%"
   },
   {
     "Code": "HFCK",
     "Name": "HF Group Limited",
     "M. Cap.": "18.9B",
-    "Close": 10.05,
-    "YTD": "+123%"
+    "Close": 10.0,
+    "YTD": "+122%"
   },
   {
     "Code": "CIC",
     "Name": "CIC Insurance Group Limited",
-    "M. Cap.": "12B",
-    "Close": 4.58,
-    "YTD": "+113%"
+    "M. Cap.": "11.8B",
+    "Close": 4.51,
+    "YTD": "+110%"
   },
   {
     "Code": "JUB",
     "Name": "Jubilee Holdings Limited",
     "M. Cap.": "22.4B",
-    "Close": 308.75,
-    "YTD": "+78%"
+    "Close": 309.0,
+    "YTD": "+78.1%"
   },
   {
     "Code": "NCBA",
     "Name": "NCBA Group Plc",
-    "M. Cap.": "140B",
-    "Close": 84.75,
-    "YTD": "+75.8%"
+    "M. Cap.": "139B",
+    "Close": 84.25,
+    "YTD": "+74.8%"
   },
   {
     "Code": "DTK",
     "Name": "Diamond Trust Bank Kenya Limited",
-    "M. Cap.": "32.2B",
-    "Close": 115.0,
-    "YTD": "+66.7%"
+    "M. Cap.": "31.7B",
+    "Close": 113.25,
+    "YTD": "+64.1%"
   },
   {
     "Code": "SLAM",
@@ -58,15 +58,15 @@
   {
     "Code": "GLD",
     "Name": "Absa NewGold ETF",
-    "M. Cap.": "2.05B",
-    "Close": 5135.0,
-    "YTD": "+57.5%"
+    "M. Cap.": "2.1B",
+    "Close": 5255.0,
+    "YTD": "+61.2%"
   },
   {
     "Code": "LBTY",
     "Name": "Liberty Kenya Holdings Limited",
-    "M. Cap.": "5.54B",
-    "Close": 10.35,
-    "YTD": "+54.9%"
+    "M. Cap.": "5.52B",
+    "Close": 10.3,
+    "YTD": "+54.2%"
   }
 ]

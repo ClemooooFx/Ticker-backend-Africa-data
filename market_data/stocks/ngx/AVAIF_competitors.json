@@ -2,23 +2,30 @@
   {
     "Code": "NGXGROUP",
     "Name": "Nigerian Exchange Group",
-    "M. Cap.": "101B",
-    "Close": 51.6,
-    "YTD": "+89.4%"
+    "M. Cap.": "100B",
+    "Close": 51.1,
+    "YTD": "+87.5%"
   },
   {
     "Code": "MBENEFIT",
     "Name": "Mutual Benefits Assurance",
-    "M. Cap.": "67.2B",
-    "Close": 3.35,
-    "YTD": "+449%"
+    "M. Cap.": "62.2B",
+    "Close": 3.1,
+    "YTD": "+408%"
   },
   {
     "Code": "SOVRENINS",
     "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "40.6B",
-    "Close": 2.85,
-    "YTD": "+154%"
+    "M. Cap.": "41.3B",
+    "Close": 2.9,
+    "YTD": "+159%"
+  },
+  {
+    "Code": "AIICO",
+    "Name": "Aiico Insurance Plc",
+    "M. Cap.": "129B",
+    "Close": 3.52,
+    "YTD": "+146%"
   },
   {
     "Code": "SFSREIT",
@@ -37,16 +44,9 @@
   {
     "Code": "NEM",
     "Name": "N.E.M. Insurance Company",
-    "M. Cap.": "128B",
-    "Close": 25.45,
-    "YTD": "+132%"
-  },
-  {
-    "Code": "AIICO",
-    "Name": "Aiico Insurance Plc",
-    "M. Cap.": "117B",
-    "Close": 3.2,
-    "YTD": "+124%"
+    "M. Cap.": "126B",
+    "Close": 25.2,
+    "YTD": "+130%"
   },
   {
     "Code": "ABBEYBDS",

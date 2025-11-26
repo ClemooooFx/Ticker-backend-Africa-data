@@ -23,9 +23,9 @@
   {
     "Code": "UACN",
     "Name": "UAC of Nigeria",
-    "M. Cap.": "223B",
-    "Close": 76.2,
-    "YTD": "+142%"
+    "M. Cap.": "224B",
+    "Close": 76.5,
+    "YTD": "+143%"
   },
   {
     "Code": "CAP",
@@ -35,25 +35,11 @@
     "YTD": "+92.1%"
   },
   {
-    "Code": "MEYER",
-    "Name": "Meyer Plc",
-    "M. Cap.": "8.58B",
-    "Close": 16.15,
-    "YTD": "+91.6%"
-  },
-  {
     "Code": "WAPCO",
     "Name": "Lafarge Wapco",
-    "M. Cap.": "2.16T",
-    "Close": 134.0,
-    "YTD": "+91.6%"
-  },
-  {
-    "Code": "BUACEMENT",
-    "Name": "BUA Cement Plc",
-    "M. Cap.": "5.69T",
-    "Close": 168.0,
-    "YTD": "+80.7%"
+    "M. Cap.": "2.14T",
+    "Close": 133.0,
+    "YTD": "+90.1%"
   },
   {
     "Code": "BERGER",
@@ -63,10 +49,24 @@
     "YTD": "+79%"
   },
   {
+    "Code": "MEYER",
+    "Name": "Meyer Plc",
+    "M. Cap.": "7.73B",
+    "Close": 14.55,
+    "YTD": "+72.6%"
+  },
+  {
+    "Code": "BUACEMENT",
+    "Name": "BUA Cement Plc",
+    "M. Cap.": "5.42T",
+    "Close": 160.0,
+    "YTD": "+72%"
+  },
+  {
     "Code": "CUTIX",
     "Name": "Cutix Plc",
-    "M. Cap.": "21.5B",
-    "Close": 3.05,
-    "YTD": "+32.6%"
+    "M. Cap.": "22.2B",
+    "Close": 3.15,
+    "YTD": "+37%"
   }
 ]

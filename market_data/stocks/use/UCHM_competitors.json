@@ -1,16 +1,16 @@
 [
   {
-    "Code": "NMG",
-    "Name": "Nation Media Group",
-    "M. Cap.": "70B",
-    "Close": 371.2,
-    "YTD": "+0.19%"
-  },
-  {
     "Code": "NVL",
     "Name": "New Vision Limited",
     "M. Cap.": "11.5B",
     "Close": 150.0,
     "YTD": "-1.32%"
+  },
+  {
+    "Code": "NMG",
+    "Name": "Nation Media Group",
+    "M. Cap.": "68.5B",
+    "Close": 363.22,
+    "YTD": "-1.96%"
   }
 ]
