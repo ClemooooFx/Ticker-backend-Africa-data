@@ -9,9 +9,9 @@
   {
     "Code": "TIP",
     "Name": "The Initiates Plc",
-    "M. Cap.": "9.83B",
-    "Close": 11.05,
-    "YTD": "+342%"
+    "M. Cap.": "9.88B",
+    "Close": 11.1,
+    "YTD": "+344%"
   },
   {
     "Code": "ABCTRANS",
@@ -21,18 +21,18 @@
     "YTD": "+180%"
   },
   {
+    "Code": "IKEJAHOTEL",
+    "Name": "Ikeja Hotel Plc",
+    "M. Cap.": "59.5B",
+    "Close": 27.5,
+    "YTD": "+144%"
+  },
+  {
     "Code": "NAHCO",
     "Name": "Nigerian Aviation Handling Co.",
     "M. Cap.": "208B",
     "Close": 106.5,
     "YTD": "+131%"
-  },
-  {
-    "Code": "IKEJAHOTEL",
-    "Name": "Ikeja Hotel Plc",
-    "M. Cap.": "54.1B",
-    "Close": 25.0,
-    "YTD": "+122%"
   },
   {
     "Code": "CAVERTON",

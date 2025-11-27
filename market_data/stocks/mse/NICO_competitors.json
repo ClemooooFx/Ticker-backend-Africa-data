@@ -3,28 +3,28 @@
     "Code": "NITL",
     "Name": "National Investment Trust Limited",
     "M. Cap.": "532B",
-    "Close": 3939.75,
+    "Close": 3939.7,
     "YTD": "+795%"
   },
   {
     "Code": "FMBCH",
     "Name": "FMB Capital Holdings Plc",
-    "M. Cap.": "8.34T",
-    "Close": 3390.99,
-    "YTD": "+511%"
+    "M. Cap.": "8.33T",
+    "Close": 3388.03,
+    "YTD": "+510%"
   },
   {
     "Code": "NBS",
     "Name": "NBS Bank Limited",
-    "M. Cap.": "2.77T",
-    "Close": 951.17,
-    "YTD": "+446%"
+    "M. Cap.": "2.75T",
+    "Close": 944.14,
+    "YTD": "+442%"
   },
   {
     "Code": "FDHB",
     "Name": "FDH Bank Plc",
-    "M. Cap.": "4.4T",
-    "Close": 636.96,
+    "M. Cap.": "4.39T",
+    "Close": 636.8,
     "YTD": "+330%"
   },
   {
@@ -52,7 +52,7 @@
     "Code": "STANDARD",
     "Name": "Standard Bank Malawi Limited",
     "M. Cap.": "5.27T",
-    "Close": 4487.99,
-    "YTD": "-30.8%"
+    "Close": 4492.47,
+    "YTD": "-30.7%"
   }
 ]

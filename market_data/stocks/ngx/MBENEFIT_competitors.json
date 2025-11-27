@@ -2,9 +2,9 @@
   {
     "Code": "SOVRENINS",
     "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "41.3B",
-    "Close": 2.9,
-    "YTD": "+159%"
+    "M. Cap.": "42.3B",
+    "Close": 2.97,
+    "YTD": "+165%"
   },
   {
     "Code": "AIICO",
@@ -12,6 +12,13 @@
     "M. Cap.": "129B",
     "Close": 3.52,
     "YTD": "+146%"
+  },
+  {
+    "Code": "NEM",
+    "Name": "N.E.M. Insurance Company",
+    "M. Cap.": "130B",
+    "Close": 26.0,
+    "YTD": "+137%"
   },
   {
     "Code": "SFSREIT",
@@ -26,13 +33,6 @@
     "M. Cap.": "235B",
     "Close": 39.9,
     "YTD": "+133%"
-  },
-  {
-    "Code": "NEM",
-    "Name": "N.E.M. Insurance Company",
-    "M. Cap.": "126B",
-    "Close": 25.2,
-    "YTD": "+130%"
   },
   {
     "Code": "ABBEYBDS",
@@ -51,16 +51,16 @@
   {
     "Code": "WEMABANK",
     "Name": "Wema Bank",
-    "M. Cap.": "734B",
-    "Close": 18.3,
-    "YTD": "+101%"
+    "M. Cap.": "728B",
+    "Close": 18.15,
+    "YTD": "+99.5%"
   },
   {
     "Code": "ROYALEX",
     "Name": "Royal Exchange",
-    "M. Cap.": "16.4B",
-    "Close": 1.98,
-    "YTD": "+98%"
+    "M. Cap.": "15.7B",
+    "Close": 1.9,
+    "YTD": "+90%"
   },
   {
     "Code": "NGXGROUP",

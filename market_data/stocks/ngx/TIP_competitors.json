@@ -14,6 +14,13 @@
     "YTD": "+180%"
   },
   {
+    "Code": "IKEJAHOTEL",
+    "Name": "Ikeja Hotel Plc",
+    "M. Cap.": "59.5B",
+    "Close": 27.5,
+    "YTD": "+144%"
+  },
+  {
     "Code": "NAHCO",
     "Name": "Nigerian Aviation Handling Co.",
     "M. Cap.": "208B",
@@ -26,13 +33,6 @@
     "M. Cap.": "6.08B",
     "Close": 6.7,
     "YTD": "+123%"
-  },
-  {
-    "Code": "IKEJAHOTEL",
-    "Name": "Ikeja Hotel Plc",
-    "M. Cap.": "54.1B",
-    "Close": 25.0,
-    "YTD": "+122%"
   },
   {
     "Code": "CAVERTON",

@@ -1,23 +1,23 @@
 [
   {
-    "Code": "CRWN",
-    "Name": "Crown Paints Kenya Limited",
-    "M. Cap.": "7.87B",
-    "Close": 55.25,
-    "YTD": "+67.9%"
-  },
-  {
     "Code": "FTGH",
     "Name": "Flame Tree Group Holdings Limited",
-    "M. Cap.": "294M",
-    "Close": 1.65,
-    "YTD": "+65%"
+    "M. Cap.": "292M",
+    "Close": 1.64,
+    "YTD": "+64%"
+  },
+  {
+    "Code": "CRWN",
+    "Name": "Crown Paints Kenya Limited",
+    "M. Cap.": "7.55B",
+    "Close": 53.0,
+    "YTD": "+61.1%"
   },
   {
     "Code": "CARB",
     "Name": "Carbacid Investments Limited",
-    "M. Cap.": "7.84B",
-    "Close": 30.75,
-    "YTD": "+46.8%"
+    "M. Cap.": "7.31B",
+    "Close": 28.7,
+    "YTD": "+37%"
   }
 ]

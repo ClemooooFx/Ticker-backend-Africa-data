@@ -2,9 +2,9 @@
   {
     "Code": "NCR",
     "Name": "NCR Nigeria",
-    "M. Cap.": "5.37B",
-    "Close": 49.7,
-    "YTD": "+894%"
+    "M. Cap.": "5.9B",
+    "Close": 54.65,
+    "YTD": "+993%"
   },
   {
     "Code": "ETRANZACT",
@@ -21,18 +21,18 @@
     "YTD": "+116%"
   },
   {
-    "Code": "OMATEK",
-    "Name": "Omatek Ventures",
-    "M. Cap.": "3.27B",
-    "Close": 1.11,
-    "YTD": "+52.1%"
-  },
-  {
     "Code": "CHAMS",
     "Name": "Chams Plc",
     "M. Cap.": "19.6B",
     "Close": 2.95,
     "YTD": "+48.2%"
+  },
+  {
+    "Code": "OMATEK",
+    "Name": "Omatek Ventures",
+    "M. Cap.": "3.15B",
+    "Close": 1.07,
+    "YTD": "+46.6%"
   },
   {
     "Code": "LEGENDINT",
