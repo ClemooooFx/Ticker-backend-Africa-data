@@ -2,71 +2,71 @@
   {
     "Code": "DLT",
     "Name": "Delta Property Fund Limited",
-    "M. Cap.": "243M",
-    "Close": 0.34,
-    "YTD": "+79%"
+    "M. Cap.": "236M",
+    "Close": 0.33,
+    "YTD": "+73.7%"
   },
   {
     "Code": "FTB",
     "Name": "Fairvest Ltd B Shares",
-    "M. Cap.": "13.2B",
-    "Close": 6.7,
-    "YTD": "+40.5%"
-  },
-  {
-    "Code": "EMI",
-    "Name": "Emira Property Fund Ltd",
-    "M. Cap.": "7.2B",
-    "Close": 14.37,
-    "YTD": "+31.8%"
+    "M. Cap.": "13.3B",
+    "Close": 6.75,
+    "YTD": "+41.5%"
   },
   {
     "Code": "VKE",
     "Name": "Vukile Property Fund Ltd",
-    "M. Cap.": "32.3B",
-    "Close": 23.6,
-    "YTD": "+31.3%"
+    "M. Cap.": "33.5B",
+    "Close": 24.5,
+    "YTD": "+36.3%"
   },
   {
     "Code": "RDF",
     "Name": "Redefine Properties Limited",
-    "M. Cap.": "42.8B",
-    "Close": 5.94,
-    "YTD": "+30.6%"
+    "M. Cap.": "43.1B",
+    "Close": 5.98,
+    "YTD": "+31.4%"
   },
   {
     "Code": "RES",
     "Name": "Resilient REIT Limited",
-    "M. Cap.": "27.8B",
-    "Close": 76.03,
-    "YTD": "+29.4%"
+    "M. Cap.": "28.1B",
+    "Close": 77.03,
+    "YTD": "+31.1%"
+  },
+  {
+    "Code": "EMI",
+    "Name": "Emira Property Fund Ltd",
+    "M. Cap.": "7.13B",
+    "Close": 14.25,
+    "YTD": "+30.7%"
   },
   {
     "Code": "DIB",
     "Name": "Dipula Income Fund B",
-    "M. Cap.": "6.94B",
-    "Close": 6.85,
-    "YTD": "+28.5%"
+    "M. Cap.": "6.99B",
+    "Close": 6.9,
+    "YTD": "+29.5%"
   },
   {
     "Code": "FFB",
     "Name": "Fortress REIT Ltd",
-    "M. Cap.": "30.7B",
-    "Close": 25.24,
-    "YTD": "+24.6%"
+    "M. Cap.": "31.5B",
+    "Close": 25.84,
+    "YTD": "+27.5%"
   },
   {
     "Code": "OCT",
     "Name": "OCTODEC INVEST LTD",
-    "M. Cap.": "3.8B",
-    "Close": 14.29,
-    "YTD": "+24.3%"
+    "M. Cap.": "3.87B",
+    "Close": 14.53,
+    "YTD": "+26.4%"
   },
   {
-    "Code": "SAR",
-    "Name": "Safari Investments RSA Ltd",
-    "M. Cap.": "2.13B",
-    "Close": 8.27,
-    "YTD": "+22.5%"
+    "Code": "EQU",
+    "Name": "Equites Prop Fund Ltd",
+    "M. Cap.": "15.2B",
+    "Close": 18.38,
+    "YTD": "+25%"
   }
 ]

@@ -1,52 +1,45 @@
 [
   {
-    "Code": "RBO",
-    "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4.48B",
-    "Close": 4.99,
-    "YTD": "+37.5%"
-  },
-  {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
     "M. Cap.": "10.9B",
-    "Close": 255.0,
-    "YTD": "+36.4%"
+    "Close": 253.5,
+    "YTD": "+35.6%"
+  },
+  {
+    "Code": "RBO",
+    "Name": "Rainbow Chicken Ltd",
+    "M. Cap.": "4.28B",
+    "Close": 4.76,
+    "YTD": "+31.1%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
-    "M. Cap.": "57.7B",
-    "Close": 336.41,
-    "YTD": "+16.4%"
-  },
-  {
-    "Code": "SHG",
-    "Name": "Sea Harvest Group Ltd",
-    "M. Cap.": "3.39B",
-    "Close": 9.38,
-    "YTD": "+12.3%"
+    "M. Cap.": "61.8B",
+    "Close": 360.24,
+    "YTD": "+24.6%"
   },
   {
     "Code": "RFG",
     "Name": "RFG Holdings Limited",
-    "M. Cap.": "5.83B",
-    "Close": 22.2,
-    "YTD": "+7.3%"
+    "M. Cap.": "5.98B",
+    "Close": 22.75,
+    "YTD": "+9.96%"
+  },
+  {
+    "Code": "SHG",
+    "Name": "Sea Harvest Group Ltd",
+    "M. Cap.": "3.21B",
+    "Close": 8.9,
+    "YTD": "+6.59%"
   },
   {
     "Code": "RCL",
     "Name": "RCL Foods Limited",
-    "M. Cap.": "8.61B",
-    "Close": 9.59,
-    "YTD": "+0.95%"
-  },
-  {
-    "Code": "LBR",
-    "Name": "Libstar Holdings Ltd",
-    "M. Cap.": "2.65B",
-    "Close": 4.35,
-    "YTD": NaN
+    "M. Cap.": "8.63B",
+    "Close": 9.6,
+    "YTD": "+1.05%"
   },
   {
     "Code": "QFH",
@@ -56,17 +49,24 @@
     "YTD": "-0.66%"
   },
   {
+    "Code": "LBR",
+    "Name": "Libstar Holdings Ltd",
+    "M. Cap.": "2.62B",
+    "Close": 4.3,
+    "YTD": "-1.15%"
+  },
+  {
     "Code": "AVI",
     "Name": "AVI Ltd",
-    "M. Cap.": "34.4B",
-    "Close": 100.79,
-    "YTD": "-8.14%"
+    "M. Cap.": "35.1B",
+    "Close": 102.91,
+    "YTD": "-6.21%"
   },
   {
     "Code": "OCE",
     "Name": "Oceana Group Ltd",
-    "M. Cap.": "6.81B",
-    "Close": 52.5,
-    "YTD": "-22.2%"
+    "M. Cap.": "6.98B",
+    "Close": 53.75,
+    "YTD": "-20.4%"
   }
 ]

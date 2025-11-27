@@ -2,23 +2,23 @@
   {
     "Code": "DSBP",
     "Name": "Discovery B Preference Shares",
-    "M. Cap.": "1.02B",
-    "Close": 128.0,
-    "YTD": "+16.4%"
+    "M. Cap.": "1.01B",
+    "Close": 126.0,
+    "YTD": "+14.6%"
   },
   {
     "Code": "DSY",
     "Name": "Discovery Limited",
-    "M. Cap.": "150B",
-    "Close": 220.01,
-    "YTD": "+13%"
+    "M. Cap.": "151B",
+    "Close": 221.43,
+    "YTD": "+13.7%"
   },
   {
     "Code": "SNT",
     "Name": "Santam Limited",
-    "M. Cap.": "49.3B",
-    "Close": 428.05,
-    "YTD": "+9.02%"
+    "M. Cap.": "49.4B",
+    "Close": 429.03,
+    "YTD": "+9.27%"
   },
   {
     "Code": "CLI",
@@ -30,43 +30,43 @@
   {
     "Code": "SLM",
     "Name": "Sanlam Limited",
-    "M. Cap.": "196B",
-    "Close": 92.71,
-    "YTD": "+6.71%"
+    "M. Cap.": "198B",
+    "Close": 93.61,
+    "YTD": "+7.75%"
   },
   {
     "Code": "YYLBEE",
     "Name": "YeboYethu (RF) Ltd",
-    "M. Cap.": "2.7B",
-    "Close": 51.0,
-    "YTD": "+132%"
+    "M. Cap.": "2.59B",
+    "Close": 49.0,
+    "YTD": "+123%"
   },
   {
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
-    "M. Cap.": "2.33B",
-    "Close": 116.71,
-    "YTD": "+115%"
+    "M. Cap.": "2.4B",
+    "Close": 120.31,
+    "YTD": "+121%"
   },
   {
     "Code": "FGL",
     "Name": "Finbond Group Ltd",
-    "M. Cap.": "665M",
-    "Close": 1.29,
-    "YTD": "+98.5%"
+    "M. Cap.": "676M",
+    "Close": 1.31,
+    "YTD": "+102%"
   },
   {
     "Code": "PPE",
     "Name": "Purple Group Ltd",
-    "M. Cap.": "2.99B",
-    "Close": 2.1,
-    "YTD": "+94.4%"
+    "M. Cap.": "3.05B",
+    "Close": 2.13,
+    "YTD": "+97.2%"
   },
   {
     "Code": "STXSHA",
     "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "124M",
-    "Close": 5.79,
-    "YTD": "+69.3%"
+    "M. Cap.": "127M",
+    "Close": 5.95,
+    "YTD": "+74%"
   }
 ]

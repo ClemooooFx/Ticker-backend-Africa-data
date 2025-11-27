@@ -142,5 +142,26 @@
       "use",
       "zse"
     ]
+  },
+  {
+    "update_date": "2025-11-27T08:07:45.267987",
+    "update_type": "incremental",
+    "exchanges_updated": 10,
+    "total_updates": 3120,
+    "total_possible": 3500,
+    "update_rate_percent": 89.14,
+    "duration_seconds": 5750.675606,
+    "exchanges": [
+      "bse",
+      "brvm",
+      "gse",
+      "jse",
+      "luse",
+      "mse",
+      "nse",
+      "ngx",
+      "use",
+      "zse"
+    ]
   }
 ]

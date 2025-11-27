@@ -9,16 +9,16 @@
   {
     "Code": "ASC",
     "Name": "Ascendis Health Ltd",
-    "M. Cap.": "620M",
-    "Close": 0.98,
-    "YTD": "-2%"
+    "M. Cap.": "595M",
+    "Close": 0.94,
+    "YTD": "-6%"
   },
   {
     "Code": "APN",
     "Name": "Aspen Pharmacare Holdings",
-    "M. Cap.": "41.5B",
-    "Close": 92.92,
-    "YTD": "-43.6%"
+    "M. Cap.": "41.8B",
+    "Close": 93.76,
+    "YTD": "-43.1%"
   },
   {
     "Code": "NTCP",
@@ -30,16 +30,16 @@
   {
     "Code": "NTC",
     "Name": "Netcare Limited",
-    "M. Cap.": "20.8B",
-    "Close": 15.26,
-    "YTD": "+2.28%"
+    "M. Cap.": "20.7B",
+    "Close": 15.14,
+    "YTD": "+1.47%"
   },
   {
     "Code": "PHP",
     "Name": "Primary Health Properties",
     "M. Cap.": "56.8B",
-    "Close": 21.88,
-    "YTD": "-0.45%"
+    "Close": 21.89,
+    "YTD": "-0.41%"
   },
   {
     "Code": "ACT",
@@ -51,8 +51,8 @@
   {
     "Code": "LHC",
     "Name": "Life Healthcare Group Holdings",
-    "M. Cap.": "15.6B",
-    "Close": 10.62,
-    "YTD": "-35.2%"
+    "M. Cap.": "15.4B",
+    "Close": 10.5,
+    "YTD": "-35.9%"
   }
 ]

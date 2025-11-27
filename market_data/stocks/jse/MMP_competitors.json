@@ -9,16 +9,16 @@
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "758M",
-    "Close": 6.9,
-    "YTD": "+39.7%"
+    "M. Cap.": "707M",
+    "Close": 6.43,
+    "YTD": "+30.2%"
   },
   {
     "Code": "ART",
     "Name": "Argent Industrial Ltd",
-    "M. Cap.": "1.78B",
-    "Close": 33.0,
-    "YTD": "+19.7%"
+    "M. Cap.": "1.72B",
+    "Close": 32.0,
+    "YTD": "+16.1%"
   },
   {
     "Code": "PMV",
@@ -30,9 +30,9 @@
   {
     "Code": "NVS",
     "Name": "Novus Holdings Limited",
-    "M. Cap.": "2.27B",
-    "Close": 6.6,
-    "YTD": "-10.1%"
+    "M. Cap.": "2.23B",
+    "Close": 6.5,
+    "YTD": "-11.4%"
   },
   {
     "Code": "HDC",
@@ -44,29 +44,29 @@
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "11.7B",
-    "Close": 16.83,
-    "YTD": "+40.7%"
+    "M. Cap.": "11.8B",
+    "Close": 16.97,
+    "YTD": "+41.9%"
   },
   {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.39B",
-    "Close": 518.12,
-    "YTD": "+24.6%"
+    "M. Cap.": "4.46B",
+    "Close": 526.0,
+    "YTD": "+26.4%"
   },
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "886M",
-    "Close": 4.71,
-    "YTD": "+17.8%"
+    "M. Cap.": "884M",
+    "Close": 4.7,
+    "YTD": "+17.5%"
   },
   {
     "Code": "IVT",
     "Name": "Invicta Holdings Ltd",
-    "M. Cap.": "3.33B",
-    "Close": 37.5,
-    "YTD": "+13.6%"
+    "M. Cap.": "3.29B",
+    "Close": 37.0,
+    "YTD": "+12.1%"
   }
 ]

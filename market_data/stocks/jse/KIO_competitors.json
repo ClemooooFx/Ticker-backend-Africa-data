@@ -2,9 +2,9 @@
   {
     "Code": "IMP",
     "Name": "Impala Platinum Hlgs Ltd",
-    "M. Cap.": "175B",
-    "Close": 193.57,
-    "YTD": "+121%"
+    "M. Cap.": "183B",
+    "Close": 202.12,
+    "YTD": "+130%"
   },
   {
     "Code": "EUZ",
@@ -21,18 +21,18 @@
     "YTD": "+47.1%"
   },
   {
-    "Code": "ISB",
-    "Name": "Insimbi Industrial Holdings",
-    "M. Cap.": "251M",
-    "Close": 0.76,
-    "YTD": "+8.57%"
-  },
-  {
     "Code": "ACL",
     "Name": "ArcelorMittal SA Limited",
-    "M. Cap.": "1.5B",
-    "Close": 1.32,
-    "YTD": "-1.49%"
+    "M. Cap.": "1.54B",
+    "Close": 1.35,
+    "YTD": "+0.75%"
+  },
+  {
+    "Code": "ISB",
+    "Name": "Insimbi Industrial Holdings",
+    "M. Cap.": "232M",
+    "Close": 0.7,
+    "YTD": NaN
   },
   {
     "Code": "APH",
@@ -44,9 +44,9 @@
   {
     "Code": "HLM",
     "Name": "Hulamin Ltd",
-    "M. Cap.": "801M",
-    "Close": 2.47,
-    "YTD": "-29.4%"
+    "M. Cap.": "808M",
+    "Close": 2.49,
+    "YTD": "-28.9%"
   },
   {
     "Code": "CPR",
@@ -56,17 +56,17 @@
     "YTD": "-77.5%"
   },
   {
-    "Code": "ANG",
-    "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "717B",
-    "Close": 1420.52,
-    "YTD": "+237%"
-  },
-  {
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "143B",
-    "Close": 50.5,
-    "YTD": "+237%"
+    "M. Cap.": "149B",
+    "Close": 52.6,
+    "YTD": "+251%"
+  },
+  {
+    "Code": "ANG",
+    "Name": "Anglogold Ashanti Ltd",
+    "M. Cap.": "733B",
+    "Close": 1452.64,
+    "YTD": "+245%"
   }
 ]

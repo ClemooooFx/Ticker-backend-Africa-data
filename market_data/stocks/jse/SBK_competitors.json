@@ -2,9 +2,16 @@
   {
     "Code": "FGL",
     "Name": "Finbond Group Ltd",
-    "M. Cap.": "665M",
-    "Close": 1.29,
-    "YTD": "+98.5%"
+    "M. Cap.": "676M",
+    "Close": 1.31,
+    "YTD": "+102%"
+  },
+  {
+    "Code": "CPI",
+    "Name": "Capitec Bank Holdings Limited",
+    "M. Cap.": "461B",
+    "Close": 3973.91,
+    "YTD": "+26.8%"
   },
   {
     "Code": "INPP",
@@ -14,25 +21,18 @@
     "YTD": "+26.2%"
   },
   {
-    "Code": "CPI",
-    "Name": "Capitec Bank Holdings Limited",
-    "M. Cap.": "456B",
-    "Close": 3930.04,
-    "YTD": "+25.4%"
-  },
-  {
     "Code": "ABG",
     "Name": "Absa Group Limited",
-    "M. Cap.": "186B",
-    "Close": 207.43,
-    "YTD": "+9.32%"
+    "M. Cap.": "188B",
+    "Close": 209.84,
+    "YTD": "+10.6%"
   },
   {
     "Code": "FSR",
     "Name": "FirstRand Limited",
-    "M. Cap.": "455B",
-    "Close": 81.1,
-    "YTD": "+6.77%"
+    "M. Cap.": "464B",
+    "Close": 82.65,
+    "YTD": "+8.81%"
   },
   {
     "Code": "INPPR",
@@ -42,13 +42,6 @@
     "YTD": "+6.21%"
   },
   {
-    "Code": "INPR",
-    "Name": "Investec Ltd Preference Shares",
-    "M. Cap.": "2.48B",
-    "Close": 100.0,
-    "YTD": "+6.04%"
-  },
-  {
     "Code": "CPIP",
     "Name": "Capitec Bank Preference Shares",
     "M. Cap.": "50.2M",
@@ -56,17 +49,24 @@
     "YTD": "+5.92%"
   },
   {
+    "Code": "INPR",
+    "Name": "Investec Ltd Preference Shares",
+    "M. Cap.": "2.44B",
+    "Close": 98.28,
+    "YTD": "+4.22%"
+  },
+  {
     "Code": "INL",
     "Name": "Investec Limited",
-    "M. Cap.": "36B",
-    "Close": 122.85,
-    "YTD": "-1.75%"
+    "M. Cap.": "36.3B",
+    "Close": 123.7,
+    "YTD": "-1.07%"
   },
   {
     "Code": "INP",
     "Name": "Investec Plc",
-    "M. Cap.": "85.6B",
-    "Close": 122.94,
-    "YTD": "-2.97%"
+    "M. Cap.": "86.4B",
+    "Close": 124.07,
+    "YTD": "-2.08%"
   }
 ]

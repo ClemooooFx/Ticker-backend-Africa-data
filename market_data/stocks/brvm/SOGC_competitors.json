@@ -2,44 +2,44 @@
   {
     "Code": "PALC",
     "Name": "Palm C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "127B",
-    "Close": 8190,
-    "YTD": "+63.8%"
+    "M. Cap.": "126B",
+    "Close": 8120,
+    "YTD": "+62.4%"
   },
   {
     "Code": "NTLC",
     "Name": "Nestle C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "261B",
-    "Close": 11820,
-    "YTD": "+48.5%"
+    "M. Cap.": "260B",
+    "Close": 11800,
+    "YTD": "+48.2%"
   },
   {
     "Code": "SCRC",
     "Name": "Sucrivoire C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "19.5B",
-    "Close": 995,
-    "YTD": "+28.4%"
+    "M. Cap.": "19.6B",
+    "Close": 1000,
+    "YTD": "+29%"
   },
   {
     "Code": "SICC",
     "Name": "Sicor C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "2.18B",
-    "Close": 3640,
-    "YTD": "-9%"
+    "M. Cap.": "2.03B",
+    "Close": 3390,
+    "YTD": "-15.3%"
   },
   {
     "Code": "UNLC",
     "Name": "Unilever C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "403B",
-    "Close": 43900,
-    "YTD": "+578%"
+    "M. Cap.": "399B",
+    "Close": 43395,
+    "YTD": "+570%"
   },
   {
     "Code": "UNXC",
     "Name": "Uniwax C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "32.4B",
-    "Close": 1560,
-    "YTD": "+280%"
+    "M. Cap.": "32.1B",
+    "Close": 1545,
+    "YTD": "+277%"
   },
   {
     "Code": "STBC",
@@ -51,15 +51,15 @@
   {
     "Code": "SLBC",
     "Name": "Solibra C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "445B",
-    "Close": 27010,
-    "YTD": "+109%"
+    "M. Cap.": "461B",
+    "Close": 28000,
+    "YTD": "+116%"
   },
   {
     "Code": "SPHC",
     "Name": "Saph C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "197B",
-    "Close": 7690,
-    "YTD": "+85.8%"
+    "M. Cap.": "199B",
+    "Close": 7790,
+    "YTD": "+88.2%"
   }
 ]

@@ -2,30 +2,30 @@
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
-    "M. Cap.": "11.7B",
-    "Close": 16.83,
-    "YTD": "+40.7%"
+    "M. Cap.": "11.8B",
+    "Close": 16.97,
+    "YTD": "+41.9%"
   },
   {
     "Code": "GNDP",
     "Name": "Grindrod Ltd Pref",
-    "M. Cap.": "755M",
-    "Close": 102.0,
-    "YTD": "+6.81%"
-  },
-  {
-    "Code": "LAB",
-    "Name": "Labat Africa Ltd",
-    "M. Cap.": "56.6M",
-    "Close": 0.05,
-    "YTD": "-28.6%"
+    "M. Cap.": "725M",
+    "Close": 98.04,
+    "YTD": "+2.66%"
   },
   {
     "Code": "SPG",
     "Name": "Super Group Ltd",
-    "M. Cap.": "6.26B",
-    "Close": 18.45,
-    "YTD": "-37.5%"
+    "M. Cap.": "6.39B",
+    "Close": 18.84,
+    "YTD": "-36.1%"
+  },
+  {
+    "Code": "LAB",
+    "Name": "Labat Africa Ltd",
+    "M. Cap.": "50M",
+    "Close": 0.04,
+    "YTD": "-42.9%"
   },
   {
     "Code": "MFL",
@@ -37,36 +37,36 @@
   {
     "Code": "ADR",
     "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "758M",
-    "Close": 6.9,
-    "YTD": "+39.7%"
+    "M. Cap.": "707M",
+    "Close": 6.43,
+    "YTD": "+30.2%"
   },
   {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.39B",
-    "Close": 518.12,
-    "YTD": "+24.6%"
-  },
-  {
-    "Code": "ART",
-    "Name": "Argent Industrial Ltd",
-    "M. Cap.": "1.78B",
-    "Close": 33.0,
-    "YTD": "+19.7%"
+    "M. Cap.": "4.46B",
+    "Close": 526.0,
+    "YTD": "+26.4%"
   },
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "886M",
-    "Close": 4.71,
-    "YTD": "+17.8%"
+    "M. Cap.": "884M",
+    "Close": 4.7,
+    "YTD": "+17.5%"
+  },
+  {
+    "Code": "ART",
+    "Name": "Argent Industrial Ltd",
+    "M. Cap.": "1.72B",
+    "Close": 32.0,
+    "YTD": "+16.1%"
   },
   {
     "Code": "IVT",
     "Name": "Invicta Holdings Ltd",
-    "M. Cap.": "3.33B",
-    "Close": 37.5,
-    "YTD": "+13.6%"
+    "M. Cap.": "3.29B",
+    "Close": 37.0,
+    "YTD": "+12.1%"
   }
 ]

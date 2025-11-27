@@ -2,23 +2,16 @@
   {
     "Code": "SACL",
     "Name": "Star Africa Corporation Limited",
-    "M. Cap.": "144M",
-    "Close": 0.0307,
-    "YTD": "+53.5%"
-  },
-  {
-    "Code": "BAT",
-    "Name": "British American Tobacco Limited",
-    "M. Cap.": "2.38B",
-    "Close": 115.2917,
-    "YTD": "+43.5%"
+    "M. Cap.": "149M",
+    "Close": 0.0316,
+    "YTD": "+58%"
   },
   {
     "Code": "SEED",
     "Name": "Seed Co Limited",
-    "M. Cap.": "890M",
-    "Close": 3.6,
-    "YTD": "+38.6%"
+    "M. Cap.": "925M",
+    "Close": 3.7436,
+    "YTD": "+44.1%"
   },
   {
     "Code": "AFDS",
@@ -28,18 +21,25 @@
     "YTD": "+30.1%"
   },
   {
+    "Code": "BAT",
+    "Name": "British American Tobacco Limited",
+    "M. Cap.": "2.02B",
+    "Close": 98.0,
+    "YTD": "+22%"
+  },
+  {
     "Code": "DLTA",
     "Name": "Delta Corporation Limited",
-    "M. Cap.": "20.2B",
-    "Close": 15.6927,
-    "YTD": "+12.1%"
+    "M. Cap.": "20.3B",
+    "Close": 15.7903,
+    "YTD": "+12.8%"
   },
   {
     "Code": "HIPO",
     "Name": "Hippo Valley Estates Limited",
-    "M. Cap.": "1.37B",
-    "Close": 7.1,
-    "YTD": "-9.09%"
+    "M. Cap.": "1.39B",
+    "Close": 7.23,
+    "YTD": "-7.43%"
   },
   {
     "Code": "DZL",
@@ -51,9 +51,9 @@
   {
     "Code": "ARIS",
     "Name": "Ariston Holdings Limited",
-    "M. Cap.": "48.3M",
-    "Close": 0.03,
-    "YTD": "-50%"
+    "M. Cap.": "40.6M",
+    "Close": 0.0252,
+    "YTD": "-58%"
   },
   {
     "Code": "NTS",

@@ -2,51 +2,51 @@
   {
     "Code": "PPE",
     "Name": "Purple Group Ltd",
-    "M. Cap.": "2.99B",
-    "Close": 2.1,
-    "YTD": "+94.4%"
+    "M. Cap.": "3.05B",
+    "Close": 2.13,
+    "YTD": "+97.2%"
   },
   {
     "Code": "SYG",
     "Name": "Sygnia Limited",
-    "M. Cap.": "5.43B",
-    "Close": 34.78,
-    "YTD": "+58.1%"
+    "M. Cap.": "5.46B",
+    "Close": 34.99,
+    "YTD": "+59.1%"
   },
   {
     "Code": "N91",
     "Name": "Ninety One Plc",
-    "M. Cap.": "30B",
-    "Close": 47.86,
-    "YTD": "+39.2%"
+    "M. Cap.": "30.4B",
+    "Close": 48.41,
+    "YTD": "+40.8%"
   },
   {
     "Code": "NY1",
     "Name": "Ninety One Limited",
     "M. Cap.": "12.4B",
-    "Close": 46.25,
-    "YTD": "+33.5%"
+    "Close": 46.04,
+    "YTD": "+32.9%"
   },
   {
     "Code": "KST",
     "Name": "PSG Konsult Limited",
-    "M. Cap.": "32.4B",
-    "Close": 25.87,
-    "YTD": "+31.9%"
+    "M. Cap.": "32.5B",
+    "Close": 25.93,
+    "YTD": "+32.2%"
   },
   {
     "Code": "RNI",
     "Name": "Reinet Investments S.C.A",
-    "M. Cap.": "113B",
-    "Close": 577.0,
-    "YTD": "+29%"
+    "M. Cap.": "115B",
+    "Close": 585.62,
+    "YTD": "+31%"
   },
   {
     "Code": "CML",
     "Name": "Coronation Fund Mngrs Ld",
-    "M. Cap.": "18.3B",
-    "Close": 47.2,
-    "YTD": "+20.5%"
+    "M. Cap.": "18.5B",
+    "Close": 47.9,
+    "YTD": "+22.3%"
   },
   {
     "Code": "DNB",
@@ -58,15 +58,15 @@
   {
     "Code": "QLT",
     "Name": "Quilter Plc",
-    "M. Cap.": "56.7B",
-    "Close": 40.41,
-    "YTD": "+13.6%"
+    "M. Cap.": "58B",
+    "Close": 41.31,
+    "YTD": "+16.2%"
   },
   {
     "Code": "REM",
     "Name": "Remgro Ltd",
-    "M. Cap.": "92.1B",
-    "Close": 174.0,
-    "YTD": "+12.2%"
+    "M. Cap.": "93.2B",
+    "Close": 176.13,
+    "YTD": "+13.6%"
   }
 ]

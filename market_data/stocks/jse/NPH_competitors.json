@@ -1,72 +1,72 @@
 [
   {
-    "Code": "ANG",
-    "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "717B",
-    "Close": 1420.52,
-    "YTD": "+237%"
-  },
-  {
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "143B",
-    "Close": 50.5,
-    "YTD": "+237%"
+    "M. Cap.": "149B",
+    "Close": 52.6,
+    "YTD": "+251%"
+  },
+  {
+    "Code": "ANG",
+    "Name": "Anglogold Ashanti Ltd",
+    "M. Cap.": "733B",
+    "Close": 1452.64,
+    "YTD": "+245%"
   },
   {
     "Code": "DRD",
     "Name": "DRD Gold Ltd",
-    "M. Cap.": "41.4B",
-    "Close": 47.73,
-    "YTD": "+189%"
+    "M. Cap.": "42.7B",
+    "Close": 49.27,
+    "YTD": "+198%"
   },
   {
     "Code": "GFI",
     "Name": "Gold Fields Ltd",
-    "M. Cap.": "619B",
-    "Close": 692.15,
-    "YTD": "+180%"
-  },
-  {
-    "Code": "EPS",
-    "Name": "Eastern Platinum Limited",
-    "M. Cap.": "808M",
-    "Close": 3.99,
-    "YTD": "+166%"
+    "M. Cap.": "637B",
+    "Close": 711.22,
+    "YTD": "+188%"
   },
   {
     "Code": "PAN",
     "Name": "Pan African Resource plc",
-    "M. Cap.": "49.8B",
-    "Close": 21.35,
-    "YTD": "+161%"
+    "M. Cap.": "51B",
+    "Close": 21.85,
+    "YTD": "+167%"
+  },
+  {
+    "Code": "EPS",
+    "Name": "Eastern Platinum Limited",
+    "M. Cap.": "812M",
+    "Close": 3.99,
+    "YTD": "+166%"
   },
   {
     "Code": "HAR",
     "Name": "Harmony GM Co Ltd",
-    "M. Cap.": "199B",
-    "Close": 312.19,
-    "YTD": "+107%"
+    "M. Cap.": "208B",
+    "Close": 326.33,
+    "YTD": "+117%"
   },
   {
     "Code": "VAL",
     "Name": "Valterra Platinum Ltd",
-    "M. Cap.": "284B",
-    "Close": 1071.79,
-    "YTD": "+88.4%"
+    "M. Cap.": "297B",
+    "Close": 1119.07,
+    "YTD": "+96.7%"
   },
   {
     "Code": "MCZ",
     "Name": "MC Mining Limited",
-    "M. Cap.": "1.06B",
-    "Close": 2.55,
-    "YTD": "+50.9%"
+    "M. Cap.": "1.1B",
+    "Close": 2.66,
+    "YTD": "+57.4%"
   },
   {
     "Code": "THA",
     "Name": "Tharisa plc",
-    "M. Cap.": "6.11B",
-    "Close": 20.2,
-    "YTD": "+24.5%"
+    "M. Cap.": "6.47B",
+    "Close": 21.39,
+    "YTD": "+31.9%"
   }
 ]

@@ -9,16 +9,16 @@
   {
     "Code": "SOL",
     "Name": "Sasol Limited",
-    "M. Cap.": "70.7B",
-    "Close": 109.74,
-    "YTD": "+31.8%"
+    "M. Cap.": "71.7B",
+    "Close": 111.26,
+    "YTD": "+33.6%"
   },
   {
     "Code": "AFE",
     "Name": "AECI Limited",
-    "M. Cap.": "9.29B",
-    "Close": 88.0,
-    "YTD": "+0.66%"
+    "M. Cap.": "9.43B",
+    "Close": 89.41,
+    "YTD": "+2.28%"
   },
   {
     "Code": "AFEP",
@@ -31,42 +31,42 @@
     "Code": "OMN",
     "Name": "Omnia Holdings Ltd",
     "M. Cap.": "12.4B",
-    "Close": 76.33,
-    "YTD": "-2.27%"
-  },
-  {
-    "Code": "ANG",
-    "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "717B",
-    "Close": 1420.52,
-    "YTD": "+237%"
+    "Close": 76.23,
+    "YTD": "-2.39%"
   },
   {
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
-    "M. Cap.": "143B",
-    "Close": 50.5,
-    "YTD": "+237%"
+    "M. Cap.": "149B",
+    "Close": 52.6,
+    "YTD": "+251%"
+  },
+  {
+    "Code": "ANG",
+    "Name": "Anglogold Ashanti Ltd",
+    "M. Cap.": "733B",
+    "Close": 1452.64,
+    "YTD": "+245%"
   },
   {
     "Code": "DRD",
     "Name": "DRD Gold Ltd",
-    "M. Cap.": "41.4B",
-    "Close": 47.73,
-    "YTD": "+189%"
+    "M. Cap.": "42.7B",
+    "Close": 49.27,
+    "YTD": "+198%"
   },
   {
     "Code": "NPH",
     "Name": "Northam Platinum Holdings",
-    "M. Cap.": "111B",
-    "Close": 278.08,
-    "YTD": "+185%"
+    "M. Cap.": "114B",
+    "Close": 285.0,
+    "YTD": "+193%"
   },
   {
     "Code": "GFI",
     "Name": "Gold Fields Ltd",
-    "M. Cap.": "619B",
-    "Close": 692.15,
-    "YTD": "+180%"
+    "M. Cap.": "637B",
+    "Close": 711.22,
+    "YTD": "+188%"
   }
 ]
