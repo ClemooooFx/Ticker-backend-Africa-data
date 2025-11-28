@@ -2,22 +2,22 @@
   {
     "Code": "CRWN",
     "Name": "Crown Paints Kenya Limited",
-    "M. Cap.": "7.55B",
-    "Close": 53.0,
-    "YTD": "+61.1%"
-  },
-  {
-    "Code": "CARB",
-    "Name": "Carbacid Investments Limited",
-    "M. Cap.": "7.31B",
-    "Close": 28.7,
-    "YTD": "+37%"
+    "M. Cap.": "7.51B",
+    "Close": 52.75,
+    "YTD": "+60.3%"
   },
   {
     "Code": "BOC",
     "Name": "BOC Kenya Limited",
-    "M. Cap.": "2.36B",
-    "Close": 120.75,
-    "YTD": "+36.1%"
+    "M. Cap.": "2.39B",
+    "Close": 122.5,
+    "YTD": "+38%"
+  },
+  {
+    "Code": "CARB",
+    "Name": "Carbacid Investments Limited",
+    "M. Cap.": "7.02B",
+    "Close": 27.55,
+    "YTD": "+31.5%"
   }
 ]

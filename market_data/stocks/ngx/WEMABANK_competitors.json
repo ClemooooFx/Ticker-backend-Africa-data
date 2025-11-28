@@ -2,23 +2,16 @@
   {
     "Code": "MBENEFIT",
     "Name": "Mutual Benefits Assurance",
-    "M. Cap.": "62.6B",
-    "Close": 3.12,
-    "YTD": "+411%"
+    "M. Cap.": "65.6B",
+    "Close": 3.27,
+    "YTD": "+436%"
   },
   {
     "Code": "SOVRENINS",
     "Name": "Sovereign Trust Insurance",
-    "M. Cap.": "42.3B",
-    "Close": 2.97,
-    "YTD": "+165%"
-  },
-  {
-    "Code": "AIICO",
-    "Name": "Aiico Insurance Plc",
-    "M. Cap.": "129B",
-    "Close": 3.52,
-    "YTD": "+146%"
+    "M. Cap.": "38.4B",
+    "Close": 2.7,
+    "YTD": "+141%"
   },
   {
     "Code": "NEM",
@@ -42,11 +35,11 @@
     "YTD": "+133%"
   },
   {
-    "Code": "ABBEYBDS",
-    "Name": "Abbey Mortgage Bank Plc",
-    "M. Cap.": "66B",
-    "Close": 6.5,
-    "YTD": "+117%"
+    "Code": "AIICO",
+    "Name": "Aiico Insurance Plc",
+    "M. Cap.": "121B",
+    "Close": 3.31,
+    "YTD": "+131%"
   },
   {
     "Code": "ASOSAVINGS",
@@ -56,17 +49,24 @@
     "YTD": "+114%"
   },
   {
-    "Code": "ROYALEX",
-    "Name": "Royal Exchange",
-    "M. Cap.": "15.7B",
-    "Close": 1.9,
-    "YTD": "+90%"
-  },
-  {
     "Code": "NGXGROUP",
     "Name": "Nigerian Exchange Group",
-    "M. Cap.": "100B",
-    "Close": 51.1,
-    "YTD": "+87.5%"
+    "M. Cap.": "110B",
+    "Close": 56.2,
+    "YTD": "+106%"
+  },
+  {
+    "Code": "ABBEYBDS",
+    "Name": "Abbey Mortgage Bank Plc",
+    "M. Cap.": "59.4B",
+    "Close": 5.85,
+    "YTD": "+95%"
+  },
+  {
+    "Code": "ROYALEX",
+    "Name": "Royal Exchange",
+    "M. Cap.": "16.1B",
+    "Close": 1.95,
+    "YTD": "+95%"
   }
 ]

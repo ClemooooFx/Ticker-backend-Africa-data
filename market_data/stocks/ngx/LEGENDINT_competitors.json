@@ -28,17 +28,17 @@
     "YTD": "+116%"
   },
   {
+    "Code": "OMATEK",
+    "Name": "Omatek Ventures",
+    "M. Cap.": "3.44B",
+    "Close": 1.17,
+    "YTD": "+60.3%"
+  },
+  {
     "Code": "CHAMS",
     "Name": "Chams Plc",
     "M. Cap.": "19.6B",
     "Close": 2.95,
     "YTD": "+48.2%"
-  },
-  {
-    "Code": "OMATEK",
-    "Name": "Omatek Ventures",
-    "M. Cap.": "3.15B",
-    "Close": 1.07,
-    "YTD": "+46.6%"
   }
 ]

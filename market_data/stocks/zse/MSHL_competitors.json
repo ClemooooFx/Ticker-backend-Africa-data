@@ -42,18 +42,18 @@
     "YTD": "-22%"
   },
   {
-    "Code": "NPKZ",
-    "Name": "Nampak Zimbabwe Limited",
-    "M. Cap.": "756M",
-    "Close": 1.0,
-    "YTD": "-23.1%"
-  },
-  {
     "Code": "PROL",
     "Name": "Proplastics Limited",
-    "M. Cap.": "255M",
-    "Close": 1.02,
-    "YTD": "-31.2%"
+    "M. Cap.": "250M",
+    "Close": 0.997294,
+    "YTD": "-32.7%"
+  },
+  {
+    "Code": "NPKZ",
+    "Name": "Nampak Zimbabwe Limited",
+    "M. Cap.": "644M",
+    "Close": 0.8525,
+    "YTD": "-34.4%"
   },
   {
     "Code": "WILD",

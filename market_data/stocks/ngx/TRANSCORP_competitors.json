@@ -2,9 +2,9 @@
   {
     "Code": "UACN",
     "Name": "UAC of Nigeria",
-    "M. Cap.": "224B",
-    "Close": 76.5,
-    "YTD": "+143%"
+    "M. Cap.": "231B",
+    "Close": 78.9,
+    "YTD": "+151%"
   },
   {
     "Code": "BETAGLAS",
@@ -44,9 +44,9 @@
   {
     "Code": "WAPCO",
     "Name": "Lafarge Wapco",
-    "M. Cap.": "2.14T",
-    "Close": 132.8,
-    "YTD": "+89.9%"
+    "M. Cap.": "2.16T",
+    "Close": 134.0,
+    "YTD": "+91.6%"
   },
   {
     "Code": "BERGER",
@@ -56,17 +56,17 @@
     "YTD": "+79%"
   },
   {
-    "Code": "MEYER",
-    "Name": "Meyer Plc",
-    "M. Cap.": "7.73B",
-    "Close": 14.55,
-    "YTD": "+72.6%"
-  },
-  {
     "Code": "BUACEMENT",
     "Name": "BUA Cement Plc",
     "M. Cap.": "5.42T",
     "Close": 160.0,
     "YTD": "+72%"
+  },
+  {
+    "Code": "MEYER",
+    "Name": "Meyer Plc",
+    "M. Cap.": "6.96B",
+    "Close": 13.1,
+    "YTD": "+55.4%"
   }
 ]

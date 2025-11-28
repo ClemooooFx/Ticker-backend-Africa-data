@@ -2,9 +2,9 @@
   {
     "Code": "EUNISELL",
     "Name": "Eunisell Interlinked Plc",
-    "M. Cap.": "20.5B",
-    "Close": 86.5,
-    "YTD": "+349%"
+    "M. Cap.": "19.2B",
+    "Close": 81.0,
+    "YTD": "+320%"
   },
   {
     "Code": "ABCTRANS",
@@ -16,9 +16,16 @@
   {
     "Code": "IKEJAHOTEL",
     "Name": "Ikeja Hotel Plc",
-    "M. Cap.": "59.5B",
-    "Close": 27.5,
-    "YTD": "+144%"
+    "M. Cap.": "65.4B",
+    "Close": 30.25,
+    "YTD": "+169%"
+  },
+  {
+    "Code": "ACADEMY",
+    "Name": "Academy Press",
+    "M. Cap.": "6.67B",
+    "Close": 7.35,
+    "YTD": "+145%"
   },
   {
     "Code": "NAHCO",
@@ -28,18 +35,11 @@
     "YTD": "+131%"
   },
   {
-    "Code": "ACADEMY",
-    "Name": "Academy Press",
-    "M. Cap.": "6.08B",
-    "Close": 6.7,
-    "YTD": "+123%"
-  },
-  {
     "Code": "CAVERTON",
     "Name": "Caverton Offshore Support Group",
-    "M. Cap.": "16.6B",
-    "Close": 4.95,
-    "YTD": "+113%"
+    "M. Cap.": "17.3B",
+    "Close": 5.15,
+    "YTD": "+122%"
   },
   {
     "Code": "REDSTAREX",

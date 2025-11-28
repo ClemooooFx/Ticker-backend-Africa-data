@@ -2,9 +2,9 @@
   {
     "Code": "ZIMR",
     "Name": "Zimre Holdings Limited",
-    "M. Cap.": "764M",
-    "Close": 0.4985,
-    "YTD": "+268%"
+    "M. Cap.": "856M",
+    "Close": 0.55843,
+    "YTD": "+312%"
   },
   {
     "Code": "NMB",
@@ -31,15 +31,8 @@
     "Code": "FMP",
     "Name": "First Mutual Properties Limited",
     "M. Cap.": "1.31B",
-    "Close": 1.05,
+    "Close": 1.049667,
     "YTD": "-14.7%"
-  },
-  {
-    "Code": "MASH",
-    "Name": "Mashonaland Holdings Limited",
-    "M. Cap.": "2.85B",
-    "Close": 1.5195,
-    "YTD": "-27.6%"
   },
   {
     "Code": "ZBFH",
@@ -47,6 +40,13 @@
     "M. Cap.": "825M",
     "Close": 4.7,
     "YTD": "-27.7%"
+  },
+  {
+    "Code": "MASH",
+    "Name": "Mashonaland Holdings Limited",
+    "M. Cap.": "2.72B",
+    "Close": 1.450012,
+    "YTD": "-31%"
   },
   {
     "Code": "FIDL",
@@ -59,7 +59,7 @@
     "Code": "FML",
     "Name": "First Mutual Holdings Limited",
     "M. Cap.": "940M",
-    "Close": 1.3658,
+    "Close": 1.36575,
     "YTD": "-69.2%"
   }
 ]
