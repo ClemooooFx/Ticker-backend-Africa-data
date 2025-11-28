@@ -2,9 +2,9 @@
   {
     "Code": "SSK",
     "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "884M",
-    "Close": 4.7,
-    "YTD": "+17.5%"
+    "M. Cap.": "850M",
+    "Close": 4.52,
+    "YTD": "+13%"
   },
   {
     "Code": "BIK",
@@ -16,57 +16,57 @@
   {
     "Code": "PPC",
     "Name": "PPC Limited",
-    "M. Cap.": "8.05B",
-    "Close": 5.18,
-    "YTD": "+0.58%"
+    "M. Cap.": "8.27B",
+    "Close": 5.32,
+    "YTD": "+3.3%"
   },
   {
     "Code": "TRL",
     "Name": "Trellidor Hldgs Ltd",
-    "M. Cap.": "159M",
-    "Close": 1.67,
-    "YTD": "-4.02%"
-  },
-  {
-    "Code": "CGR",
-    "Name": "Calgro M3 Hldgs Ltd",
-    "M. Cap.": "566M",
-    "Close": 5.01,
-    "YTD": "-25.2%"
+    "M. Cap.": "169M",
+    "Close": 1.77,
+    "YTD": "+1.72%"
   },
   {
     "Code": "RBX",
     "Name": "Raubex Group Ltd",
-    "M. Cap.": "7.18B",
-    "Close": 39.52,
-    "YTD": "-25.4%"
+    "M. Cap.": "7.24B",
+    "Close": 39.84,
+    "YTD": "-24.8%"
+  },
+  {
+    "Code": "CGR",
+    "Name": "Calgro M3 Hldgs Ltd",
+    "M. Cap.": "551M",
+    "Close": 4.87,
+    "YTD": "-27.3%"
   },
   {
     "Code": "WBO",
     "Name": "Wilson Bayly Hlm-Ovc Ltd",
-    "M. Cap.": "10.6B",
-    "Close": 149.7,
-    "YTD": "-35.8%"
+    "M. Cap.": "10.7B",
+    "Close": 150.0,
+    "YTD": "-35.7%"
   },
   {
     "Code": "AFT",
     "Name": "Afrimat Limited",
-    "M. Cap.": "6.2B",
-    "Close": 38.66,
-    "YTD": "-45.5%"
+    "M. Cap.": "6.03B",
+    "Close": 37.6,
+    "YTD": "-47%"
   },
   {
     "Code": "AEG",
     "Name": "Aveng Group Limited",
-    "M. Cap.": "571M",
-    "Close": 4.49,
-    "YTD": "-64.4%"
+    "M. Cap.": "608M",
+    "Close": 4.78,
+    "YTD": "-62.1%"
   },
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
     "M. Cap.": "11.8B",
-    "Close": 16.97,
-    "YTD": "+41.9%"
+    "Close": 16.92,
+    "YTD": "+41.5%"
   }
 ]

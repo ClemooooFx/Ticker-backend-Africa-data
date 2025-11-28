@@ -9,16 +9,16 @@
   {
     "Code": "RLO",
     "Name": "Reunert Ltd",
-    "M. Cap.": "11.4B",
-    "Close": 62.62,
-    "YTD": "-16.5%"
+    "M. Cap.": "11.3B",
+    "Close": 62.0,
+    "YTD": "-17.3%"
   },
   {
     "Code": "GND",
     "Name": "Grindrod Ltd",
     "M. Cap.": "11.8B",
-    "Close": 16.97,
-    "YTD": "+41.9%"
+    "Close": 16.92,
+    "YTD": "+41.5%"
   },
   {
     "Code": "MFL",
@@ -28,25 +28,18 @@
     "YTD": "+41%"
   },
   {
-    "Code": "ADR",
-    "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "707M",
-    "Close": 6.43,
-    "YTD": "+30.2%"
-  },
-  {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.46B",
-    "Close": 526.0,
-    "YTD": "+26.4%"
+    "M. Cap.": "4.7B",
+    "Close": 554.95,
+    "YTD": "+33.4%"
   },
   {
-    "Code": "SSK",
-    "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "884M",
-    "Close": 4.7,
-    "YTD": "+17.5%"
+    "Code": "ADR",
+    "Name": "Adcorp Holdings Limited",
+    "M. Cap.": "677M",
+    "Close": 6.16,
+    "YTD": "+24.7%"
   },
   {
     "Code": "ART",
@@ -56,17 +49,24 @@
     "YTD": "+16.1%"
   },
   {
+    "Code": "SSK",
+    "Name": "Stefanutti Stocks Holdings Ltd",
+    "M. Cap.": "850M",
+    "Close": 4.52,
+    "YTD": "+13%"
+  },
+  {
     "Code": "IVT",
     "Name": "Invicta Holdings Ltd",
-    "M. Cap.": "3.29B",
-    "Close": 37.0,
-    "YTD": "+12.1%"
+    "M. Cap.": "3.27B",
+    "Close": 36.82,
+    "YTD": "+11.6%"
   },
   {
     "Code": "BAW",
     "Name": "Barloworld Ltd",
-    "M. Cap.": "22.6B",
-    "Close": 119.4,
-    "YTD": "+10%"
+    "M. Cap.": "22.7B",
+    "Close": 119.5,
+    "YTD": "+10.1%"
   }
 ]

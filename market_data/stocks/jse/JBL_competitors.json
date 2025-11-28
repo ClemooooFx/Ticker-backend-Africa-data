@@ -3,43 +3,36 @@
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
     "M. Cap.": "149B",
-    "Close": 52.6,
-    "YTD": "+251%"
+    "Close": 52.69,
+    "YTD": "+252%"
   },
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "733B",
-    "Close": 1452.64,
-    "YTD": "+245%"
+    "M. Cap.": "714B",
+    "Close": 1413.71,
+    "YTD": "+236%"
   },
   {
     "Code": "DRD",
     "Name": "DRD Gold Ltd",
-    "M. Cap.": "42.7B",
-    "Close": 49.27,
-    "YTD": "+198%"
+    "M. Cap.": "42.6B",
+    "Close": 49.13,
+    "YTD": "+197%"
   },
   {
     "Code": "NPH",
     "Name": "Northam Platinum Holdings",
     "M. Cap.": "114B",
-    "Close": 285.0,
+    "Close": 284.99,
     "YTD": "+193%"
   },
   {
     "Code": "GFI",
     "Name": "Gold Fields Ltd",
-    "M. Cap.": "637B",
-    "Close": 711.22,
-    "YTD": "+188%"
-  },
-  {
-    "Code": "PAN",
-    "Name": "Pan African Resource plc",
-    "M. Cap.": "51B",
-    "Close": 21.85,
-    "YTD": "+167%"
+    "M. Cap.": "631B",
+    "Close": 704.73,
+    "YTD": "+185%"
   },
   {
     "Code": "EPS",
@@ -49,24 +42,31 @@
     "YTD": "+166%"
   },
   {
+    "Code": "PAN",
+    "Name": "Pan African Resource plc",
+    "M. Cap.": "50.5B",
+    "Close": 21.63,
+    "YTD": "+164%"
+  },
+  {
     "Code": "HAR",
     "Name": "Harmony GM Co Ltd",
-    "M. Cap.": "208B",
-    "Close": 326.33,
-    "YTD": "+117%"
+    "M. Cap.": "209B",
+    "Close": 328.53,
+    "YTD": "+118%"
   },
   {
     "Code": "VAL",
     "Name": "Valterra Platinum Ltd",
-    "M. Cap.": "297B",
-    "Close": 1119.07,
-    "YTD": "+96.7%"
+    "M. Cap.": "299B",
+    "Close": 1127.08,
+    "YTD": "+98.1%"
   },
   {
     "Code": "MCZ",
     "Name": "MC Mining Limited",
-    "M. Cap.": "1.1B",
-    "Close": 2.66,
-    "YTD": "+57.4%"
+    "M. Cap.": "1.08B",
+    "Close": 2.61,
+    "YTD": "+54.4%"
   }
 ]

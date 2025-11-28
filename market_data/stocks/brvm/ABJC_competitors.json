@@ -2,23 +2,23 @@
   {
     "Code": "SDSC",
     "Name": "Bollore Transport & Logistics",
-    "M. Cap.": "78.9B",
-    "Close": 1450,
-    "YTD": "+8.21%"
+    "M. Cap.": "80.6B",
+    "Close": 1480,
+    "YTD": "+10.5%"
   },
   {
     "Code": "STAC",
     "Name": "Setao C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "15.5B",
-    "Close": 1150,
-    "YTD": "+156%"
+    "M. Cap.": "14.3B",
+    "Close": 1065,
+    "YTD": "+137%"
   },
   {
     "Code": "CABC",
     "Name": "Sicable C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "12.2B",
-    "Close": 2065,
-    "YTD": "+98.6%"
+    "M. Cap.": "13.1B",
+    "Close": 2210,
+    "YTD": "+113%"
   },
   {
     "Code": "BNBC",
@@ -30,15 +30,15 @@
   {
     "Code": "FTSC",
     "Name": "Filtisac C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "31.7B",
-    "Close": 2250,
-    "YTD": "+21.6%"
+    "M. Cap.": "29.4B",
+    "Close": 2085,
+    "YTD": "+12.7%"
   },
   {
     "Code": "SMBC",
     "Name": "SMB C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "M. Cap.": "74.1B",
-    "Close": 9505,
-    "YTD": "+10.5%"
+    "M. Cap.": "73.9B",
+    "Close": 9480,
+    "YTD": "+10.2%"
   }
 ]

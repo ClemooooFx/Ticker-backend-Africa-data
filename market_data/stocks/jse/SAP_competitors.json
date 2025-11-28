@@ -2,58 +2,51 @@
   {
     "Code": "YRK",
     "Name": "York Timber Holdings Ltd",
-    "M. Cap.": "1.02B",
-    "Close": 2.16,
-    "YTD": "-6.09%"
+    "M. Cap.": "1.04B",
+    "Close": 2.2,
+    "YTD": "-4.35%"
   },
   {
     "Code": "MNP",
     "Name": "Mondi plc",
-    "M. Cap.": "87.7B",
-    "Close": 198.79,
-    "YTD": "-28.4%"
+    "M. Cap.": "87.5B",
+    "Close": 198.32,
+    "YTD": "-28.5%"
   },
   {
     "Code": "SSW",
     "Name": "Sibanye Stillwater Limited",
     "M. Cap.": "149B",
-    "Close": 52.6,
-    "YTD": "+251%"
+    "Close": 52.69,
+    "YTD": "+252%"
   },
   {
     "Code": "ANG",
     "Name": "Anglogold Ashanti Ltd",
-    "M. Cap.": "733B",
-    "Close": 1452.64,
-    "YTD": "+245%"
+    "M. Cap.": "714B",
+    "Close": 1413.71,
+    "YTD": "+236%"
   },
   {
     "Code": "DRD",
     "Name": "DRD Gold Ltd",
-    "M. Cap.": "42.7B",
-    "Close": 49.27,
-    "YTD": "+198%"
+    "M. Cap.": "42.6B",
+    "Close": 49.13,
+    "YTD": "+197%"
   },
   {
     "Code": "NPH",
     "Name": "Northam Platinum Holdings",
     "M. Cap.": "114B",
-    "Close": 285.0,
+    "Close": 284.99,
     "YTD": "+193%"
   },
   {
     "Code": "GFI",
     "Name": "Gold Fields Ltd",
-    "M. Cap.": "637B",
-    "Close": 711.22,
-    "YTD": "+188%"
-  },
-  {
-    "Code": "PAN",
-    "Name": "Pan African Resource plc",
-    "M. Cap.": "51B",
-    "Close": 21.85,
-    "YTD": "+167%"
+    "M. Cap.": "631B",
+    "Close": 704.73,
+    "YTD": "+185%"
   },
   {
     "Code": "EPS",
@@ -63,10 +56,17 @@
     "YTD": "+166%"
   },
   {
+    "Code": "PAN",
+    "Name": "Pan African Resource plc",
+    "M. Cap.": "50.5B",
+    "Close": 21.63,
+    "YTD": "+164%"
+  },
+  {
     "Code": "IMP",
     "Name": "Impala Platinum Hlgs Ltd",
-    "M. Cap.": "183B",
-    "Close": 202.12,
-    "YTD": "+130%"
+    "M. Cap.": "182B",
+    "Close": 201.12,
+    "YTD": "+129%"
   }
 ]

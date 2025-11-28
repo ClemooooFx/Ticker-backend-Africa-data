@@ -9,16 +9,16 @@
   {
     "Code": "FTB",
     "Name": "Fairvest Ltd B Shares",
-    "M. Cap.": "13.3B",
-    "Close": 6.75,
-    "YTD": "+41.5%"
+    "M. Cap.": "13.1B",
+    "Close": 6.66,
+    "YTD": "+39.6%"
   },
   {
     "Code": "GRT",
     "Name": "Growthpoint Properties Limited",
-    "M. Cap.": "60.2B",
-    "Close": 17.55,
-    "YTD": "+37.9%"
+    "M. Cap.": "60B",
+    "Close": 17.48,
+    "YTD": "+37.3%"
   },
   {
     "Code": "VKE",
@@ -28,18 +28,11 @@
     "YTD": "+36.3%"
   },
   {
-    "Code": "RDF",
-    "Name": "Redefine Properties Limited",
-    "M. Cap.": "43.1B",
-    "Close": 5.98,
-    "YTD": "+31.4%"
-  },
-  {
     "Code": "RES",
     "Name": "Resilient REIT Limited",
-    "M. Cap.": "28.1B",
-    "Close": 77.03,
-    "YTD": "+31.1%"
+    "M. Cap.": "28.2B",
+    "Close": 77.34,
+    "YTD": "+31.6%"
   },
   {
     "Code": "EMI",
@@ -49,24 +42,31 @@
     "YTD": "+30.7%"
   },
   {
+    "Code": "RDF",
+    "Name": "Redefine Properties Limited",
+    "M. Cap.": "42.5B",
+    "Close": 5.9,
+    "YTD": "+29.7%"
+  },
+  {
+    "Code": "ACS",
+    "Name": "Acsion Limited",
+    "M. Cap.": "3.62B",
+    "Close": 9.17,
+    "YTD": "+29%"
+  },
+  {
     "Code": "DIB",
     "Name": "Dipula Income Fund B",
-    "M. Cap.": "6.99B",
-    "Close": 6.9,
-    "YTD": "+29.5%"
+    "M. Cap.": "6.92B",
+    "Close": 6.83,
+    "YTD": "+28.1%"
   },
   {
     "Code": "FFB",
     "Name": "Fortress REIT Ltd",
-    "M. Cap.": "31.5B",
-    "Close": 25.84,
-    "YTD": "+27.5%"
-  },
-  {
-    "Code": "OCT",
-    "Name": "OCTODEC INVEST LTD",
-    "M. Cap.": "3.87B",
-    "Close": 14.53,
-    "YTD": "+26.4%"
+    "M. Cap.": "31.6B",
+    "Close": 25.96,
+    "YTD": "+28.1%"
   }
 ]

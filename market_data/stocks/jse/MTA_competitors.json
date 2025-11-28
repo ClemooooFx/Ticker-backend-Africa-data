@@ -2,71 +2,71 @@
   {
     "Code": "WBC",
     "Name": "WeBuyCars Holdings Ltd",
-    "M. Cap.": "19.2B",
-    "Close": 45.87,
-    "YTD": "+6.55%"
+    "M. Cap.": "19.3B",
+    "Close": 46.28,
+    "YTD": "+7.5%"
   },
   {
     "Code": "BTI",
     "Name": "British American Tobacco Plc",
-    "M. Cap.": "2.28T",
-    "Close": 978.07,
-    "YTD": "+44.6%"
+    "M. Cap.": "2.14T",
+    "Close": 979.84,
+    "YTD": "+44.8%"
   },
   {
     "Code": "ARL",
     "Name": "Astral Foods Ltd",
-    "M. Cap.": "10.9B",
-    "Close": 253.5,
-    "YTD": "+35.6%"
+    "M. Cap.": "10.7B",
+    "Close": 250.4,
+    "YTD": "+33.9%"
   },
   {
     "Code": "RBO",
     "Name": "Rainbow Chicken Ltd",
-    "M. Cap.": "4.28B",
-    "Close": 4.76,
-    "YTD": "+31.1%"
+    "M. Cap.": "4.33B",
+    "Close": 4.82,
+    "YTD": "+32.8%"
   },
   {
     "Code": "CFR",
     "Name": "Compagnie Financi\\xc3\\xa8re Richemont",
-    "M. Cap.": "1.93T",
-    "Close": 3598.47,
-    "YTD": "+29.6%"
+    "M. Cap.": "1.94T",
+    "Close": 3617.32,
+    "YTD": "+30.3%"
   },
   {
     "Code": "TBS",
     "Name": "Tiger Brands Ltd",
-    "M. Cap.": "61.8B",
-    "Close": 360.24,
-    "YTD": "+24.6%"
+    "M. Cap.": "60.6B",
+    "Close": 353.54,
+    "YTD": "+22.3%"
   },
   {
     "Code": "PMR",
     "Name": "Premier Group Ltd",
-    "M. Cap.": "21.1B",
-    "Close": 163.75,
-    "YTD": "+20.4%"
+    "M. Cap.": "21.4B",
+    "Close": 165.75,
+    "YTD": "+21.9%"
   },
   {
     "Code": "ANH",
     "Name": "Anheuser-Busch InBev SA/NV",
-    "M. Cap.": "1.91T",
-    "Close": 1061.45,
-    "YTD": "+13.2%"
-  },
-  {
-    "Code": "RFG",
-    "Name": "RFG Holdings Limited",
-    "M. Cap.": "5.98B",
-    "Close": 22.75,
-    "YTD": "+9.96%"
+    "M. Cap.": "1.94T",
+    "Close": 1076.91,
+    "YTD": "+14.8%"
   },
   {
     "Code": "SHG",
     "Name": "Sea Harvest Group Ltd",
-    "M. Cap.": "3.21B",
-    "Close": 8.9,
-    "YTD": "+6.59%"
+    "M. Cap.": "3.39B",
+    "Close": 9.4,
+    "YTD": "+12.6%"
+  },
+  {
+    "Code": "RFG",
+    "Name": "RFG Holdings Limited",
+    "M. Cap.": "5.9B",
+    "Close": 22.45,
+    "YTD": "+8.51%"
   }
 ]

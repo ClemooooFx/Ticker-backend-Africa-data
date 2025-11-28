@@ -2,23 +2,23 @@
   {
     "Code": "SNV",
     "Name": "Santova Logistics Ltd",
-    "M. Cap.": "933M",
-    "Close": 7.2,
-    "YTD": "-0.83%"
-  },
-  {
-    "Code": "SPG",
-    "Name": "Super Group Ltd",
-    "M. Cap.": "6.39B",
-    "Close": 18.84,
-    "YTD": "-36.1%"
+    "M. Cap.": "907M",
+    "Close": 7.0,
+    "YTD": "-3.58%"
   },
   {
     "Code": "LAB",
     "Name": "Labat Africa Ltd",
-    "M. Cap.": "50M",
-    "Close": 0.04,
-    "YTD": "-42.9%"
+    "M. Cap.": "62.4M",
+    "Close": 0.05,
+    "YTD": "-28.6%"
+  },
+  {
+    "Code": "SPG",
+    "Name": "Super Group Ltd",
+    "M. Cap.": "6.31B",
+    "Close": 18.6,
+    "YTD": "-37%"
   },
   {
     "Code": "MFL",
@@ -28,25 +28,18 @@
     "YTD": "+41%"
   },
   {
-    "Code": "ADR",
-    "Name": "Adcorp Holdings Limited",
-    "M. Cap.": "707M",
-    "Close": 6.43,
-    "YTD": "+30.2%"
-  },
-  {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.46B",
-    "Close": 526.0,
-    "YTD": "+26.4%"
+    "M. Cap.": "4.7B",
+    "Close": 554.95,
+    "YTD": "+33.4%"
   },
   {
-    "Code": "SSK",
-    "Name": "Stefanutti Stocks Holdings Ltd",
-    "M. Cap.": "884M",
-    "Close": 4.7,
-    "YTD": "+17.5%"
+    "Code": "ADR",
+    "Name": "Adcorp Holdings Limited",
+    "M. Cap.": "677M",
+    "Close": 6.16,
+    "YTD": "+24.7%"
   },
   {
     "Code": "ART",
@@ -56,17 +49,24 @@
     "YTD": "+16.1%"
   },
   {
+    "Code": "SSK",
+    "Name": "Stefanutti Stocks Holdings Ltd",
+    "M. Cap.": "850M",
+    "Close": 4.52,
+    "YTD": "+13%"
+  },
+  {
     "Code": "IVT",
     "Name": "Invicta Holdings Ltd",
-    "M. Cap.": "3.29B",
-    "Close": 37.0,
-    "YTD": "+12.1%"
+    "M. Cap.": "3.27B",
+    "Close": 36.82,
+    "YTD": "+11.6%"
   },
   {
     "Code": "BAW",
     "Name": "Barloworld Ltd",
-    "M. Cap.": "22.6B",
-    "Close": 119.4,
-    "YTD": "+10%"
+    "M. Cap.": "22.7B",
+    "Close": 119.5,
+    "YTD": "+10.1%"
   }
 ]

@@ -2,16 +2,16 @@
   {
     "Code": "NPK",
     "Name": "Nampak Ltd",
-    "M. Cap.": "4.46B",
-    "Close": 526.0,
-    "YTD": "+26.4%"
+    "M. Cap.": "4.7B",
+    "Close": 554.95,
+    "YTD": "+33.4%"
   },
   {
     "Code": "BAW",
     "Name": "Barloworld Ltd",
-    "M. Cap.": "22.6B",
-    "Close": 119.4,
-    "YTD": "+10%"
+    "M. Cap.": "22.7B",
+    "Close": 119.5,
+    "YTD": "+10.1%"
   },
   {
     "Code": "BAWP",
@@ -19,6 +19,13 @@
     "M. Cap.": "330000",
     "Close": 0.88,
     "YTD": "+8.64%"
+  },
+  {
+    "Code": "BCF",
+    "Name": "Bowler Metcalf Ltd",
+    "M. Cap.": "1.06B",
+    "Close": 14.2,
+    "YTD": "+4.26%"
   },
   {
     "Code": "NPKP",
@@ -42,18 +49,11 @@
     "YTD": "-3.95%"
   },
   {
-    "Code": "BCF",
-    "Name": "Bowler Metcalf Ltd",
-    "M. Cap.": "964M",
-    "Close": 12.9,
-    "YTD": "-5.29%"
-  },
-  {
     "Code": "MPT",
     "Name": "Mpact Limited",
-    "M. Cap.": "3.09B",
-    "Close": 20.65,
-    "YTD": "-30.1%"
+    "M. Cap.": "3.11B",
+    "Close": 20.8,
+    "YTD": "-29.6%"
   },
   {
     "Code": "ENX",
@@ -65,8 +65,8 @@
   {
     "Code": "KAP",
     "Name": "KAP Industrial Holdings Ltd",
-    "M. Cap.": "4.45B",
-    "Close": 1.78,
-    "YTD": "-42%"
+    "M. Cap.": "4.2B",
+    "Close": 1.68,
+    "YTD": "-45.3%"
   }
 ]

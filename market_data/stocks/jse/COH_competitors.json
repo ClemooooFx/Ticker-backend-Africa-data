@@ -9,9 +9,9 @@
   {
     "Code": "SDO",
     "Name": "Stadio Holdings Limited",
-    "M. Cap.": "10.3B",
-    "Close": 12.1,
-    "YTD": "+75.4%"
+    "M. Cap.": "10.4B",
+    "Close": 12.2,
+    "YTD": "+76.8%"
   },
   {
     "Code": "NCS",
@@ -37,9 +37,16 @@
   {
     "Code": "ADH",
     "Name": "ADvTECH Ltd",
-    "M. Cap.": "20.2B",
-    "Close": 36.5,
-    "YTD": "+7.86%"
+    "M. Cap.": "20.5B",
+    "Close": 37.05,
+    "YTD": "+9.49%"
+  },
+  {
+    "Code": "LEW",
+    "Name": "Lewis Group Ltd",
+    "M. Cap.": "4.43B",
+    "Close": 84.88,
+    "YTD": "+5.98%"
   },
   {
     "Code": "AOVP",
@@ -47,13 +54,6 @@
     "M. Cap.": "2.89M",
     "Close": 10.5,
     "YTD": "+4.17%"
-  },
-  {
-    "Code": "LEW",
-    "Name": "Lewis Group Ltd",
-    "M. Cap.": "4.32B",
-    "Close": 82.85,
-    "YTD": "+3.45%"
   },
   {
     "Code": "AON",

@@ -2,9 +2,9 @@
   {
     "Code": "MTM",
     "Name": "Momentum Met Hldgs Ltd",
-    "M. Cap.": "49B",
-    "Close": 36.5,
-    "YTD": "+20.6%"
+    "M. Cap.": "48.4B",
+    "Close": 36.03,
+    "YTD": "+19.1%"
   },
   {
     "Code": "DSBP",
@@ -16,23 +16,23 @@
   {
     "Code": "DSY",
     "Name": "Discovery Limited",
-    "M. Cap.": "151B",
-    "Close": 221.43,
-    "YTD": "+13.7%"
+    "M. Cap.": "148B",
+    "Close": 217.51,
+    "YTD": "+11.7%"
   },
   {
     "Code": "SNT",
     "Name": "Santam Limited",
-    "M. Cap.": "49.4B",
-    "Close": 429.03,
-    "YTD": "+9.27%"
+    "M. Cap.": "48.6B",
+    "Close": 422.19,
+    "YTD": "+7.53%"
   },
   {
     "Code": "SLM",
     "Name": "Sanlam Limited",
-    "M. Cap.": "198B",
-    "Close": 93.61,
-    "YTD": "+7.75%"
+    "M. Cap.": "194B",
+    "Close": 91.73,
+    "YTD": "+5.58%"
   },
   {
     "Code": "YYLBEE",
@@ -45,28 +45,28 @@
     "Code": "STXRES",
     "Name": "Satrix RESI ETF Portfolio",
     "M. Cap.": "2.4B",
-    "Close": 120.31,
+    "Close": 120.27,
     "YTD": "+121%"
   },
   {
     "Code": "FGL",
     "Name": "Finbond Group Ltd",
-    "M. Cap.": "676M",
-    "Close": 1.31,
-    "YTD": "+102%"
+    "M. Cap.": "701M",
+    "Close": 1.36,
+    "YTD": "+109%"
   },
   {
     "Code": "PPE",
     "Name": "Purple Group Ltd",
-    "M. Cap.": "3.05B",
-    "Close": 2.13,
-    "YTD": "+97.2%"
+    "M. Cap.": "3.02B",
+    "Close": 2.11,
+    "YTD": "+95.4%"
   },
   {
     "Code": "STXSHA",
     "Name": "Satrix Shariah Top 40 ETF",
-    "M. Cap.": "127M",
-    "Close": 5.95,
-    "YTD": "+74%"
+    "M. Cap.": "126M",
+    "Close": 5.9,
+    "YTD": "+72.5%"
   }
 ]
